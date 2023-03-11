@@ -932,6 +932,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
                                   .questionAboutCurrentEmotionsAndFeelingsHints(
                                       widget._userName,
                                       widget._userPreferredPronoun),
+                              hintStyle: themeData.textTheme.bodySmall,
                             ),
                             maxLines: null,
                             minLines: 5,
@@ -1049,6 +1050,7 @@ class _WhatDoYouWantToDoForThePersonState
   @override
   Widget getFirstColumnChild(AppLocalizations l10n) {
     String question = _getTheQuestion(l10n);
+    ThemeData themeData = Theme.of(context);
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -1064,6 +1066,7 @@ class _WhatDoYouWantToDoForThePersonState
             decoration: InputDecoration(
               border: OutlineInputBorder(),
               hintText: l10n.exampleOfWantToDoForTmipiml,
+              hintStyle: themeData.textTheme.bodySmall,
             ),
             minLines: 5,
             maxLines: null,
@@ -1179,6 +1182,7 @@ class _WhatDoYouWantToDoForThePersonsState
         decoration: InputDecoration(
           border: OutlineInputBorder(),
           hintText: l10n.exampleOfWantToDoForTmipiml,
+          hintStyle: themeData.textTheme.bodySmall,
         ),
         minLines: 5,
         maxLines: 7,
