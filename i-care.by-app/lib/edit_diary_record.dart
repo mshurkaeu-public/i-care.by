@@ -927,8 +927,8 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
                             controller: _emotionsAndFeelingsController,
                             decoration: InputDecoration(
                               border: OutlineInputBorder(),
-                              helperText:
-                                  l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                              helperText: l10n
+                                  .questionAboutCurrentEmotionsAndFeelingsHints(
                                       widget._userName,
                                       widget._userPreferredPronoun),
                               helperMaxLines: 100,
