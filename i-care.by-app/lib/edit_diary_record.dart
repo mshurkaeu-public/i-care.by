@@ -906,6 +906,9 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
       appBar: AppBar(
         leading: _BackToPreviousQuestionButton(),
         title: getAppBarTitle(l10n),
+        actions: [
+          _ToTheListOfDoneButton(onNextButtonPressed),
+        ],
       ),
       body: Container(
         padding: EdgeInsets.all(20),
@@ -1010,6 +1013,35 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
   void onDoneButtonPressed();
 
   void onNextButtonPressed();
+}
+
+class _ToTheListOfDoneButton extends StatelessWidget {
+  _ToTheListOfDoneButton(void Function() onPressed) : _onPressed = onPressed;
+
+  final void Function() _onPressed;
+
+  /// Returns the appropriate "back" icon for the given `platform`.
+  static IconData _getIconData(TargetPlatform platform) {
+    switch (platform) {
+      case TargetPlatform.android:
+      case TargetPlatform.fuchsia:
+      case TargetPlatform.linux:
+      case TargetPlatform.windows:
+        return Icons.arrow_forward;
+      case TargetPlatform.iOS:
+      case TargetPlatform.macOS:
+        return Icons.arrow_forward_ios;
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return IconButton(
+      icon: Icon(_getIconData(Theme.of(context).platform)),
+      tooltip: AppLocalizations.of(context).nextToTheListOfDoneButtonText,
+      onPressed: _onPressed,
+    );
+  }
 }
 
 class _WhatDoYouWantToDoForThePerson
@@ -1228,6 +1260,9 @@ class _WhatDoYouWantToDoForThePersonsState
       appBar: AppBar(
         leading: _BackToPreviousQuestionButton(),
         title: Text(l10n.appTitle),
+        actions: [
+          _ToTheListOfDoneButton(_onNextButtonPressed),
+        ],
       ),
       body: SingleChildScrollView(
         padding: EdgeInsets.fromLTRB(20, 0, 20, 0),
