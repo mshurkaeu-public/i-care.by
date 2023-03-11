@@ -31,6 +31,22 @@ class _BackToPreviousQuestionButton extends StatelessWidget {
   }
 }
 
+class _DoneButton extends StatelessWidget {
+  _DoneButton(void Function() onPressed) : _onPressed = onPressed;
+
+  final void Function() _onPressed;
+
+  @override
+  Widget build(BuildContext context) {
+    return IconButton(
+      icon: Icon(Icons.check),
+      color: Colors.green,
+      tooltip: AppLocalizations.of(context).doneButtonText,
+      onPressed: _onPressed,
+    );
+  }
+}
+
 class EditDiaryRecord extends StatefulWidget {
   EditDiaryRecord(
       Diary diary, DiaryRecord diaryRecord, void Function(DiaryRecord) onSubmit)
@@ -908,6 +924,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
         title: getAppBarTitle(l10n),
         actions: [
           _ToTheListOfDoneButton(onNextButtonPressed),
+          _DoneButton(onDoneButtonPressed),
         ],
       ),
       body: Container(
@@ -1262,6 +1279,7 @@ class _WhatDoYouWantToDoForThePersonsState
         title: Text(l10n.appTitle),
         actions: [
           _ToTheListOfDoneButton(_onNextButtonPressed),
+          _DoneButton(_onDoneButtonPressed),
         ],
       ),
       body: SingleChildScrollView(
@@ -1426,6 +1444,9 @@ abstract class _WhatIsDoneRequestContainerState
       appBar: AppBar(
         leading: _BackToPreviousQuestionButton(),
         title: Text(question),
+        actions: [
+          _DoneButton(_onDoneButtonPressed),
+        ],
       ),
       body: Container(
         padding: EdgeInsets.all(20),
