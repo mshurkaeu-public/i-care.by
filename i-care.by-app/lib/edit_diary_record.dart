@@ -1434,7 +1434,7 @@ abstract class _WhatIsDoneRequestContainerState
                                 controller: _emotionsAndFeelingsController,
                                 decoration: InputDecoration(
                                   border: OutlineInputBorder(),
-                                  helperText: l10n
+                                  hintText: l10n
                                       .questionAboutCurrentEmotionsHelperText(
                                           widget._userName,
                                           widget._userPreferredPronoun),
