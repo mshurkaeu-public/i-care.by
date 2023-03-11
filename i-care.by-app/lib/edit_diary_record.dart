@@ -885,6 +885,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
+    ThemeData themeData = Theme.of(context);
 
     return Scaffold(
       appBar: AppBar(
@@ -901,8 +902,8 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
               child: MultiSplitViewTheme(
                 data: MultiSplitViewThemeData(
                   dividerPainter: DividerPainters.dashed(
-                    color: Theme.of(context).dividerColor,
-                    highlightedColor: Theme.of(context).indicatorColor,
+                    color: themeData.dividerColor,
+                    highlightedColor: themeData.indicatorColor,
                   ),
                 ),
                 child: MultiSplitView(
