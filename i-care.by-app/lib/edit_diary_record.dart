@@ -829,7 +829,7 @@ class _MessageToTheUserState
     extends _OneEmotionsAndFeelingsRequestContainerState {
   @override
   Widget getAppBarTitle(AppLocalizations l10n) {
-    String question = l10n.questionAboutCurrentEmotions(
+    String question = l10n.questionAboutCurrentEmotionsAndFeelings(
       widget._userName,
       widget._userPreferredPronoun,
     );
@@ -919,7 +919,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(l10n.questionAboutCurrentEmotions(
+                        Text(l10n.questionAboutCurrentEmotionsAndFeelings(
                             widget._userName, widget._userPreferredPronoun)),
                         SizedBox(height: 10),
                         Expanded(
@@ -928,7 +928,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
                             decoration: InputDecoration(
                               border: OutlineInputBorder(),
                               helperText:
-                                  l10n.questionAboutCurrentEmotionsHints(
+                                  l10n.questionAboutCurrentEmotionsAndFeelingsHints(
                                       widget._userName,
                                       widget._userPreferredPronoun),
                               helperMaxLines: 100,
@@ -1425,7 +1425,7 @@ abstract class _WhatIsDoneRequestContainerState
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Text(l10n.questionAboutCurrentEmotions(
+                            Text(l10n.questionAboutCurrentEmotionsAndFeelings(
                                 widget._userName,
                                 widget._userPreferredPronoun)),
                             SizedBox(height: 10),
@@ -1435,7 +1435,7 @@ abstract class _WhatIsDoneRequestContainerState
                                 decoration: InputDecoration(
                                   border: OutlineInputBorder(),
                                   hintText: l10n
-                                      .questionAboutCurrentEmotionsHints(
+                                      .questionAboutCurrentEmotionsAndFeelingsHints(
                                           widget._userName,
                                           widget._userPreferredPronoun),
                                   hintStyle: themeData.textTheme.bodySmall,
