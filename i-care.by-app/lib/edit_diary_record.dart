@@ -1356,6 +1356,7 @@ abstract class _WhatIsDoneRequestContainerState
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
+    ThemeData themeData = Theme.of(context);
 
     String question = Messages.whatDidYouDoToday(
       widget._diaryRecord,
@@ -1379,8 +1380,8 @@ abstract class _WhatIsDoneRequestContainerState
               child: MultiSplitViewTheme(
                 data: MultiSplitViewThemeData(
                   dividerPainter: DividerPainters.dashed(
-                    color: Theme.of(context).dividerColor,
-                    highlightedColor: Theme.of(context).indicatorColor,
+                    color: themeData.dividerColor,
+                    highlightedColor: themeData.indicatorColor,
                   ),
                 ),
                 child: MultiSplitView(
