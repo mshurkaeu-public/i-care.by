@@ -931,7 +931,6 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
                                   .questionAboutCurrentEmotionsAndFeelingsHints(
                                       widget._userName,
                                       widget._userPreferredPronoun),
-                              helperMaxLines: 100,
                             ),
                             maxLines: null,
                             minLines: 5,
