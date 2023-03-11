@@ -21,9 +21,11 @@ import 'tmipiml_is_spouce_or_partner.dart';
 class _BackToPreviousQuestionButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    AppLocalizations l10n = AppLocalizations.of(context);
+
     return IconButton(
       icon: const BackButtonIcon(),
-      tooltip: AppLocalizations.of(context).backToThePreviousQuestionButtonTooltip,
+      tooltip: l10n.backToThePreviousQuestionButtonTooltip,
       onPressed: () {
         Navigator.maybePop(context);
       },
