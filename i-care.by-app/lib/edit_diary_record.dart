@@ -1155,6 +1155,7 @@ class _WhatDoYouWantToDoForThePersonsState
     String myself = l10n.theMipiylOption_you;
     String userName = widget._userName;
     String userPreferredPronoun = widget._userPreferredPronoun;
+    ThemeData themeData = Theme.of(context);
 
     List<Widget> content = [];
     for (int i = 0; i < _wantToDoControllers.length; i++) {
@@ -1171,7 +1172,7 @@ class _WhatDoYouWantToDoForThePersonsState
       content.add(SizedBox(height: 20));
       content.add(Text(
         question,
-        style: Theme.of(context).textTheme.titleMedium,
+        style: themeData.textTheme.titleMedium,
       ));
       content.add(TextField(
         controller: _wantToDoControllers[i],
