@@ -79,7 +79,7 @@
       }
     }
   },
-  "backToThePreviousQuestionButtonText": "Да папярэдняга пытання",
+  "backToThePreviousQuestionButtonText": "Назад, да папярэдняга пытання",
   "@backToThePreviousQuestionButtonText": {
     "description": "Text for the button to return to the previous question."
   },
