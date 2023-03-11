@@ -909,10 +909,6 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
     extends State<_OneEmotionsAndFeelingsRequestContainer> {
   late final TextEditingController _emotionsAndFeelingsController;
 
-  void _onBackButtonPressed() {
-    Navigator.pop(context);
-  }
-
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -979,25 +975,6 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
                   ],
                 ),
               ),
-            ),
-            SizedBox(height: 20),
-            Row(
-              children: [
-                ElevatedButton(
-                  onPressed: _onBackButtonPressed,
-                  child: Text(l10n.backToThePreviousQuestionButtonText),
-                ),
-                SizedBox(width: 20),
-                ElevatedButton(
-                  onPressed: onDoneButtonPressed,
-                  child: Text(l10n.doneButtonText),
-                ),
-                SizedBox(width: 20),
-                ElevatedButton(
-                  onPressed: onNextButtonPressed,
-                  child: Text(l10n.nextToTheListOfDoneButtonText),
-                ),
-              ],
             ),
           ],
         ),
@@ -1253,25 +1230,6 @@ class _WhatDoYouWantToDoForThePersonsState
         maxLines: 7,
       ));
     }
-    content.add(SizedBox(height: 20));
-    content.add(Row(
-      children: [
-        ElevatedButton(
-          onPressed: _onBackButtonPressed,
-          child: Text(l10n.backToThePreviousQuestionButtonText),
-        ),
-        SizedBox(width: 20),
-        ElevatedButton(
-          onPressed: _onDoneButtonPressed,
-          child: Text(l10n.doneButtonText),
-        ),
-        SizedBox(width: 20),
-        ElevatedButton(
-          onPressed: _onNextButtonPressed,
-          child: Text(l10n.nextToTheListOfDoneButtonText),
-        ),
-      ],
-    ));
 
     return Scaffold(
       appBar: AppBar(
@@ -1424,10 +1382,6 @@ abstract class _WhatIsDoneRequestContainerState
   late final TextEditingController _doneController;
   late final TextEditingController _emotionsAndFeelingsController;
 
-  void _onBackButtonPressed() {
-    Navigator.pop(context);
-  }
-
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -1530,20 +1484,6 @@ abstract class _WhatIsDoneRequestContainerState
                   ],
                 ),
               ),
-            ),
-            SizedBox(height: 20),
-            Row(
-              children: [
-                ElevatedButton(
-                  onPressed: _onBackButtonPressed,
-                  child: Text(l10n.backToThePreviousQuestionButtonText),
-                ),
-                SizedBox(width: 20),
-                ElevatedButton(
-                  onPressed: _onDoneButtonPressed,
-                  child: Text(l10n.doneButtonText),
-                ),
-              ],
             ),
           ],
         ),
