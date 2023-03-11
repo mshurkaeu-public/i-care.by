@@ -79,9 +79,9 @@
       }
     }
   },
-  "backToThePreviousQuestionButtonText": "Назад, да папярэдняга пытання",
-  "@backToThePreviousQuestionButtonText": {
-    "description": "Text for the button to return to the previous question."
+  "backToThePreviousQuestionButtonTooltip": "Назад, да папярэдняга пытання",
+  "@backToThePreviousQuestionButtonTooltip": {
+    "description": "Tooltip for the button to return to the previous question."
   },
   "briefExplanationWhereToFindDiaryIO": "{preferredPronoun, select, Vy{Глядзіце} other{Глядзі}} файл \"{filePath}\".",
   "@briefExplanationWhereToFindDiaryIO": {
