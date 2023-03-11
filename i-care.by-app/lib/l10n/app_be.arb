@@ -259,9 +259,9 @@
       }
     }
   },
-  "questionAboutCurrentEmotionsHelperText": "Падказкі:\n\n- {userName}, што адбываецца з {preferredPronoun, select, Vy{Вашым} other{тваім}} целам калі {preferredPronoun, select, Vy{глядзіце} other{глядзіш}} на гэты экран?\n\n- Якія эмоцыі ўзнікаюць?",
-  "@questionAboutCurrentEmotionsHelperText": {
-    "description": "Helper text for the question about current user's emotions.",
+  "questionAboutCurrentEmotionsHints": "Падказкі:\n\n- {userName}, што адбываецца з {preferredPronoun, select, Vy{Вашым} other{тваім}} целам калі {preferredPronoun, select, Vy{глядзіце} other{глядзіш}} на гэты экран?\n\n- Якія эмоцыі ўзнікаюць?",
+  "@questionAboutCurrentEmotionsHints": {
+    "description": "Hints for the question about current user's emotions.",
     "placeholders": {
       "userName": {
         "type": "String",

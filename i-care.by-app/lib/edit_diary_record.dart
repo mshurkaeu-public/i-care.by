@@ -928,7 +928,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
                             decoration: InputDecoration(
                               border: OutlineInputBorder(),
                               helperText:
-                                  l10n.questionAboutCurrentEmotionsHelperText(
+                                  l10n.questionAboutCurrentEmotionsHints(
                                       widget._userName,
                                       widget._userPreferredPronoun),
                               helperMaxLines: 100,
@@ -1435,7 +1435,7 @@ abstract class _WhatIsDoneRequestContainerState
                                 decoration: InputDecoration(
                                   border: OutlineInputBorder(),
                                   hintText: l10n
-                                      .questionAboutCurrentEmotionsHelperText(
+                                      .questionAboutCurrentEmotionsHints(
                                           widget._userName,
                                           widget._userPreferredPronoun),
                                   hintStyle: themeData.textTheme.bodySmall,
