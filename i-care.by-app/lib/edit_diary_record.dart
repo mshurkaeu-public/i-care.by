@@ -23,7 +23,7 @@ class _BackToPreviousQuestionButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return IconButton(
       icon: const BackButtonIcon(),
-      tooltip: MaterialLocalizations.of(context).backButtonTooltip,
+      tooltip: AppLocalizations.of(context).backToThePreviousQuestionButtonText,
       onPressed: () {
         Navigator.maybePop(context);
       },
