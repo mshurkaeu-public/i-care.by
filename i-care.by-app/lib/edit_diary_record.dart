@@ -16,6 +16,21 @@ import 'tmipiml_is_grandparent.dart';
 import 'tmipiml_is_parent.dart';
 import 'tmipiml_is_spouce_or_partner.dart';
 
+/// This button looks the same way as standard [BackButton].
+/// And behaves the same way.
+class _BackToPreviousQuestionButton extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return IconButton(
+      icon: const BackButtonIcon(),
+      tooltip: MaterialLocalizations.of(context).backButtonTooltip,
+      onPressed: () {
+        Navigator.maybePop(context);
+      },
+    );
+  }
+}
+
 class EditDiaryRecord extends StatefulWidget {
   EditDiaryRecord(
       Diary diary, DiaryRecord diaryRecord, void Function(DiaryRecord) onSubmit)
@@ -889,6 +904,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
 
     return Scaffold(
       appBar: AppBar(
+        leading: _BackToPreviousQuestionButton(),
         title: getAppBarTitle(l10n),
       ),
       body: Container(
@@ -1210,6 +1226,7 @@ class _WhatDoYouWantToDoForThePersonsState
 
     return Scaffold(
       appBar: AppBar(
+        leading: _BackToPreviousQuestionButton(),
         title: Text(l10n.appTitle),
       ),
       body: SingleChildScrollView(
@@ -1372,6 +1389,7 @@ abstract class _WhatIsDoneRequestContainerState
 
     return Scaffold(
       appBar: AppBar(
+        leading: _BackToPreviousQuestionButton(),
         title: Text(question),
       ),
       body: Container(
