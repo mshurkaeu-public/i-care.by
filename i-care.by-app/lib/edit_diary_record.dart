@@ -1438,6 +1438,7 @@ abstract class _WhatIsDoneRequestContainerState
                                       .questionAboutCurrentEmotionsHelperText(
                                           widget._userName,
                                           widget._userPreferredPronoun),
+                                  hintStyle: themeData.textTheme.bodySmall,
                                 ),
                                 maxLines: null,
                                 minLines: 5,
