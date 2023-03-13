@@ -1180,10 +1180,6 @@ class _WhatDoYouWantToDoForThePersonsState
     extends State<_WhatDoYouWantToDoForThePersons> {
   final List<TextEditingController> _wantToDoControllers = [];
 
-  void _onBackButtonPressed() {
-    Navigator.pop(context);
-  }
-
   void _onDoneButtonPressed() {
     List<String> wantToDoForSeveral = [];
     for (int i = 0; i < _wantToDoControllers.length; i++) {
