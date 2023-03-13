@@ -1396,13 +1396,7 @@ abstract class _WhatIsDoneRequestContainerState
       ),
       body: Container(
         padding: EdgeInsets.all(20),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            // without this Expanded MultiSplitView doesn't work
-            Expanded(
-              child: MultiSplitViewTheme(
+        child: MultiSplitViewTheme(
                 data: MultiSplitViewThemeData(
                   dividerPainter: DividerPainters.dashed(
                     color: themeData.dividerColor,
@@ -1476,9 +1470,6 @@ abstract class _WhatIsDoneRequestContainerState
                   ],
                 ),
               ),
-            ),
-          ],
-        ),
       ),
     );
   }
