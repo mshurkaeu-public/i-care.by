@@ -16,6 +16,15 @@ import 'tmipiml_is_grandparent.dart';
 import 'tmipiml_is_parent.dart';
 import 'tmipiml_is_spouce_or_partner.dart';
 
+TextStyle _getMyHintStyle(ThemeData themeData) {
+  TextStyle res = TextStyle(overflow: TextOverflow.visible);
+  if (themeData.textTheme.bodySmall != null) {
+    res = themeData.textTheme.bodySmall!.merge(res);
+  }
+
+  return res;
+}
+
 /// This button looks the same way as standard [BackButton].
 /// And behaves the same way.
 class _BackToPreviousQuestionButton extends StatelessWidget {
@@ -910,15 +919,6 @@ abstract class _OneEmotionsAndFeelingsRequestContainer extends StatefulWidget {
 abstract class _OneEmotionsAndFeelingsRequestContainerState
     extends State<_OneEmotionsAndFeelingsRequestContainer> {
   late final TextEditingController _emotionsAndFeelingsController;
-
-  TextStyle _getMyHintStyle(ThemeData themeData) {
-    TextStyle res = TextStyle(overflow: TextOverflow.visible);
-    if (themeData.textTheme.bodySmall != null) {
-      res = themeData.textTheme.bodySmall!.merge(res);
-    }
-
-    return res;
-  }
 
   @override
   Widget build(BuildContext context) {
