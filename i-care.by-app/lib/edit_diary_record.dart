@@ -1387,10 +1387,6 @@ abstract class _WhatIsDoneRequestContainerState
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
     ThemeData themeData = Theme.of(context);
-    TextStyle myHintStyle = TextStyle(overflow: TextOverflow.visible);
-    if (themeData.textTheme.bodySmall != null) {
-      myHintStyle = themeData.textTheme.bodySmall!.merge(myHintStyle);
-    }
 
     String question = Messages.whatDidYouDoToday(
       widget._diaryRecord,
@@ -1469,7 +1465,7 @@ abstract class _WhatIsDoneRequestContainerState
                                 .questionAboutCurrentEmotionsAndFeelingsHints(
                                     widget._userName,
                                     widget._userPreferredPronoun),
-                            hintStyle: myHintStyle,
+                            hintStyle: _getMyHintStyle(themeData),
                           ),
                           maxLines: null,
                           minLines: 5,
