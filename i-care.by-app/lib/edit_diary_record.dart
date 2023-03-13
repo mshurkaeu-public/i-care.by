@@ -25,6 +25,10 @@ TextStyle _getMyHintStyle(ThemeData themeData) {
   return res;
 }
 
+TextStyle? _getMyReferenceTextStyle(ThemeData themeData) {
+  return null;
+}
+
 /// This button looks the same way as standard [BackButton].
 /// And behaves the same way.
 class _BackToPreviousQuestionButton extends StatelessWidget {
@@ -1314,7 +1318,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     String? wantedToDo = widget._diaryRecord.wantToDo;
     if (wantedToDo != null) {
       wantedToDoColumnChildren.add(SizedBox(height: 10));
-      wantedToDoColumnChildren.add(Text(wantedToDo));
+      wantedToDoColumnChildren.add(Text(wantedToDo, style: _getMyReferenceTextStyle(themeData)));
     }
 
     List<Widget> eafOnWantedToDoColumnChildren = [];
@@ -1330,7 +1334,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
         widget._diaryRecord.emotionsAndFeelingsOnWantToDo;
     if (emotionsAndFeelingsOnWantedToDo != null) {
       eafOnWantedToDoColumnChildren.add(SizedBox(height: 10));
-      eafOnWantedToDoColumnChildren.add(Text(emotionsAndFeelingsOnWantedToDo));
+      eafOnWantedToDoColumnChildren.add(Text(emotionsAndFeelingsOnWantedToDo, style: _getMyReferenceTextStyle(themeData)));
     }
 
     return MultiSplitView(
