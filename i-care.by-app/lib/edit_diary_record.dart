@@ -1225,7 +1225,7 @@ class _WhatDoYouWantToDoForThePersonsState
         decoration: InputDecoration(
           border: OutlineInputBorder(),
           hintText: l10n.exampleOfWantToDoForTmipiml,
-          hintStyle: themeData.textTheme.bodySmall,
+          hintStyle: _getMyHintStyle(themeData),
         ),
         minLines: 5,
         maxLines: 7,
