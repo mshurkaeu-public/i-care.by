@@ -928,49 +928,48 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
       body: Container(
         padding: EdgeInsets.all(20),
         child: MultiSplitViewTheme(
-                data: MultiSplitViewThemeData(
-                  dividerPainter: DividerPainters.dashed(
-                    color: themeData.dividerColor,
-                    highlightedColor: themeData.indicatorColor,
-                  ),
-                ),
-                child: MultiSplitView(
-                  axis: Axis.horizontal,
-                  initialAreas: [
-                    Area(
-                      weight: widget._firstColumnInitialWeight,
-                      minimalSize: 40,
-                    ),
-                    Area(minimalSize: 40),
-                  ],
-                  children: [
-                    getFirstColumnChild(l10n),
-                    Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(l10n.questionAboutCurrentEmotionsAndFeelings(
-                            widget._userName, widget._userPreferredPronoun)),
-                        SizedBox(height: 10),
-                        Expanded(
-                          child: TextField(
-                            controller: _emotionsAndFeelingsController,
-                            decoration: InputDecoration(
-                              border: OutlineInputBorder(),
-                              hintText: l10n
-                                  .questionAboutCurrentEmotionsAndFeelingsHints(
-                                      widget._userName,
-                                      widget._userPreferredPronoun),
-                              hintStyle: themeData.textTheme.bodySmall,
-                            ),
-                            maxLines: null,
-                            minLines: 5,
-                          ),
-                        ),
-                      ],
-                    ),
-                  ],
-                ),
+          data: MultiSplitViewThemeData(
+            dividerPainter: DividerPainters.dashed(
+              color: themeData.dividerColor,
+              highlightedColor: themeData.indicatorColor,
+            ),
+          ),
+          child: MultiSplitView(
+            axis: Axis.horizontal,
+            initialAreas: [
+              Area(
+                weight: widget._firstColumnInitialWeight,
+                minimalSize: 40,
               ),
+              Area(minimalSize: 40),
+            ],
+            children: [
+              getFirstColumnChild(l10n),
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(l10n.questionAboutCurrentEmotionsAndFeelings(
+                      widget._userName, widget._userPreferredPronoun)),
+                  SizedBox(height: 10),
+                  Expanded(
+                    child: TextField(
+                      controller: _emotionsAndFeelingsController,
+                      decoration: InputDecoration(
+                        border: OutlineInputBorder(),
+                        hintText:
+                            l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                                widget._userName, widget._userPreferredPronoun),
+                        hintStyle: themeData.textTheme.bodySmall,
+                      ),
+                      maxLines: null,
+                      minLines: 5,
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+        ),
       ),
     );
   }
