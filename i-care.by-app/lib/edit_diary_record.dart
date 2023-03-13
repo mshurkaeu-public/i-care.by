@@ -1397,79 +1397,78 @@ abstract class _WhatIsDoneRequestContainerState
       body: Container(
         padding: EdgeInsets.all(20),
         child: MultiSplitViewTheme(
-                data: MultiSplitViewThemeData(
-                  dividerPainter: DividerPainters.dashed(
-                    color: themeData.dividerColor,
-                    highlightedColor: themeData.indicatorColor,
-                  ),
-                ),
-                child: MultiSplitView(
-                  axis: Axis.vertical,
-                  initialAreas: [
-                    Area(
-                      weight: widget._firstRowInitialWeight,
-                      minimalSize: 40,
-                    ),
-                    Area(minimalSize: 40),
-                  ],
-                  children: [
-                    getFirstRowChild(l10n),
-                    MultiSplitView(
-                      axis: Axis.horizontal,
-                      initialAreas: [
-                        Area(
-                          weight: 0.6,
-                          minimalSize: 40,
-                        ),
-                        Area(minimalSize: 40),
-                      ],
-                      children: [
-                        Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(question),
-                            SizedBox(height: 10),
-                            Expanded(
-                              child: TextField(
-                                controller: _doneController,
-                                decoration: InputDecoration(
-                                  border: OutlineInputBorder(),
-                                ),
-                                maxLines: null,
-                                minLines: 5,
-                              ),
-                            ),
-                          ],
-                        ),
-                        Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(l10n.questionAboutCurrentEmotionsAndFeelings(
-                                widget._userName,
-                                widget._userPreferredPronoun)),
-                            SizedBox(height: 10),
-                            Expanded(
-                              child: TextField(
-                                controller: _emotionsAndFeelingsController,
-                                decoration: InputDecoration(
-                                  border: OutlineInputBorder(),
-                                  hintText: l10n
-                                      .questionAboutCurrentEmotionsAndFeelingsHints(
-                                          widget._userName,
-                                          widget._userPreferredPronoun),
-                                  hintStyle: themeData.textTheme.bodySmall,
-                                ),
-                                maxLines: null,
-                                minLines: 5,
-                              ),
-                            ),
-                          ],
-                        ),
-                      ],
-                    ),
-                  ],
-                ),
+          data: MultiSplitViewThemeData(
+            dividerPainter: DividerPainters.dashed(
+              color: themeData.dividerColor,
+              highlightedColor: themeData.indicatorColor,
+            ),
+          ),
+          child: MultiSplitView(
+            axis: Axis.vertical,
+            initialAreas: [
+              Area(
+                weight: widget._firstRowInitialWeight,
+                minimalSize: 40,
               ),
+              Area(minimalSize: 40),
+            ],
+            children: [
+              getFirstRowChild(l10n),
+              MultiSplitView(
+                axis: Axis.horizontal,
+                initialAreas: [
+                  Area(
+                    weight: 0.6,
+                    minimalSize: 40,
+                  ),
+                  Area(minimalSize: 40),
+                ],
+                children: [
+                  Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(question),
+                      SizedBox(height: 10),
+                      Expanded(
+                        child: TextField(
+                          controller: _doneController,
+                          decoration: InputDecoration(
+                            border: OutlineInputBorder(),
+                          ),
+                          maxLines: null,
+                          minLines: 5,
+                        ),
+                      ),
+                    ],
+                  ),
+                  Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(l10n.questionAboutCurrentEmotionsAndFeelings(
+                          widget._userName, widget._userPreferredPronoun)),
+                      SizedBox(height: 10),
+                      Expanded(
+                        child: TextField(
+                          controller: _emotionsAndFeelingsController,
+                          decoration: InputDecoration(
+                            border: OutlineInputBorder(),
+                            hintText: l10n
+                                .questionAboutCurrentEmotionsAndFeelingsHints(
+                                    widget._userName,
+                                    widget._userPreferredPronoun),
+                            hintStyle: themeData.textTheme.bodySmall,
+                          ),
+                          maxLines: null,
+                          minLines: 5,
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ],
+          ),
+        ),
       ),
     );
   }
