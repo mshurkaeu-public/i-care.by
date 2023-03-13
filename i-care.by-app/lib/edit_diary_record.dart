@@ -911,6 +911,15 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
     extends State<_OneEmotionsAndFeelingsRequestContainer> {
   late final TextEditingController _emotionsAndFeelingsController;
 
+  TextStyle _getMyHintStyle(ThemeData themeData) {
+    TextStyle res = TextStyle(overflow: TextOverflow.visible);
+    if (themeData.textTheme.bodySmall != null) {
+      res = themeData.textTheme.bodySmall!.merge(res);
+    }
+
+    return res;
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -959,7 +968,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
                         hintText:
                             l10n.questionAboutCurrentEmotionsAndFeelingsHints(
                                 widget._userName, widget._userPreferredPronoun),
-                        hintStyle: themeData.textTheme.bodySmall,
+                        hintStyle: _getMyHintStyle(themeData),
                       ),
                       maxLines: null,
                       minLines: 5,
@@ -1100,7 +1109,7 @@ class _WhatDoYouWantToDoForThePersonState
             decoration: InputDecoration(
               border: OutlineInputBorder(),
               hintText: l10n.exampleOfWantToDoForTmipiml,
-              hintStyle: themeData.textTheme.bodySmall,
+              hintStyle: _getMyHintStyle(themeData),
             ),
             minLines: 5,
             maxLines: null,
