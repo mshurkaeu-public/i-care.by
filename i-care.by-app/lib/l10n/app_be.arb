@@ -879,6 +879,34 @@
   "@yesLetsTryIt": {
     "description": "A message \"Yes! Let's try it!\"."
   },
+  "youAnsweredThatTmipiylWas_absent": "{userName}, {preferredPronoun, select, Vy{Вы адказалі} ty_zhanchyna{ты адказала} ty_muzhchyna{ты адказаў} other{ты адказаў/адказала}}, што ў {preferredPronoun, select, Vy{Вас} other{цябе}} няма найважнейшага чалавека ў жыцці.",
+  "@youAnsweredThatTmipiylWas_absent": {
+    "description": "Text to state the fact that the person answered that tmipiyl was absent.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "youAnsweredThatTmipiylWas_dontKnow": "{userName}, {preferredPronoun, select, Vy{Вы адказалі, што не ведалі} ty_zhanchyna{ты адказала, што не ведала} ty_muzhchyna{ты адказаў, што не ведаў} other{ты адказаў/адказала, што не ведаў/не ведала}}, хто найважнейшы чалавек ў {preferredPronoun, select, Vy{Вашым} other{тваім}} жыцці.",
+  "@youAnsweredThatTmipiylWas_dontKnow": {
+    "description": "Text to state the fact that the person answered that he/she didn't know who was tmipiyl.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
   "youDid": "{preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}}:",
   "@youDid": {
     "description": "A label to be used before \"you did\" list.",

@@ -302,6 +302,35 @@ class Messages {
     return res;
   }
 
+  static String youAnsweredThatTmipiylWas(
+    DiaryRecord diaryRecord,
+    AppLocalizations l10n,
+    String userName,
+    String userPreferredPronoun,
+  ) {
+    String res;
+    switch (diaryRecord.who) {
+      case TheMostImportantPersonInMyLife.absent:
+        res = l10n.youAnsweredThatTmipiylWas_absent(
+          userName,
+          userPreferredPronoun,
+        );
+        break;
+
+      case TheMostImportantPersonInMyLife.dontKnow:
+        res = l10n.youAnsweredThatTmipiylWas_dontKnow(
+          userName,
+          userPreferredPronoun,
+        );
+        break;
+
+      default:
+        throw UnimplementedError();
+    }
+
+    return res;
+  }
+
   static String youDid(
     DiaryRecord diaryRecord,
     AppLocalizations l10n,

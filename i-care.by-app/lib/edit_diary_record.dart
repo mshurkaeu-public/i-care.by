@@ -1405,6 +1405,20 @@ class _WhatsIsDoneForYourselfWithoutWantedToDoState
     List<Widget> eafOnWantedToDoColumnChildren = [];
     eafOnWantedToDoColumnChildren.add(
       Text(
+        Messages.youAnsweredThatTmipiylWas(
+          widget._diaryRecord,
+          l10n,
+          widget._userName,
+          widget._userPreferredPronoun,
+        ),
+        style: TextStyle(
+          color: themeData.disabledColor,
+        ),
+      ),
+    );
+    eafOnWantedToDoColumnChildren.add(SizedBox(height: 10));
+    eafOnWantedToDoColumnChildren.add(
+      Text(
         l10n.yourEmotionsAndFeelingsLabel(widget._userPreferredPronoun),
         style: TextStyle(
           color: themeData.disabledColor,
