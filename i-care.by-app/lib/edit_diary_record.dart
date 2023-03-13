@@ -341,13 +341,16 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     switch (_theMostImportantPerson!) {
       case TheMostImportantPersonInMyLife.absent:
       case TheMostImportantPersonInMyLife.dontKnow:
-        //TODO: write code
-        showAboutDialog(
-          context: context,
-          children: [
-            Text(
-                '_onSubmitSecondScreen(0): ${_emotionsAndFeelingsOnWantToDo ?? l10n.thereIsNoData}'),
-          ],
+        navigator.push(
+          MaterialPageRoute(
+            builder: (BuildContext context) =>
+                _WhatsIsDoneForYourselfWithoutWantedToDo(
+              userName: userName,
+              userPreferredPronoun: userPreferredPronoun,
+              diaryRecord: fakeRecord,
+              onDoneButtonPressed: _onSubmitDone,
+            ),
+          ),
         );
         break;
 
@@ -1359,6 +1362,57 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
           ),
         ),
       ],
+    );
+  }
+}
+
+class _WhatsIsDoneForYourselfWithoutWantedToDo
+    extends _WhatIsDoneRequestContainer {
+  _WhatsIsDoneForYourselfWithoutWantedToDo({
+    required String userName,
+    required String userPreferredPronoun,
+    required DiaryRecord diaryRecord,
+    required void Function(String, String) onDoneButtonPressed,
+  }) : super(
+          userName,
+          userPreferredPronoun,
+          diaryRecord,
+          0.2,
+          onDoneButtonPressed,
+        );
+
+  @override
+  State<StatefulWidget> createState() =>
+      _WhatsIsDoneForYourselfWithoutWantedToDoState();
+}
+
+class _WhatsIsDoneForYourselfWithoutWantedToDoState
+    extends _WhatIsDoneRequestContainerState {
+  @override
+  Widget getFirstRowChild(AppLocalizations l10n) {
+    ThemeData themeData = Theme.of(context);
+
+    List<Widget> eafOnWantedToDoColumnChildren = [];
+    eafOnWantedToDoColumnChildren.add(
+      Text(
+        l10n.yourEmotionsAndFeelingsLabel(widget._userPreferredPronoun),
+        style: TextStyle(
+          color: themeData.disabledColor,
+        ),
+      ),
+    );
+    String? emotionsAndFeelingsOnWantedToDo =
+        widget._diaryRecord.emotionsAndFeelingsOnWantToDo;
+    if (emotionsAndFeelingsOnWantedToDo != null) {
+      eafOnWantedToDoColumnChildren.add(SizedBox(height: 10));
+      eafOnWantedToDoColumnChildren.add(Text(emotionsAndFeelingsOnWantedToDo, style: _getMyReferenceTextStyle(themeData)));
+    }
+
+    return SingleChildScrollView(
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: eafOnWantedToDoColumnChildren,
+      ),
     );
   }
 }
