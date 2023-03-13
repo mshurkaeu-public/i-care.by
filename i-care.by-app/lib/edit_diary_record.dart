@@ -1394,7 +1394,7 @@ abstract class _WhatIsDoneRequestContainerState
           _DoneButton(_onDoneButtonPressed),
         ],
       ),
-      body: Container(
+      body: Padding(
         padding: EdgeInsets.all(20),
         child: MultiSplitViewTheme(
           data: MultiSplitViewThemeData(
