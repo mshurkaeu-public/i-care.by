@@ -1053,7 +1053,7 @@
       }
     }
   },
-  "yourEmotionsAndFeelingsLabel": "{preferredPronoun, select, Vy{Вашы} other{твае}} эмоцыі і адчуванні:",
+  "yourEmotionsAndFeelingsLabel": "{preferredPronoun, select, Vy{Вашы} other{твае}} эмоцыі і адчуванні пры гэтым:",
   "@yourEmotionsAndFeelingsLabel": {
     "description": "A label to be used before \"your emotions and feelings\" list.",
     "placeholders": {
