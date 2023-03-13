@@ -259,7 +259,7 @@
       }
     }
   },
-  "questionAboutCurrentEmotionsAndFeelingsHints": "Падказкі:\n\n- {userName}, што адбываецца з {preferredPronoun, select, Vy{Вашым} other{тваім}} целам калі {preferredPronoun, select, Vy{глядзіце} other{глядзіш}} на гэты экран?\n\n- Якія эмоцыі ўзнікаюць?",
+  "questionAboutCurrentEmotionsAndFeelingsHints": "Падказкі:\n\n- {userName}, што адбываецца з {preferredPronoun, select, Vy{Вашым} other{тваім}} целам, калі {preferredPronoun, select, Vy{глядзіце} other{глядзіш}} на гэты экран?\n\n- Якія эмоцыі ўзнікаюць?",
   "@questionAboutCurrentEmotionsAndFeelingsHints": {
     "description": "Hints for the question about current user's emotions and feelings.",
     "placeholders": {
