@@ -925,7 +925,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
           _DoneButton(onDoneButtonPressed),
         ],
       ),
-      body: Container(
+      body: Padding(
         padding: EdgeInsets.all(20),
         child: MultiSplitViewTheme(
           data: MultiSplitViewThemeData(
