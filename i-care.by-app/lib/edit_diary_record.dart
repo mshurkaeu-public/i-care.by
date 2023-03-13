@@ -26,7 +26,12 @@ TextStyle _getMyHintStyle(ThemeData themeData) {
 }
 
 TextStyle? _getMyReferenceTextStyle(ThemeData themeData) {
-  return null;
+  TextStyle res = TextStyle(color: themeData.disabledColor);
+  if (themeData.textTheme.bodySmall != null) {
+    res = themeData.textTheme.bodySmall!.merge(res);
+  }
+
+  return res;
 }
 
 /// This button looks the same way as standard [BackButton].
