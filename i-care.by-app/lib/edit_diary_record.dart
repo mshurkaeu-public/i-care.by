@@ -142,6 +142,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
   void _copyFieldsFromStagingArea(DiaryRecord theRecord) {
     theRecord.who = _theMostImportantPerson;
+
+    if (_theMostImportantPerson == TheMostImportantPersonInMyLife.several) {
+      throw UnimplementedError();
+    }
     switch (_theMostImportantPerson!) {
       case TheMostImportantPersonInMyLife.another:
         theRecord.whoName = _anotherPersonName;
@@ -161,9 +165,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       case TheMostImportantPersonInMyLife.parent:
         theRecord.whoSubclass = _parent;
         break;
-
-      case TheMostImportantPersonInMyLife.several:
-        throw UnimplementedError();
 
       case TheMostImportantPersonInMyLife.spouseOrPartner:
         theRecord.whoSubclass = _spouceOrPartner;
