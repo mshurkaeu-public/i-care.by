@@ -268,7 +268,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
-  void _onSubmitDone(String? done, String? emotionsAndFeelings) {
+  void _onFinalSubmitOfDone(String? done, String? emotionsAndFeelings) {
     if (done != null && done.isEmpty) {
       done = null;
     }
@@ -391,7 +391,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               userName: userName,
               userPreferredPronoun: userPreferredPronoun,
               diaryRecord: fakeRecord,
-              onDoneButtonPressed: _onSubmitDone,
+              onDoneButtonPressed: _onFinalSubmitOfDone,
             ),
           ),
         );
@@ -409,7 +409,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               userName: userName,
               userPreferredPronoun: userPreferredPronoun,
               diaryRecord: fakeRecord,
-              onDoneButtonPressed: _onSubmitDone,
+              onDoneButtonPressed: _onFinalSubmitOfDone,
             ),
           ),
         );
