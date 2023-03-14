@@ -144,7 +144,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     diaryRecord.who = _theMostImportantPerson;
 
     if (_theMostImportantPerson == TheMostImportantPersonInMyLife.several) {
-      throw UnimplementedError();
+      diaryRecord.whoNames = _severalPersonsNames;
+      diaryRecord.wantToDoForSeveral = _wantToDoForSeveral;
     } else {
       switch (_theMostImportantPerson) {
         case TheMostImportantPersonInMyLife.another:
