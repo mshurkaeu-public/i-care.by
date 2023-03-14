@@ -69,14 +69,13 @@ class _DoneButton extends StatelessWidget {
 
 class EditDiaryRecord extends StatefulWidget {
   EditDiaryRecord(
-      Diary diary, DiaryRecord diaryRecord, void Function(DiaryRecord) onSubmit)
+      Diary diary, DiaryRecord diaryRecord, this.onSubmit)
       : _diary = diary,
-        _diaryRecord = diaryRecord,
-        _onSubmit = onSubmit;
+        _diaryRecord = diaryRecord;
 
   final Diary _diary;
   final DiaryRecord _diaryRecord;
-  final void Function(DiaryRecord) _onSubmit;
+  final void Function(DiaryRecord) onSubmit;
 
   @override
   State<EditDiaryRecord> createState() => _EditDiaryRecordState();
@@ -222,7 +221,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     theRecord.emotionsAndFeelingsOnWantToDo =
         emotionsAndFeelings.isEmpty ? null : emotionsAndFeelings;
 
-    widget._onSubmit(widget._diaryRecord);
+    widget.onSubmit(widget._diaryRecord);
   }
 
   void _onGrandparentChanged(TmipimlIsGrandparent? value) {
@@ -313,7 +312,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     theRecord.done = done;
     theRecord.emotionsAndFeelingsOnDone = emotionsAndFeelings;
 
-    widget._onSubmit(widget._diaryRecord);
+    widget.onSubmit(widget._diaryRecord);
   }
 
   void _onSubmitFirstScreen() {
@@ -443,7 +442,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget._diaryRecord.whoNames = _severalPersonsNames;
     widget._diaryRecord.wantToDoForSeveral = wantToDoForSeveral;
 
-    widget._onSubmit(widget._diaryRecord);
+    widget.onSubmit(widget._diaryRecord);
   }
 
   void _onTmipimlChanged(TheMostImportantPersonInMyLife? value) {
