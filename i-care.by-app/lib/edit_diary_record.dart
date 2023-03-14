@@ -143,10 +143,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   void _copyFieldsFromStagingArea(DiaryRecord theRecord) {
     theRecord.who = _theMostImportantPerson;
     switch (_theMostImportantPerson!) {
-      case TheMostImportantPersonInMyLife.absent:
-      case TheMostImportantPersonInMyLife.dontKnow:
-        break;
-
       case TheMostImportantPersonInMyLife.another:
         theRecord.whoName = _anotherPersonName;
         break;
@@ -172,6 +168,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       case TheMostImportantPersonInMyLife.spouseOrPartner:
         theRecord.whoSubclass = _spouceOrPartner;
         break;
+
+      default:
     }
     theRecord.wantToDo = _wantToDo;
     theRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
