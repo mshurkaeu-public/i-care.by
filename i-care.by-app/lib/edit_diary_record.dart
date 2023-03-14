@@ -274,10 +274,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         theRecord.whoSubclass = _spouceOrPartner;
         break;
     }
-    theRecord.wantToDo =
-        (wantToDo == null) ? null : (wantToDo.isEmpty ? null : wantToDo);
-    theRecord.emotionsAndFeelingsOnWantToDo =
-        (emotionsAndFeelings == null) ? null : (emotionsAndFeelings.isEmpty ? null : emotionsAndFeelings);
+    theRecord.wantToDo = wantToDo;
+    theRecord.emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
 
     widget.onSubmit(widget._diaryRecord);
   }
