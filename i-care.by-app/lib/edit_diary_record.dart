@@ -69,8 +69,10 @@ class _DoneButton extends StatelessWidget {
 
 class EditDiaryRecord extends StatefulWidget {
   EditDiaryRecord(
-      Diary diary, DiaryRecord diaryRecord, this.onSubmit)
-      : _diary = diary,
+    Diary diary,
+    DiaryRecord diaryRecord,
+    this.onSubmit,
+  )   : _diary = diary,
         _diaryRecord = diaryRecord;
 
   final Diary _diary;
