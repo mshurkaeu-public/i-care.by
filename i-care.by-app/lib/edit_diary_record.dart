@@ -179,6 +179,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
+  void _onFinalSubmitEafWithoutWantToDo(String emotionsAndFeelings) {
+    _onFinalSubmitWantToDoAndEaf(null, emotionsAndFeelings);
+  }
+
   void _onFinalSubmitWantToDoAndEaf(String? wantToDo, String emotionsAndFeelings) {
     DiaryRecord theRecord = widget._diaryRecord;
     theRecord.who = _theMostImportantPerson;
@@ -310,10 +314,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     theRecord.emotionsAndFeelingsOnDone = emotionsAndFeelings;
 
     widget._onSubmit(widget._diaryRecord);
-  }
-
-  void _onFinalSubmitEafWithoutWantToDo(String emotionsAndFeelings) {
-    _onFinalSubmitWantToDoAndEaf(null, emotionsAndFeelings);
   }
 
   void _onSubmitFirstScreen() {
