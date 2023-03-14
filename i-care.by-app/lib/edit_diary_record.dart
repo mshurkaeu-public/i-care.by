@@ -172,6 +172,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
         default:
       }
+
       diaryRecord.wantToDo = _wantToDo;
       diaryRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
 
