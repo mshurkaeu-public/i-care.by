@@ -160,9 +160,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           diaryRecord.whoSubclass = _grandparent;
           break;
 
-        case TheMostImportantPersonInMyLife.me:
-          break;
-
         case TheMostImportantPersonInMyLife.parent:
           diaryRecord.whoSubclass = _parent;
           break;
