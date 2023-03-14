@@ -226,11 +226,12 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     }
 
     _done = done;
+    _emotionsAndFeelingsOnDone = emotionsAndFeelings;
 
     DiaryRecord theRecord = widget._diaryRecord;
     _copyFieldsFromStagingArea(theRecord);
     theRecord.done = _done;
-    theRecord.emotionsAndFeelingsOnDone = emotionsAndFeelings;
+    theRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
 
     widget.onSubmit(widget._diaryRecord);
   }
