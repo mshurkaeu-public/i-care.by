@@ -180,7 +180,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
-  void _onFinalSubmitEafWithoutWantToDo(String emotionsAndFeelings) {
+  void _onFinalSubmitOfEafWithoutWantToDo(String emotionsAndFeelings) {
     _onFinalSubmitOfWantToDoAndEaf(null, emotionsAndFeelings);
   }
 
@@ -334,7 +334,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               userPreferredPronoun,
               _getMessageToTheUserProvider(),
               _emotionsAndFeelingsOnWantToDo,
-              _onFinalSubmitEafWithoutWantToDo,
+              _onFinalSubmitOfEafWithoutWantToDo,
               _onNextEmotionsAndFeelings,
             ),
           ),
