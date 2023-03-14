@@ -102,7 +102,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     DiaryRecord res = DiaryRecord({});
     res.who = _theMostImportantPerson;
 
-    switch (_theMostImportantPerson!) {
+    switch (_theMostImportantPerson) {
       case TheMostImportantPersonInMyLife.another:
         res.whoName = _anotherPersonName;
         break;
@@ -126,7 +126,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       default:
     }
 
-    if (_theMostImportantPerson! == TheMostImportantPersonInMyLife.several) {
+    if (_theMostImportantPerson == TheMostImportantPersonInMyLife.several) {
       res.whoNames = _severalPersonsNames;
       res.wantToDoForSeveral = _wantToDoForSeveral;
     } else {
