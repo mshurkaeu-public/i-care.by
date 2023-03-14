@@ -242,6 +242,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     }
 
     _wantToDo = wantToDo;
+    _emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
 
     DiaryRecord theRecord = widget._diaryRecord;
     theRecord.who = _theMostImportantPerson;
@@ -277,7 +278,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
     }
     theRecord.wantToDo = _wantToDo;
-    theRecord.emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
+    theRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
 
     widget.onSubmit(widget._diaryRecord);
   }
