@@ -140,43 +140,43 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     return res;
   }
 
-  void _copyFieldsFromStagingArea(DiaryRecord theRecord) {
-    theRecord.who = _theMostImportantPerson;
+  void _copyFieldsFromStagingArea(DiaryRecord diaryRecord) {
+    diaryRecord.who = _theMostImportantPerson;
 
     if (_theMostImportantPerson == TheMostImportantPersonInMyLife.several) {
       throw UnimplementedError();
     } else {
       switch (_theMostImportantPerson!) {
         case TheMostImportantPersonInMyLife.another:
-          theRecord.whoName = _anotherPersonName;
+          diaryRecord.whoName = _anotherPersonName;
           break;
 
         case TheMostImportantPersonInMyLife.child:
-          theRecord.whoSubclass = _child;
+          diaryRecord.whoSubclass = _child;
           break;
 
         case TheMostImportantPersonInMyLife.grandparent:
-          theRecord.whoSubclass = _grandparent;
+          diaryRecord.whoSubclass = _grandparent;
           break;
 
         case TheMostImportantPersonInMyLife.me:
           break;
 
         case TheMostImportantPersonInMyLife.parent:
-          theRecord.whoSubclass = _parent;
+          diaryRecord.whoSubclass = _parent;
           break;
 
         case TheMostImportantPersonInMyLife.spouseOrPartner:
-          theRecord.whoSubclass = _spouceOrPartner;
+          diaryRecord.whoSubclass = _spouceOrPartner;
           break;
 
         default:
       }
-      theRecord.wantToDo = _wantToDo;
-      theRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
+      diaryRecord.wantToDo = _wantToDo;
+      diaryRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
 
-      theRecord.done = _done;
-      theRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
+      diaryRecord.done = _done;
+      diaryRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
     }
   }
 
