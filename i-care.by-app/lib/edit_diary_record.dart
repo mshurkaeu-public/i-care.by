@@ -270,7 +270,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget._onSubmit(widget._diaryRecord);
   }
 
-  void _onSubmitEmotionsAndFeelings(String emotionsAndFeelings) {
+  void _onSubmitEafWithoutWantToDo(String emotionsAndFeelings) {
     _onFinalSubmitWantToDoAndEaf(null, emotionsAndFeelings);
   }
 
@@ -291,7 +291,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               userPreferredPronoun,
               _getMessageToTheUserProvider(),
               _emotionsAndFeelingsOnWantToDo,
-              _onSubmitEmotionsAndFeelings,
+              _onSubmitEafWithoutWantToDo,
               _onNextEmotionsAndFeelings,
             ),
           ),
