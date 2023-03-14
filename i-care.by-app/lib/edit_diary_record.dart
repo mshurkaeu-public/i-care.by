@@ -234,6 +234,13 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfWantToDoAndEaf(String? wantToDo, String? emotionsAndFeelings) {
+    if (wantToDo != null && wantToDo.isEmpty) {
+      wantToDo = null;
+    }
+    if (emotionsAndFeelings != null && emotionsAndFeelings.isEmpty) {
+      emotionsAndFeelings = null;
+    }
+
     DiaryRecord theRecord = widget._diaryRecord;
     theRecord.who = _theMostImportantPerson;
     switch (_theMostImportantPerson!) {
