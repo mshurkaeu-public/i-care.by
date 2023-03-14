@@ -271,7 +271,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onSubmitEmotionsAndFeelings(String emotionsAndFeelings) {
-    _onSubmitWantToDo(null, emotionsAndFeelings);
+    _onSubmitWantToDoAndEaf(null, emotionsAndFeelings);
   }
 
   void _onSubmitFirstScreen() {
@@ -310,7 +310,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
                 userName,
                 userPreferredPronoun,
                 fakeRecord,
-                _onSubmitWantToDo,
+                _onSubmitWantToDoAndEaf,
                 _onNextWantToDoWithEmotionsAndFeelings),
           ),
         );
@@ -396,7 +396,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
-  void _onSubmitWantToDo(String? wantToDo, String emotionsAndFeelings) {
+  void _onSubmitWantToDoAndEaf(String? wantToDo, String emotionsAndFeelings) {
     DiaryRecord theRecord = widget._diaryRecord;
     theRecord.who = _theMostImportantPerson;
     switch (_theMostImportantPerson!) {
