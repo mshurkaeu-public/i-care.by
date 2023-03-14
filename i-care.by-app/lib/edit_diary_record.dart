@@ -175,6 +175,9 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     }
     theRecord.wantToDo = _wantToDo;
     theRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
+
+    theRecord.done = _done;
+    theRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
   }
 
   String Function(String, String) _getMessageToTheUserProvider() {
@@ -230,8 +233,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
     DiaryRecord theRecord = widget._diaryRecord;
     _copyFieldsFromStagingArea(theRecord);
-    theRecord.done = _done;
-    theRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
 
     widget.onSubmit(widget._diaryRecord);
   }
