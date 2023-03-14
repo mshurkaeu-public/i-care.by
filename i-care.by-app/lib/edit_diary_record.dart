@@ -145,38 +145,39 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
     if (_theMostImportantPerson == TheMostImportantPersonInMyLife.several) {
       throw UnimplementedError();
+    } else {
+      switch (_theMostImportantPerson!) {
+        case TheMostImportantPersonInMyLife.another:
+          theRecord.whoName = _anotherPersonName;
+          break;
+
+        case TheMostImportantPersonInMyLife.child:
+          theRecord.whoSubclass = _child;
+          break;
+
+        case TheMostImportantPersonInMyLife.grandparent:
+          theRecord.whoSubclass = _grandparent;
+          break;
+
+        case TheMostImportantPersonInMyLife.me:
+          break;
+
+        case TheMostImportantPersonInMyLife.parent:
+          theRecord.whoSubclass = _parent;
+          break;
+
+        case TheMostImportantPersonInMyLife.spouseOrPartner:
+          theRecord.whoSubclass = _spouceOrPartner;
+          break;
+
+        default:
+      }
+      theRecord.wantToDo = _wantToDo;
+      theRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
+
+      theRecord.done = _done;
+      theRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
     }
-    switch (_theMostImportantPerson!) {
-      case TheMostImportantPersonInMyLife.another:
-        theRecord.whoName = _anotherPersonName;
-        break;
-
-      case TheMostImportantPersonInMyLife.child:
-        theRecord.whoSubclass = _child;
-        break;
-
-      case TheMostImportantPersonInMyLife.grandparent:
-        theRecord.whoSubclass = _grandparent;
-        break;
-
-      case TheMostImportantPersonInMyLife.me:
-        break;
-
-      case TheMostImportantPersonInMyLife.parent:
-        theRecord.whoSubclass = _parent;
-        break;
-
-      case TheMostImportantPersonInMyLife.spouseOrPartner:
-        theRecord.whoSubclass = _spouceOrPartner;
-        break;
-
-      default:
-    }
-    theRecord.wantToDo = _wantToDo;
-    theRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
-
-    theRecord.done = _done;
-    theRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
   }
 
   String Function(String, String) _getMessageToTheUserProvider() {
