@@ -100,42 +100,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
   DiaryRecord _buildFakeDiaryRecord() {
     DiaryRecord res = DiaryRecord({});
-    res.who = _theMostImportantPerson;
-
-    if (_theMostImportantPerson == TheMostImportantPersonInMyLife.several) {
-      res.whoNames = _severalPersonsNames;
-      res.wantToDoForSeveral = _wantToDoForSeveral;
-    } else {
-      switch (_theMostImportantPerson) {
-        case TheMostImportantPersonInMyLife.another:
-          res.whoName = _anotherPersonName;
-          break;
-
-        case TheMostImportantPersonInMyLife.child:
-          res.whoSubclass = _child;
-          break;
-
-        case TheMostImportantPersonInMyLife.grandparent:
-          res.whoSubclass = _grandparent;
-          break;
-
-        case TheMostImportantPersonInMyLife.parent:
-          res.whoSubclass = _parent;
-          break;
-
-        case TheMostImportantPersonInMyLife.spouseOrPartner:
-          res.whoSubclass = _spouceOrPartner;
-          break;
-
-        default:
-      }
-
-      res.wantToDo = _wantToDo;
-      res.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
-
-      res.done = _done;
-      res.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
-    }
+    _copyFieldsFromStagingArea(res);
 
     return res;
   }
