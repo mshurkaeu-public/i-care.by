@@ -179,6 +179,48 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
+  void _onFinalSubmitWantToDoAndEaf(String? wantToDo, String emotionsAndFeelings) {
+    DiaryRecord theRecord = widget._diaryRecord;
+    theRecord.who = _theMostImportantPerson;
+    switch (_theMostImportantPerson!) {
+      case TheMostImportantPersonInMyLife.absent:
+      case TheMostImportantPersonInMyLife.dontKnow:
+        break;
+
+      case TheMostImportantPersonInMyLife.another:
+        theRecord.whoName = _anotherPersonName;
+        break;
+
+      case TheMostImportantPersonInMyLife.child:
+        theRecord.whoSubclass = _child;
+        break;
+
+      case TheMostImportantPersonInMyLife.grandparent:
+        theRecord.whoSubclass = _grandparent;
+        break;
+
+      case TheMostImportantPersonInMyLife.me:
+        break;
+
+      case TheMostImportantPersonInMyLife.parent:
+        theRecord.whoSubclass = _parent;
+        break;
+
+      case TheMostImportantPersonInMyLife.several:
+        throw UnimplementedError();
+
+      case TheMostImportantPersonInMyLife.spouseOrPartner:
+        theRecord.whoSubclass = _spouceOrPartner;
+        break;
+    }
+    theRecord.wantToDo =
+        (wantToDo == null) ? null : (wantToDo.isEmpty ? null : wantToDo);
+    theRecord.emotionsAndFeelingsOnWantToDo =
+        emotionsAndFeelings.isEmpty ? null : emotionsAndFeelings;
+
+    widget._onSubmit(widget._diaryRecord);
+  }
+
   void _onGrandparentChanged(TmipimlIsGrandparent? value) {
     setState(() {
       _grandparent = value;
@@ -394,48 +436,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       }
     }
     _onSubmitFirstScreen();
-  }
-
-  void _onFinalSubmitWantToDoAndEaf(String? wantToDo, String emotionsAndFeelings) {
-    DiaryRecord theRecord = widget._diaryRecord;
-    theRecord.who = _theMostImportantPerson;
-    switch (_theMostImportantPerson!) {
-      case TheMostImportantPersonInMyLife.absent:
-      case TheMostImportantPersonInMyLife.dontKnow:
-        break;
-
-      case TheMostImportantPersonInMyLife.another:
-        theRecord.whoName = _anotherPersonName;
-        break;
-
-      case TheMostImportantPersonInMyLife.child:
-        theRecord.whoSubclass = _child;
-        break;
-
-      case TheMostImportantPersonInMyLife.grandparent:
-        theRecord.whoSubclass = _grandparent;
-        break;
-
-      case TheMostImportantPersonInMyLife.me:
-        break;
-
-      case TheMostImportantPersonInMyLife.parent:
-        theRecord.whoSubclass = _parent;
-        break;
-
-      case TheMostImportantPersonInMyLife.several:
-        throw UnimplementedError();
-
-      case TheMostImportantPersonInMyLife.spouseOrPartner:
-        theRecord.whoSubclass = _spouceOrPartner;
-        break;
-    }
-    theRecord.wantToDo =
-        (wantToDo == null) ? null : (wantToDo.isEmpty ? null : wantToDo);
-    theRecord.emotionsAndFeelingsOnWantToDo =
-        emotionsAndFeelings.isEmpty ? null : emotionsAndFeelings;
-
-    widget._onSubmit(widget._diaryRecord);
   }
 
   void _onSubmitWantToDoForSeveral(List<String> wantToDoForSeveral) {
