@@ -99,13 +99,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   String? _wantToDo;
   List<String>? _wantToDoForSeveral;
 
-  DiaryRecord _buildFakeDiaryRecord() {
-    DiaryRecord res = DiaryRecord({});
-    _copyFieldsFromStagingArea(res);
-
-    return res;
-  }
-
   void _copyFieldsFromStagingArea(DiaryRecord toRecord,
       {DiaryRecord? fromRecord}) {
     toRecord.who = _theMostImportantPerson;
@@ -275,7 +268,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     AppLocalizations l10n = AppLocalizations.of(context);
     String userName = widget._diary.getNotEmptyUserName(l10n);
     String userPreferredPronoun = widget._diary.userPreferredPronoun ?? '';
-    _stagingDiaryRecord = _buildFakeDiaryRecord();
+    _copyFieldsFromStagingArea(_stagingDiaryRecord,
+        fromRecord: _stagingDiaryRecord);
 
     NavigatorState navigator = Navigator.of(context);
     switch (_theMostImportantPerson!) {
@@ -332,7 +326,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     AppLocalizations l10n = AppLocalizations.of(context);
     String userName = widget._diary.getNotEmptyUserName(l10n);
     String userPreferredPronoun = widget._diary.userPreferredPronoun ?? '';
-    _stagingDiaryRecord = _buildFakeDiaryRecord();
+    _copyFieldsFromStagingArea(_stagingDiaryRecord,
+        fromRecord: _stagingDiaryRecord);
 
     NavigatorState navigator = Navigator.of(context);
     switch (_theMostImportantPerson!) {
