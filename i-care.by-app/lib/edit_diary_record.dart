@@ -185,13 +185,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfDoneAndEaf(String? done, String? emotionsAndFeelings) {
-    if (done != null && done.isEmpty) {
-      done = null;
-    }
-    if (emotionsAndFeelings != null && emotionsAndFeelings.isEmpty) {
-      emotionsAndFeelings = null;
-    }
-
     _done = done;
     _emotionsAndFeelingsOnDone = emotionsAndFeelings;
 
@@ -1544,6 +1537,14 @@ abstract class _WhatIsDoneRequestContainerState
   void _onDoneButtonPressed() {
     String? done = _doneController.text;
     String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
+
+    if (done != null && done.isEmpty) {
+      done = null;
+    }
+    if (emotionsAndFeelings != null && emotionsAndFeelings.isEmpty) {
+      emotionsAndFeelings = null;
+    }
+
     widget.onDoneButtonPressed(done, emotionsAndFeelings);
   }
 }
