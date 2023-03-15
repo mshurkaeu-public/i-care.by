@@ -307,7 +307,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
                 userPreferredPronoun,
                 _severalPersonsNames!,
                 _wantToDoForSeveral,
-                _onSubmitWantToDoForSeveral),
+                _onFinalSubmitOfWantToDoForSeveral),
           ),
         );
         break;
@@ -379,7 +379,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
-  void _onSubmitWantToDoForSeveral(List<String> wantToDoForSeveral) {
+  void _onFinalSubmitOfWantToDoForSeveral(List<String> wantToDoForSeveral) {
     widget._diaryRecord.who = _theMostImportantPerson;
     widget._diaryRecord.whoNames = _severalPersonsNames;
     widget._diaryRecord.wantToDoForSeveral = wantToDoForSeveral;
