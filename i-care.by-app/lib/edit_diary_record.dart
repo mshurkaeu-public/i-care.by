@@ -1544,7 +1544,6 @@ abstract class _WhatIsDoneRequestContainerState
   void _onDoneButtonPressed() {
     String? done = _doneController.text;
     String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
-    widget.onDoneButtonPressed(
-        done, emotionsAndFeelings);
+    widget.onDoneButtonPressed(done, emotionsAndFeelings);
   }
 }
