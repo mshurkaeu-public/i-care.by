@@ -1406,7 +1406,7 @@ abstract class _WhatIsDoneRequestContainer extends StatefulWidget {
 
   final DiaryRecord _diaryRecord;
   final double _firstRowInitialWeight;
-  final void Function(String, String) onDoneButtonPressed;
+  final void Function(String?, String?) onDoneButtonPressed;
   final String _userName;
   final String _userPreferredPronoun;
 }
