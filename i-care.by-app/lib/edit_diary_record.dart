@@ -215,6 +215,14 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget.onSubmit(widget._diaryRecord);
   }
 
+  void _onFinalSubmitOfWantToDoForSeveral(List<String> wantToDoForSeveral) {
+    widget._diaryRecord.who = _theMostImportantPerson;
+    widget._diaryRecord.whoNames = _severalPersonsNames;
+    widget._diaryRecord.wantToDoForSeveral = wantToDoForSeveral;
+
+    widget.onSubmit(widget._diaryRecord);
+  }
+
   void _onGrandparentChanged(TmipimlIsGrandparent? value) {
     setState(() {
       _grandparent = value;
@@ -377,14 +385,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       }
     }
     _onSubmitFirstScreen();
-  }
-
-  void _onFinalSubmitOfWantToDoForSeveral(List<String> wantToDoForSeveral) {
-    widget._diaryRecord.who = _theMostImportantPerson;
-    widget._diaryRecord.whoNames = _severalPersonsNames;
-    widget._diaryRecord.wantToDoForSeveral = wantToDoForSeveral;
-
-    widget.onSubmit(widget._diaryRecord);
   }
 
   void _onTmipimlChanged(TheMostImportantPersonInMyLife? value) {
