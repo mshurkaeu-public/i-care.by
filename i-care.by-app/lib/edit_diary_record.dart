@@ -108,11 +108,11 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   void _copyFieldsFromStagingArea(DiaryRecord diaryRecord) {
     diaryRecord.who = _theMostImportantPerson;
 
-    if (_theMostImportantPerson == TheMostImportantPersonInMyLife.several) {
+    if (diaryRecord.who == TheMostImportantPersonInMyLife.several) {
       diaryRecord.whoNames = _severalPersonsNames;
       diaryRecord.wantToDoForSeveral = _wantToDoForSeveral;
     } else {
-      switch (_theMostImportantPerson) {
+      switch (diaryRecord.who) {
         case TheMostImportantPersonInMyLife.another:
           diaryRecord.whoName = _anotherPersonName;
           break;
