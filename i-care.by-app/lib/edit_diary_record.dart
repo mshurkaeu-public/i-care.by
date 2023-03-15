@@ -86,6 +86,7 @@ class EditDiaryRecord extends StatefulWidget {
 class _EditDiaryRecordState extends State<EditDiaryRecord> {
   List<int> _orderOfOptions = [0, 1, 2, 3, 4, 5, 6, 7, 8];
   TheMostImportantPersonInMyLife? _theMostImportantPerson;
+  late DiaryRecord _stagingDiaryRecord;
   String? _anotherPersonName;
   TmipimlIsChild? _child;
   String? _done;
@@ -270,7 +271,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     AppLocalizations l10n = AppLocalizations.of(context);
     String userName = widget._diary.getNotEmptyUserName(l10n);
     String userPreferredPronoun = widget._diary.userPreferredPronoun ?? '';
-    DiaryRecord fakeRecord = _buildFakeDiaryRecord();
+    _stagingDiaryRecord = _buildFakeDiaryRecord();
 
     NavigatorState navigator = Navigator.of(context);
     switch (_theMostImportantPerson!) {
@@ -301,7 +302,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
             builder: (BuildContext context) => _WhatDoYouWantToDoForThePerson(
                 userName,
                 userPreferredPronoun,
-                fakeRecord,
+                _stagingDiaryRecord,
                 _onFinalSubmitOfWantToDoAndEaf,
                 _onNextWantToDoWithEmotionsAndFeelings),
           ),
@@ -327,7 +328,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     AppLocalizations l10n = AppLocalizations.of(context);
     String userName = widget._diary.getNotEmptyUserName(l10n);
     String userPreferredPronoun = widget._diary.userPreferredPronoun ?? '';
-    DiaryRecord fakeRecord = _buildFakeDiaryRecord();
+    _stagingDiaryRecord = _buildFakeDiaryRecord();
 
     NavigatorState navigator = Navigator.of(context);
     switch (_theMostImportantPerson!) {
@@ -339,7 +340,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
                 _WhatsIsDoneForYourselfWithoutWantedToDo(
               userName: userName,
               userPreferredPronoun: userPreferredPronoun,
-              diaryRecord: fakeRecord,
+              diaryRecord: _stagingDiaryRecord,
               onDoneButtonPressed: _onFinalSubmitOfDoneAndEaf,
             ),
           ),
@@ -357,7 +358,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
             builder: (BuildContext context) => _WhatsIsDoneForThePerson(
               userName: userName,
               userPreferredPronoun: userPreferredPronoun,
-              diaryRecord: fakeRecord,
+              diaryRecord: _stagingDiaryRecord,
               onDoneButtonPressed: _onFinalSubmitOfDoneAndEaf,
             ),
           ),
