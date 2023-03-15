@@ -184,9 +184,9 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
-  void _onFinalSubmitOfDoneAndEaf(String? done, String? emotionsAndFeelings) {
-    _done = done;
-    _emotionsAndFeelingsOnDone = emotionsAndFeelings;
+  void _onFinalSubmitOfDoneAndEaf(DiaryRecord stagingDiaryRecord) {
+    _done = stagingDiaryRecord.done;
+    _emotionsAndFeelingsOnDone = stagingDiaryRecord.emotionsAndFeelingsOnDone;
 
     DiaryRecord theRecord = widget._diaryRecord;
     _copyFieldsFromStagingArea(theRecord);
@@ -1399,7 +1399,7 @@ abstract class _WhatIsDoneRequestContainer extends StatefulWidget {
 
   final DiaryRecord _diaryRecord;
   final double _firstRowInitialWeight;
-  final void Function(String?, String?) onDoneButtonPressed;
+  final void Function(DiaryRecord) onDoneButtonPressed;
   final String _userName;
   final String _userPreferredPronoun;
 }
@@ -1549,6 +1549,6 @@ abstract class _WhatIsDoneRequestContainerState
     diaryRecord.done = done;
     diaryRecord.emotionsAndFeelingsOnDone = emotionsAndFeelings;
 
-    widget.onDoneButtonPressed(done, emotionsAndFeelings);
+    widget.onDoneButtonPressed(diaryRecord);
   }
 }
