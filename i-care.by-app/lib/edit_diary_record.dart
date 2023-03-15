@@ -1236,13 +1236,12 @@ class _WhatsIsDoneForThePerson extends _WhatIsDoneRequestContainer {
     required String userName,
     required String userPreferredPronoun,
     required DiaryRecord diaryRecord,
-    required void Function(String, String) onDoneButtonPressed,
+    required super.onDoneButtonPressed,
   }) : super(
           userName,
           userPreferredPronoun,
           diaryRecord,
           0.2,
-          onDoneButtonPressed,
         );
 
   @override
@@ -1330,13 +1329,12 @@ class _WhatsIsDoneForYourselfWithoutWantedToDo
     required String userName,
     required String userPreferredPronoun,
     required DiaryRecord diaryRecord,
-    required void Function(String, String) onDoneButtonPressed,
+    required super.onDoneButtonPressed,
   }) : super(
           userName,
           userPreferredPronoun,
           diaryRecord,
           0.2,
-          onDoneButtonPressed,
         );
 
   @override
@@ -1399,9 +1397,9 @@ abstract class _WhatIsDoneRequestContainer extends StatefulWidget {
     String userName,
     String userPreferredPronoun,
     DiaryRecord diaryRecord,
-    double firstColumnInitialWeight,
-    void Function(String, String) onDoneButtonPressed,
-  )   : _diaryRecord = diaryRecord,
+    double firstColumnInitialWeight, {
+    required void Function(String, String) onDoneButtonPressed,
+  })  : _diaryRecord = diaryRecord,
         _firstRowInitialWeight = firstColumnInitialWeight,
         _onDoneButtonPressed = onDoneButtonPressed,
         _userName = userName,
