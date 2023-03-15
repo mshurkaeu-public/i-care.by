@@ -1398,16 +1398,15 @@ abstract class _WhatIsDoneRequestContainer extends StatefulWidget {
     String userPreferredPronoun,
     DiaryRecord diaryRecord,
     double firstColumnInitialWeight, {
-    required void Function(String, String) onDoneButtonPressed,
+    required this.onDoneButtonPressed,
   })  : _diaryRecord = diaryRecord,
         _firstRowInitialWeight = firstColumnInitialWeight,
-        _onDoneButtonPressed = onDoneButtonPressed,
         _userName = userName,
         _userPreferredPronoun = userPreferredPronoun;
 
   final DiaryRecord _diaryRecord;
   final double _firstRowInitialWeight;
-  final void Function(String, String) _onDoneButtonPressed;
+  final void Function(String, String) onDoneButtonPressed;
   final String _userName;
   final String _userPreferredPronoun;
 }
@@ -1543,7 +1542,7 @@ abstract class _WhatIsDoneRequestContainerState
   }
 
   void _onDoneButtonPressed() {
-    widget._onDoneButtonPressed(
+    widget.onDoneButtonPressed(
         _doneController.text, _emotionsAndFeelingsController.text);
   }
 }
