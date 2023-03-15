@@ -185,7 +185,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
-  void _onFinalSubmitOfDoneAndEaf() {
+  void _onFinalSubmit() {
     DiaryRecord theRecord = widget._diaryRecord;
     _copyFieldsFromStagingArea(theRecord, fromRecord: _stagingDiaryRecord);
 
@@ -340,7 +340,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               userName: userName,
               userPreferredPronoun: userPreferredPronoun,
               diaryRecord: _stagingDiaryRecord,
-              onDoneButtonPressed: _onFinalSubmitOfDoneAndEaf,
+              onDoneButtonPressed: _onFinalSubmit,
             ),
           ),
         );
@@ -358,7 +358,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               userName: userName,
               userPreferredPronoun: userPreferredPronoun,
               diaryRecord: _stagingDiaryRecord,
-              onDoneButtonPressed: _onFinalSubmitOfDoneAndEaf,
+              onDoneButtonPressed: _onFinalSubmit,
             ),
           ),
         );
