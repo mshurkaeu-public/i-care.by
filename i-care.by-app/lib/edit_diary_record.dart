@@ -106,42 +106,42 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     return res;
   }
 
-  void _copyFieldsFromStagingArea(DiaryRecord diaryRecord) {
-    diaryRecord.who = _theMostImportantPerson;
+  void _copyFieldsFromStagingArea(DiaryRecord toRecord) {
+    toRecord.who = _theMostImportantPerson;
 
-    if (diaryRecord.who == TheMostImportantPersonInMyLife.several) {
-      diaryRecord.whoNames = _severalPersonsNames;
-      diaryRecord.wantToDoForSeveral = _wantToDoForSeveral;
+    if (toRecord.who == TheMostImportantPersonInMyLife.several) {
+      toRecord.whoNames = _severalPersonsNames;
+      toRecord.wantToDoForSeveral = _wantToDoForSeveral;
     } else {
-      switch (diaryRecord.who) {
+      switch (toRecord.who) {
         case TheMostImportantPersonInMyLife.another:
-          diaryRecord.whoName = _anotherPersonName;
+          toRecord.whoName = _anotherPersonName;
           break;
 
         case TheMostImportantPersonInMyLife.child:
-          diaryRecord.whoSubclass = _child;
+          toRecord.whoSubclass = _child;
           break;
 
         case TheMostImportantPersonInMyLife.grandparent:
-          diaryRecord.whoSubclass = _grandparent;
+          toRecord.whoSubclass = _grandparent;
           break;
 
         case TheMostImportantPersonInMyLife.parent:
-          diaryRecord.whoSubclass = _parent;
+          toRecord.whoSubclass = _parent;
           break;
 
         case TheMostImportantPersonInMyLife.spouseOrPartner:
-          diaryRecord.whoSubclass = _spouceOrPartner;
+          toRecord.whoSubclass = _spouceOrPartner;
           break;
 
         default:
       }
 
-      diaryRecord.wantToDo = _wantToDo;
-      diaryRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
+      toRecord.wantToDo = _wantToDo;
+      toRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
 
-      diaryRecord.done = _done;
-      diaryRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
+      toRecord.done = _done;
+      toRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
     }
   }
 
