@@ -686,7 +686,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               (_emotionsAndFeelingsOnWantToDo != null ||
                   data.done != null ||
-                  _emotionsAndFeelingsOnDone != null);
+                  data.emotionsAndFeelingsOnDone != null);
           break;
 
         case TheMostImportantPersonInMyLife.another:
@@ -699,7 +699,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
                   data.done != null ||
-                  _emotionsAndFeelingsOnDone != null);
+                  data.emotionsAndFeelingsOnDone != null);
           break;
 
         case TheMostImportantPersonInMyLife.child:
@@ -712,7 +712,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
                   data.done != null ||
-                  _emotionsAndFeelingsOnDone != null);
+                  data.emotionsAndFeelingsOnDone != null);
           break;
 
         case TheMostImportantPersonInMyLife.dontKnow:
@@ -723,7 +723,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               (_emotionsAndFeelingsOnWantToDo != null ||
                   data.done != null ||
-                  _emotionsAndFeelingsOnDone != null);
+                  data.emotionsAndFeelingsOnDone != null);
           break;
 
         case TheMostImportantPersonInMyLife.grandparent:
@@ -736,7 +736,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
                   data.done != null ||
-                  _emotionsAndFeelingsOnDone != null);
+                  data.emotionsAndFeelingsOnDone != null);
           break;
 
         case TheMostImportantPersonInMyLife.me:
@@ -748,7 +748,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
                   data.done != null ||
-                  _emotionsAndFeelingsOnDone != null);
+                  data.emotionsAndFeelingsOnDone != null);
           break;
 
         case TheMostImportantPersonInMyLife.parent:
@@ -761,7 +761,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
                   data.done != null ||
-                  _emotionsAndFeelingsOnDone != null);
+                  data.emotionsAndFeelingsOnDone != null);
           break;
 
         case TheMostImportantPersonInMyLife.several:
@@ -781,7 +781,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
                   data.done != null ||
-                  _emotionsAndFeelingsOnDone != null);
+                  data.emotionsAndFeelingsOnDone != null);
           break;
       }
 
