@@ -785,6 +785,9 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           break;
       }
 
+      _stagingDiaryRecord = DiaryRecord({});
+      _copyFieldsFromStagingArea(_stagingDiaryRecord, fromRecord: data);
+
       if (autoSubmitFirstScreen) {
         if (autoSubmitSecondScreen) {
           Timer(
