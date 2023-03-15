@@ -186,8 +186,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfDoneAndEaf(DiaryRecord stagingDiaryRecord) {
-    _done = stagingDiaryRecord.done;
-    _emotionsAndFeelingsOnDone = stagingDiaryRecord.emotionsAndFeelingsOnDone;
+    _done = _stagingDiaryRecord.done;
+    _emotionsAndFeelingsOnDone = _stagingDiaryRecord.emotionsAndFeelingsOnDone;
 
     DiaryRecord theRecord = widget._diaryRecord;
     _copyFieldsFromStagingArea(theRecord);
