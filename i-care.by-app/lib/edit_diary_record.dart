@@ -216,9 +216,11 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfWantToDoForSeveral(List<String> wantToDoForSeveral) {
+    _wantToDoForSeveral = wantToDoForSeveral;
+
     widget._diaryRecord.who = _theMostImportantPerson;
     widget._diaryRecord.whoNames = _severalPersonsNames;
-    widget._diaryRecord.wantToDoForSeveral = wantToDoForSeveral;
+    widget._diaryRecord.wantToDoForSeveral = _wantToDoForSeveral;
 
     widget.onSubmit(widget._diaryRecord);
   }
