@@ -398,6 +398,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       _theMostImportantPerson = value;
       _anotherPersonName = null;
       _child = null;
+      _done = null;
       _emotionsAndFeelingsOnDone = null;
       _emotionsAndFeelingsOnWantToDo = null;
       _grandparent = null;
