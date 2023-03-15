@@ -106,7 +106,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     return res;
   }
 
-  void _copyFieldsFromStagingArea(DiaryRecord toRecord) {
+  void _copyFieldsFromStagingArea(DiaryRecord toRecord,
+      {DiaryRecord? fromRecord}) {
     toRecord.who = _theMostImportantPerson;
 
     if (toRecord.who == TheMostImportantPersonInMyLife.several) {
@@ -140,8 +141,14 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       toRecord.wantToDo = _wantToDo;
       toRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
 
-      toRecord.done = _done;
-      toRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
+      if (fromRecord == null) {
+        toRecord.done = _done;
+        toRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
+      } else {
+        toRecord.done = fromRecord.done;
+        toRecord.emotionsAndFeelingsOnDone =
+            fromRecord.emotionsAndFeelingsOnDone;
+      }
     }
   }
 
