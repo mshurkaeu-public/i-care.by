@@ -684,7 +684,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitFirstScreen = true;
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               (_emotionsAndFeelingsOnWantToDo != null ||
-                  _done != null ||
+                  data.done != null ||
                   _emotionsAndFeelingsOnDone != null);
           break;
 
@@ -697,7 +697,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitFirstScreen = (_anotherPersonName != null);
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  _done != null ||
+                  data.done != null ||
                   _emotionsAndFeelingsOnDone != null);
           break;
 
@@ -710,7 +710,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitFirstScreen = (_child != null);
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  _done != null ||
+                  data.done != null ||
                   _emotionsAndFeelingsOnDone != null);
           break;
 
@@ -721,7 +721,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitFirstScreen = true;
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               (_emotionsAndFeelingsOnWantToDo != null ||
-                  _done != null ||
+                  data.done != null ||
                   _emotionsAndFeelingsOnDone != null);
           break;
 
@@ -734,7 +734,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitFirstScreen = (_grandparent != null);
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  _done != null ||
+                  data.done != null ||
                   _emotionsAndFeelingsOnDone != null);
           break;
 
@@ -746,7 +746,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitFirstScreen = true;
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  _done != null ||
+                  data.done != null ||
                   _emotionsAndFeelingsOnDone != null);
           break;
 
@@ -759,7 +759,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitFirstScreen = (_parent != null);
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  _done != null ||
+                  data.done != null ||
                   _emotionsAndFeelingsOnDone != null);
           break;
 
@@ -779,7 +779,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           autoSubmitFirstScreen = (_spouceOrPartner != null);
           autoSubmitSecondScreen = autoSubmitFirstScreen &&
               ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  _done != null ||
+                  data.done != null ||
                   _emotionsAndFeelingsOnDone != null);
           break;
       }
