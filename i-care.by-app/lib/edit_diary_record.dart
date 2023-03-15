@@ -1538,10 +1538,10 @@ abstract class _WhatIsDoneRequestContainerState
     String? done = _doneController.text;
     String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
 
-    if (done != null && done.isEmpty) {
+    if (done.isEmpty) {
       done = null;
     }
-    if (emotionsAndFeelings != null && emotionsAndFeelings.isEmpty) {
+    if (emotionsAndFeelings.isEmpty) {
       emotionsAndFeelings = null;
     }
 
