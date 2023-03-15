@@ -1545,6 +1545,10 @@ abstract class _WhatIsDoneRequestContainerState
       emotionsAndFeelings = null;
     }
 
+    DiaryRecord diaryRecord = widget._diaryRecord;
+    diaryRecord.done = done;
+    diaryRecord.emotionsAndFeelingsOnDone = emotionsAndFeelings;
+
     widget.onDoneButtonPressed(done, emotionsAndFeelings);
   }
 }
