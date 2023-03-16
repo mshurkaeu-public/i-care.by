@@ -356,6 +356,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   void _onTmipimlChanged(TheMostImportantPersonInMyLife? value) {
     setState(() {
       _theMostImportantPerson = value;
+      // the next line is expected to null corresponding properties of the DiaryRecord instance if required
+      _stagingDiaryRecord.who = value;
       _anotherPersonName = null;
       _child = null;
       _done = null;
