@@ -819,7 +819,7 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
       void Function(String) onNextButtonPressed)
       : _messageProvider = messageProvider,
         _onNextButtonPressed = onNextButtonPressed,
-        super(userName, userPreferredPronoun, diaryRecord.emotionsAndFeelingsOnWantToDo,
+        super(userName, userPreferredPronoun, diaryRecord,
             0.8);
 
   final String Function(String, String) _messageProvider;
@@ -871,10 +871,10 @@ abstract class _OneEmotionsAndFeelingsRequestContainer extends StatefulWidget {
   _OneEmotionsAndFeelingsRequestContainer(
     String userName,
     String userPreferredPronoun,
-    String? initialEmotionsAndFeelingsText,
+    DiaryRecord diaryRecord,
     double firstColumnInitialWeight,
   )   : _firstColumnInitialWeight = firstColumnInitialWeight,
-        _initialEmotionsAndFeelingsText = initialEmotionsAndFeelingsText,
+        _initialEmotionsAndFeelingsText = diaryRecord.emotionsAndFeelingsOnWantToDo,
         _userName = userName,
         _userPreferredPronoun = userPreferredPronoun;
 
@@ -1019,7 +1019,7 @@ class _WhatDoYouWantToDoForThePerson
         _onDoneButtonPressed = onDoneButtonPressed,
         _onNextButtonPressed = onNextButtonPressed,
         super(userName, userPreferredPronoun,
-            diaryRecord.emotionsAndFeelingsOnWantToDo, 0.6);
+            diaryRecord, 0.6);
 
   final DiaryRecord _diaryRecord;
   final void Function(String, String) _onDoneButtonPressed;
