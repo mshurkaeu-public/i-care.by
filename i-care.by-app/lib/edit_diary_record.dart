@@ -853,8 +853,7 @@ class _MessageToTheUserState
   void onDoneButtonPressed() {
     super.onDoneButtonPressed();
 
-    (widget as _MessageToTheUser)
-        .onDoneButtonPressed();
+    (widget as _MessageToTheUser).onDoneButtonPressed();
   }
 
   @override
