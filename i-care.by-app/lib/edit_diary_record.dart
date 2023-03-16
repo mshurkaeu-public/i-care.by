@@ -131,14 +131,14 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         default:
       }
 
-      toRecord.wantToDo = _wantToDo;
-
       if (fromRecord == null) {
+        toRecord.wantToDo = _wantToDo;
         toRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
 
         toRecord.done = _done;
         toRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
       } else {
+        toRecord.wantToDo = fromRecord.wantToDo;
         toRecord.emotionsAndFeelingsOnWantToDo =
             fromRecord.emotionsAndFeelingsOnWantToDo;
 
@@ -197,8 +197,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfWantToDoAndEaf() {
-    _wantToDo = _stagingDiaryRecord.wantToDo;
-
     DiaryRecord theRecord = widget._diaryRecord;
     _copyFieldsFromStagingArea(theRecord, fromRecord: _stagingDiaryRecord);
 
