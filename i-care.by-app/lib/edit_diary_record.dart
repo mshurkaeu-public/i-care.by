@@ -1207,11 +1207,11 @@ class _WhatDoYouWantToDoForThePersonsState
   void initState() {
     super.initState();
 
-    List<String> initialAnswers = widget.diaryRecord.wantToDoForSeveral ?? [];
+    List<String> wantToDoForSeveral = widget.diaryRecord.wantToDoForSeveral ?? [];
     for (int i = 0; i < widget._persons.length; i++) {
       TextEditingController controller = TextEditingController();
-      if (i < initialAnswers.length) {
-        controller.text = initialAnswers[i];
+      if (i < wantToDoForSeveral.length) {
+        controller.text = wantToDoForSeveral[i];
       }
       _wantToDoControllers.add(controller);
     }
