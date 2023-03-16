@@ -1100,10 +1100,8 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
       : _userName = userName,
         _userPreferredPronoun = userPreferredPronoun,
         _persons = diaryRecord.whoNames!,
-        _initialAnswers = diaryRecord.wantToDoForSeveral,
         _onDoneButtonPressed = onDoneButtonPressed;
 
-  final List<String>? _initialAnswers;
   final void Function(List<String>) _onDoneButtonPressed;
   final List<String> _persons;
   final String _userPreferredPronoun;
@@ -1209,7 +1207,7 @@ class _WhatDoYouWantToDoForThePersonsState
   void initState() {
     super.initState();
 
-    List<String> initialAnswers = widget._initialAnswers ?? [];
+    List<String> initialAnswers = widget.diaryRecord.wantToDoForSeveral ?? [];
     for (int i = 0; i < widget._persons.length; i++) {
       TextEditingController controller = TextEditingController();
       if (i < initialAnswers.length) {
