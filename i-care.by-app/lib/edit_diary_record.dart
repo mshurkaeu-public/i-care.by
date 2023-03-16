@@ -1101,12 +1101,12 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
         _userPreferredPronoun = userPreferredPronoun,
         _persons = diaryRecord.whoNames!;
 
-  final void Function(List<String>) onDoneButtonPressed;
   final List<String> _persons;
   final String _userPreferredPronoun;
   final String _userName;
 
   final DiaryRecord diaryRecord;
+  final void Function(List<String>) onDoneButtonPressed;
 
   @override
   State<_WhatDoYouWantToDoForThePersons> createState() =>
