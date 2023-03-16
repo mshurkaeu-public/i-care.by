@@ -106,11 +106,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     if (toRecord.who == TheMostImportantPersonInMyLife.several) {
       toRecord.whoNames = _severalPersonsNames;
 
-      if (fromRecord == null) {
-        toRecord.wantToDoForSeveral = _wantToDoForSeveral;
-      } else {
         toRecord.wantToDoForSeveral = fromRecord.wantToDoForSeveral;
-      }
     } else {
       switch (toRecord.who) {
         case TheMostImportantPersonInMyLife.another:
@@ -136,13 +132,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         default:
       }
 
-      if (fromRecord == null) {
-        toRecord.wantToDo = _wantToDo;
-        toRecord.emotionsAndFeelingsOnWantToDo = _emotionsAndFeelingsOnWantToDo;
-
-        toRecord.done = _done;
-        toRecord.emotionsAndFeelingsOnDone = _emotionsAndFeelingsOnDone;
-      } else {
         toRecord.wantToDo = fromRecord.wantToDo;
         toRecord.emotionsAndFeelingsOnWantToDo =
             fromRecord.emotionsAndFeelingsOnWantToDo;
@@ -150,7 +139,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         toRecord.done = fromRecord.done;
         toRecord.emotionsAndFeelingsOnDone =
             fromRecord.emotionsAndFeelingsOnDone;
-      }
     }
   }
 
