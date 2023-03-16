@@ -874,12 +874,10 @@ abstract class _OneEmotionsAndFeelingsRequestContainer extends StatefulWidget {
     this.diaryRecord,
     double firstColumnInitialWeight,
   )   : _firstColumnInitialWeight = firstColumnInitialWeight,
-        _initialEmotionsAndFeelingsText = diaryRecord.emotionsAndFeelingsOnWantToDo,
         _userName = userName,
         _userPreferredPronoun = userPreferredPronoun;
 
   final double _firstColumnInitialWeight;
-  final String? _initialEmotionsAndFeelingsText;
   final String _userName;
   final String _userPreferredPronoun;
 
@@ -969,9 +967,9 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
     super.initState();
 
     _emotionsAndFeelingsController = TextEditingController();
-    if (widget._initialEmotionsAndFeelingsText != null) {
+    if (widget.diaryRecord.emotionsAndFeelingsOnWantToDo != null) {
       _emotionsAndFeelingsController.text =
-          widget._initialEmotionsAndFeelingsText!;
+          widget.diaryRecord.emotionsAndFeelingsOnWantToDo!;
     }
   }
 
