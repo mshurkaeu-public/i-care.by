@@ -670,7 +670,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     DiaryRecord data = widget._diaryRecord;
     _theMostImportantPerson = data.who;
     if (_theMostImportantPerson != null) {
-      bool autoSubmitFirstScreen;
+      bool autoSubmitFirstScreen = false;
       bool autoSubmitSecondScreen = false;
       switch (_theMostImportantPerson!) {
         case TheMostImportantPersonInMyLife.absent:
