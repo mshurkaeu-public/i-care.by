@@ -1090,11 +1090,7 @@ class _WhatDoYouWantToDoForThePersonState
     }
     widget.diaryRecord.wantToDo = wantToDo;
 
-    String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
-    if (emotionsAndFeelings.isEmpty) {
-      emotionsAndFeelings = null;
-    }
-    widget.diaryRecord.emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
+    super.onDoneButtonPressed();
 
     (widget as _WhatDoYouWantToDoForThePerson).onDoneButtonPressed();
   }
