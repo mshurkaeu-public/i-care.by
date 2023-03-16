@@ -1207,7 +1207,8 @@ class _WhatDoYouWantToDoForThePersonsState
   void initState() {
     super.initState();
 
-    List<String> wantToDoForSeveral = widget.diaryRecord.wantToDoForSeveral ?? [];
+    List<String> wantToDoForSeveral =
+        widget.diaryRecord.wantToDoForSeveral ?? [];
     for (int i = 0; i < widget._persons.length; i++) {
       TextEditingController controller = TextEditingController();
       if (i < wantToDoForSeveral.length) {
