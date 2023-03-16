@@ -196,13 +196,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget.onSubmit(widget._diaryRecord);
   }
 
-  void _onFinalSubmitOfWantToDoAndEaf() {
-    DiaryRecord theRecord = widget._diaryRecord;
-    _copyFieldsFromStagingArea(theRecord, fromRecord: _stagingDiaryRecord);
-
-    widget.onSubmit(widget._diaryRecord);
-  }
-
   void _onFinalSubmitOfWantToDoForSeveral(List<String> wantToDoForSeveral) {
     _wantToDoForSeveral = wantToDoForSeveral;
 
@@ -291,7 +284,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
                 userName,
                 userPreferredPronoun,
                 _stagingDiaryRecord,
-                _onFinalSubmitOfWantToDoAndEaf,
+                _onFinalSubmit,
                 _onNextWantToDoWithEmotionsAndFeelings),
           ),
         );
