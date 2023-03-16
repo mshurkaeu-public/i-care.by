@@ -852,7 +852,7 @@ class _MessageToTheUserState
   @override
   void onDoneButtonPressed() {
     String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
-    if (emotionsAndFeelings != null && emotionsAndFeelings.isEmpty) {
+    if (emotionsAndFeelings.isEmpty) {
       emotionsAndFeelings = null;
     }
 
