@@ -100,7 +100,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   List<String>? _wantToDoForSeveral;
 
   void _copyFieldsFromStagingArea(DiaryRecord toRecord,
-      {DiaryRecord? fromRecord}) {
+      {required DiaryRecord? fromRecord}) {
     toRecord.who = _theMostImportantPerson;
 
     if (toRecord.who == TheMostImportantPersonInMyLife.several) {
