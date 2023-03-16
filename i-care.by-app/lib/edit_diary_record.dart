@@ -201,13 +201,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget.onSubmit(widget._diaryRecord);
   }
 
-  void _onFinalSubmitOfWantToDoForSeveral() {
-    DiaryRecord theRecord = widget._diaryRecord;
-    _copyFieldsFromStagingArea(theRecord, fromRecord: _stagingDiaryRecord);
-
-    widget.onSubmit(widget._diaryRecord);
-  }
-
   void _onGrandparentChanged(TmipimlIsGrandparent? value) {
     setState(() {
       _grandparent = value;
@@ -300,7 +293,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
                 userName,
                 userPreferredPronoun,
                 _stagingDiaryRecord,
-                _onFinalSubmitOfWantToDoForSeveral),
+                _onFinalSubmit),
           ),
         );
         break;
