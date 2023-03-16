@@ -1095,7 +1095,7 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
   _WhatDoYouWantToDoForThePersons(
       String userName,
       String userPreferredPronoun,
-      DiaryRecord diaryRecord,
+      this.diaryRecord,
       void Function(List<String>) onDoneButtonPressed)
       : _userName = userName,
         _userPreferredPronoun = userPreferredPronoun,
@@ -1108,6 +1108,8 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
   final List<String> _persons;
   final String _userPreferredPronoun;
   final String _userName;
+
+  final DiaryRecord diaryRecord;
 
   @override
   State<_WhatDoYouWantToDoForThePersons> createState() =>
