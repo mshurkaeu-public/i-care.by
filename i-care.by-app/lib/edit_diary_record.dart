@@ -1091,8 +1091,9 @@ class _WhatDoYouWantToDoForThePersonState
 
   @override
   void onDoneButtonPressed() {
+    String? wantToDo = _wantToDoController.text;
     (widget as _WhatDoYouWantToDoForThePerson).onDoneButtonPressed(
-        _wantToDoController.text, _emotionsAndFeelingsController.text);
+        wantToDo, _emotionsAndFeelingsController.text);
   }
 
   @override
