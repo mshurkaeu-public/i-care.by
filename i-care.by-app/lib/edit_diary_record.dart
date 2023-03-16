@@ -827,7 +827,7 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
             0.8);
 
   final String Function(String, String) _messageProvider;
-  final void Function(String) onDoneButtonPressed;
+  final void Function(String?) onDoneButtonPressed;
   final void Function(String) _onNextButtonPressed;
 
   @override
