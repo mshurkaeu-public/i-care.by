@@ -1090,9 +1090,8 @@ class _WhatDoYouWantToDoForThePersonState
     super.initState();
 
     _wantToDoController = TextEditingController();
-    _WhatDoYouWantToDoForThePerson w = widget as _WhatDoYouWantToDoForThePerson;
-    if (w.diaryRecord.wantToDo != null) {
-      _wantToDoController.text = w.diaryRecord.wantToDo!;
+    if (widget.diaryRecord.wantToDo != null) {
+      _wantToDoController.text = widget.diaryRecord.wantToDo!;
     }
   }
 
