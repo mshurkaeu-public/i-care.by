@@ -851,12 +851,7 @@ class _MessageToTheUserState
 
   @override
   void onDoneButtonPressed() {
-    String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
-    if (emotionsAndFeelings.isEmpty) {
-      emotionsAndFeelings = null;
-    }
-
-    widget.diaryRecord.emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
+    super.onDoneButtonPressed();
 
     (widget as _MessageToTheUser)
         .onDoneButtonPressed();
@@ -975,7 +970,14 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
     }
   }
 
-  void onDoneButtonPressed();
+  void onDoneButtonPressed() {
+    String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
+    if (emotionsAndFeelings.isEmpty) {
+      emotionsAndFeelings = null;
+    }
+
+    widget.diaryRecord.emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
+  }
 
   void onNextButtonPressed();
 }
