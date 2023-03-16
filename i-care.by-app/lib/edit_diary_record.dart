@@ -1011,14 +1011,13 @@ class _WhatDoYouWantToDoForThePerson
       String userName,
       String userPreferredPronoun,
       DiaryRecord diaryRecord,
-      void Function(String, String) onDoneButtonPressed,
+      this.onDoneButtonPressed,
       void Function(String, String) onNextButtonPressed)
-      : _onDoneButtonPressed = onDoneButtonPressed,
-        _onNextButtonPressed = onNextButtonPressed,
+      : _onNextButtonPressed = onNextButtonPressed,
         super(userName, userPreferredPronoun,
             diaryRecord, 0.6);
 
-  final void Function(String, String) _onDoneButtonPressed;
+  final void Function(String, String) onDoneButtonPressed;
   final void Function(String, String) _onNextButtonPressed;
 
   @override
@@ -1094,7 +1093,7 @@ class _WhatDoYouWantToDoForThePersonState
 
   @override
   void onDoneButtonPressed() {
-    (widget as _WhatDoYouWantToDoForThePerson)._onDoneButtonPressed(
+    (widget as _WhatDoYouWantToDoForThePerson).onDoneButtonPressed(
         _wantToDoController.text, _emotionsAndFeelingsController.text);
   }
 
