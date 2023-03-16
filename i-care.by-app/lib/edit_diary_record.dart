@@ -193,10 +193,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfEafWithoutWantToDo(String? emotionsAndFeelings) {
-    if (emotionsAndFeelings != null && emotionsAndFeelings.isEmpty) {
-      emotionsAndFeelings = null;
-    }
-
     _emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
 
     DiaryRecord theRecord = widget._diaryRecord;
@@ -856,6 +852,10 @@ class _MessageToTheUserState
   @override
   void onDoneButtonPressed() {
     String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
+    if (emotionsAndFeelings != null && emotionsAndFeelings.isEmpty) {
+      emotionsAndFeelings = null;
+    }
+
     (widget as _MessageToTheUser)
         .onDoneButtonPressed(emotionsAndFeelings);
   }
