@@ -192,7 +192,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget.onSubmit(widget._diaryRecord);
   }
 
-  void _onFinalSubmitOfEafWithoutWantToDo(String emotionsAndFeelings) {
+  void _onFinalSubmitOfEafWithoutWantToDo(String? emotionsAndFeelings) {
     _onFinalSubmitOfWantToDoAndEaf(null, emotionsAndFeelings);
   }
 
