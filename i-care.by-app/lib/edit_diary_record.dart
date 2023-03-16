@@ -819,16 +819,15 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
       String userPreferredPronoun,
       String Function(String, String) messageProvider,
       DiaryRecord diaryRecord,
-      void Function(String) onDoneButtonPressed,
+      this.onDoneButtonPressed,
       void Function(String) onNextButtonPressed)
       : _messageProvider = messageProvider,
-        _onDoneButtonPressed = onDoneButtonPressed,
         _onNextButtonPressed = onNextButtonPressed,
         super(userName, userPreferredPronoun, diaryRecord.emotionsAndFeelingsOnWantToDo,
             0.8);
 
   final String Function(String, String) _messageProvider;
-  final void Function(String) _onDoneButtonPressed;
+  final void Function(String) onDoneButtonPressed;
   final void Function(String) _onNextButtonPressed;
 
   @override
@@ -857,7 +856,7 @@ class _MessageToTheUserState
   @override
   void onDoneButtonPressed() {
     (widget as _MessageToTheUser)
-        ._onDoneButtonPressed(_emotionsAndFeelingsController.text);
+        .onDoneButtonPressed(_emotionsAndFeelingsController.text);
   }
 
   @override
