@@ -196,13 +196,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget.onSubmit(widget._diaryRecord);
   }
 
-  void _onFinalSubmitOfEafWithoutWantToDo() {
-    DiaryRecord theRecord = widget._diaryRecord;
-    _copyFieldsFromStagingArea(theRecord, fromRecord: _stagingDiaryRecord);
-
-    widget.onSubmit(widget._diaryRecord);
-  }
-
   void _onFinalSubmitOfWantToDoAndEaf(String? wantToDo, String? emotionsAndFeelings) {
     if (wantToDo != null && wantToDo.isEmpty) {
       wantToDo = null;
@@ -289,7 +282,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               userPreferredPronoun,
               _getMessageToTheUserProvider(),
               _stagingDiaryRecord,
-              _onFinalSubmitOfEafWithoutWantToDo,
+              _onFinalSubmit,
               _onNextEmotionsAndFeelings,
             ),
           ),
