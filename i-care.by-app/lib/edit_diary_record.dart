@@ -193,7 +193,16 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfEafWithoutWantToDo(String? emotionsAndFeelings) {
-    _onFinalSubmitOfWantToDoAndEaf(null, emotionsAndFeelings);
+    if (emotionsAndFeelings != null && emotionsAndFeelings.isEmpty) {
+      emotionsAndFeelings = null;
+    }
+
+    _emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
+
+    DiaryRecord theRecord = widget._diaryRecord;
+    _copyFieldsFromStagingArea(theRecord);
+
+    widget.onSubmit(widget._diaryRecord);
   }
 
   void _onFinalSubmitOfWantToDoAndEaf(String? wantToDo, String? emotionsAndFeelings) {
