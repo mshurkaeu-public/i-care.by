@@ -1096,13 +1096,12 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
     String userName,
     String userPreferredPronoun,
     this.diaryRecord,
-    void Function(List<String>) onDoneButtonPressed,
+    this.onDoneButtonPressed,
   )   : _userName = userName,
         _userPreferredPronoun = userPreferredPronoun,
-        _persons = diaryRecord.whoNames!,
-        _onDoneButtonPressed = onDoneButtonPressed;
+        _persons = diaryRecord.whoNames!;
 
-  final void Function(List<String>) _onDoneButtonPressed;
+  final void Function(List<String>) onDoneButtonPressed;
   final List<String> _persons;
   final String _userPreferredPronoun;
   final String _userName;
@@ -1125,7 +1124,7 @@ class _WhatDoYouWantToDoForThePersonsState
       wantToDoForSeveral.add(wantToDo);
     }
 
-    widget._onDoneButtonPressed(wantToDoForSeveral);
+    widget.onDoneButtonPressed(wantToDoForSeveral);
   }
 
   void _onNextButtonPressed() {
