@@ -60,7 +60,6 @@ class _DoneButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return IconButton(
       icon: Icon(Icons.check),
-      color: Colors.green,
       tooltip: AppLocalizations.of(context).doneButtonText,
       onPressed: _onPressed,
     );
