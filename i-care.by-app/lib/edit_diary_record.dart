@@ -1207,11 +1207,10 @@ class _WhatDoYouWantToDoForThePersonsState
   void initState() {
     super.initState();
 
-    List<String>? initialAnswers = widget._initialAnswers;
+    List<String> initialAnswers = widget._initialAnswers ?? [];
     for (int i = 0; i < widget._persons.length; i++) {
       TextEditingController controller = TextEditingController();
-      if (initialAnswers != null &&
-          i < initialAnswers.length) {
+      if (i < initialAnswers.length) {
         controller.text = initialAnswers[i];
       }
       _wantToDoControllers.add(controller);
