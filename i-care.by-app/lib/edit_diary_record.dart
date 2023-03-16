@@ -1014,8 +1014,7 @@ class _WhatDoYouWantToDoForThePerson
       this.onDoneButtonPressed,
       void Function(String, String) onNextButtonPressed)
       : _onNextButtonPressed = onNextButtonPressed,
-        super(userName, userPreferredPronoun,
-            diaryRecord, 0.6);
+        super(userName, userPreferredPronoun, diaryRecord, 0.6);
 
   final void Function(String, String) onDoneButtonPressed;
   final void Function(String, String) _onNextButtonPressed;
