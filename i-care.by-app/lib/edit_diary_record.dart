@@ -669,138 +669,138 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
     DiaryRecord data = widget._diaryRecord;
     _theMostImportantPerson = data.who;
-      bool autoSubmitFirstScreen = false;
-      bool autoSubmitSecondScreen = false;
-      switch (_theMostImportantPerson) {
-        case null:
-          break;
+    bool autoSubmitFirstScreen = false;
+    bool autoSubmitSecondScreen = false;
+    switch (_theMostImportantPerson) {
+      case null:
+        break;
 
-        case TheMostImportantPersonInMyLife.absent:
-          _done = data.done;
-          _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
-          _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
-          autoSubmitFirstScreen = true;
-          autoSubmitSecondScreen = autoSubmitFirstScreen &&
-              (_emotionsAndFeelingsOnWantToDo != null ||
-                  data.done != null ||
-                  data.emotionsAndFeelingsOnDone != null);
-          break;
+      case TheMostImportantPersonInMyLife.absent:
+        _done = data.done;
+        _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
+        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
+        autoSubmitFirstScreen = true;
+        autoSubmitSecondScreen = autoSubmitFirstScreen &&
+            (_emotionsAndFeelingsOnWantToDo != null ||
+                data.done != null ||
+                data.emotionsAndFeelingsOnDone != null);
+        break;
 
-        case TheMostImportantPersonInMyLife.another:
-          _anotherPersonName = data.whoName;
-          _done = data.done;
-          _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
-          _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
-          _wantToDo = data.wantToDo;
-          autoSubmitFirstScreen = (_anotherPersonName != null);
-          autoSubmitSecondScreen = autoSubmitFirstScreen &&
-              ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  data.done != null ||
-                  data.emotionsAndFeelingsOnDone != null);
-          break;
+      case TheMostImportantPersonInMyLife.another:
+        _anotherPersonName = data.whoName;
+        _done = data.done;
+        _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
+        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
+        _wantToDo = data.wantToDo;
+        autoSubmitFirstScreen = (_anotherPersonName != null);
+        autoSubmitSecondScreen = autoSubmitFirstScreen &&
+            ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+                data.done != null ||
+                data.emotionsAndFeelingsOnDone != null);
+        break;
 
-        case TheMostImportantPersonInMyLife.child:
-          _child = data.whoSubclass as TmipimlIsChild;
-          _done = data.done;
-          _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
-          _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
-          _wantToDo = data.wantToDo;
-          autoSubmitFirstScreen = (_child != null);
-          autoSubmitSecondScreen = autoSubmitFirstScreen &&
-              ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  data.done != null ||
-                  data.emotionsAndFeelingsOnDone != null);
-          break;
+      case TheMostImportantPersonInMyLife.child:
+        _child = data.whoSubclass as TmipimlIsChild;
+        _done = data.done;
+        _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
+        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
+        _wantToDo = data.wantToDo;
+        autoSubmitFirstScreen = (_child != null);
+        autoSubmitSecondScreen = autoSubmitFirstScreen &&
+            ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+                data.done != null ||
+                data.emotionsAndFeelingsOnDone != null);
+        break;
 
-        case TheMostImportantPersonInMyLife.dontKnow:
-          _done = data.done;
-          _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
-          _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
-          autoSubmitFirstScreen = true;
-          autoSubmitSecondScreen = autoSubmitFirstScreen &&
-              (_emotionsAndFeelingsOnWantToDo != null ||
-                  data.done != null ||
-                  data.emotionsAndFeelingsOnDone != null);
-          break;
+      case TheMostImportantPersonInMyLife.dontKnow:
+        _done = data.done;
+        _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
+        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
+        autoSubmitFirstScreen = true;
+        autoSubmitSecondScreen = autoSubmitFirstScreen &&
+            (_emotionsAndFeelingsOnWantToDo != null ||
+                data.done != null ||
+                data.emotionsAndFeelingsOnDone != null);
+        break;
 
-        case TheMostImportantPersonInMyLife.grandparent:
-          _done = data.done;
-          _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
-          _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
-          _grandparent = data.whoSubclass as TmipimlIsGrandparent;
-          _wantToDo = data.wantToDo;
-          autoSubmitFirstScreen = (_grandparent != null);
-          autoSubmitSecondScreen = autoSubmitFirstScreen &&
-              ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  data.done != null ||
-                  data.emotionsAndFeelingsOnDone != null);
-          break;
+      case TheMostImportantPersonInMyLife.grandparent:
+        _done = data.done;
+        _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
+        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
+        _grandparent = data.whoSubclass as TmipimlIsGrandparent;
+        _wantToDo = data.wantToDo;
+        autoSubmitFirstScreen = (_grandparent != null);
+        autoSubmitSecondScreen = autoSubmitFirstScreen &&
+            ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+                data.done != null ||
+                data.emotionsAndFeelingsOnDone != null);
+        break;
 
-        case TheMostImportantPersonInMyLife.me:
-          _done = data.done;
-          _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
-          _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
-          _wantToDo = data.wantToDo;
-          autoSubmitFirstScreen = true;
-          autoSubmitSecondScreen = autoSubmitFirstScreen &&
-              ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  data.done != null ||
-                  data.emotionsAndFeelingsOnDone != null);
-          break;
+      case TheMostImportantPersonInMyLife.me:
+        _done = data.done;
+        _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
+        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
+        _wantToDo = data.wantToDo;
+        autoSubmitFirstScreen = true;
+        autoSubmitSecondScreen = autoSubmitFirstScreen &&
+            ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+                data.done != null ||
+                data.emotionsAndFeelingsOnDone != null);
+        break;
 
-        case TheMostImportantPersonInMyLife.parent:
-          _done = data.done;
-          _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
-          _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
-          _parent = data.whoSubclass as TmipimlIsParent;
-          _wantToDo = data.wantToDo;
-          autoSubmitFirstScreen = (_parent != null);
-          autoSubmitSecondScreen = autoSubmitFirstScreen &&
-              ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  data.done != null ||
-                  data.emotionsAndFeelingsOnDone != null);
-          break;
+      case TheMostImportantPersonInMyLife.parent:
+        _done = data.done;
+        _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
+        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
+        _parent = data.whoSubclass as TmipimlIsParent;
+        _wantToDo = data.wantToDo;
+        autoSubmitFirstScreen = (_parent != null);
+        autoSubmitSecondScreen = autoSubmitFirstScreen &&
+            ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+                data.done != null ||
+                data.emotionsAndFeelingsOnDone != null);
+        break;
 
-        case TheMostImportantPersonInMyLife.several:
-          _severalPersonsNames = data.whoNames;
-          _wantToDoForSeveral = data.wantToDoForSeveral;
-          autoSubmitFirstScreen = (_severalPersonsNames != null &&
-              _severalPersonsNames!.length > 1);
-          break;
+      case TheMostImportantPersonInMyLife.several:
+        _severalPersonsNames = data.whoNames;
+        _wantToDoForSeveral = data.wantToDoForSeveral;
+        autoSubmitFirstScreen =
+            (_severalPersonsNames != null && _severalPersonsNames!.length > 1);
+        break;
 
-        case TheMostImportantPersonInMyLife.spouseOrPartner:
-          _done = data.done;
-          _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
-          _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
-          _spouceOrPartner = data.whoSubclass as TmipimlIsSpouceOrPartner;
-          _wantToDo = data.wantToDo;
-          autoSubmitFirstScreen = (_spouceOrPartner != null);
-          autoSubmitSecondScreen = autoSubmitFirstScreen &&
-              ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
-                  data.done != null ||
-                  data.emotionsAndFeelingsOnDone != null);
-          break;
+      case TheMostImportantPersonInMyLife.spouseOrPartner:
+        _done = data.done;
+        _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
+        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
+        _spouceOrPartner = data.whoSubclass as TmipimlIsSpouceOrPartner;
+        _wantToDo = data.wantToDo;
+        autoSubmitFirstScreen = (_spouceOrPartner != null);
+        autoSubmitSecondScreen = autoSubmitFirstScreen &&
+            ((_emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+                data.done != null ||
+                data.emotionsAndFeelingsOnDone != null);
+        break;
+    }
+
+    _stagingDiaryRecord = DiaryRecord({});
+    _copyFieldsFromStagingArea(_stagingDiaryRecord, fromRecord: data);
+
+    if (autoSubmitFirstScreen) {
+      if (autoSubmitSecondScreen) {
+        Timer(
+          Duration(seconds: 0),
+          () {
+            _onSubmitFirstScreen();
+            _onSubmitSecondScreen();
+          },
+        );
+      } else {
+        Timer(
+          Duration(seconds: 0),
+          _onSubmitFirstScreen,
+        );
       }
-
-      _stagingDiaryRecord = DiaryRecord({});
-      _copyFieldsFromStagingArea(_stagingDiaryRecord, fromRecord: data);
-
-      if (autoSubmitFirstScreen) {
-        if (autoSubmitSecondScreen) {
-          Timer(
-            Duration(seconds: 0),
-            () {
-              _onSubmitFirstScreen();
-              _onSubmitSecondScreen();
-            },
-          );
-        } else {
-          Timer(
-            Duration(seconds: 0),
-            _onSubmitFirstScreen,
-          );
-        }
-      }
+    }
   }
 }
 
