@@ -105,7 +105,12 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
     if (toRecord.who == TheMostImportantPersonInMyLife.several) {
       toRecord.whoNames = _severalPersonsNames;
-      toRecord.wantToDoForSeveral = _wantToDoForSeveral;
+
+      if (fromRecord == null) {
+        toRecord.wantToDoForSeveral = _wantToDoForSeveral;
+      } else {
+        toRecord.wantToDoForSeveral = fromRecord.wantToDoForSeveral;
+      }
     } else {
       switch (toRecord.who) {
         case TheMostImportantPersonInMyLife.another:
@@ -197,10 +202,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfWantToDoForSeveral() {
-    _wantToDoForSeveral = _stagingDiaryRecord.wantToDoForSeveral;
-
     DiaryRecord theRecord = widget._diaryRecord;
-    _copyFieldsFromStagingArea(theRecord);
+    _copyFieldsFromStagingArea(theRecord, fromRecord: _stagingDiaryRecord);
 
     widget.onSubmit(widget._diaryRecord);
   }
