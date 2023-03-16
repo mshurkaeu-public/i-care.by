@@ -1085,10 +1085,11 @@ class _WhatDoYouWantToDoForThePersonState
   @override
   void onDoneButtonPressed() {
     String? wantToDo = _wantToDoController.text;
-    String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
     if (wantToDo.isEmpty) {
       wantToDo = null;
     }
+
+    String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
     if (emotionsAndFeelings.isEmpty) {
       emotionsAndFeelings = null;
     }
