@@ -97,7 +97,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   List<String>? _severalPersonsNames;
   TmipimlIsSpouceOrPartner? _spouceOrPartner;
   String? _wantToDo;
-  List<String>? _wantToDoForSeveral;
 
   void _copyFieldsFromStagingArea(DiaryRecord toRecord,
       {required DiaryRecord fromRecord}) {
@@ -368,7 +367,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       _severalPersonsNames = null;
       _spouceOrPartner = null;
       _wantToDo = null;
-      _wantToDoForSeveral = null;
     });
   }
 
@@ -730,7 +728,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
       case TheMostImportantPersonInMyLife.several:
         _severalPersonsNames = data.whoNames;
-        _wantToDoForSeveral = data.wantToDoForSeveral;
         autoSubmitFirstScreen =
             (_severalPersonsNames != null && _severalPersonsNames!.length > 1);
         break;
