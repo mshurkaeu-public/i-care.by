@@ -281,7 +281,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               userName,
               userPreferredPronoun,
               _getMessageToTheUserProvider(),
-              _emotionsAndFeelingsOnWantToDo,
+              _stagingDiaryRecord,
               _onFinalSubmitOfEafWithoutWantToDo,
               _onNextEmotionsAndFeelings,
             ),
@@ -809,13 +809,13 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
       String userName,
       String userPreferredPronoun,
       String Function(String, String) messageProvider,
-      String? initialEmotionsAndFeelingsText,
+      DiaryRecord diaryRecord,
       void Function(String) onDoneButtonPressed,
       void Function(String) onNextButtonPressed)
       : _messageProvider = messageProvider,
         _onDoneButtonPressed = onDoneButtonPressed,
         _onNextButtonPressed = onNextButtonPressed,
-        super(userName, userPreferredPronoun, initialEmotionsAndFeelingsText,
+        super(userName, userPreferredPronoun, diaryRecord.emotionsAndFeelingsOnWantToDo,
             0.8);
 
   final String Function(String, String) _messageProvider;
