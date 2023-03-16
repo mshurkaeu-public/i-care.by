@@ -871,7 +871,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainer extends StatefulWidget {
   _OneEmotionsAndFeelingsRequestContainer(
     String userName,
     String userPreferredPronoun,
-    DiaryRecord diaryRecord,
+    this.diaryRecord,
     double firstColumnInitialWeight,
   )   : _firstColumnInitialWeight = firstColumnInitialWeight,
         _initialEmotionsAndFeelingsText = diaryRecord.emotionsAndFeelingsOnWantToDo,
@@ -882,6 +882,8 @@ abstract class _OneEmotionsAndFeelingsRequestContainer extends StatefulWidget {
   final String? _initialEmotionsAndFeelingsText;
   final String _userName;
   final String _userPreferredPronoun;
+
+  final DiaryRecord diaryRecord;
 }
 
 abstract class _OneEmotionsAndFeelingsRequestContainerState
