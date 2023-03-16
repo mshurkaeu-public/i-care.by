@@ -196,7 +196,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget.onSubmit(widget._diaryRecord);
   }
 
-  void _onFinalSubmitOfWantToDoAndEaf(String? wantToDo, String? emotionsAndFeelings) {
+  void _onFinalSubmitOfWantToDoAndEaf() {
     _wantToDo = _stagingDiaryRecord.wantToDo;
     _emotionsAndFeelingsOnWantToDo = _stagingDiaryRecord.emotionsAndFeelingsOnWantToDo;
 
@@ -1008,7 +1008,7 @@ class _WhatDoYouWantToDoForThePerson
       : _onNextButtonPressed = onNextButtonPressed,
         super(userName, userPreferredPronoun, diaryRecord, 0.6);
 
-  final void Function(String?, String?) onDoneButtonPressed;
+  final void Function() onDoneButtonPressed;
   final void Function(String, String) _onNextButtonPressed;
 
   @override
@@ -1096,8 +1096,7 @@ class _WhatDoYouWantToDoForThePersonState
     }
     widget.diaryRecord.emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
 
-    (widget as _WhatDoYouWantToDoForThePerson).onDoneButtonPressed(
-        wantToDo, emotionsAndFeelings);
+    (widget as _WhatDoYouWantToDoForThePerson).onDoneButtonPressed();
   }
 
   @override
