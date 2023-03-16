@@ -1015,13 +1015,11 @@ class _WhatDoYouWantToDoForThePerson
       DiaryRecord diaryRecord,
       void Function(String, String) onDoneButtonPressed,
       void Function(String, String) onNextButtonPressed)
-      : _diaryRecord = diaryRecord,
-        _onDoneButtonPressed = onDoneButtonPressed,
+      : _onDoneButtonPressed = onDoneButtonPressed,
         _onNextButtonPressed = onNextButtonPressed,
         super(userName, userPreferredPronoun,
             diaryRecord, 0.6);
 
-  final DiaryRecord _diaryRecord;
   final void Function(String, String) _onDoneButtonPressed;
   final void Function(String, String) _onNextButtonPressed;
 
@@ -1036,7 +1034,7 @@ class _WhatDoYouWantToDoForThePersonState
   String _getTheQuestion(AppLocalizations l10n) {
     _WhatDoYouWantToDoForThePerson w = widget as _WhatDoYouWantToDoForThePerson;
     String res = Messages.whatDoYouWantToDo(
-      w._diaryRecord,
+      w.diaryRecord,
       l10n,
       w._userName,
       w._userPreferredPronoun,
@@ -1093,8 +1091,8 @@ class _WhatDoYouWantToDoForThePersonState
 
     _wantToDoController = TextEditingController();
     _WhatDoYouWantToDoForThePerson w = widget as _WhatDoYouWantToDoForThePerson;
-    if (w._diaryRecord.wantToDo != null) {
-      _wantToDoController.text = w._diaryRecord.wantToDo!;
+    if (w.diaryRecord.wantToDo != null) {
+      _wantToDoController.text = w.diaryRecord.wantToDo!;
     }
   }
 
