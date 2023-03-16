@@ -370,7 +370,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           context: context,
           children: [
             Text(
-                '_onSubmitSecondScreen(several): ${_emotionsAndFeelingsOnWantToDo ?? l10n.thereIsNoData}'),
+                '_onSubmitSecondScreen(several)'),
           ],
         );
         break;
