@@ -192,7 +192,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget.onSubmit(widget._diaryRecord);
   }
 
-  void _onFinalSubmitOfEafWithoutWantToDo(String? emotionsAndFeelings) {
+  void _onFinalSubmitOfEafWithoutWantToDo() {
     _emotionsAndFeelingsOnWantToDo = _stagingDiaryRecord.emotionsAndFeelingsOnWantToDo;
 
     DiaryRecord theRecord = widget._diaryRecord;
@@ -823,7 +823,7 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
             0.8);
 
   final String Function(String, String) _messageProvider;
-  final void Function(String?) onDoneButtonPressed;
+  final void Function() onDoneButtonPressed;
   final void Function(String) _onNextButtonPressed;
 
   @override
@@ -859,7 +859,7 @@ class _MessageToTheUserState
     widget.diaryRecord.emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
 
     (widget as _MessageToTheUser)
-        .onDoneButtonPressed(emotionsAndFeelings);
+        .onDoneButtonPressed();
   }
 
   @override
