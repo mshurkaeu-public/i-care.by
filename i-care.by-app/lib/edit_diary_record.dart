@@ -855,8 +855,9 @@ class _MessageToTheUserState
 
   @override
   void onDoneButtonPressed() {
+    String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
     (widget as _MessageToTheUser)
-        .onDoneButtonPressed(_emotionsAndFeelingsController.text);
+        .onDoneButtonPressed(emotionsAndFeelings);
   }
 
   @override
