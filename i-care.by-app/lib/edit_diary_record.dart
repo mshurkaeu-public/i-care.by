@@ -672,7 +672,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     if (_theMostImportantPerson != null) {
       bool autoSubmitFirstScreen = false;
       bool autoSubmitSecondScreen = false;
-      switch (_theMostImportantPerson!) {
+      switch (_theMostImportantPerson) {
+        case null:
+          break;
+
         case TheMostImportantPersonInMyLife.absent:
           _done = data.done;
           _emotionsAndFeelingsOnDone = data.emotionsAndFeelingsOnDone;
