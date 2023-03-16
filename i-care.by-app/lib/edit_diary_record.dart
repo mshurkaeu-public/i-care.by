@@ -197,7 +197,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfWantToDoForSeveral(List<String> wantToDoForSeveral) {
-    _wantToDoForSeveral = wantToDoForSeveral;
+    _wantToDoForSeveral = _stagingDiaryRecord.wantToDoForSeveral;
 
     DiaryRecord theRecord = widget._diaryRecord;
     _copyFieldsFromStagingArea(theRecord);
@@ -1123,6 +1123,8 @@ class _WhatDoYouWantToDoForThePersonsState
       String wantToDo = _wantToDoControllers[i].text;
       wantToDoForSeveral.add(wantToDo);
     }
+
+    widget.diaryRecord.wantToDoForSeveral = wantToDoForSeveral;
 
     widget.onDoneButtonPressed(wantToDoForSeveral);
   }
