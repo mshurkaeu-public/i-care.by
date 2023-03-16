@@ -197,7 +197,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onFinalSubmitOfWantToDoAndEaf(String? wantToDo, String? emotionsAndFeelings) {
-    _wantToDo = wantToDo;
+    _wantToDo = _stagingDiaryRecord.wantToDo;
     _emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
 
     DiaryRecord theRecord = widget._diaryRecord;
@@ -1088,6 +1088,7 @@ class _WhatDoYouWantToDoForThePersonState
     if (wantToDo.isEmpty) {
       wantToDo = null;
     }
+    widget.diaryRecord.wantToDo = wantToDo;
 
     String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
     if (emotionsAndFeelings.isEmpty) {
