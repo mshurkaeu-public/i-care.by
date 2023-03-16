@@ -196,7 +196,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     widget.onSubmit(widget._diaryRecord);
   }
 
-  void _onFinalSubmitOfWantToDoForSeveral(List<String> wantToDoForSeveral) {
+  void _onFinalSubmitOfWantToDoForSeveral() {
     _wantToDoForSeveral = _stagingDiaryRecord.wantToDoForSeveral;
 
     DiaryRecord theRecord = widget._diaryRecord;
@@ -1106,7 +1106,7 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
   final String _userName;
 
   final DiaryRecord diaryRecord;
-  final void Function(List<String>) onDoneButtonPressed;
+  final void Function() onDoneButtonPressed;
 
   @override
   State<_WhatDoYouWantToDoForThePersons> createState() =>
@@ -1126,7 +1126,7 @@ class _WhatDoYouWantToDoForThePersonsState
 
     widget.diaryRecord.wantToDoForSeveral = wantToDoForSeveral;
 
-    widget.onDoneButtonPressed(wantToDoForSeveral);
+    widget.onDoneButtonPressed();
   }
 
   void _onNextButtonPressed() {
