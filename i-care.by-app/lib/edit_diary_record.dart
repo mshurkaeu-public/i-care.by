@@ -1015,7 +1015,7 @@ class _WhatDoYouWantToDoForThePerson
       : _onNextButtonPressed = onNextButtonPressed,
         super(userName, userPreferredPronoun, diaryRecord, 0.6);
 
-  final void Function(String, String) onDoneButtonPressed;
+  final void Function(String?, String?) onDoneButtonPressed;
   final void Function(String, String) _onNextButtonPressed;
 
   @override
