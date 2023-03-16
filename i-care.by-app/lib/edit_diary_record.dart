@@ -814,8 +814,7 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
       void Function(String) onNextButtonPressed)
       : _messageProvider = messageProvider,
         _onNextButtonPressed = onNextButtonPressed,
-        super(userName, userPreferredPronoun, diaryRecord,
-            0.8);
+        super(userName, userPreferredPronoun, diaryRecord, 0.8);
 
   final String Function(String, String) _messageProvider;
   final void Function() onDoneButtonPressed;
