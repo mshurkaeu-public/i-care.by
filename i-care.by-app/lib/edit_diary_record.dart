@@ -296,7 +296,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
             builder: (BuildContext context) => _WhatDoYouWantToDoForThePersons(
                 userName,
                 userPreferredPronoun,
-                _severalPersonsNames!,
+                _stagingDiaryRecord,
                 _wantToDoForSeveral,
                 _onFinalSubmitOfWantToDoForSeveral),
           ),
@@ -1096,12 +1096,12 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
   _WhatDoYouWantToDoForThePersons(
       String userName,
       String userPreferredPronoun,
-      List<String> persons,
+      DiaryRecord diaryRecord,
       List<String>? initialAnswers,
       void Function(List<String>) onDoneButtonPressed)
       : _userName = userName,
         _userPreferredPronoun = userPreferredPronoun,
-        _persons = persons,
+        _persons = diaryRecord.whoNames!,
         _initialAnswers = initialAnswers,
         _onDoneButtonPressed = onDoneButtonPressed;
 
