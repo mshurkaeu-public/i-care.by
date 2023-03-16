@@ -1032,12 +1032,11 @@ class _WhatDoYouWantToDoForThePersonState
   late final TextEditingController _wantToDoController;
 
   String _getTheQuestion(AppLocalizations l10n) {
-    _WhatDoYouWantToDoForThePerson w = widget as _WhatDoYouWantToDoForThePerson;
     String res = Messages.whatDoYouWantToDo(
-      w.diaryRecord,
+      widget.diaryRecord,
       l10n,
-      w._userName,
-      w._userPreferredPronoun,
+      widget._userName,
+      widget._userPreferredPronoun,
     );
 
     return res;
