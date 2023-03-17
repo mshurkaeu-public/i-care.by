@@ -965,6 +965,8 @@ class _TwoColumnsView extends StatefulWidget {
 }
 
 class _TwoColumnsViewState extends State<_TwoColumnsView> {
+  MultiSplitViewController _multiSplitViewController = MultiSplitViewController();
+
   @override
   Widget build(BuildContext context) {
     ThemeData themeData = Theme.of(context);
@@ -979,11 +981,7 @@ class _TwoColumnsViewState extends State<_TwoColumnsView> {
       ),
       child: MultiSplitView(
         axis: Axis.horizontal,
-        initialAreas: [
-          Area(
-            weight: widget.initialLeftColumnWeight,
-          ),
-        ],
+        controller: _multiSplitViewController,
         children: [
           Padding(
             padding: EdgeInsets.only(right: 9),
@@ -996,6 +994,24 @@ class _TwoColumnsViewState extends State<_TwoColumnsView> {
         ],
       ),
     );
+  }
+
+  @override
+  void dispose() {
+    _multiSplitViewController.dispose();
+
+    super.dispose();
+  }
+
+  @override
+  void initState() {
+    super.initState();
+
+    _multiSplitViewController.areas = [
+      Area(
+        weight: widget.initialLeftColumnWeight,
+      ),
+    ];
   }
 }
 
