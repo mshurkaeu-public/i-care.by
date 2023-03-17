@@ -1160,15 +1160,17 @@ class _WhatDoYouWantToDoForThePersonsState
                       question,
                       style: themeData.textTheme.titleMedium,
                     ),
-                    TextField(
-                      controller: _wantToDoControllers[i],
-                      decoration: InputDecoration(
-                        border: OutlineInputBorder(),
-                        hintText: l10n.exampleOfWantToDoForTmipiml,
-                        hintStyle: _getMyHintStyle(themeData),
+                    Expanded(
+                      child: TextField(
+                        controller: _wantToDoControllers[i],
+                        decoration: InputDecoration(
+                          border: OutlineInputBorder(),
+                          hintText: l10n.exampleOfWantToDoForTmipiml,
+                          hintStyle: _getMyHintStyle(themeData),
+                        ),
+                        minLines: 5,
+                        maxLines: 7,
                       ),
-                      minLines: 5,
-                      maxLines: 7,
                     ),
                   ],
                 ),
