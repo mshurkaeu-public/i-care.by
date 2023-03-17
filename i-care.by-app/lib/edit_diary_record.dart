@@ -1141,6 +1141,7 @@ class _WhatDoYouWantToDoForThePersonsState
               dividerPainter: DividerPainters.dashed(
                 color: themeData.dividerColor,
                 highlightedColor: themeData.indicatorColor,
+                thickness: 1,
               ),
             ),
             child: MultiSplitView(
