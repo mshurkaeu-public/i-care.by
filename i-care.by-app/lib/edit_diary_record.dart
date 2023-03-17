@@ -1153,57 +1153,63 @@ class _WhatDoYouWantToDoForThePersonsState
                 Area(minimalSize: 40),
               ],
               children: [
-                Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      question,
-                      style: themeData.textTheme.titleMedium,
-                    ),
-                    Expanded(
-                      child: TextField(
-                        controller: _wantToDoControllers[i],
-                        decoration: InputDecoration(
-                          border: OutlineInputBorder(),
-                          hintText: l10n.exampleOfWantToDoForTmipiml,
-                          hintStyle: _getMyHintStyle(themeData),
-                        ),
-                        expands: true,
-                        maxLines: null,
-                        textAlignVertical: TextAlignVertical.top,
+                Padding(
+                  padding: EdgeInsets.only(right: 10),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        question,
+                        style: themeData.textTheme.titleMedium,
                       ),
-                    ),
-                  ],
-                ),
-                Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      l10n.questionAboutCurrentEmotionsAndFeelings(
-                        userName,
-                        userPreferredPronoun,
-                      ),
-                      style: themeData.textTheme.titleMedium,
-                    ),
-                    Expanded(
-                      child: TextField(
-                        controller:
-                            _emotionsAndFeelingsOnWantToDoControllers[i],
-                        decoration: InputDecoration(
-                          border: OutlineInputBorder(),
-                          hintText:
-                              l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-                            userName,
-                            userPreferredPronoun,
+                      Expanded(
+                        child: TextField(
+                          controller: _wantToDoControllers[i],
+                          decoration: InputDecoration(
+                            border: OutlineInputBorder(),
+                            hintText: l10n.exampleOfWantToDoForTmipiml,
+                            hintStyle: _getMyHintStyle(themeData),
                           ),
-                          hintStyle: _getMyHintStyle(themeData),
+                          expands: true,
+                          maxLines: null,
+                          textAlignVertical: TextAlignVertical.top,
                         ),
-                        expands: true,
-                        maxLines: null,
-                        textAlignVertical: TextAlignVertical.top,
                       ),
-                    ),
-                  ],
+                    ],
+                  ),
+                ),
+                Padding(
+                  padding: EdgeInsets.only(left: 10),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        l10n.questionAboutCurrentEmotionsAndFeelings(
+                          userName,
+                          userPreferredPronoun,
+                        ),
+                        style: themeData.textTheme.titleMedium,
+                      ),
+                      Expanded(
+                        child: TextField(
+                          controller:
+                              _emotionsAndFeelingsOnWantToDoControllers[i],
+                          decoration: InputDecoration(
+                            border: OutlineInputBorder(),
+                            hintText: l10n
+                                .questionAboutCurrentEmotionsAndFeelingsHints(
+                              userName,
+                              userPreferredPronoun,
+                            ),
+                            hintStyle: _getMyHintStyle(themeData),
+                          ),
+                          expands: true,
+                          maxLines: null,
+                          textAlignVertical: TextAlignVertical.top,
+                        ),
+                      ),
+                    ],
+                  ),
                 ),
               ],
             ),
