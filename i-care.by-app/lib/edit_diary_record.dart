@@ -840,7 +840,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
       body: Padding(
         padding: EdgeInsets.all(20),
         child: _TwoColumnsView(
-          initialLeftColumnWeight: widget._firstColumnInitialWeight,
+          initialFirstAreaWeight: widget._firstColumnInitialWeight,
           firstArea: getFirstColumnChild(l10n),
           secondArea: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -933,12 +933,12 @@ class _ToTheListOfDoneButton extends StatelessWidget {
 
 class _TwoColumnsView extends StatefulWidget {
   _TwoColumnsView({
-    required this.initialLeftColumnWeight,
+    required this.initialFirstAreaWeight,
     required this.firstArea,
     required this.secondArea,
   });
 
-  final double initialLeftColumnWeight;
+  final double initialFirstAreaWeight;
   final Widget firstArea;
   final Widget secondArea;
 
@@ -956,7 +956,7 @@ class _TwoColumnsViewState extends State<_TwoColumnsView> {
   void _restoreDefaultColumnsWeights() {
     _multiSplitViewController.areas = [
       Area(
-        weight: widget.initialLeftColumnWeight,
+        weight: widget.initialFirstAreaWeight,
       ),
     ];
   }
@@ -1194,7 +1194,7 @@ class _WhatDoYouWantToDoForThePersonsState
         SizedBox(
           height: 180,
           child: _TwoColumnsView(
-            initialLeftColumnWeight: 0.6,
+            initialFirstAreaWeight: 0.6,
             firstArea: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -1371,7 +1371,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     }
 
     return _TwoColumnsView(
-      initialLeftColumnWeight: 0.6,
+      initialFirstAreaWeight: 0.6,
       firstArea: SingleChildScrollView(
         padding: EdgeInsets.only(right: 20),
         child: Column(
@@ -1523,7 +1523,7 @@ abstract class _WhatIsDoneRequestContainerState
             children: [
               getFirstRowChild(l10n),
               _TwoColumnsView(
-                initialLeftColumnWeight: 0.6,
+                initialFirstAreaWeight: 0.6,
                 firstArea:
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
