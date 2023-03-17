@@ -967,6 +967,10 @@ class _TwoColumnsView extends StatefulWidget {
 class _TwoColumnsViewState extends State<_TwoColumnsView> {
   MultiSplitViewController _multiSplitViewController = MultiSplitViewController();
 
+  void _onDividerDoubleTap(int dividerIndex) {
+    _restoreDefaultColumnsWeights();
+  }
+
   void _restoreDefaultColumnsWeights() {
     _multiSplitViewController.areas = [
       Area(
@@ -990,6 +994,7 @@ class _TwoColumnsViewState extends State<_TwoColumnsView> {
       child: MultiSplitView(
         axis: Axis.horizontal,
         controller: _multiSplitViewController,
+        onDividerDoubleTap: _onDividerDoubleTap,
         children: [
           Padding(
             padding: EdgeInsets.only(right: 9),
