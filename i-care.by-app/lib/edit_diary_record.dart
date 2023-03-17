@@ -1372,21 +1372,19 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
 
     return _TwoColumnsView(
       initialLeftColumnWeight: 0.6,
-      leftColumn:
-        SingleChildScrollView(
-          padding: EdgeInsets.only(right: 20),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: wantedToDoColumnChildren,
-          ),
+      leftColumn: SingleChildScrollView(
+        padding: EdgeInsets.only(right: 20),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: wantedToDoColumnChildren,
         ),
-      rightColumn:
-        SingleChildScrollView(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: eafOnWantedToDoColumnChildren,
-          ),
+      ),
+      rightColumn: SingleChildScrollView(
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: eafOnWantedToDoColumnChildren,
         ),
+      ),
     );
   }
 }
