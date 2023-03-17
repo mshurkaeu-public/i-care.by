@@ -842,7 +842,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
         child: _TwoColumnsView(
           initialLeftColumnWeight: widget._firstColumnInitialWeight,
           firstArea: getFirstColumnChild(l10n),
-          rightColumn: Column(
+          secondArea: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(l10n.questionAboutCurrentEmotionsAndFeelings(
@@ -935,12 +935,12 @@ class _TwoColumnsView extends StatefulWidget {
   _TwoColumnsView({
     required this.initialLeftColumnWeight,
     required this.firstArea,
-    required this.rightColumn,
+    required this.secondArea,
   });
 
   final double initialLeftColumnWeight;
   final Widget firstArea;
-  final Widget rightColumn;
+  final Widget secondArea;
 
   @override
   State<StatefulWidget> createState() => _TwoColumnsViewState();
@@ -984,7 +984,7 @@ class _TwoColumnsViewState extends State<_TwoColumnsView> {
           ),
           Padding(
             padding: EdgeInsets.only(left: 9),
-            child: widget.rightColumn,
+            child: widget.secondArea,
           ),
         ],
       ),
@@ -1217,7 +1217,7 @@ class _WhatDoYouWantToDoForThePersonsState
                 ),
               ],
             ),
-            rightColumn: Column(
+            secondArea: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
@@ -1379,7 +1379,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
           children: wantedToDoColumnChildren,
         ),
       ),
-      rightColumn: SingleChildScrollView(
+      secondArea: SingleChildScrollView(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: eafOnWantedToDoColumnChildren,
@@ -1542,7 +1542,7 @@ abstract class _WhatIsDoneRequestContainerState
                       ),
                     ],
                   ),
-                rightColumn:
+                secondArea:
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
