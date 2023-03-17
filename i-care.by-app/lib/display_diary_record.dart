@@ -235,6 +235,8 @@ class DisplayDiaryRecord extends StatelessWidget {
 
         List<String> persons = _diaryRecord.whoNames!;
         List<String> wantToDoForSeveral = _diaryRecord.wantToDoForSeveral ?? [];
+        List<String> emotionsAndFeelingsOnWantToDoForSeveral =
+            _diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral ?? [];
         for (int i = 0; i < persons.length; i++) {
           String personName = persons[i];
 
@@ -245,11 +247,19 @@ class DisplayDiaryRecord extends StatelessWidget {
             wantToDoDescription = null;
           }
 
+          String? emotionsAndFeelingsOnWantedToDo;
+          if (i < emotionsAndFeelingsOnWantToDoForSeveral.length) {
+            emotionsAndFeelingsOnWantedToDo =
+                emotionsAndFeelingsOnWantToDoForSeveral[i];
+          } else {
+            emotionsAndFeelingsOnWantedToDo = null;
+          }
+
           _appendContentForOnePerson(
             dayContent: dayContent,
             done: null,
             emotionsAndFeelingsOnDone: null,
-            emotionsAndFeelingsOnWantedToDo: null,
+            emotionsAndFeelingsOnWantedToDo: emotionsAndFeelingsOnWantedToDo,
             l10n: l10n,
             themeData: themeData,
             wantedToDo: wantToDoDescription,
