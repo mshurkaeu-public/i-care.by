@@ -797,6 +797,8 @@ class _MessageToTheUserState
 
   @override
   void onNextButtonPressed() {
+    super.onNextButtonPressed();
+
     (widget as _MessageToTheUser)
         ._onNextButtonPressed(_emotionsAndFeelingsController.text);
   }
@@ -1119,6 +1121,8 @@ class _WhatDoYouWantToDoForThePersonState
 
   @override
   void onNextButtonPressed() {
+    super.onNextButtonPressed();
+
     (widget as _WhatDoYouWantToDoForThePerson)._onNextButtonPressed(
         _wantToDoController.text, _emotionsAndFeelingsController.text);
   }
