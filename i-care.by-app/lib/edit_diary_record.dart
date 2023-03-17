@@ -949,6 +949,56 @@ class _ToTheListOfDoneButton extends StatelessWidget {
   }
 }
 
+class _TwoColumnsView extends StatefulWidget {
+  _TwoColumnsView({
+    required this.initialLeftColumnWeight,
+    required this.leftColumn,
+    required this.rightColumn,
+  });
+
+  final double initialLeftColumnWeight;
+  final Widget leftColumn;
+  final Widget rightColumn;
+
+  @override
+  State<StatefulWidget> createState() => _TwoColumnsViewState();
+}
+
+class _TwoColumnsViewState extends State<_TwoColumnsView> {
+  @override
+  Widget build(BuildContext context) {
+    ThemeData themeData = Theme.of(context);
+
+    return MultiSplitViewTheme(
+      data: MultiSplitViewThemeData(
+        dividerPainter: DividerPainters.dashed(
+          color: themeData.dividerColor,
+          highlightedColor: themeData.indicatorColor,
+          thickness: 3,
+        ),
+      ),
+      child: MultiSplitView(
+        axis: Axis.horizontal,
+        initialAreas: [
+          Area(
+            weight: widget.initialLeftColumnWeight,
+          ),
+        ],
+        children: [
+          Padding(
+            padding: EdgeInsets.only(right: 9),
+            child: widget.leftColumn,
+          ),
+          Padding(
+            padding: EdgeInsets.only(left: 9),
+            child: widget.rightColumn,
+          ),
+        ],
+      ),
+    );
+  }
+}
+
 class _WhatDoYouWantToDoForThePerson
     extends _OneEmotionsAndFeelingsRequestContainer {
   _WhatDoYouWantToDoForThePerson(
@@ -1136,25 +1186,9 @@ class _WhatDoYouWantToDoForThePersonsState
       content.add(
         SizedBox(
           height: 180,
-          child: MultiSplitViewTheme(
-            data: MultiSplitViewThemeData(
-              dividerPainter: DividerPainters.dashed(
-                color: themeData.dividerColor,
-                highlightedColor: themeData.indicatorColor,
-                thickness: 3,
-              ),
-            ),
-            child: MultiSplitView(
-              axis: Axis.horizontal,
-              initialAreas: [
-                Area(
-                  weight: 0.6,
-                ),
-              ],
-              children: [
-                Padding(
-                  padding: EdgeInsets.only(right: 9),
-                  child: Column(
+          child: _TwoColumnsView(
+            initialLeftColumnWeight: 0.6,
+            leftColumn: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
@@ -1176,10 +1210,7 @@ class _WhatDoYouWantToDoForThePersonsState
                       ),
                     ],
                   ),
-                ),
-                Padding(
-                  padding: EdgeInsets.only(left: 9),
-                  child: Column(
+            rightColumn: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
@@ -1210,10 +1241,7 @@ class _WhatDoYouWantToDoForThePersonsState
                     ],
                   ),
                 ),
-              ],
             ),
-          ),
-        ),
       );
     }
 
