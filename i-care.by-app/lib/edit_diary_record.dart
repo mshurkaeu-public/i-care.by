@@ -839,7 +839,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
       ),
       body: Padding(
         padding: EdgeInsets.all(20),
-        child: _TwoColumnsView(
+        child: _TwoAreasSplitView(
           initialFirstAreaWeight: widget._firstColumnInitialWeight,
           firstArea: getFirstColumnChild(l10n),
           secondArea: Column(
@@ -931,8 +931,8 @@ class _ToTheListOfDoneButton extends StatelessWidget {
   }
 }
 
-class _TwoColumnsView extends StatefulWidget {
-  _TwoColumnsView({
+class _TwoAreasSplitView extends StatefulWidget {
+  _TwoAreasSplitView({
     required this.firstArea,
     required this.initialFirstAreaWeight,
     required this.secondArea,
@@ -944,10 +944,10 @@ class _TwoColumnsView extends StatefulWidget {
   final Widget secondArea;
 
   @override
-  State<StatefulWidget> createState() => _TwoColumnsViewState();
+  State<StatefulWidget> createState() => _TwoAreasSplitViewState();
 }
 
-class _TwoColumnsViewState extends State<_TwoColumnsView> {
+class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
   MultiSplitViewController _multiSplitViewController = MultiSplitViewController();
 
   void _onDividerDoubleTap(int dividerIndex) {
@@ -1198,7 +1198,7 @@ class _WhatDoYouWantToDoForThePersonsState
       content.add(
         SizedBox(
           height: 180,
-          child: _TwoColumnsView(
+          child: _TwoAreasSplitView(
             initialFirstAreaWeight: 0.6,
             firstArea: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -1375,7 +1375,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
       );
     }
 
-    return _TwoColumnsView(
+    return _TwoAreasSplitView(
       initialFirstAreaWeight: 0.6,
       firstArea: SingleChildScrollView(
         padding: EdgeInsets.only(right: 20),
@@ -1527,7 +1527,7 @@ abstract class _WhatIsDoneRequestContainerState
             ],
             children: [
               getFirstRowChild(l10n),
-              _TwoColumnsView(
+              _TwoAreasSplitView(
                 initialFirstAreaWeight: 0.6,
                 firstArea:
                   Column(
