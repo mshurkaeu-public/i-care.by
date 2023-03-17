@@ -841,7 +841,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
         padding: EdgeInsets.all(20),
         child: _TwoColumnsView(
           initialLeftColumnWeight: widget._firstColumnInitialWeight,
-          leftColumn: getFirstColumnChild(l10n),
+          firstArea: getFirstColumnChild(l10n),
           rightColumn: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -934,12 +934,12 @@ class _ToTheListOfDoneButton extends StatelessWidget {
 class _TwoColumnsView extends StatefulWidget {
   _TwoColumnsView({
     required this.initialLeftColumnWeight,
-    required this.leftColumn,
+    required this.firstArea,
     required this.rightColumn,
   });
 
   final double initialLeftColumnWeight;
-  final Widget leftColumn;
+  final Widget firstArea;
   final Widget rightColumn;
 
   @override
@@ -980,7 +980,7 @@ class _TwoColumnsViewState extends State<_TwoColumnsView> {
         children: [
           Padding(
             padding: EdgeInsets.only(right: 9),
-            child: widget.leftColumn,
+            child: widget.firstArea,
           ),
           Padding(
             padding: EdgeInsets.only(left: 9),
@@ -1195,7 +1195,7 @@ class _WhatDoYouWantToDoForThePersonsState
           height: 180,
           child: _TwoColumnsView(
             initialLeftColumnWeight: 0.6,
-            leftColumn: Column(
+            firstArea: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
@@ -1372,7 +1372,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
 
     return _TwoColumnsView(
       initialLeftColumnWeight: 0.6,
-      leftColumn: SingleChildScrollView(
+      firstArea: SingleChildScrollView(
         padding: EdgeInsets.only(right: 20),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
@@ -1524,7 +1524,7 @@ abstract class _WhatIsDoneRequestContainerState
               getFirstRowChild(l10n),
               _TwoColumnsView(
                 initialLeftColumnWeight: 0.6,
-                leftColumn:
+                firstArea:
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
