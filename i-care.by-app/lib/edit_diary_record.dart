@@ -938,6 +938,7 @@ class _TwoColumnsView extends StatefulWidget {
     required this.secondArea,
   });
 
+  final Axis axis = Axis.horizontal;
   final Widget firstArea;
   final double initialFirstAreaWeight;
   final Widget secondArea;
@@ -974,7 +975,7 @@ class _TwoColumnsViewState extends State<_TwoColumnsView> {
         ),
       ),
       child: MultiSplitView(
-        axis: Axis.horizontal,
+        axis: widget.axis,
         controller: _multiSplitViewController,
         onDividerDoubleTap: _onDividerDoubleTap,
         children: [
