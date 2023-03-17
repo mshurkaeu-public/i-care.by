@@ -1134,21 +1134,24 @@ class _WhatDoYouWantToDoForThePersonsState
 
       content.add(SizedBox(height: 20));
       content.add(
-        Text(
-          question,
-          style: themeData.textTheme.titleMedium,
-        ),
-      );
-      content.add(
-        TextField(
-          controller: _wantToDoControllers[i],
-          decoration: InputDecoration(
-            border: OutlineInputBorder(),
-            hintText: l10n.exampleOfWantToDoForTmipiml,
-            hintStyle: _getMyHintStyle(themeData),
-          ),
-          minLines: 5,
-          maxLines: 7,
+        Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              question,
+              style: themeData.textTheme.titleMedium,
+            ),
+            TextField(
+              controller: _wantToDoControllers[i],
+              decoration: InputDecoration(
+                border: OutlineInputBorder(),
+                hintText: l10n.exampleOfWantToDoForTmipiml,
+                hintStyle: _getMyHintStyle(themeData),
+              ),
+              minLines: 5,
+              maxLines: 7,
+            ),
+          ],
         ),
       );
     }
