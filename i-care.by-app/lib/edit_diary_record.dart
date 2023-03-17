@@ -1109,7 +1109,7 @@ class _WhatDoYouWantToDoForThePersonsState
     ThemeData themeData = Theme.of(context);
 
     List<Widget> content = [];
-    for (int i = 0; i < _wantToDoControllers.length; i++) {
+    for (int i = 0; i < widget._persons.length; i++) {
       String personName = widget._persons[i];
       String question;
       if (personName == myself) {
