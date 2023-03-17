@@ -967,6 +967,14 @@ class _TwoColumnsView extends StatefulWidget {
 class _TwoColumnsViewState extends State<_TwoColumnsView> {
   MultiSplitViewController _multiSplitViewController = MultiSplitViewController();
 
+  void _restoreDefaultColumnsWeights() {
+    _multiSplitViewController.areas = [
+      Area(
+        weight: widget.initialLeftColumnWeight,
+      ),
+    ];
+  }
+
   @override
   Widget build(BuildContext context) {
     ThemeData themeData = Theme.of(context);
@@ -1007,11 +1015,7 @@ class _TwoColumnsViewState extends State<_TwoColumnsView> {
   void initState() {
     super.initState();
 
-    _multiSplitViewController.areas = [
-      Area(
-        weight: widget.initialLeftColumnWeight,
-      ),
-    ];
+    _restoreDefaultColumnsWeights();
   }
 }
 
