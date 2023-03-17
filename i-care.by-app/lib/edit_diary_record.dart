@@ -1370,13 +1370,9 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
       );
     }
 
-    return MultiSplitView(
-      axis: Axis.horizontal,
-      initialAreas: [
-        Area(weight: 0.6, minimalSize: 40),
-        Area(weight: 0.4, minimalSize: 40),
-      ],
-      children: [
+    return _TwoColumnsView(
+      initialLeftColumnWeight: 0.6,
+      leftColumn:
         SingleChildScrollView(
           padding: EdgeInsets.only(right: 20),
           child: Column(
@@ -1384,13 +1380,13 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
             children: wantedToDoColumnChildren,
           ),
         ),
+      rightColumn:
         SingleChildScrollView(
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: eafOnWantedToDoColumnChildren,
           ),
         ),
-      ],
     );
   }
 }
