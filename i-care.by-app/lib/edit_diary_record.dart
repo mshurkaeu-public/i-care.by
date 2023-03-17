@@ -1134,24 +1134,48 @@ class _WhatDoYouWantToDoForThePersonsState
 
       content.add(SizedBox(height: 20));
       content.add(
-        Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              question,
-              style: themeData.textTheme.titleMedium,
-            ),
-            TextField(
-              controller: _wantToDoControllers[i],
-              decoration: InputDecoration(
-                border: OutlineInputBorder(),
-                hintText: l10n.exampleOfWantToDoForTmipiml,
-                hintStyle: _getMyHintStyle(themeData),
+        SizedBox(
+          height: 180,
+          child: MultiSplitViewTheme(
+            data: MultiSplitViewThemeData(
+              dividerPainter: DividerPainters.dashed(
+                color: themeData.dividerColor,
+                highlightedColor: themeData.indicatorColor,
               ),
-              minLines: 5,
-              maxLines: 7,
             ),
-          ],
+            child: MultiSplitView(
+              axis: Axis.horizontal,
+              initialAreas: [
+                Area(
+                  weight: 0.6,
+                  minimalSize: 40,
+                ),
+                Area(minimalSize: 40),
+              ],
+              children: [
+                Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      question,
+                      style: themeData.textTheme.titleMedium,
+                    ),
+                    TextField(
+                      controller: _wantToDoControllers[i],
+                      decoration: InputDecoration(
+                        border: OutlineInputBorder(),
+                        hintText: l10n.exampleOfWantToDoForTmipiml,
+                        hintStyle: _getMyHintStyle(themeData),
+                      ),
+                      minLines: 5,
+                      maxLines: 7,
+                    ),
+                  ],
+                ),
+                Column(),
+              ],
+            ),
+          ),
         ),
       );
     }
