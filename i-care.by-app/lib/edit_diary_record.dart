@@ -843,29 +843,28 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
           initialLeftColumnWeight: widget._firstColumnInitialWeight,
           leftColumn: getFirstColumnChild(l10n),
           rightColumn: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(l10n.questionAboutCurrentEmotionsAndFeelings(
-                      widget._userName, widget._userPreferredPronoun)),
-                  SizedBox(height: 10),
-                  Expanded(
-                    child: TextField(
-                      controller: _emotionsAndFeelingsController,
-                      decoration: InputDecoration(
-                        border: OutlineInputBorder(),
-                        hintText:
-                            l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-                                widget._userName, widget._userPreferredPronoun),
-                        hintStyle: _getMyHintStyle(themeData),
-                      ),
-                      maxLines: null,
-                      minLines: 5,
-                    ),
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(l10n.questionAboutCurrentEmotionsAndFeelings(
+                  widget._userName, widget._userPreferredPronoun)),
+              SizedBox(height: 10),
+              Expanded(
+                child: TextField(
+                  controller: _emotionsAndFeelingsController,
+                  decoration: InputDecoration(
+                    border: OutlineInputBorder(),
+                    hintText: l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                        widget._userName, widget._userPreferredPronoun),
+                    hintStyle: _getMyHintStyle(themeData),
                   ),
-                ],
+                  maxLines: null,
+                  minLines: 5,
+                ),
               ),
+            ],
           ),
         ),
+      ),
     );
   }
 
