@@ -823,6 +823,15 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
     extends State<_OneEmotionsAndFeelingsRequestContainer> {
   late final TextEditingController _emotionsAndFeelingsController;
 
+  _saveEmotionsAndFeelingsIntoDiaryRecord() {
+    String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
+    if (emotionsAndFeelings.isEmpty) {
+      emotionsAndFeelings = null;
+    }
+
+    widget.diaryRecord.emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -892,12 +901,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
   }
 
   void onDoneButtonPressed() {
-    String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
-    if (emotionsAndFeelings.isEmpty) {
-      emotionsAndFeelings = null;
-    }
-
-    widget.diaryRecord.emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
+    _saveEmotionsAndFeelingsIntoDiaryRecord();
   }
 
   void onNextButtonPressed();
