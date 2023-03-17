@@ -1522,16 +1522,9 @@ abstract class _WhatIsDoneRequestContainerState
             ],
             children: [
               getFirstRowChild(l10n),
-              MultiSplitView(
-                axis: Axis.horizontal,
-                initialAreas: [
-                  Area(
-                    weight: 0.6,
-                    minimalSize: 40,
-                  ),
-                  Area(minimalSize: 40),
-                ],
-                children: [
+              _TwoColumnsView(
+                initialLeftColumnWeight: 0.6,
+                leftColumn:
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
@@ -1549,6 +1542,7 @@ abstract class _WhatIsDoneRequestContainerState
                       ),
                     ],
                   ),
+                rightColumn:
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
@@ -1572,7 +1566,6 @@ abstract class _WhatIsDoneRequestContainerState
                       ),
                     ],
                   ),
-                ],
               ),
             ],
           ),
