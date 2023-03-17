@@ -1125,6 +1125,8 @@ class _WhatDoYouWantToDoForThePersonState
 
   @override
   void onNextButtonPressed() {
+    _saveWantToDoIntoDiaryRecord();
+
     super.onNextButtonPressed();
 
     (widget as _WhatDoYouWantToDoForThePerson)._onNextButtonPressed(
