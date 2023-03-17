@@ -93,7 +93,7 @@ class DiaryRecord {
     return _data[_emotionsAndFeelingsOnWantToDoKey] as List<String>?;
   }
 
-  set emotionsAndFeelingsOnWantToDoSeveral(List<String>? value) {
+  set emotionsAndFeelingsOnWantToDoForSeveral(List<String>? value) {
     if (who != TheMostImportantPersonInMyLife.several) {
       throw UnsupportedError(
           'Multiple emotions and feelings lists are meaningful only if "who" is "several".');
