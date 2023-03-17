@@ -839,25 +839,10 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
       ),
       body: Padding(
         padding: EdgeInsets.all(20),
-        child: MultiSplitViewTheme(
-          data: MultiSplitViewThemeData(
-            dividerPainter: DividerPainters.dashed(
-              color: themeData.dividerColor,
-              highlightedColor: themeData.indicatorColor,
-            ),
-          ),
-          child: MultiSplitView(
-            axis: Axis.horizontal,
-            initialAreas: [
-              Area(
-                weight: widget._firstColumnInitialWeight,
-                minimalSize: 40,
-              ),
-              Area(minimalSize: 40),
-            ],
-            children: [
-              getFirstColumnChild(l10n),
-              Column(
+        child: _TwoColumnsView(
+          initialLeftColumnWeight: widget._firstColumnInitialWeight,
+          leftColumn: getFirstColumnChild(l10n),
+          rightColumn: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(l10n.questionAboutCurrentEmotionsAndFeelings(
@@ -879,10 +864,8 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
                   ),
                 ],
               ),
-            ],
           ),
         ),
-      ),
     );
   }
 
