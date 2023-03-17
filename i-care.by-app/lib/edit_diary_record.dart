@@ -1149,9 +1149,7 @@ class _WhatDoYouWantToDoForThePersonsState
               initialAreas: [
                 Area(
                   weight: 0.6,
-                  minimalSize: 40,
                 ),
-                Area(minimalSize: 40),
               ],
               children: [
                 Padding(
