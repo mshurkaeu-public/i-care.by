@@ -1189,59 +1189,58 @@ class _WhatDoYouWantToDoForThePersonsState
           child: _TwoColumnsView(
             initialLeftColumnWeight: 0.6,
             leftColumn: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(
-                        question,
-                        style: themeData.textTheme.titleMedium,
-                      ),
-                      Expanded(
-                        child: TextField(
-                          controller: _wantToDoControllers[i],
-                          decoration: InputDecoration(
-                            border: OutlineInputBorder(),
-                            hintText: l10n.exampleOfWantToDoForTmipiml,
-                            hintStyle: _getMyHintStyle(themeData),
-                          ),
-                          expands: true,
-                          maxLines: null,
-                          textAlignVertical: TextAlignVertical.top,
-                        ),
-                      ),
-                    ],
-                  ),
-            rightColumn: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(
-                        l10n.questionAboutCurrentEmotionsAndFeelings(
-                          userName,
-                          userPreferredPronoun,
-                        ),
-                        style: themeData.textTheme.titleMedium,
-                      ),
-                      Expanded(
-                        child: TextField(
-                          controller:
-                              _emotionsAndFeelingsOnWantToDoControllers[i],
-                          decoration: InputDecoration(
-                            border: OutlineInputBorder(),
-                            hintText: l10n
-                                .questionAboutCurrentEmotionsAndFeelingsHints(
-                              userName,
-                              userPreferredPronoun,
-                            ),
-                            hintStyle: _getMyHintStyle(themeData),
-                          ),
-                          expands: true,
-                          maxLines: null,
-                          textAlignVertical: TextAlignVertical.top,
-                        ),
-                      ),
-                    ],
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  question,
+                  style: themeData.textTheme.titleMedium,
+                ),
+                Expanded(
+                  child: TextField(
+                    controller: _wantToDoControllers[i],
+                    decoration: InputDecoration(
+                      border: OutlineInputBorder(),
+                      hintText: l10n.exampleOfWantToDoForTmipiml,
+                      hintStyle: _getMyHintStyle(themeData),
+                    ),
+                    expands: true,
+                    maxLines: null,
+                    textAlignVertical: TextAlignVertical.top,
                   ),
                 ),
+              ],
             ),
+            rightColumn: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  l10n.questionAboutCurrentEmotionsAndFeelings(
+                    userName,
+                    userPreferredPronoun,
+                  ),
+                  style: themeData.textTheme.titleMedium,
+                ),
+                Expanded(
+                  child: TextField(
+                    controller: _emotionsAndFeelingsOnWantToDoControllers[i],
+                    decoration: InputDecoration(
+                      border: OutlineInputBorder(),
+                      hintText:
+                          l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                        userName,
+                        userPreferredPronoun,
+                      ),
+                      hintStyle: _getMyHintStyle(themeData),
+                    ),
+                    expands: true,
+                    maxLines: null,
+                    textAlignVertical: TextAlignVertical.top,
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
       );
     }
 
