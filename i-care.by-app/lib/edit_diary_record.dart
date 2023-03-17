@@ -980,11 +980,15 @@ class _TwoColumnsViewState extends State<_TwoColumnsView> {
         onDividerDoubleTap: _onDividerDoubleTap,
         children: [
           Padding(
-            padding: EdgeInsets.only(right: 9),
+            padding: (widget.axis == Axis.horizontal)
+                ? EdgeInsets.only(right: 9)
+                : EdgeInsets.only(bottom: 9),
             child: widget.firstArea,
           ),
           Padding(
-            padding: EdgeInsets.only(left: 9),
+            padding: (widget.axis == Axis.horizontal)
+                ? EdgeInsets.only(left: 9)
+                : EdgeInsets.only(top: 9),
             child: widget.secondArea,
           ),
         ],
