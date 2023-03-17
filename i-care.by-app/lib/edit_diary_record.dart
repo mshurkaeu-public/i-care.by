@@ -1083,7 +1083,7 @@ class _WhatDoYouWantToDoForThePersonsState
   void _onDoneButtonPressed() {
     List<String> wantToDoForSeveral = [];
     List<String> emotionsAndFeelingsOnWantToDoForSeveral = [];
-    for (int i = 0; i < _wantToDoControllers.length; i++) {
+    for (int i = 0; i < widget._persons.length; i++) {
       String wantToDo = _wantToDoControllers[i].text;
       wantToDoForSeveral.add(wantToDo);
 
