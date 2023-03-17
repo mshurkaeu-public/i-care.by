@@ -1077,15 +1077,25 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
 class _WhatDoYouWantToDoForThePersonsState
     extends State<_WhatDoYouWantToDoForThePersons> {
   final List<TextEditingController> _wantToDoControllers = [];
+  final List<TextEditingController> _emotionsAndFeelingsOnWantToDoControllers =
+      [];
 
   void _onDoneButtonPressed() {
     List<String> wantToDoForSeveral = [];
+    List<String> emotionsAndFeelingsOnWantToDoForSeveral = [];
     for (int i = 0; i < _wantToDoControllers.length; i++) {
       String wantToDo = _wantToDoControllers[i].text;
       wantToDoForSeveral.add(wantToDo);
+
+      String emotionsAndFeelingsOnWantToDo =
+          _emotionsAndFeelingsOnWantToDoControllers[i].text;
+      emotionsAndFeelingsOnWantToDoForSeveral
+          .add(emotionsAndFeelingsOnWantToDo);
     }
 
     widget.diaryRecord.wantToDoForSeveral = wantToDoForSeveral;
+    widget.diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral =
+        emotionsAndFeelingsOnWantToDoForSeveral;
 
     widget.onDoneButtonPressed();
   }
@@ -1161,6 +1171,9 @@ class _WhatDoYouWantToDoForThePersonsState
     for (int i = 0; i < _wantToDoControllers.length; i++) {
       _wantToDoControllers[i].dispose();
     }
+    for (int i = 0; i < _emotionsAndFeelingsOnWantToDoControllers.length; i++) {
+      _emotionsAndFeelingsOnWantToDoControllers[i].dispose();
+    }
 
     super.dispose();
   }
@@ -1171,12 +1184,20 @@ class _WhatDoYouWantToDoForThePersonsState
 
     List<String> wantToDoForSeveral =
         widget.diaryRecord.wantToDoForSeveral ?? [];
+    List<String> emotionsAndFeelingsOnWantToDoForSeveral =
+        widget.diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral ?? [];
     for (int i = 0; i < widget._persons.length; i++) {
       TextEditingController controller = TextEditingController();
       if (i < wantToDoForSeveral.length) {
         controller.text = wantToDoForSeveral[i];
       }
       _wantToDoControllers.add(controller);
+
+      controller = TextEditingController();
+      if (i < emotionsAndFeelingsOnWantToDoForSeveral.length) {
+        controller.text = emotionsAndFeelingsOnWantToDoForSeveral[i];
+      }
+      _emotionsAndFeelingsOnWantToDoControllers.add(controller);
     }
   }
 }
