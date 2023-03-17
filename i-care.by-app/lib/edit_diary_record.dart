@@ -904,7 +904,9 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
     _saveEmotionsAndFeelingsIntoDiaryRecord();
   }
 
-  void onNextButtonPressed();
+  void onNextButtonPressed() {
+    _saveEmotionsAndFeelingsIntoDiaryRecord();
+  }
 }
 
 class _ToTheListOfDoneButton extends StatelessWidget {
