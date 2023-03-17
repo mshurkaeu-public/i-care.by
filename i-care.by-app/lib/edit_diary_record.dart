@@ -1174,7 +1174,35 @@ class _WhatDoYouWantToDoForThePersonsState
                     ),
                   ],
                 ),
-                Column(),
+                Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      l10n.questionAboutCurrentEmotionsAndFeelings(
+                        userName,
+                        userPreferredPronoun,
+                      ),
+                      style: themeData.textTheme.titleMedium,
+                    ),
+                    Expanded(
+                      child: TextField(
+                        controller:
+                            _emotionsAndFeelingsOnWantToDoControllers[i],
+                        decoration: InputDecoration(
+                          border: OutlineInputBorder(),
+                          hintText:
+                              l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                            userName,
+                            userPreferredPronoun,
+                          ),
+                          hintStyle: _getMyHintStyle(themeData),
+                        ),
+                        minLines: 5,
+                        maxLines: 7,
+                      ),
+                    ),
+                  ],
+                ),
               ],
             ),
           ),
