@@ -1054,6 +1054,14 @@ class _WhatDoYouWantToDoForThePersonState
     return res;
   }
 
+  void _saveWantToDoIntoDiaryRecord() {
+    String? wantToDo = _wantToDoController.text;
+    if (wantToDo.isEmpty) {
+      wantToDo = null;
+    }
+    widget.diaryRecord.wantToDo = wantToDo;
+  }
+
   @override
   void dispose() {
     _wantToDoController.dispose();
@@ -1108,11 +1116,7 @@ class _WhatDoYouWantToDoForThePersonState
 
   @override
   void onDoneButtonPressed() {
-    String? wantToDo = _wantToDoController.text;
-    if (wantToDo.isEmpty) {
-      wantToDo = null;
-    }
-    widget.diaryRecord.wantToDo = wantToDo;
+    _saveWantToDoIntoDiaryRecord();
 
     super.onDoneButtonPressed();
 
