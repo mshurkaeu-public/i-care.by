@@ -1141,7 +1141,7 @@ class _WhatDoYouWantToDoForThePersonsState
               dividerPainter: DividerPainters.dashed(
                 color: themeData.dividerColor,
                 highlightedColor: themeData.indicatorColor,
-                thickness: 1,
+                thickness: 3,
               ),
             ),
             child: MultiSplitView(
@@ -1155,7 +1155,7 @@ class _WhatDoYouWantToDoForThePersonsState
               ],
               children: [
                 Padding(
-                  padding: EdgeInsets.only(right: 10),
+                  padding: EdgeInsets.only(right: 9),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
@@ -1180,7 +1180,7 @@ class _WhatDoYouWantToDoForThePersonsState
                   ),
                 ),
                 Padding(
-                  padding: EdgeInsets.only(left: 10),
+                  padding: EdgeInsets.only(left: 9),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
