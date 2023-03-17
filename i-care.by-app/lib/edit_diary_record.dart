@@ -1520,17 +1520,12 @@ abstract class _WhatIsDoneRequestContainerState
               highlightedColor: themeData.indicatorColor,
             ),
           ),
-          child: MultiSplitView(
+          child: _TwoAreasSplitView(
             axis: Axis.vertical,
-            initialAreas: [
-              Area(
-                weight: widget._firstRowInitialWeight,
-                minimalSize: 40,
-              ),
-              Area(minimalSize: 40),
-            ],
-            children: [
+            initialFirstAreaWeight: widget._firstRowInitialWeight,
+            firstArea:
               getFirstRowChild(l10n),
+            secondArea:
               _TwoAreasSplitView(
                 axis: Axis.horizontal,
                 initialFirstAreaWeight: 0.6,
@@ -1577,7 +1572,6 @@ abstract class _WhatIsDoneRequestContainerState
                     ],
                   ),
               ),
-            ],
           ),
         ),
       ),
