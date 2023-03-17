@@ -840,6 +840,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
       body: Padding(
         padding: EdgeInsets.all(20),
         child: _TwoAreasSplitView(
+          axis: Axis.horizontal,
           initialFirstAreaWeight: widget._firstColumnInitialWeight,
           firstArea: getFirstColumnChild(l10n),
           secondArea: Column(
@@ -933,12 +934,13 @@ class _ToTheListOfDoneButton extends StatelessWidget {
 
 class _TwoAreasSplitView extends StatefulWidget {
   _TwoAreasSplitView({
+    required this.axis,
     required this.firstArea,
     required this.initialFirstAreaWeight,
     required this.secondArea,
   });
 
-  final Axis axis = Axis.horizontal;
+  final Axis axis;
   final Widget firstArea;
   final double initialFirstAreaWeight;
   final Widget secondArea;
@@ -1199,6 +1201,7 @@ class _WhatDoYouWantToDoForThePersonsState
         SizedBox(
           height: 180,
           child: _TwoAreasSplitView(
+            axis: Axis.horizontal,
             initialFirstAreaWeight: 0.6,
             firstArea: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
@@ -1376,6 +1379,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     }
 
     return _TwoAreasSplitView(
+      axis: Axis.horizontal,
       initialFirstAreaWeight: 0.6,
       firstArea: SingleChildScrollView(
         padding: EdgeInsets.only(right: 20),
@@ -1528,6 +1532,7 @@ abstract class _WhatIsDoneRequestContainerState
             children: [
               getFirstRowChild(l10n),
               _TwoAreasSplitView(
+                axis: Axis.horizontal,
                 initialFirstAreaWeight: 0.6,
                 firstArea:
                   Column(
