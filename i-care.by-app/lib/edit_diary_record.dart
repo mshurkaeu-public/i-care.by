@@ -1158,12 +1158,9 @@ class _WhatDoYouWantToDoForThePersonsState
           _DoneButton(_onDoneButtonPressed),
         ],
       ),
-      body: SingleChildScrollView(
+      body: ListView(
         padding: EdgeInsets.fromLTRB(20, 0, 20, 0),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: content,
-        ),
+        children: content,
       ),
     );
   }
