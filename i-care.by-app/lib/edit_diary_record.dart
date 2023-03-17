@@ -1133,10 +1133,12 @@ class _WhatDoYouWantToDoForThePersonsState
       }
 
       content.add(SizedBox(height: 20));
-      content.add(Text(
-        question,
-        style: themeData.textTheme.titleMedium,
-      ));
+      content.add(
+        Text(
+          question,
+          style: themeData.textTheme.titleMedium,
+        ),
+      );
       content.add(
         TextField(
           controller: _wantToDoControllers[i],
