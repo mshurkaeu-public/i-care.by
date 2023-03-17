@@ -933,13 +933,13 @@ class _ToTheListOfDoneButton extends StatelessWidget {
 
 class _TwoColumnsView extends StatefulWidget {
   _TwoColumnsView({
-    required this.initialFirstAreaWeight,
     required this.firstArea,
+    required this.initialFirstAreaWeight,
     required this.secondArea,
   });
 
-  final double initialFirstAreaWeight;
   final Widget firstArea;
+  final double initialFirstAreaWeight;
   final Widget secondArea;
 
   @override
