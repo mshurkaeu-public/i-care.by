@@ -92,7 +92,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   TmipimlIsParent? _parent;
   List<String>? _severalPersonsNames;
   TmipimlIsSpouceOrPartner? _spouceOrPartner;
-  String? _wantToDo;
 
   void _copyFieldsFromStagingArea(DiaryRecord toRecord,
       {required DiaryRecord fromRecord}) {
@@ -200,7 +199,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
   void _onNextWantToDoWithEmotionsAndFeelings() {
     setState(() {
-      _wantToDo = _stagingDiaryRecord.wantToDo;
     });
     _onSubmitSecondScreen();
   }
@@ -355,7 +353,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       _parent = null;
       _severalPersonsNames = null;
       _spouceOrPartner = null;
-      _wantToDo = null;
     });
   }
 
@@ -639,7 +636,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
       case TheMostImportantPersonInMyLife.another:
         _anotherPersonName = data.whoName;
-        _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_anotherPersonName != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
             ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
@@ -649,7 +645,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
       case TheMostImportantPersonInMyLife.child:
         _child = data.whoSubclass as TmipimlIsChild;
-        _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_child != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
             ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
@@ -667,7 +662,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
       case TheMostImportantPersonInMyLife.grandparent:
         _grandparent = data.whoSubclass as TmipimlIsGrandparent;
-        _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_grandparent != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
             ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
@@ -676,7 +670,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
 
       case TheMostImportantPersonInMyLife.me:
-        _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = true;
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
             ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
@@ -686,7 +679,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
       case TheMostImportantPersonInMyLife.parent:
         _parent = data.whoSubclass as TmipimlIsParent;
-        _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_parent != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
             ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
@@ -702,7 +694,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
       case TheMostImportantPersonInMyLife.spouseOrPartner:
         _spouceOrPartner = data.whoSubclass as TmipimlIsSpouceOrPartner;
-        _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_spouceOrPartner != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
             ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
