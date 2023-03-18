@@ -196,8 +196,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 
   void _onNextWantToDoWithEmotionsAndFeelings() {
-    setState(() {
-    });
     _onSubmitSecondScreen();
   }
 
