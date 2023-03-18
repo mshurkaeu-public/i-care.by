@@ -793,8 +793,8 @@ class _MessageToTheUserState
   }
 
   @override
-  void onNextButtonPressed() {
-    super.onNextButtonPressed();
+  void _onNextButtonPressed() {
+    super._onNextButtonPressed();
 
     widget.onNextButtonPressed();
   }
@@ -842,7 +842,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
         leading: _BackToPreviousQuestionButton(),
         title: getAppBarTitle(l10n),
         actions: [
-          _ToTheListOfDoneButton(onNextButtonPressed),
+          _ToTheListOfDoneButton(_onNextButtonPressed),
           _DoneButton(onDoneButtonPressed),
         ],
       ),
@@ -903,7 +903,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
     _saveEmotionsAndFeelingsIntoDiaryRecord();
   }
 
-  void onNextButtonPressed() {
+  void _onNextButtonPressed() {
     _saveEmotionsAndFeelingsIntoDiaryRecord();
   }
 }
@@ -1118,10 +1118,10 @@ class _WhatDoYouWantToDoForThePersonState
   }
 
   @override
-  void onNextButtonPressed() {
+  void _onNextButtonPressed() {
     _saveWantToDoIntoDiaryRecord();
 
-    super.onNextButtonPressed();
+    super._onNextButtonPressed();
 
     widget.onNextButtonPressed();
   }
