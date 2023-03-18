@@ -1040,7 +1040,7 @@ class _WhatDoYouWantToDoForThePerson
 
 class _WhatDoYouWantToDoForThePersonState
     extends _OneEmotionsAndFeelingsRequestContainerState {
-  late final TextEditingController _wantToDoController;
+  final TextEditingController _wantToDoController = TextEditingController();
 
   String _getTheQuestion(AppLocalizations l10n) {
     String res = Messages.whatDoYouWantToDo(
@@ -1107,7 +1107,6 @@ class _WhatDoYouWantToDoForThePersonState
   void initState() {
     super.initState();
 
-    _wantToDoController = TextEditingController();
     if (widget.diaryRecord.wantToDo != null) {
       _wantToDoController.text = widget.diaryRecord.wantToDo!;
     }
