@@ -1021,12 +1021,12 @@ class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
 class _WhatDoYouWantToDoForThePerson
     extends _OneEmotionsAndFeelingsRequestContainer {
   _WhatDoYouWantToDoForThePerson(
-      String userName,
-      String userPreferredPronoun,
-      DiaryRecord diaryRecord,
-      this.onDoneButtonPressed,
-      {required super.onNextButtonPressed})
-      : super(userName, userPreferredPronoun, diaryRecord, 0.6);
+    String userName,
+    String userPreferredPronoun,
+    DiaryRecord diaryRecord,
+    this.onDoneButtonPressed, {
+    required super.onNextButtonPressed,
+  }) : super(userName, userPreferredPronoun, diaryRecord, 0.6);
 
   final void Function() onDoneButtonPressed;
 
