@@ -245,7 +245,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               userPreferredPronoun,
               _getMessageToTheUserProvider(),
               _stagingDiaryRecord,
-              _onFinalSubmit,
+              onDoneButtonPressed: _onFinalSubmit,
               onNextButtonPressed: _onNextEmotionsAndFeelings,
             ),
           ),
@@ -753,14 +753,13 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
     String userName,
     String userPreferredPronoun,
     String Function(String, String) messageProvider,
-    DiaryRecord diaryRecord,
-    this.onDoneButtonPressed, {
+    DiaryRecord diaryRecord, {
+    required super.onDoneButtonPressed,
     required super.onNextButtonPressed,
   })  : _messageProvider = messageProvider,
-        super(userName, userPreferredPronoun, diaryRecord, 0.8, onDoneButtonPressed: onDoneButtonPressed);
+        super(userName, userPreferredPronoun, diaryRecord, 0.8);
 
   final String Function(String, String) _messageProvider;
-  final void Function() onDoneButtonPressed;
 
   @override
   State<StatefulWidget> createState() => _MessageToTheUserState();
