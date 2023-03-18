@@ -796,7 +796,7 @@ class _MessageToTheUserState
   void onNextButtonPressed() {
     super.onNextButtonPressed();
 
-    (widget as _MessageToTheUser).onNextButtonPressed();
+    widget.onNextButtonPressed();
   }
 }
 
