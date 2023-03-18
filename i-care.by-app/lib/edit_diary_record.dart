@@ -756,14 +756,13 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
       String Function(String, String) messageProvider,
       DiaryRecord diaryRecord,
       this.onDoneButtonPressed,
-      void Function(String) onNextButtonPressed)
+      this.onNextButtonPressed)
       : _messageProvider = messageProvider,
-        _onNextButtonPressed = onNextButtonPressed,
         super(userName, userPreferredPronoun, diaryRecord, 0.8);
 
   final String Function(String, String) _messageProvider;
   final void Function() onDoneButtonPressed;
-  final void Function(String) _onNextButtonPressed;
+  final void Function(String) onNextButtonPressed;
 
   @override
   State<StatefulWidget> createState() => _MessageToTheUserState();
@@ -800,7 +799,7 @@ class _MessageToTheUserState
     super.onNextButtonPressed();
 
     (widget as _MessageToTheUser)
-        ._onNextButtonPressed(_emotionsAndFeelingsController.text);
+        .onNextButtonPressed(_emotionsAndFeelingsController.text);
   }
 }
 
