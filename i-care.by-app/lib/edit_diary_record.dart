@@ -264,7 +264,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
                 userName,
                 userPreferredPronoun,
                 _stagingDiaryRecord,
-                _onFinalSubmit,
+                onDoneButtonPressed: _onFinalSubmit,
                 onNextButtonPressed: _onNextWantToDoWithEmotionsAndFeelings),
           ),
         );
@@ -1024,12 +1024,10 @@ class _WhatDoYouWantToDoForThePerson
   _WhatDoYouWantToDoForThePerson(
     String userName,
     String userPreferredPronoun,
-    DiaryRecord diaryRecord,
-    this.onDoneButtonPressed, {
+    DiaryRecord diaryRecord, {
+    required super.onDoneButtonPressed,
     required super.onNextButtonPressed,
-  }) : super(userName, userPreferredPronoun, diaryRecord, 0.6, onDoneButtonPressed: onDoneButtonPressed);
-
-  final void Function() onDoneButtonPressed;
+  }) : super(userName, userPreferredPronoun, diaryRecord, 0.6);
 
   @override
   State<StatefulWidget> createState() => _WhatDoYouWantToDoForThePersonState();
