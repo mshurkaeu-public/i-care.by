@@ -88,7 +88,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   late DiaryRecord _stagingDiaryRecord;
   String? _anotherPersonName;
   TmipimlIsChild? _child;
-  String? _emotionsAndFeelingsOnWantToDo;
   TmipimlIsGrandparent? _grandparent;
   TmipimlIsParent? _parent;
   List<String>? _severalPersonsNames;
@@ -195,14 +194,12 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
   void _onNextEmotionsAndFeelings() {
     setState(() {
-      _emotionsAndFeelingsOnWantToDo = _stagingDiaryRecord.emotionsAndFeelingsOnWantToDo;
     });
     _onSubmitSecondScreen();
   }
 
   void _onNextWantToDoWithEmotionsAndFeelings() {
     setState(() {
-      _emotionsAndFeelingsOnWantToDo = _stagingDiaryRecord.emotionsAndFeelingsOnWantToDo;
       _wantToDo = _stagingDiaryRecord.wantToDo;
     });
     _onSubmitSecondScreen();
@@ -354,7 +351,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       _stagingDiaryRecord.who = value;
       _anotherPersonName = null;
       _child = null;
-      _emotionsAndFeelingsOnWantToDo = null;
       _grandparent = null;
       _parent = null;
       _severalPersonsNames = null;
@@ -634,7 +630,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
 
       case TheMostImportantPersonInMyLife.absent:
-        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
         autoSubmitFirstScreen = true;
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
             (data.emotionsAndFeelingsOnWantToDo != null ||
@@ -644,7 +639,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
       case TheMostImportantPersonInMyLife.another:
         _anotherPersonName = data.whoName;
-        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_anotherPersonName != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
@@ -655,7 +649,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
       case TheMostImportantPersonInMyLife.child:
         _child = data.whoSubclass as TmipimlIsChild;
-        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_child != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
@@ -665,7 +658,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
 
       case TheMostImportantPersonInMyLife.dontKnow:
-        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
         autoSubmitFirstScreen = true;
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
             (data.emotionsAndFeelingsOnWantToDo != null ||
@@ -674,7 +666,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
 
       case TheMostImportantPersonInMyLife.grandparent:
-        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
         _grandparent = data.whoSubclass as TmipimlIsGrandparent;
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_grandparent != null);
@@ -685,7 +676,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
 
       case TheMostImportantPersonInMyLife.me:
-        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = true;
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
@@ -695,7 +685,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
 
       case TheMostImportantPersonInMyLife.parent:
-        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
         _parent = data.whoSubclass as TmipimlIsParent;
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_parent != null);
@@ -712,7 +701,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
 
       case TheMostImportantPersonInMyLife.spouseOrPartner:
-        _emotionsAndFeelingsOnWantToDo = data.emotionsAndFeelingsOnWantToDo;
         _spouceOrPartner = data.whoSubclass as TmipimlIsSpouceOrPartner;
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_spouceOrPartner != null);
