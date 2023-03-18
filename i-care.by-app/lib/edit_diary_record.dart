@@ -823,7 +823,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainer extends StatefulWidget {
 
 abstract class _OneEmotionsAndFeelingsRequestContainerState
     extends State<_OneEmotionsAndFeelingsRequestContainer> {
-  late final TextEditingController _emotionsAndFeelingsController;
+  final TextEditingController _emotionsAndFeelingsController = TextEditingController();
 
   _saveEmotionsAndFeelingsIntoDiaryRecord() {
     String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
@@ -895,7 +895,6 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
   void initState() {
     super.initState();
 
-    _emotionsAndFeelingsController = TextEditingController();
     if (widget.diaryRecord.emotionsAndFeelingsOnWantToDo != null) {
       _emotionsAndFeelingsController.text =
           widget.diaryRecord.emotionsAndFeelingsOnWantToDo!;
