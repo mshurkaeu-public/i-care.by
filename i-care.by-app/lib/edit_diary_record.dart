@@ -1503,7 +1503,8 @@ abstract class _WhatIsDoneRequestContainer extends StatefulWidget {
 abstract class _WhatIsDoneRequestContainerState
     extends State<_WhatIsDoneRequestContainer> {
   final TextEditingController _doneController = TextEditingController();
-  late final TextEditingController _emotionsAndFeelingsController;
+  final TextEditingController _emotionsAndFeelingsController =
+      TextEditingController();
 
   @override
   Widget build(BuildContext context) {
@@ -1610,7 +1611,6 @@ abstract class _WhatIsDoneRequestContainerState
       _doneController.text = widget._diaryRecord.done!;
     }
 
-    _emotionsAndFeelingsController = TextEditingController();
     if (widget._diaryRecord.emotionsAndFeelingsOnDone != null) {
       _emotionsAndFeelingsController.text =
           widget._diaryRecord.emotionsAndFeelingsOnDone!;
