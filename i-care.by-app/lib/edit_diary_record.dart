@@ -234,7 +234,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _copyFieldsFromStagingArea(_stagingDiaryRecord,
         fromRecord: _stagingDiaryRecord);
 
-    NavigatorState navigator = Navigator.of(context);
     Widget secondScreen;
     switch (_theMostImportantPerson!) {
       case TheMostImportantPersonInMyLife.absent:
@@ -274,6 +273,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
     }
 
+    NavigatorState navigator = Navigator.of(context);
     navigator.push(
       MaterialPageRoute(
         builder: (BuildContext context) => secondScreen,
