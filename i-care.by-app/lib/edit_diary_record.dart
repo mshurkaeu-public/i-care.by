@@ -750,13 +750,13 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
 class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
   _MessageToTheUser(
-      String userName,
-      String userPreferredPronoun,
-      String Function(String, String) messageProvider,
-      DiaryRecord diaryRecord,
-      this.onDoneButtonPressed,
-      {required super.onNextButtonPressed})
-      : _messageProvider = messageProvider,
+    String userName,
+    String userPreferredPronoun,
+    String Function(String, String) messageProvider,
+    DiaryRecord diaryRecord,
+    this.onDoneButtonPressed, {
+    required super.onNextButtonPressed,
+  })  : _messageProvider = messageProvider,
         super(userName, userPreferredPronoun, diaryRecord, 0.8);
 
   final String Function(String, String) _messageProvider;
