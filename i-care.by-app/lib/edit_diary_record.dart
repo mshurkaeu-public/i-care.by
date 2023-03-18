@@ -764,6 +764,21 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
 
 class _MessageToTheUserState
     extends _OneEmotionsAndFeelingsRequestContainerState {
+
+  @override
+  void _onDoneButtonPressed() {
+    super._onDoneButtonPressed();
+
+    widget.onDoneButtonPressed();
+  }
+
+  @override
+  void _onNextButtonPressed() {
+    super._onNextButtonPressed();
+
+    widget.onNextButtonPressed();
+  }
+
   @override
   Widget getAppBarTitle(AppLocalizations l10n) {
     String question = l10n.questionAboutCurrentEmotionsAndFeelings(
@@ -779,20 +794,6 @@ class _MessageToTheUserState
     return SingleChildScrollView(
       child: Text(w._messageProvider(w._userName, w._userPreferredPronoun)),
     );
-  }
-
-  @override
-  void _onDoneButtonPressed() {
-    super._onDoneButtonPressed();
-
-    widget.onDoneButtonPressed();
-  }
-
-  @override
-  void _onNextButtonPressed() {
-    super._onNextButtonPressed();
-
-    widget.onNextButtonPressed();
   }
 }
 
