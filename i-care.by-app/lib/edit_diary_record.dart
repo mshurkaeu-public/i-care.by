@@ -200,11 +200,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitSecondScreen();
   }
 
-  void _onNextWantToDoWithEmotionsAndFeelings(
-      String wantToDo, String emotionsAndFeelings) {
+  void _onNextWantToDoWithEmotionsAndFeelings() {
     setState(() {
-      _emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
-      _wantToDo = wantToDo;
+      _emotionsAndFeelingsOnWantToDo = _stagingDiaryRecord.emotionsAndFeelingsOnWantToDo;
+      _wantToDo = _stagingDiaryRecord.wantToDo;
     });
     _onSubmitSecondScreen();
   }
@@ -1030,7 +1029,7 @@ class _WhatDoYouWantToDoForThePerson
       : super(userName, userPreferredPronoun, diaryRecord, 0.6);
 
   final void Function() onDoneButtonPressed;
-  final void Function(String, String) onNextButtonPressed;
+  final void Function() onNextButtonPressed;
 
   @override
   State<StatefulWidget> createState() => _WhatDoYouWantToDoForThePersonState();
@@ -1125,8 +1124,7 @@ class _WhatDoYouWantToDoForThePersonState
 
     super.onNextButtonPressed();
 
-    (widget as _WhatDoYouWantToDoForThePerson).onNextButtonPressed(
-        _wantToDoController.text, _emotionsAndFeelingsController.text);
+    (widget as _WhatDoYouWantToDoForThePerson).onNextButtonPressed();
   }
 }
 
