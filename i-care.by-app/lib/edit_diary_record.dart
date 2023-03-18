@@ -191,10 +191,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
-  void _onNextEmotionsAndFeelings() {
-    _onSubmitSecondScreen();
-  }
-
   void _onNextWantToDoWithEmotionsAndFeelings() {
     _onSubmitSecondScreen();
   }
@@ -235,7 +231,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           _getMessageToTheUserProvider(),
           _stagingDiaryRecord,
           onDoneButtonPressed: _onFinalSubmit,
-          onNextButtonPressed: _onNextEmotionsAndFeelings,
+          onNextButtonPressed: _onSubmitSecondScreen,
         );
         break;
 
