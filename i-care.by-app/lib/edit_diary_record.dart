@@ -260,15 +260,16 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       case TheMostImportantPersonInMyLife.me:
       case TheMostImportantPersonInMyLife.parent:
       case TheMostImportantPersonInMyLife.spouseOrPartner:
+        secondScreen = _WhatDoYouWantToDoForThePerson(
+          userName,
+          userPreferredPronoun,
+          _stagingDiaryRecord,
+          onDoneButtonPressed: _onFinalSubmit,
+          onNextButtonPressed: _onNextWantToDoWithEmotionsAndFeelings,
+        );
         navigator.push(
           MaterialPageRoute(
-            builder: (BuildContext context) => _WhatDoYouWantToDoForThePerson(
-              userName,
-              userPreferredPronoun,
-              _stagingDiaryRecord,
-              onDoneButtonPressed: _onFinalSubmit,
-              onNextButtonPressed: _onNextWantToDoWithEmotionsAndFeelings,
-            ),
+            builder: (BuildContext context) => secondScreen,
           ),
         );
         break;
