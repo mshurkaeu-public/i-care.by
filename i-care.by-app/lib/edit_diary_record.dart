@@ -642,7 +642,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_anotherPersonName != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -652,7 +652,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_child != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -670,7 +670,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_grandparent != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -679,7 +679,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = true;
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -689,7 +689,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_parent != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -705,7 +705,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _wantToDo = data.wantToDo;
         autoSubmitFirstScreen = (_spouceOrPartner != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && _wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
