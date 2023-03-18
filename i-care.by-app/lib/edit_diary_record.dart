@@ -193,9 +193,9 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
-  void _onNextEmotionsAndFeelings(String emotionsAndFeelings) {
+  void _onNextEmotionsAndFeelings() {
     setState(() {
-      _emotionsAndFeelingsOnWantToDo = emotionsAndFeelings;
+      _emotionsAndFeelingsOnWantToDo = _stagingDiaryRecord.emotionsAndFeelingsOnWantToDo;
     });
     _onSubmitSecondScreen();
   }
@@ -762,7 +762,7 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
 
   final String Function(String, String) _messageProvider;
   final void Function() onDoneButtonPressed;
-  final void Function(String) onNextButtonPressed;
+  final void Function() onNextButtonPressed;
 
   @override
   State<StatefulWidget> createState() => _MessageToTheUserState();
@@ -799,7 +799,7 @@ class _MessageToTheUserState
     super.onNextButtonPressed();
 
     (widget as _MessageToTheUser)
-        .onNextButtonPressed(_emotionsAndFeelingsController.text);
+        .onNextButtonPressed();
   }
 }
 
