@@ -1123,7 +1123,7 @@ class _WhatDoYouWantToDoForThePersonState
 
     super.onNextButtonPressed();
 
-    (widget as _WhatDoYouWantToDoForThePerson).onNextButtonPressed();
+    widget.onNextButtonPressed();
   }
 }
 
