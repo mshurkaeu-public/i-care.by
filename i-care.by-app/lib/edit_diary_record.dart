@@ -235,19 +235,21 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         fromRecord: _stagingDiaryRecord);
 
     NavigatorState navigator = Navigator.of(context);
+    Widget secondScreen;
     switch (_theMostImportantPerson!) {
       case TheMostImportantPersonInMyLife.absent:
       case TheMostImportantPersonInMyLife.dontKnow:
+        secondScreen = _MessageToTheUser(
+          userName,
+          userPreferredPronoun,
+          _getMessageToTheUserProvider(),
+          _stagingDiaryRecord,
+          onDoneButtonPressed: _onFinalSubmit,
+          onNextButtonPressed: _onNextEmotionsAndFeelings,
+        );
         navigator.push(
           MaterialPageRoute(
-            builder: (BuildContext context) => _MessageToTheUser(
-              userName,
-              userPreferredPronoun,
-              _getMessageToTheUserProvider(),
-              _stagingDiaryRecord,
-              onDoneButtonPressed: _onFinalSubmit,
-              onNextButtonPressed: _onNextEmotionsAndFeelings,
-            ),
+            builder: (BuildContext context) => secondScreen,
           ),
         );
         break;
