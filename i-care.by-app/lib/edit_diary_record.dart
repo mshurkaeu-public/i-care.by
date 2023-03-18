@@ -275,10 +275,11 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         navigator.push(
           MaterialPageRoute(
             builder: (BuildContext context) => _WhatDoYouWantToDoForThePersons(
-                userName,
-                userPreferredPronoun,
-                _stagingDiaryRecord,
-                _onFinalSubmit),
+              userName,
+              userPreferredPronoun,
+              _stagingDiaryRecord,
+              _onFinalSubmit,
+            ),
           ),
         );
         break;
