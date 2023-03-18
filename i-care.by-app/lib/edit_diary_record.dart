@@ -782,8 +782,8 @@ class _MessageToTheUserState
   }
 
   @override
-  void onDoneButtonPressed() {
-    super.onDoneButtonPressed();
+  void _onDoneButtonPressed() {
+    super._onDoneButtonPressed();
 
     widget.onDoneButtonPressed();
   }
@@ -841,7 +841,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
         title: getAppBarTitle(l10n),
         actions: [
           _ToTheListOfDoneButton(_onNextButtonPressed),
-          _DoneButton(onDoneButtonPressed),
+          _DoneButton(_onDoneButtonPressed),
         ],
       ),
       body: Padding(
@@ -897,7 +897,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
     }
   }
 
-  void onDoneButtonPressed() {
+  void _onDoneButtonPressed() {
     _saveEmotionsAndFeelingsIntoDiaryRecord();
   }
 
@@ -1105,10 +1105,10 @@ class _WhatDoYouWantToDoForThePersonState
   }
 
   @override
-  void onDoneButtonPressed() {
+  void _onDoneButtonPressed() {
     _saveWantToDoIntoDiaryRecord();
 
-    super.onDoneButtonPressed();
+    super._onDoneButtonPressed();
 
     widget.onDoneButtonPressed();
   }
