@@ -1045,6 +1045,24 @@ class _WhatDoYouWantToDoForThePersonState
     return res;
   }
 
+  @override
+  void _onDoneButtonPressed() {
+    _saveWantToDoIntoDiaryRecord();
+
+    super._onDoneButtonPressed();
+
+    widget.onDoneButtonPressed();
+  }
+
+  @override
+  void _onNextButtonPressed() {
+    _saveWantToDoIntoDiaryRecord();
+
+    super._onNextButtonPressed();
+
+    widget.onNextButtonPressed();
+  }
+
   void _saveWantToDoIntoDiaryRecord() {
     String? wantToDo = _wantToDoController.text;
     if (wantToDo.isEmpty) {
@@ -1102,24 +1120,6 @@ class _WhatDoYouWantToDoForThePersonState
     if (widget.diaryRecord.wantToDo != null) {
       _wantToDoController.text = widget.diaryRecord.wantToDo!;
     }
-  }
-
-  @override
-  void _onDoneButtonPressed() {
-    _saveWantToDoIntoDiaryRecord();
-
-    super._onDoneButtonPressed();
-
-    widget.onDoneButtonPressed();
-  }
-
-  @override
-  void _onNextButtonPressed() {
-    _saveWantToDoIntoDiaryRecord();
-
-    super._onNextButtonPressed();
-
-    widget.onNextButtonPressed();
   }
 }
 
