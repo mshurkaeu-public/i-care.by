@@ -1026,12 +1026,11 @@ class _WhatDoYouWantToDoForThePerson
       String userPreferredPronoun,
       DiaryRecord diaryRecord,
       this.onDoneButtonPressed,
-      void Function(String, String) onNextButtonPressed)
-      : _onNextButtonPressed = onNextButtonPressed,
-        super(userName, userPreferredPronoun, diaryRecord, 0.6);
+      this.onNextButtonPressed)
+      : super(userName, userPreferredPronoun, diaryRecord, 0.6);
 
   final void Function() onDoneButtonPressed;
-  final void Function(String, String) _onNextButtonPressed;
+  final void Function(String, String) onNextButtonPressed;
 
   @override
   State<StatefulWidget> createState() => _WhatDoYouWantToDoForThePersonState();
@@ -1126,7 +1125,7 @@ class _WhatDoYouWantToDoForThePersonState
 
     super.onNextButtonPressed();
 
-    (widget as _WhatDoYouWantToDoForThePerson)._onNextButtonPressed(
+    (widget as _WhatDoYouWantToDoForThePerson).onNextButtonPressed(
         _wantToDoController.text, _emotionsAndFeelingsController.text);
   }
 }
