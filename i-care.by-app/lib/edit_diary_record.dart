@@ -247,11 +247,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           onDoneButtonPressed: _onFinalSubmit,
           onNextButtonPressed: _onNextEmotionsAndFeelings,
         );
-        navigator.push(
-          MaterialPageRoute(
-            builder: (BuildContext context) => secondScreen,
-          ),
-        );
         break;
 
       case TheMostImportantPersonInMyLife.another:
@@ -267,11 +262,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           onDoneButtonPressed: _onFinalSubmit,
           onNextButtonPressed: _onNextWantToDoWithEmotionsAndFeelings,
         );
-        navigator.push(
-          MaterialPageRoute(
-            builder: (BuildContext context) => secondScreen,
-          ),
-        );
         break;
 
       case TheMostImportantPersonInMyLife.several:
@@ -281,13 +271,14 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           _stagingDiaryRecord,
           _onFinalSubmit,
         );
-        navigator.push(
-          MaterialPageRoute(
-            builder: (BuildContext context) => secondScreen,
-          ),
-        );
         break;
     }
+
+    navigator.push(
+      MaterialPageRoute(
+        builder: (BuildContext context) => secondScreen,
+      ),
+    );
   }
 
   void _onSubmitSecondScreen() {
