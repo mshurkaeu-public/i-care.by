@@ -1110,7 +1110,7 @@ class _WhatDoYouWantToDoForThePersonState
 
     super.onDoneButtonPressed();
 
-    (widget as _WhatDoYouWantToDoForThePerson).onDoneButtonPressed();
+    widget.onDoneButtonPressed();
   }
 
   @override
