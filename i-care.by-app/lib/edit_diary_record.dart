@@ -191,10 +191,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     _onSubmitFirstScreen();
   }
 
-  void _onNextWantToDoWithEmotionsAndFeelings() {
-    _onSubmitSecondScreen();
-  }
-
   void _onParentChanged(TmipimlIsParent? value) {
     setState(() {
       _parent = value;
@@ -246,7 +242,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           userPreferredPronoun,
           _stagingDiaryRecord,
           onDoneButtonPressed: _onFinalSubmit,
-          onNextButtonPressed: _onNextWantToDoWithEmotionsAndFeelings,
+          onNextButtonPressed: _onSubmitSecondScreen,
         );
         break;
 
