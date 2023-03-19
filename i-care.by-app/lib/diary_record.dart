@@ -45,6 +45,26 @@ class DiaryRecord {
     }
   }
 
+  List<String>? get doneForSeveral {
+    if (who != TheMostImportantPersonInMyLife.several) {
+      throw UnsupportedError(
+          'Multiple done lists are meaningful only if "who" is "several".');
+    }
+    return _data[_doneKey] as List<String>?;
+  }
+
+  set doneForSeveral(List<String>? value) {
+    if (who != TheMostImportantPersonInMyLife.several) {
+      throw UnsupportedError(
+          'Multiple done lists are meaningful only if "who" is "several".');
+    }
+    if (value == null) {
+      _data.remove(_doneKey);
+    } else {
+      _data[_doneKey] = value;
+    }
+  }
+
   String? get emotionsAndFeelingsOnDone {
     if (who == TheMostImportantPersonInMyLife.several) {
       throw UnsupportedError(
