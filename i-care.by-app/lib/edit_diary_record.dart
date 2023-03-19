@@ -283,11 +283,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           diaryRecord: _stagingDiaryRecord,
           onDoneButtonPressed: _onFinalSubmit,
         );
-        navigator.push(
-          MaterialPageRoute(
-            builder: (BuildContext context) => thirdScreen,
-          ),
-        );
         break;
 
       case TheMostImportantPersonInMyLife.another:
@@ -302,11 +297,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           diaryRecord: _stagingDiaryRecord,
           onDoneButtonPressed: _onFinalSubmit,
         );
-        navigator.push(
-          MaterialPageRoute(
-            builder: (BuildContext context) => thirdScreen,
-          ),
-        );
         break;
 
       case TheMostImportantPersonInMyLife.several:
@@ -320,6 +310,12 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         );
         return;
     }
+
+    navigator.push(
+      MaterialPageRoute(
+        builder: (BuildContext context) => thirdScreen,
+      ),
+    );
   }
 
   void _onSubmitSeveralPersonsNames(String value) {
