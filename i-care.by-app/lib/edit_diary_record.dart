@@ -1156,7 +1156,6 @@ class _WhatDoYouWantToDoForThePersonsState
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
-    String myself = l10n.theMipiylOption_you;
     String userName = widget._userName;
     String userPreferredPronoun = widget._userPreferredPronoun;
     ThemeData themeData = Theme.of(context);
@@ -1164,14 +1163,13 @@ class _WhatDoYouWantToDoForThePersonsState
     List<Widget> content = [];
     for (int i = 0; i < _persons.length; i++) {
       String personName = _persons[i];
-      String question;
-      if (personName == myself) {
-        question =
-            l10n.whatDoYouWantToDoFor_yourself(userName, userPreferredPronoun);
-      } else {
-        question = l10n.whatDoYouWantToDoFor_another(
-            userName, userPreferredPronoun, personName);
-      }
+      String question = Messages.whatDoYouWantToDo(
+        widget.diaryRecord,
+        l10n,
+        userName,
+        userPreferredPronoun,
+        personName: personName,
+      );
 
       content.add(SizedBox(height: 20));
       content.add(
