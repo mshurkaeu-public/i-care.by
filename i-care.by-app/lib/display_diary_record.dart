@@ -250,8 +250,7 @@ class DisplayDiaryRecord extends StatelessWidget {
 
           String? eafOnWantedToDo;
           if (i < eafOnWantToDoForSeveral.length) {
-            eafOnWantedToDo =
-                eafOnWantToDoForSeveral[i];
+            eafOnWantedToDo = eafOnWantToDoForSeveral[i];
           }
 
           String? done;
