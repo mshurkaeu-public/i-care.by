@@ -235,7 +235,7 @@ class DisplayDiaryRecord extends StatelessWidget {
 
         List<String> persons = _diaryRecord.whoNames!;
         List<String> wantToDoForSeveral = _diaryRecord.wantToDoForSeveral ?? [];
-        List<String> emotionsAndFeelingsOnWantToDoForSeveral =
+        List<String> eafOnWantToDoForSeveral =
             _diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral ?? [];
         for (int i = 0; i < persons.length; i++) {
           String personName = persons[i];
@@ -248,9 +248,9 @@ class DisplayDiaryRecord extends StatelessWidget {
           }
 
           String? emotionsAndFeelingsOnWantedToDo;
-          if (i < emotionsAndFeelingsOnWantToDoForSeveral.length) {
+          if (i < eafOnWantToDoForSeveral.length) {
             emotionsAndFeelingsOnWantedToDo =
-                emotionsAndFeelingsOnWantToDoForSeveral[i];
+                eafOnWantToDoForSeveral[i];
           } else {
             emotionsAndFeelingsOnWantedToDo = null;
           }
