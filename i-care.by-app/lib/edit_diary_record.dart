@@ -174,6 +174,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     setState(() {
       _child = value;
     });
+
+    _copyFieldsFromStagingArea(_stagingDiaryRecord,
+        fromRecord: _stagingDiaryRecord);
+
     _onSubmitFirstScreen();
   }
 
@@ -188,6 +192,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     setState(() {
       _grandparent = value;
     });
+
+    _copyFieldsFromStagingArea(_stagingDiaryRecord,
+        fromRecord: _stagingDiaryRecord);
+
     _onSubmitFirstScreen();
   }
 
@@ -195,6 +203,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     setState(() {
       _parent = value;
     });
+
+    _copyFieldsFromStagingArea(_stagingDiaryRecord,
+        fromRecord: _stagingDiaryRecord);
+
     _onSubmitFirstScreen();
   }
 
@@ -202,11 +214,19 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     setState(() {
       _spouceOrPartner = value;
     });
+
+    _copyFieldsFromStagingArea(_stagingDiaryRecord,
+        fromRecord: _stagingDiaryRecord);
+
     _onSubmitFirstScreen();
   }
 
   void _onSubmitAnotherPersonName(String value) {
     _anotherPersonName = value;
+
+    _copyFieldsFromStagingArea(_stagingDiaryRecord,
+        fromRecord: _stagingDiaryRecord);
+
     _onSubmitFirstScreen();
   }
 
@@ -214,8 +234,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     AppLocalizations l10n = AppLocalizations.of(context);
     String userName = widget._diary.getNotEmptyUserName(l10n);
     String userPreferredPronoun = widget._diary.userPreferredPronoun ?? '';
-    _copyFieldsFromStagingArea(_stagingDiaryRecord,
-        fromRecord: _stagingDiaryRecord);
 
     Widget secondScreen;
     switch (_theMostImportantPerson!) {
@@ -324,6 +342,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _severalPersonsNames!.add(personName);
       }
     }
+
+    _copyFieldsFromStagingArea(_stagingDiaryRecord,
+        fromRecord: _stagingDiaryRecord);
+
     _onSubmitFirstScreen();
   }
 
@@ -344,6 +366,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   void _onTmipiylOptionWithNoSuboptionsSelected(
       TheMostImportantPersonInMyLife? value) {
     _onTmipimlChanged(value);
+
+    _copyFieldsFromStagingArea(_stagingDiaryRecord,
+        fromRecord: _stagingDiaryRecord);
+
     _onSubmitFirstScreen();
   }
 
