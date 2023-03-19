@@ -1122,6 +1122,22 @@ class _WhatDoYouWantToDoForThePersonsState
       [];
 
   void _onDoneButtonPressed() {
+    _saveWantToDoAndEmotionsAndFeelingsIntoDiaryRecord();
+
+    widget.onDoneButtonPressed();
+  }
+
+  void _onNextButtonPressed() {
+    // TODO: write the code
+    showAboutDialog(
+      context: context,
+      children: [
+        Text('Гэты код пакуль што не напісаны.'),
+      ],
+    );
+  }
+
+  _saveWantToDoAndEmotionsAndFeelingsIntoDiaryRecord() {
     List<String> wantToDoForSeveral = [];
     List<String> emotionsAndFeelingsOnWantToDoForSeveral = [];
     for (int i = 0; i < widget._persons.length; i++) {
@@ -1137,18 +1153,6 @@ class _WhatDoYouWantToDoForThePersonsState
     widget.diaryRecord.wantToDoForSeveral = wantToDoForSeveral;
     widget.diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral =
         emotionsAndFeelingsOnWantToDoForSeveral;
-
-    widget.onDoneButtonPressed();
-  }
-
-  void _onNextButtonPressed() {
-    // TODO: write the code
-    showAboutDialog(
-      context: context,
-      children: [
-        Text('Гэты код пакуль што не напісаны.'),
-      ],
-    );
   }
 
   @override
