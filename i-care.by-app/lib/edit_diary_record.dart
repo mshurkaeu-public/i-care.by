@@ -1120,6 +1120,7 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
 
 class _WhatDoYouWantToDoForThePersonsState
     extends State<_WhatDoYouWantToDoForThePersons> {
+  late final List<String> _persons;
   final List<TextEditingController> _wantToDoControllers = [];
   final List<TextEditingController> _emotionsAndFeelingsOnWantToDoControllers =
       [];
@@ -1139,7 +1140,7 @@ class _WhatDoYouWantToDoForThePersonsState
   _saveWantToDoAndEmotionsAndFeelingsIntoDiaryRecord() {
     List<String> wantToDoForSeveral = [];
     List<String> emotionsAndFeelingsOnWantToDoForSeveral = [];
-    for (int i = 0; i < widget._persons.length; i++) {
+    for (int i = 0; i < _persons.length; i++) {
       String wantToDo = _wantToDoControllers[i].text;
       wantToDoForSeveral.add(wantToDo);
 
@@ -1163,8 +1164,8 @@ class _WhatDoYouWantToDoForThePersonsState
     ThemeData themeData = Theme.of(context);
 
     List<Widget> content = [];
-    for (int i = 0; i < widget._persons.length; i++) {
-      String personName = widget._persons[i];
+    for (int i = 0; i < _persons.length; i++) {
+      String personName = _persons[i];
       String question;
       if (personName == myself) {
         question =
@@ -1269,11 +1270,13 @@ class _WhatDoYouWantToDoForThePersonsState
   void initState() {
     super.initState();
 
+    _persons = widget._persons;
+
     List<String> wantToDoForSeveral =
         widget.diaryRecord.wantToDoForSeveral ?? [];
     List<String> emotionsAndFeelingsOnWantToDoForSeveral =
         widget.diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral ?? [];
-    for (int i = 0; i < widget._persons.length; i++) {
+    for (int i = 0; i < _persons.length; i++) {
       TextEditingController controller = TextEditingController();
       if (i < wantToDoForSeveral.length) {
         controller.text = wantToDoForSeveral[i];
