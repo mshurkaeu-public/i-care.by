@@ -273,18 +273,19 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         fromRecord: _stagingDiaryRecord);
 
     NavigatorState navigator = Navigator.of(context);
+    Widget thirdScreen;
     switch (_theMostImportantPerson!) {
       case TheMostImportantPersonInMyLife.absent:
       case TheMostImportantPersonInMyLife.dontKnow:
+        thirdScreen = _WhatsIsDoneForYourselfWithoutWantedToDo(
+          userName: userName,
+          userPreferredPronoun: userPreferredPronoun,
+          diaryRecord: _stagingDiaryRecord,
+          onDoneButtonPressed: _onFinalSubmit,
+        );
         navigator.push(
           MaterialPageRoute(
-            builder: (BuildContext context) =>
-                _WhatsIsDoneForYourselfWithoutWantedToDo(
-              userName: userName,
-              userPreferredPronoun: userPreferredPronoun,
-              diaryRecord: _stagingDiaryRecord,
-              onDoneButtonPressed: _onFinalSubmit,
-            ),
+            builder: (BuildContext context) => thirdScreen,
           ),
         );
         break;
