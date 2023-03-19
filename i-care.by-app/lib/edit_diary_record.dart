@@ -651,7 +651,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _anotherPersonName = data.whoName;
         autoSubmitFirstScreen = (_anotherPersonName != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null &&
+                    data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -660,7 +661,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _child = data.whoSubclass as TmipimlIsChild;
         autoSubmitFirstScreen = (_child != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null &&
+                    data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -677,7 +679,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _grandparent = data.whoSubclass as TmipimlIsGrandparent;
         autoSubmitFirstScreen = (_grandparent != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null &&
+                    data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -685,7 +688,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       case TheMostImportantPersonInMyLife.me:
         autoSubmitFirstScreen = true;
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null &&
+                    data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -694,7 +698,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _parent = data.whoSubclass as TmipimlIsParent;
         autoSubmitFirstScreen = (_parent != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null &&
+                    data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -709,7 +714,8 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         _spouceOrPartner = data.whoSubclass as TmipimlIsSpouceOrPartner;
         autoSubmitFirstScreen = (_spouceOrPartner != null);
         autoSubmitSecondScreen = autoSubmitFirstScreen &&
-            ((data.emotionsAndFeelingsOnWantToDo != null && data.wantToDo != null) ||
+            ((data.emotionsAndFeelingsOnWantToDo != null &&
+                    data.wantToDo != null) ||
                 data.done != null ||
                 data.emotionsAndFeelingsOnDone != null);
         break;
@@ -756,7 +762,6 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
 
 class _MessageToTheUserState
     extends _OneEmotionsAndFeelingsRequestContainerState {
-
   @override
   void _onDoneButtonPressed() {
     super._onDoneButtonPressed();
@@ -812,7 +817,8 @@ abstract class _OneEmotionsAndFeelingsRequestContainer extends StatefulWidget {
 
 abstract class _OneEmotionsAndFeelingsRequestContainerState
     extends State<_OneEmotionsAndFeelingsRequestContainer> {
-  final TextEditingController _emotionsAndFeelingsController = TextEditingController();
+  final TextEditingController _emotionsAndFeelingsController =
+      TextEditingController();
 
   _saveEmotionsAndFeelingsIntoDiaryRecord() {
     String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
@@ -947,7 +953,8 @@ class _TwoAreasSplitView extends StatefulWidget {
 }
 
 class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
-  MultiSplitViewController _multiSplitViewController = MultiSplitViewController();
+  MultiSplitViewController _multiSplitViewController =
+      MultiSplitViewController();
 
   void _onDividerDoubleTap(int dividerIndex) {
     _restoreDefaultColumnsWeights();
@@ -1451,12 +1458,10 @@ class _WhatIsDoneForThePersons extends StatefulWidget {
       _WhatIsDoneForThePersonsState();
 }
 
-class _WhatIsDoneForThePersonsState
-    extends State<_WhatIsDoneForThePersons> {
+class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
   late final List<String> _persons;
   final List<TextEditingController> _doneControllers = [];
-  final List<TextEditingController> _emotionsAndFeelingsOnDoneControllers =
-      [];
+  final List<TextEditingController> _emotionsAndFeelingsOnDoneControllers = [];
 
   void _onDoneButtonPressed() {
     _saveDoneAndEmotionsAndFeelingsIntoDiaryRecord();
@@ -1473,8 +1478,7 @@ class _WhatIsDoneForThePersonsState
 
       String emotionsAndFeelingsOnDone =
           _emotionsAndFeelingsOnDoneControllers[i].text;
-      emotionsAndFeelingsOnDoneForSeveral
-          .add(emotionsAndFeelingsOnDone);
+      emotionsAndFeelingsOnDoneForSeveral.add(emotionsAndFeelingsOnDone);
     }
 
     widget.diaryRecord.doneForSeveral = doneForSeveral;
@@ -1488,7 +1492,8 @@ class _WhatIsDoneForThePersonsState
     String userName = widget._userName;
     String userPreferredPronoun = widget._userPreferredPronoun;
     ThemeData themeData = Theme.of(context);
-    List<String> wantedToDoForSeveral = widget.diaryRecord.wantToDoForSeveral ?? [];
+    List<String> wantedToDoForSeveral =
+        widget.diaryRecord.wantToDoForSeveral ?? [];
     List<String> eafOnWantedToDoForSeveral =
         widget.diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral ?? [];
 
@@ -1632,8 +1637,7 @@ class _WhatIsDoneForThePersonsState
 
     _persons = widget.diaryRecord.whoNames!;
 
-    List<String> doneForSeveral =
-        widget.diaryRecord.doneForSeveral ?? [];
+    List<String> doneForSeveral = widget.diaryRecord.doneForSeveral ?? [];
     List<String> emotionsAndFeelingsOnDoneForSeveral =
         widget.diaryRecord.emotionsAndFeelingsOnDoneForSeveral ?? [];
     for (int i = 0; i < _persons.length; i++) {
@@ -1778,57 +1782,52 @@ abstract class _WhatIsDoneRequestContainerState
           child: _TwoAreasSplitView(
             axis: Axis.vertical,
             initialFirstAreaWeight: widget._firstRowInitialWeight,
-            firstArea:
-              getFirstRowChild(l10n),
-            secondArea:
-              _TwoAreasSplitView(
-                axis: Axis.horizontal,
-                initialFirstAreaWeight: 0.6,
-                firstArea:
-                  Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(question),
-                      SizedBox(height: 10),
-                      Expanded(
-                        child: TextField(
-                          controller: _doneController,
-                          decoration: InputDecoration(
-                            border: OutlineInputBorder(),
-                          ),
-                          maxLines: null,
-                          expands: true,
-                          textAlignVertical: TextAlignVertical.top,
-                        ),
+            firstArea: getFirstRowChild(l10n),
+            secondArea: _TwoAreasSplitView(
+              axis: Axis.horizontal,
+              initialFirstAreaWeight: 0.6,
+              firstArea: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(question),
+                  SizedBox(height: 10),
+                  Expanded(
+                    child: TextField(
+                      controller: _doneController,
+                      decoration: InputDecoration(
+                        border: OutlineInputBorder(),
                       ),
-                    ],
+                      maxLines: null,
+                      expands: true,
+                      textAlignVertical: TextAlignVertical.top,
+                    ),
                   ),
-                secondArea:
-                  Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(l10n.questionAboutCurrentEmotionsAndFeelings(
-                          widget._userName, widget._userPreferredPronoun)),
-                      SizedBox(height: 10),
-                      Expanded(
-                        child: TextField(
-                          controller: _emotionsAndFeelingsController,
-                          decoration: InputDecoration(
-                            border: OutlineInputBorder(),
-                            hintText: l10n
-                                .questionAboutCurrentEmotionsAndFeelingsHints(
-                                    widget._userName,
-                                    widget._userPreferredPronoun),
-                            hintStyle: _getMyHintStyle(themeData),
-                          ),
-                          maxLines: null,
-                          expands: true,
-                          textAlignVertical: TextAlignVertical.top,
-                        ),
-                      ),
-                    ],
-                  ),
+                ],
               ),
+              secondArea: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(l10n.questionAboutCurrentEmotionsAndFeelings(
+                      widget._userName, widget._userPreferredPronoun)),
+                  SizedBox(height: 10),
+                  Expanded(
+                    child: TextField(
+                      controller: _emotionsAndFeelingsController,
+                      decoration: InputDecoration(
+                        border: OutlineInputBorder(),
+                        hintText:
+                            l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                                widget._userName, widget._userPreferredPronoun),
+                        hintStyle: _getMyHintStyle(themeData),
+                      ),
+                      maxLines: null,
+                      expands: true,
+                      textAlignVertical: TextAlignVertical.top,
+                    ),
+                  ),
+                ],
+              ),
+            ),
           ),
         ),
       ),
