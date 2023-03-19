@@ -318,7 +318,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
                 '_onSubmitSecondScreen(several)'),
           ],
         );
-        break;
+        return;
     }
   }
 
