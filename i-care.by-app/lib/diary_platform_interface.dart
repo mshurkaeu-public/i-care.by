@@ -212,8 +212,8 @@ abstract class DiaryBase {
                 break;
 
               case _recordDoneKey:
-              case _recordWantToDoKey:
               case _recordEmotionsAndFeelingsOnWantToDoKey:
+              case _recordWantToDoKey:
                 if (value is List<dynamic>) {
                   List<String> res = [];
                   for (String v in value) {
