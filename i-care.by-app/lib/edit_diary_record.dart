@@ -1330,7 +1330,36 @@ class _WhatsIsDoneForThePerson extends _WhatIsDoneRequestContainer {
 }
 
 class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
-  static Widget _buildWantedToDoArea(List<Widget> wantedToDoColumnChildren) {
+  static Widget _buildWantedToDoArea(
+    ThemeData themeData,
+    AppLocalizations l10n,
+    DiaryRecord diaryRecord,
+    String userPreferredPronoun,
+  ) {
+    List<Widget> wantedToDoColumnChildren = [];
+    wantedToDoColumnChildren.add(
+      Text(
+        Messages.youWantedToDo(
+          diaryRecord,
+          l10n,
+          userPreferredPronoun,
+        ),
+        style: TextStyle(
+          color: themeData.disabledColor,
+        ),
+      ),
+    );
+    String? wantedToDo = diaryRecord.wantToDo;
+    if (wantedToDo != null) {
+      wantedToDoColumnChildren.add(SizedBox(height: 10));
+      wantedToDoColumnChildren.add(
+        Text(
+          wantedToDo,
+          style: _getMyReferenceTextStyle(themeData),
+        ),
+      );
+    }
+
     return SingleChildScrollView(
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -1341,31 +1370,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
 
   @override
   Widget getFirstRowChild(AppLocalizations l10n) {
-    List<Widget> wantedToDoColumnChildren = [];
     ThemeData themeData = Theme.of(context);
-
-    wantedToDoColumnChildren.add(
-      Text(
-        Messages.youWantedToDo(
-          widget._diaryRecord,
-          l10n,
-          widget._userPreferredPronoun,
-        ),
-        style: TextStyle(
-          color: themeData.disabledColor,
-        ),
-      ),
-    );
-    String? wantedToDo = widget._diaryRecord.wantToDo;
-    if (wantedToDo != null) {
-      wantedToDoColumnChildren.add(SizedBox(height: 10));
-      wantedToDoColumnChildren.add(
-        Text(
-          wantedToDo,
-          style: _getMyReferenceTextStyle(themeData),
-        ),
-      );
-    }
 
     List<Widget> eafOnWantedToDoColumnChildren = [];
     eafOnWantedToDoColumnChildren.add(
@@ -1391,7 +1396,12 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     return _TwoAreasSplitView(
       axis: Axis.horizontal,
       initialFirstAreaWeight: 0.6,
-      firstArea: _buildWantedToDoArea(wantedToDoColumnChildren),
+      firstArea: _buildWantedToDoArea(
+        themeData,
+        l10n,
+        widget._diaryRecord,
+        widget._userPreferredPronoun,
+      ),
       secondArea: SingleChildScrollView(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
