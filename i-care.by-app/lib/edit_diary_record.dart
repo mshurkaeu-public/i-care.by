@@ -1335,8 +1335,9 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     AppLocalizations l10n,
     DiaryRecord diaryRecord,
     String? wantedToDo,
-    String userPreferredPronoun,
-  ) {
+    String userPreferredPronoun, {
+    String personName = '',
+  }) {
     List<Widget> wantedToDoColumnChildren = [];
     wantedToDoColumnChildren.add(
       Text(
@@ -1344,6 +1345,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
           diaryRecord,
           l10n,
           userPreferredPronoun,
+          personName: personName,
         ),
         style: TextStyle(
           color: themeData.disabledColor,
