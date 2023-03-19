@@ -103,6 +103,10 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       toRecord.wantToDoForSeveral = fromRecord.wantToDoForSeveral;
       toRecord.emotionsAndFeelingsOnWantToDoForSeveral =
           fromRecord.emotionsAndFeelingsOnWantToDoForSeveral;
+
+      toRecord.doneForSeveral = fromRecord.doneForSeveral;
+      toRecord.emotionsAndFeelingsOnDoneForSeveral =
+          fromRecord.emotionsAndFeelingsOnDoneForSeveral;
     } else {
       switch (toRecord.who) {
         case TheMostImportantPersonInMyLife.another:
