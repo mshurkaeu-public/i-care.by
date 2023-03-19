@@ -1330,6 +1330,15 @@ class _WhatsIsDoneForThePerson extends _WhatIsDoneRequestContainer {
 }
 
 class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
+  static Widget _buildWantedToDoArea(List<Widget> wantedToDoColumnChildren) {
+    return SingleChildScrollView(
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: wantedToDoColumnChildren,
+      ),
+    );
+  }
+
   @override
   Widget getFirstRowChild(AppLocalizations l10n) {
     List<Widget> wantedToDoColumnChildren = [];
@@ -1382,12 +1391,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     return _TwoAreasSplitView(
       axis: Axis.horizontal,
       initialFirstAreaWeight: 0.6,
-      firstArea: SingleChildScrollView(
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: wantedToDoColumnChildren,
-        ),
-      ),
+      firstArea: _buildWantedToDoArea(wantedToDoColumnChildren),
       secondArea: SingleChildScrollView(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
