@@ -316,15 +316,13 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         break;
 
       case TheMostImportantPersonInMyLife.several:
-        //TODO: write code
-        showAboutDialog(
-          context: context,
-          children: [
-            Text(
-                '_onSubmitSecondScreen(several)'),
-          ],
+        thirdScreen = _WhatIsDoneForThePersons(
+          userName,
+          userPreferredPronoun,
+          _stagingDiaryRecord,
+          onDoneButtonPressed: _onFinalSubmit,
         );
-        return;
+        break;
     }
 
     navigator.push(
@@ -1394,6 +1392,190 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
         ),
       ),
     );
+  }
+}
+
+class _WhatIsDoneForThePersons extends StatefulWidget {
+  _WhatIsDoneForThePersons(
+    String userName,
+    String userPreferredPronoun,
+    this.diaryRecord, {
+    required this.onDoneButtonPressed,
+  })  : _userName = userName,
+        _userPreferredPronoun = userPreferredPronoun;
+
+  final String _userPreferredPronoun;
+  final String _userName;
+
+  final DiaryRecord diaryRecord;
+  final void Function() onDoneButtonPressed;
+
+  @override
+  State<_WhatIsDoneForThePersons> createState() =>
+      _WhatIsDoneForThePersonsState();
+}
+
+class _WhatIsDoneForThePersonsState
+    extends State<_WhatIsDoneForThePersons> {
+  late final List<String> _persons;
+  final List<TextEditingController> _doneControllers = [];
+  final List<TextEditingController> _emotionsAndFeelingsOnDoneControllers =
+      [];
+
+  void _onDoneButtonPressed() {
+    _saveDoneAndEmotionsAndFeelingsIntoDiaryRecord();
+
+    widget.onDoneButtonPressed();
+  }
+
+  _saveDoneAndEmotionsAndFeelingsIntoDiaryRecord() {
+    List<String> doneForSeveral = [];
+    List<String> emotionsAndFeelingsOnDoneForSeveral = [];
+    for (int i = 0; i < _persons.length; i++) {
+      String done = _doneControllers[i].text;
+      doneForSeveral.add(done);
+
+      String emotionsAndFeelingsOnDone =
+          _emotionsAndFeelingsOnDoneControllers[i].text;
+      emotionsAndFeelingsOnDoneForSeveral
+          .add(emotionsAndFeelingsOnDone);
+    }
+
+    widget.diaryRecord.doneForSeveral = doneForSeveral;
+    widget.diaryRecord.emotionsAndFeelingsOnDoneForSeveral =
+        emotionsAndFeelingsOnDoneForSeveral;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    AppLocalizations l10n = AppLocalizations.of(context);
+    String userName = widget._userName;
+    String userPreferredPronoun = widget._userPreferredPronoun;
+    ThemeData themeData = Theme.of(context);
+
+    List<Widget> content = [];
+    for (int i = 0; i < _persons.length; i++) {
+      String personName = _persons[i];
+      String question = Messages.whatDidYouDoToday(
+        widget.diaryRecord,
+        l10n,
+        userName,
+        userPreferredPronoun,
+        personName: personName,
+      );
+
+      content.add(SizedBox(height: 20));
+      content.add(
+        SizedBox(
+          height: 180,
+          child: _TwoAreasSplitView(
+            axis: Axis.horizontal,
+            initialFirstAreaWeight: 0.6,
+            firstArea: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  question,
+                  style: themeData.textTheme.titleMedium,
+                ),
+                Expanded(
+                  child: TextField(
+                    controller: _doneControllers[i],
+                    decoration: InputDecoration(
+                      border: OutlineInputBorder(),
+                      hintStyle: _getMyHintStyle(themeData),
+                    ),
+                    expands: true,
+                    maxLines: null,
+                    textAlignVertical: TextAlignVertical.top,
+                  ),
+                ),
+              ],
+            ),
+            secondArea: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  l10n.questionAboutCurrentEmotionsAndFeelings(
+                    userName,
+                    userPreferredPronoun,
+                  ),
+                  style: themeData.textTheme.titleMedium,
+                ),
+                Expanded(
+                  child: TextField(
+                    controller: _emotionsAndFeelingsOnDoneControllers[i],
+                    decoration: InputDecoration(
+                      border: OutlineInputBorder(),
+                      hintText:
+                          l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                        userName,
+                        userPreferredPronoun,
+                      ),
+                      hintStyle: _getMyHintStyle(themeData),
+                    ),
+                    expands: true,
+                    maxLines: null,
+                    textAlignVertical: TextAlignVertical.top,
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
+      );
+    }
+
+    return Scaffold(
+      appBar: AppBar(
+        leading: _BackToPreviousQuestionButton(),
+        title: Text(l10n.appTitle),
+        actions: [
+          _DoneButton(_onDoneButtonPressed),
+        ],
+      ),
+      body: ListView(
+        padding: EdgeInsets.fromLTRB(20, 0, 20, 0),
+        children: content,
+      ),
+    );
+  }
+
+  @override
+  void dispose() {
+    for (int i = 0; i < _doneControllers.length; i++) {
+      _doneControllers[i].dispose();
+    }
+    for (int i = 0; i < _emotionsAndFeelingsOnDoneControllers.length; i++) {
+      _emotionsAndFeelingsOnDoneControllers[i].dispose();
+    }
+
+    super.dispose();
+  }
+
+  @override
+  void initState() {
+    super.initState();
+
+    _persons = widget.diaryRecord.whoNames!;
+
+    List<String> doneForSeveral =
+        widget.diaryRecord.doneForSeveral ?? [];
+    List<String> emotionsAndFeelingsOnDoneForSeveral =
+        widget.diaryRecord.emotionsAndFeelingsOnDoneForSeveral ?? [];
+    for (int i = 0; i < _persons.length; i++) {
+      TextEditingController controller = TextEditingController();
+      if (i < doneForSeveral.length) {
+        controller.text = doneForSeveral[i];
+      }
+      _doneControllers.add(controller);
+
+      controller = TextEditingController();
+      if (i < emotionsAndFeelingsOnDoneForSeveral.length) {
+        controller.text = emotionsAndFeelingsOnDoneForSeveral[i];
+      }
+      _emotionsAndFeelingsOnDoneControllers.add(controller);
+    }
   }
 }
 
