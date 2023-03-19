@@ -234,6 +234,7 @@ class DisplayDiaryRecord extends StatelessWidget {
         }
 
         List<String> persons = _diaryRecord.whoNames!;
+        List<String> doneForSeveral = _diaryRecord.doneForSeveral ?? [];
         List<String> wantToDoForSeveral = _diaryRecord.wantToDoForSeveral ?? [];
         List<String> eafOnWantToDoForSeveral =
             _diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral ?? [];
@@ -255,9 +256,14 @@ class DisplayDiaryRecord extends StatelessWidget {
             emotionsAndFeelingsOnWantedToDo = null;
           }
 
+          String? done;
+          if (i < doneForSeveral.length) {
+            done = doneForSeveral[i];
+          }
+
           _appendContentForOnePerson(
             dayContent: dayContent,
-            done: null,
+            done: done,
             emotionsAndFeelingsOnDone: null,
             emotionsAndFeelingsOnWantedToDo: emotionsAndFeelingsOnWantedToDo,
             l10n: l10n,
