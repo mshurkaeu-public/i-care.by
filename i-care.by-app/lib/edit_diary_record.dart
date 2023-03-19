@@ -1331,8 +1331,32 @@ class _WhatsIsDoneForThePerson extends _WhatIsDoneRequestContainer {
 
 class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
   static Widget _buildEmotionsAndFeelingsOnWantedToDoArea(
-    List<Widget> eafOnWantedToDoColumnChildren,
+    ThemeData themeData,
+    AppLocalizations l10n,
+    DiaryRecord diaryRecord,
+    String userPreferredPronoun,
   ) {
+    List<Widget> eafOnWantedToDoColumnChildren = [];
+    eafOnWantedToDoColumnChildren.add(
+      Text(
+        l10n.yourEmotionsAndFeelingsLabel(userPreferredPronoun),
+        style: TextStyle(
+          color: themeData.disabledColor,
+        ),
+      ),
+    );
+    String? emotionsAndFeelingsOnWantedToDo =
+        diaryRecord.emotionsAndFeelingsOnWantToDo;
+    if (emotionsAndFeelingsOnWantedToDo != null) {
+      eafOnWantedToDoColumnChildren.add(SizedBox(height: 10));
+      eafOnWantedToDoColumnChildren.add(
+        Text(
+          emotionsAndFeelingsOnWantedToDo,
+          style: _getMyReferenceTextStyle(themeData),
+        ),
+      );
+    }
+
     return SingleChildScrollView(
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -1386,27 +1410,6 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
   Widget getFirstRowChild(AppLocalizations l10n) {
     ThemeData themeData = Theme.of(context);
 
-    List<Widget> eafOnWantedToDoColumnChildren = [];
-    eafOnWantedToDoColumnChildren.add(
-      Text(
-        l10n.yourEmotionsAndFeelingsLabel(widget._userPreferredPronoun),
-        style: TextStyle(
-          color: themeData.disabledColor,
-        ),
-      ),
-    );
-    String? emotionsAndFeelingsOnWantedToDo =
-        widget._diaryRecord.emotionsAndFeelingsOnWantToDo;
-    if (emotionsAndFeelingsOnWantedToDo != null) {
-      eafOnWantedToDoColumnChildren.add(SizedBox(height: 10));
-      eafOnWantedToDoColumnChildren.add(
-        Text(
-          emotionsAndFeelingsOnWantedToDo,
-          style: _getMyReferenceTextStyle(themeData),
-        ),
-      );
-    }
-
     return _TwoAreasSplitView(
       axis: Axis.horizontal,
       initialFirstAreaWeight: 0.6,
@@ -1418,7 +1421,10 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
         widget._userPreferredPronoun,
       ),
       secondArea: _buildEmotionsAndFeelingsOnWantedToDoArea(
-        eafOnWantedToDoColumnChildren,
+        themeData,
+        l10n,
+        widget._diaryRecord,
+        widget._userPreferredPronoun,
       ),
     );
   }
