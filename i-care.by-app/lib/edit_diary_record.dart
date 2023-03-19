@@ -1334,6 +1334,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     ThemeData themeData,
     AppLocalizations l10n,
     DiaryRecord diaryRecord,
+    String? wantedToDo,
     String userPreferredPronoun,
   ) {
     List<Widget> wantedToDoColumnChildren = [];
@@ -1349,7 +1350,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
         ),
       ),
     );
-    String? wantedToDo = diaryRecord.wantToDo;
+
     if (wantedToDo != null) {
       wantedToDoColumnChildren.add(SizedBox(height: 10));
       wantedToDoColumnChildren.add(
@@ -1400,6 +1401,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
         themeData,
         l10n,
         widget._diaryRecord,
+        widget._diaryRecord.wantToDo,
         widget._userPreferredPronoun,
       ),
       secondArea: SingleChildScrollView(
