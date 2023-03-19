@@ -252,6 +252,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           userPreferredPronoun,
           _stagingDiaryRecord,
           _onFinalSubmit,
+          onNextButtonPressed: _onSubmitSecondScreen,
         );
         break;
     }
@@ -1098,8 +1099,9 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
     String userName,
     String userPreferredPronoun,
     this.diaryRecord,
-    this.onDoneButtonPressed,
-  )   : _userName = userName,
+    this.onDoneButtonPressed, {
+    required this.onNextButtonPressed,
+  })  : _userName = userName,
         _userPreferredPronoun = userPreferredPronoun,
         _persons = diaryRecord.whoNames!;
 
@@ -1109,6 +1111,7 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
 
   final DiaryRecord diaryRecord;
   final void Function() onDoneButtonPressed;
+  final void Function() onNextButtonPressed;
 
   @override
   State<_WhatDoYouWantToDoForThePersons> createState() =>
@@ -1130,13 +1133,7 @@ class _WhatDoYouWantToDoForThePersonsState
   void _onNextButtonPressed() {
     _saveWantToDoAndEmotionsAndFeelingsIntoDiaryRecord();
 
-    // TODO: write the code
-    showAboutDialog(
-      context: context,
-      children: [
-        Text('Гэты код пакуль што не напісаны.'),
-      ],
-    );
+    widget.onNextButtonPressed();
   }
 
   _saveWantToDoAndEmotionsAndFeelingsIntoDiaryRecord() {
