@@ -269,8 +269,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     AppLocalizations l10n = AppLocalizations.of(context);
     String userName = widget._diary.getNotEmptyUserName(l10n);
     String userPreferredPronoun = widget._diary.userPreferredPronoun ?? '';
-    _copyFieldsFromStagingArea(_stagingDiaryRecord,
-        fromRecord: _stagingDiaryRecord);
 
     NavigatorState navigator = Navigator.of(context);
     Widget thirdScreen;
