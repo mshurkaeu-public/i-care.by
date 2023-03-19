@@ -1489,6 +1489,8 @@ class _WhatIsDoneForThePersonsState
     String userPreferredPronoun = widget._userPreferredPronoun;
     ThemeData themeData = Theme.of(context);
     List<String> wantedToDoForSeveral = widget.diaryRecord.wantToDoForSeveral ?? [];
+    List<String> eafOnWantedToDoForSeveral =
+        widget.diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral ?? [];
 
     List<Widget> content = [];
     for (int i = 0; i < _persons.length; i++) {
@@ -1497,6 +1499,12 @@ class _WhatIsDoneForThePersonsState
       if (i < wantedToDoForSeveral.length) {
         wantedToDo = wantedToDoForSeveral[i];
       }
+
+      String? emotionsAndFeelingsOnWantedToDo;
+      if (i < eafOnWantedToDoForSeveral.length) {
+        emotionsAndFeelingsOnWantedToDo = eafOnWantedToDoForSeveral[i];
+      }
+
       String question = Messages.whatDidYouDoToday(
         widget.diaryRecord,
         l10n,
@@ -1523,11 +1531,13 @@ class _WhatIsDoneForThePersonsState
                 userPreferredPronoun,
                 personName: personName,
               ),
-              secondArea: SingleChildScrollView(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [],
-                ),
+              secondArea: _WhatsIsDoneForThePersonState
+                  ._buildEmotionsAndFeelingsOnWantedToDoArea(
+                themeData,
+                l10n,
+                widget.diaryRecord,
+                emotionsAndFeelingsOnWantedToDo,
+                userPreferredPronoun,
               ),
             ),
             secondArea: _TwoAreasSplitView(
