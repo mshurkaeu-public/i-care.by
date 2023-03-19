@@ -244,8 +244,6 @@ class DisplayDiaryRecord extends StatelessWidget {
           String? wantToDoDescription;
           if (i < wantToDoForSeveral.length) {
             wantToDoDescription = wantToDoForSeveral[i];
-          } else {
-            wantToDoDescription = null;
           }
 
           String? emotionsAndFeelingsOnWantedToDo;
