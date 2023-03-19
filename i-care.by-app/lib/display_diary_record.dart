@@ -246,12 +246,12 @@ class DisplayDiaryRecord extends StatelessWidget {
             wantedToDo = wantToDoForSeveral[i];
           }
 
-          String? emotionsAndFeelingsOnWantedToDo;
+          String? eafOnWantedToDo;
           if (i < eafOnWantToDoForSeveral.length) {
-            emotionsAndFeelingsOnWantedToDo =
+            eafOnWantedToDo =
                 eafOnWantToDoForSeveral[i];
           } else {
-            emotionsAndFeelingsOnWantedToDo = null;
+            eafOnWantedToDo = null;
           }
 
           String? done;
@@ -263,7 +263,7 @@ class DisplayDiaryRecord extends StatelessWidget {
             dayContent: dayContent,
             done: done,
             emotionsAndFeelingsOnDone: null,
-            emotionsAndFeelingsOnWantedToDo: emotionsAndFeelingsOnWantedToDo,
+            emotionsAndFeelingsOnWantedToDo: eafOnWantedToDo,
             l10n: l10n,
             themeData: themeData,
             wantedToDo: wantedToDo,
