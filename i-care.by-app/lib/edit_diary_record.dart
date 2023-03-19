@@ -1330,6 +1330,17 @@ class _WhatsIsDoneForThePerson extends _WhatIsDoneRequestContainer {
 }
 
 class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
+  static Widget _buildEmotionsAndFeelingsOnWantedToDoArea(
+    List<Widget> eafOnWantedToDoColumnChildren,
+  ) {
+    return SingleChildScrollView(
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: eafOnWantedToDoColumnChildren,
+      ),
+    );
+  }
+
   static Widget _buildWantedToDoArea(
     ThemeData themeData,
     AppLocalizations l10n,
@@ -1406,11 +1417,8 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
         widget._diaryRecord.wantToDo,
         widget._userPreferredPronoun,
       ),
-      secondArea: SingleChildScrollView(
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: eafOnWantedToDoColumnChildren,
-        ),
+      secondArea: _buildEmotionsAndFeelingsOnWantedToDoArea(
+        eafOnWantedToDoColumnChildren,
       ),
     );
   }
