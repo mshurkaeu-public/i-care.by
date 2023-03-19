@@ -85,6 +85,26 @@ class DiaryRecord {
     }
   }
 
+  List<String>? get emotionsAndFeelingsOnDoneForSeveral {
+    if (who != TheMostImportantPersonInMyLife.several) {
+      throw UnsupportedError(
+          'Multiple emotions and feelings lists are meaningful only if "who" is "several".');
+    }
+    return _data[_emotionsAndFeelingsOnDoneKey] as List<String>?;
+  }
+
+  set emotionsAndFeelingsOnDoneForSeveral(List<String>? value) {
+    if (who != TheMostImportantPersonInMyLife.several) {
+      throw UnsupportedError(
+          'Multiple emotions and feelings lists are meaningful only if "who" is "several".');
+    }
+    if (value == null) {
+      _data.remove(_emotionsAndFeelingsOnDoneKey);
+    } else {
+      _data[_emotionsAndFeelingsOnDoneKey] = value;
+    }
+  }
+
   String? get emotionsAndFeelingsOnWantToDo {
     if (who == TheMostImportantPersonInMyLife.several) {
       throw UnsupportedError(
