@@ -185,7 +185,6 @@ class Messages {
       case null:
       case TheMostImportantPersonInMyLife.absent:
       case TheMostImportantPersonInMyLife.dontKnow:
-      case TheMostImportantPersonInMyLife.several:
         throw UnimplementedError();
 
       case TheMostImportantPersonInMyLife.another:
@@ -261,6 +260,21 @@ class Messages {
               userPreferredPronoun,
             );
             break;
+        }
+        break;
+
+      case TheMostImportantPersonInMyLife.several:
+        if (personName == l10n.theMipiylOption_you) {
+          res = l10n.whatDoYouWantToDoFor_yourself(
+            userName,
+            userPreferredPronoun,
+          );
+        } else {
+          res = l10n.whatDoYouWantToDoFor_another(
+            userName,
+            userPreferredPronoun,
+            personName,
+          );
         }
         break;
 
