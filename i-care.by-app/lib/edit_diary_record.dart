@@ -1334,6 +1334,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     ThemeData themeData,
     AppLocalizations l10n,
     DiaryRecord diaryRecord,
+    String? emotionsAndFeelingsOnWantedToDo,
     String userPreferredPronoun,
   ) {
     List<Widget> eafOnWantedToDoColumnChildren = [];
@@ -1345,8 +1346,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
         ),
       ),
     );
-    String? emotionsAndFeelingsOnWantedToDo =
-        diaryRecord.emotionsAndFeelingsOnWantToDo;
+
     if (emotionsAndFeelingsOnWantedToDo != null) {
       eafOnWantedToDoColumnChildren.add(SizedBox(height: 10));
       eafOnWantedToDoColumnChildren.add(
@@ -1424,6 +1424,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
         themeData,
         l10n,
         widget._diaryRecord,
+        widget._diaryRecord.emotionsAndFeelingsOnWantToDo,
         widget._userPreferredPronoun,
       ),
     );
