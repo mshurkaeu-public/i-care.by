@@ -1471,59 +1471,64 @@ class _WhatIsDoneForThePersonsState
       content.add(SizedBox(height: 20));
       content.add(
         SizedBox(
-          height: 180,
+          height: 280,
           child: _TwoAreasSplitView(
-            axis: Axis.horizontal,
-            initialFirstAreaWeight: 0.6,
-            firstArea: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  question,
-                  style: themeData.textTheme.titleMedium,
-                ),
-                Expanded(
-                  child: TextField(
-                    controller: _doneControllers[i],
-                    decoration: InputDecoration(
-                      border: OutlineInputBorder(),
-                      hintStyle: _getMyHintStyle(themeData),
-                    ),
-                    expands: true,
-                    maxLines: null,
-                    textAlignVertical: TextAlignVertical.top,
+            axis: Axis.vertical,
+            initialFirstAreaWeight: 0.35,
+            firstArea: SizedBox(),
+            secondArea: _TwoAreasSplitView(
+              axis: Axis.horizontal,
+              initialFirstAreaWeight: 0.6,
+              firstArea: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    question,
+                    style: themeData.textTheme.titleMedium,
                   ),
-                ),
-              ],
-            ),
-            secondArea: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  l10n.questionAboutCurrentEmotionsAndFeelings(
-                    userName,
-                    userPreferredPronoun,
-                  ),
-                  style: themeData.textTheme.titleMedium,
-                ),
-                Expanded(
-                  child: TextField(
-                    controller: _emotionsAndFeelingsOnDoneControllers[i],
-                    decoration: InputDecoration(
-                      border: OutlineInputBorder(),
-                      hintText:
-                          l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-                        userName,
-                        userPreferredPronoun,
+                  Expanded(
+                    child: TextField(
+                      controller: _doneControllers[i],
+                      decoration: InputDecoration(
+                        border: OutlineInputBorder(),
+                        hintStyle: _getMyHintStyle(themeData),
                       ),
-                      hintStyle: _getMyHintStyle(themeData),
+                      expands: true,
+                      maxLines: null,
+                      textAlignVertical: TextAlignVertical.top,
                     ),
-                    expands: true,
-                    maxLines: null,
-                    textAlignVertical: TextAlignVertical.top,
                   ),
-                ),
-              ],
+                ],
+              ),
+              secondArea: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    l10n.questionAboutCurrentEmotionsAndFeelings(
+                      userName,
+                      userPreferredPronoun,
+                    ),
+                    style: themeData.textTheme.titleMedium,
+                  ),
+                  Expanded(
+                    child: TextField(
+                      controller: _emotionsAndFeelingsOnDoneControllers[i],
+                      decoration: InputDecoration(
+                        border: OutlineInputBorder(),
+                        hintText:
+                            l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                          userName,
+                          userPreferredPronoun,
+                        ),
+                        hintStyle: _getMyHintStyle(themeData),
+                      ),
+                      expands: true,
+                      maxLines: null,
+                      textAlignVertical: TextAlignVertical.top,
+                    ),
+                  ),
+                ],
+              ),
             ),
           ),
         ),
