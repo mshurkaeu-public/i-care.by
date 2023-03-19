@@ -1128,6 +1128,8 @@ class _WhatDoYouWantToDoForThePersonsState
   }
 
   void _onNextButtonPressed() {
+    _saveWantToDoAndEmotionsAndFeelingsIntoDiaryRecord();
+
     // TODO: write the code
     showAboutDialog(
       context: context,
