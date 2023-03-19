@@ -1102,10 +1102,8 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
     required this.onDoneButtonPressed,
     required this.onNextButtonPressed,
   })  : _userName = userName,
-        _userPreferredPronoun = userPreferredPronoun,
-        _persons = diaryRecord.whoNames!;
+        _userPreferredPronoun = userPreferredPronoun;
 
-  final List<String> _persons;
   final String _userPreferredPronoun;
   final String _userName;
 
@@ -1270,7 +1268,7 @@ class _WhatDoYouWantToDoForThePersonsState
   void initState() {
     super.initState();
 
-    _persons = widget._persons;
+    _persons = widget.diaryRecord.whoNames!;
 
     List<String> wantToDoForSeveral =
         widget.diaryRecord.wantToDoForSeveral ?? [];
