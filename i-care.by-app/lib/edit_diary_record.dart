@@ -1516,10 +1516,10 @@ class _WhatIsDoneForThePersonsState
       content.add(SizedBox(height: 20));
       content.add(
         SizedBox(
-          height: 280,
+          height: 250,
           child: _TwoAreasSplitView(
             axis: Axis.vertical,
-            initialFirstAreaWeight: 0.35,
+            initialFirstAreaWeight: 0.28,
             firstArea: _TwoAreasSplitView(
               axis: Axis.horizontal,
               initialFirstAreaWeight: 0.6,
