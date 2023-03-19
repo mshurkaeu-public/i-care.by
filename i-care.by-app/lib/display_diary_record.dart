@@ -241,9 +241,9 @@ class DisplayDiaryRecord extends StatelessWidget {
         for (int i = 0; i < persons.length; i++) {
           String personName = persons[i];
 
-          String? wantToDoDescription;
+          String? wantedToDo;
           if (i < wantToDoForSeveral.length) {
-            wantToDoDescription = wantToDoForSeveral[i];
+            wantedToDo = wantToDoForSeveral[i];
           }
 
           String? emotionsAndFeelingsOnWantedToDo;
@@ -266,7 +266,7 @@ class DisplayDiaryRecord extends StatelessWidget {
             emotionsAndFeelingsOnWantedToDo: emotionsAndFeelingsOnWantedToDo,
             l10n: l10n,
             themeData: themeData,
-            wantedToDo: wantToDoDescription,
+            wantedToDo: wantedToDo,
             youDidLabelText: Messages.youDid(
               _diaryRecord,
               l10n,
