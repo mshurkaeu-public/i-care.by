@@ -1383,7 +1383,6 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
       axis: Axis.horizontal,
       initialFirstAreaWeight: 0.6,
       firstArea: SingleChildScrollView(
-        padding: EdgeInsets.only(right: 20),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: wantedToDoColumnChildren,
