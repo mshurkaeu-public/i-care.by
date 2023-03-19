@@ -1475,7 +1475,22 @@ class _WhatIsDoneForThePersonsState
           child: _TwoAreasSplitView(
             axis: Axis.vertical,
             initialFirstAreaWeight: 0.35,
-            firstArea: SizedBox(),
+            firstArea: _TwoAreasSplitView(
+              axis: Axis.horizontal,
+              initialFirstAreaWeight: 0.6,
+              firstArea: SingleChildScrollView(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [],
+                ),
+              ),
+              secondArea: SingleChildScrollView(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [],
+                ),
+              ),
+            ),
             secondArea: _TwoAreasSplitView(
               axis: Axis.horizontal,
               initialFirstAreaWeight: 0.6,
