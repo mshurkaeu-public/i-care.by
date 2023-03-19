@@ -251,7 +251,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           userName,
           userPreferredPronoun,
           _stagingDiaryRecord,
-          _onFinalSubmit,
+          onDoneButtonPressed: _onFinalSubmit,
           onNextButtonPressed: _onSubmitSecondScreen,
         );
         break;
@@ -1098,8 +1098,8 @@ class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
   _WhatDoYouWantToDoForThePersons(
     String userName,
     String userPreferredPronoun,
-    this.diaryRecord,
-    this.onDoneButtonPressed, {
+    this.diaryRecord, {
+    required this.onDoneButtonPressed,
     required this.onNextButtonPressed,
   })  : _userName = userName,
         _userPreferredPronoun = userPreferredPronoun,
