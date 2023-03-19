@@ -22,6 +22,7 @@ abstract class DiaryBase {
   static const String _currentFormatVersion = '0.1';
   static const String _formatVersionKey = 'formatVersion';
   static const String _recordDateKey = 'date';
+  static const String _recordDoneKey = 'done';
   static const String _recordEmotionsAndFeelingsOnWantToDoKey = 'eafOnWantToDo';
   static const String _recordsKey = 'records';
   static const String _recordWantToDoKey = 'wantToDo';
@@ -210,6 +211,7 @@ abstract class DiaryBase {
                 }
                 break;
 
+              case _recordDoneKey:
               case _recordWantToDoKey:
               case _recordEmotionsAndFeelingsOnWantToDoKey:
                 if (value is List<dynamic>) {
