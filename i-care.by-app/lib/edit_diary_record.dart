@@ -757,15 +757,29 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
-    ThemeData themeData = Theme.of(context);
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text(
-          l10n.questionAboutCurrentEmotionsAndFeelings(
+        Tooltip(
+          message: l10n.questionAboutCurrentEmotionsAndFeelingsHints(
             userName,
             userPreferredPronoun,
+          ),
+          triggerMode: TooltipTriggerMode.tap,
+          showDuration: Duration(minutes: 1),
+          child: Text.rich(
+            TextSpan(
+              text: l10n.questionAboutCurrentEmotionsAndFeelings(
+                userName,
+                userPreferredPronoun,
+              ),
+              children: [
+                TextSpan(
+                  text: ' 🤔',
+                ),
+              ],
+            ),
           ),
         ),
         SizedBox(height: 10),
@@ -774,11 +788,6 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
             controller: controller,
             decoration: InputDecoration(
               border: OutlineInputBorder(),
-              hintText: l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-                userName,
-                userPreferredPronoun,
-              ),
-              hintStyle: _getMyHintStyle(themeData),
             ),
             maxLines: null,
             expands: true,
