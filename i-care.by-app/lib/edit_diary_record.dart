@@ -1574,34 +1574,10 @@ class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
                   ),
                 ],
               ),
-              secondArea: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(
-                    l10n.questionAboutCurrentEmotionsAndFeelings(
-                      userName,
-                      userPreferredPronoun,
-                    ),
-                    style: themeData.textTheme.titleMedium,
-                  ),
-                  Expanded(
-                    child: TextField(
-                      controller: _emotionsAndFeelingsOnDoneControllers[i],
-                      decoration: InputDecoration(
-                        border: OutlineInputBorder(),
-                        hintText:
-                            l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-                          userName,
-                          userPreferredPronoun,
-                        ),
-                        hintStyle: _getMyHintStyle(themeData),
-                      ),
-                      expands: true,
-                      maxLines: null,
-                      textAlignVertical: TextAlignVertical.top,
-                    ),
-                  ),
-                ],
+              secondArea: _EmotionsAndFeelingsRequest(
+                controller: _emotionsAndFeelingsOnDoneControllers[i],
+                userName: userName,
+                userPreferredPronoun: userPreferredPronoun,
               ),
             ),
           ),
