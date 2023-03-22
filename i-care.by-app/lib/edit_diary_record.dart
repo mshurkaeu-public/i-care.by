@@ -1243,7 +1243,6 @@ class _WhatDoYouWantToDoForThePersonsState
               children: [
                 Text(
                   question,
-                  style: themeData.textTheme.titleMedium,
                 ),
                 Expanded(
                   child: TextField(
