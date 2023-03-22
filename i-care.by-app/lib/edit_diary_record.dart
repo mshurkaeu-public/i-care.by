@@ -743,6 +743,53 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   }
 }
 
+class _EmotionsAndFeelingsRequest extends StatelessWidget {
+  _EmotionsAndFeelingsRequest({
+    required this.controller,
+    required this.userName,
+    required this.userPreferredPronoun,
+  });
+
+  final TextEditingController controller;
+  final String userName;
+  final String userPreferredPronoun;
+
+  @override
+  Widget build(BuildContext context) {
+    AppLocalizations l10n = AppLocalizations.of(context);
+    ThemeData themeData = Theme.of(context);
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          l10n.questionAboutCurrentEmotionsAndFeelings(
+            userName,
+            userPreferredPronoun,
+          ),
+        ),
+        SizedBox(height: 10),
+        Expanded(
+          child: TextField(
+            controller: controller,
+            decoration: InputDecoration(
+              border: OutlineInputBorder(),
+              hintText: l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                userName,
+                userPreferredPronoun,
+              ),
+              hintStyle: _getMyHintStyle(themeData),
+            ),
+            maxLines: null,
+            expands: true,
+            textAlignVertical: TextAlignVertical.top,
+          ),
+        ),
+      ],
+    );
+  }
+}
+
 class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
   _MessageToTheUser(
     String userName,
@@ -832,7 +879,6 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
-    ThemeData themeData = Theme.of(context);
 
     return Scaffold(
       appBar: AppBar(
@@ -849,27 +895,10 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
           axis: Axis.horizontal,
           initialFirstAreaWeight: widget._firstColumnInitialWeight,
           firstArea: getFirstColumnChild(l10n),
-          secondArea: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Text(l10n.questionAboutCurrentEmotionsAndFeelings(
-                  widget._userName, widget._userPreferredPronoun)),
-              SizedBox(height: 10),
-              Expanded(
-                child: TextField(
-                  controller: _emotionsAndFeelingsController,
-                  decoration: InputDecoration(
-                    border: OutlineInputBorder(),
-                    hintText: l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-                        widget._userName, widget._userPreferredPronoun),
-                    hintStyle: _getMyHintStyle(themeData),
-                  ),
-                  maxLines: null,
-                  expands: true,
-                  textAlignVertical: TextAlignVertical.top,
-                ),
-              ),
-            ],
+          secondArea: _EmotionsAndFeelingsRequest(
+            controller: _emotionsAndFeelingsController,
+            userName: widget._userName,
+            userPreferredPronoun: widget._userPreferredPronoun,
           ),
         ),
       ),
