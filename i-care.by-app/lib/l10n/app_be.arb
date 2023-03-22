@@ -259,7 +259,7 @@
       }
     }
   },
-  "questionAboutCurrentEmotionsAndFeelingsHints": "Падказкі:\n\n- {userName}, што адбываецца з {preferredPronoun, select, Vy{Вашым} other{тваім}} целам, калі {preferredPronoun, select, Vy{глядзіце} other{глядзіш}} на гэты экран?\n\n- Якія эмоцыі ўзнікаюць?\n\n- Амаль заўсёды чалавек адчувае некалькі эмоцый адначасова. Але часта не ўмее/не можа назваць нават і адну. Проста {preferredPronoun, select, Vy{паспрабуйце} other{паспрабуй}} нешта напісаць тут.",
+  "questionAboutCurrentEmotionsAndFeelingsHints": "Падказкі/Парады:\n\n- {userName}, якія эмоцыі ўзнікаюць, калі {preferredPronoun, select, Vy{Вы глядзіце} other{ты глядзіш}} на гэты экран?\n\n- Я, напрыклад, часам не магу разабрацца з уласнымі эмоцыямі. І тады мне дапамагае пытанне — што адбываецца з маім целам?\n\n- Амаль заўсёды чалавек адчувае некалькі эмоцый адначасова. Але часта не ўмее/не можа назваць нават і адну. Проста {preferredPronoun, select, Vy{паспрабуйце} other{паспрабуй}} нешта напісаць у гэтае поле. Я ведаю, што гэта можа быць няпроста.",
   "@questionAboutCurrentEmotionsAndFeelingsHints": {
     "description": "Hints for the question about current user's emotions and feelings.",
     "placeholders": {
