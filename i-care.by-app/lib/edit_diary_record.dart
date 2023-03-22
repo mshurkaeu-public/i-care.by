@@ -1558,7 +1558,6 @@ class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
                 children: [
                   Text(
                     question,
-                    style: themeData.textTheme.titleMedium,
                   ),
                   Expanded(
                     child: TextField(
