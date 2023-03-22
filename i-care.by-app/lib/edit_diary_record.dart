@@ -1559,6 +1559,7 @@ class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
                   Text(
                     question,
                   ),
+                  SizedBox(height: 10),
                   Expanded(
                     child: TextField(
                       controller: _doneControllers[i],
