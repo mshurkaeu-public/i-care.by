@@ -1785,28 +1785,10 @@ abstract class _WhatIsDoneRequestContainerState
                   ),
                 ],
               ),
-              secondArea: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(l10n.questionAboutCurrentEmotionsAndFeelings(
-                      widget._userName, widget._userPreferredPronoun)),
-                  SizedBox(height: 10),
-                  Expanded(
-                    child: TextField(
-                      controller: _emotionsAndFeelingsController,
-                      decoration: InputDecoration(
-                        border: OutlineInputBorder(),
-                        hintText:
-                            l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-                                widget._userName, widget._userPreferredPronoun),
-                        hintStyle: _getMyHintStyle(themeData),
-                      ),
-                      maxLines: null,
-                      expands: true,
-                      textAlignVertical: TextAlignVertical.top,
-                    ),
-                  ),
-                ],
+              secondArea: _EmotionsAndFeelingsRequest(
+                controller: _emotionsAndFeelingsController,
+                userName: widget._userName,
+                userPreferredPronoun: widget._userPreferredPronoun,
               ),
             ),
           ),
