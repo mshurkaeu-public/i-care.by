@@ -1244,6 +1244,7 @@ class _WhatDoYouWantToDoForThePersonsState
                 Text(
                   question,
                 ),
+                SizedBox(height: 10),
                 Expanded(
                   child: TextField(
                     controller: _wantToDoControllers[i],
