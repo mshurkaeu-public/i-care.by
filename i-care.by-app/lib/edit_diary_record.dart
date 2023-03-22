@@ -1260,34 +1260,10 @@ class _WhatDoYouWantToDoForThePersonsState
                 ),
               ],
             ),
-            secondArea: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  l10n.questionAboutCurrentEmotionsAndFeelings(
-                    userName,
-                    userPreferredPronoun,
-                  ),
-                  style: themeData.textTheme.titleMedium,
-                ),
-                Expanded(
-                  child: TextField(
-                    controller: _emotionsAndFeelingsOnWantToDoControllers[i],
-                    decoration: InputDecoration(
-                      border: OutlineInputBorder(),
-                      hintText:
-                          l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-                        userName,
-                        userPreferredPronoun,
-                      ),
-                      hintStyle: _getMyHintStyle(themeData),
-                    ),
-                    expands: true,
-                    maxLines: null,
-                    textAlignVertical: TextAlignVertical.top,
-                  ),
-                ),
-              ],
+            secondArea: _EmotionsAndFeelingsRequest(
+              controller: _emotionsAndFeelingsOnWantToDoControllers[i],
+              userName: userName,
+              userPreferredPronoun: userPreferredPronoun,
             ),
           ),
         ),
