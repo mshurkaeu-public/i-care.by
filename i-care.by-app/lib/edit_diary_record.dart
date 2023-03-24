@@ -782,6 +782,8 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
                   text: '🤔',
                   style: TextStyle(
                     fontFamily: 'Noto Color Emoji',
+                    decoration: TextDecoration.underline,
+                    decorationColor: Colors.blue,
                   ),
                 ),
               ],
