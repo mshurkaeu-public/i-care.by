@@ -785,6 +785,7 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
                     decoration: TextDecoration.underline,
                     decorationColor: Colors.blue,
                   ),
+                  mouseCursor: SystemMouseCursors.click,
                 ),
               ],
             ),
