@@ -780,6 +780,9 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
                 ),
                 TextSpan(
                   text: '🤔',
+                  style: TextStyle(
+                    fontFamily: 'Noto Color Emoji',
+                  ),
                 ),
               ],
             ),
