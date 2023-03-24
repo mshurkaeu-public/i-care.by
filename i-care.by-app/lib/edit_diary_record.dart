@@ -775,8 +775,11 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
                 userPreferredPronoun,
               ),
               children: [
+                WidgetSpan(
+                  child: SizedBox(width: 5),
+                ),
                 TextSpan(
-                  text: ' 🤔',
+                  text: '🤔',
                 ),
               ],
             ),
