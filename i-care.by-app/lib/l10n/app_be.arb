@@ -1,4 +1,366 @@
 {
+  "aboutHistoryOfCreationTabLabel": "гісторыя стварэння",
+  "@aboutHistoryOfCreationTabLabel": {
+    "description": "Label of \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHistoryOfCreation_chapter_00_text": "\nЯ лічу, што гісторыя праекта i-care.by пачалася 24 лютага 2022 года. Вядома, папярэднія гісторыя майго жыцця таксама аказала важны ўплыў. Але на дадзены момант я лічу пачаткам гісторыі праекта 24 лютага 2022 года.\n",
+  "@aboutHistoryOfCreation_chapter_00_text": {
+    "description": "Text of introduction chapter on the \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHistoryOfCreation_chapter_00_title": "Уступ.\n",
+  "@aboutHistoryOfCreation_chapter_00_title": {
+    "description": "Title of introduction chapter on the \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHistoryOfCreation_chapter_01_text": "\nРаніцай я прачнуўся і зазірнуў у навіны. Пастаянна зазіраць з самай раніцы ў навіны стала маёй звычкай з 2020 года. З 20 года кожны дзень адбываліся палітычныя арышты. Кожны дзень былі навіны пра тое як, АМАП або ГУБАЗіК недзе \"вынес\" дзверы і затрымаў чарговых \"эктрэмістаў\" або \"тэрарыстаў\", якія на самой справе былі сумленнымі людзьмі, якія пасмелі сказаць, што хлусня — гэта хлусня, што чорнае — гэта чорнае.\n\nАле ў той раз у навінах было яшчэ больш вар'яцтва. Расія напала на Украіну. У тым ліку частка расейсіх войскаў напала на Украіну з тэрыторыі Беларусі.\n",
+  "@aboutHistoryOfCreation_chapter_01_text": {
+    "description": "Text of 01 chapter on the \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHistoryOfCreation_chapter_01_title": "\n\n24 лютага 2022 года.\n",
+  "@aboutHistoryOfCreation_chapter_01_title": {
+    "description": "Title of 01 chapter on the \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHistoryOfCreation_chapter_02_text": "\n\"Рэферэндум\". Пратэсты супраць вайны.\n",
+  "@aboutHistoryOfCreation_chapter_02_text": {
+    "description": "Text of 02 chapter on the \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHistoryOfCreation_chapter_02_title": "\n\n28 лютага 2022 года.\n",
+  "@aboutHistoryOfCreation_chapter_02_title": {
+    "description": "Title of 02 chapter on the \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHistoryOfCreation_chapter_03_text": "\nРазмова з былой калегай. \"Вывучаная бездапаможнасць\".\n",
+  "@aboutHistoryOfCreation_chapter_03_text": {
+    "description": "Text of 03 chapter on the \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHistoryOfCreation_chapter_03_title": "\n\nПачатак сакавіка.\n",
+  "@aboutHistoryOfCreation_chapter_03_title": {
+    "description": "Title of 03 chapter on the \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHowItWorksTabLabel": "як гэта працуе",
+  "@aboutHowItWorksTabLabel": {
+    "description": "Label of \"how it works\" tab on the \"About\" page."
+  },
+  "aboutHowItWorksText": "Наколькі мне ўдалося высветліць, большасць беларусаў (амаль 97% — 67 чалавек з 70 апытаных у маім апытанні https://t.me/icare_by_channel/3) *могуць* назваць найважнейшага чалавека/людзей у сваім жыцці.\n\nЯ думаю, што большасць з гэтых людзей жадаюць шчасця сваім найважнейшым людзям у жыцці і клапоцяцца аб іх. А таму прапанова свядома клапаціцца аб гэтых людзях ды яшчэ і так, каб гэта прыносіла задавальненне і самім сабе, тэарэтычна павінна зацікавіць.\n\n\nЯ чакаю наступных эфектаў ад карыстання праграмай:\n\n• кожны раз, калі чалавек адказвае на пытанне аб тым хто найважнейшы чалавек у яго жыцці, у гэтага чалавека з'яўляецца шанец асазнаць нешта важнае пра сябе;\n\n• кожны раз, калі чалавек адказвае на пытанне пра то, што ён/яна адчувае, у гэтага чалавека з'яўляецца шанец заўважыць ці задаволены ён/задавлена яна тым, што адбываецца;\n\n• кожны раз, калі чалавек заўважае, што зрабіў тое, што сам жадаў зрабіць, у гэтага чалавека павышаецца самаацэнка, чалавек атрымлівае \"прышчэпку ад бездапаможнасці\".\n\nТакім чынам, праграма дапамагае трэніраваць уважлівасць да свайго стану, дапамагае трымаць фокус на тым, што чалавек лічыць сапраўды важным.\n\n\nКалі ў чалавека, які лічыць некага іншага найважнейшым чалавекам у сваім жыцці, дастаткова моцна разаўецца ўважлівасць да сябе, то з'явіцца шанец, што ён/яна заўважыць, што робіць свае запісы аб тым, што жадае зрабіць для свайго найважнейшага чалавека на аснове ўласных уяўленняў аб тым, што добра для таго чалавека. А не на аснове сапраўдных жаданняў таго чалавека. І часта нават насуперак тым жаданням. \"Прычыняе дабро, наносіць карысць.\" І… адначасова ставіць свае жаданні вышэй за жаданні \"найважнейшага чалавека\".",
+  "@aboutHowItWorksText": {
+    "description": "Text on the \"how it works\" tab on the \"About\" page."
+  },
+  "aboutMyGratitudeIntroductory": "\nУ храналагічным парадку. Найбольш нядаўняя падтрымка ўверсе спіса.\n",
+  "@aboutMyGratitudeIntroductory": {
+    "description": "Introductory text after the title on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitudeTabLabel": "мая ўдзячнасць",
+  "@aboutMyGratitudeTabLabel": {
+    "description": "Label of \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitudeTitle": "Людзі, якім я ўдзячны за іх падтрымку і дапамогу.",
+  "@aboutMyGratitudeTitle": {
+    "description": "Title for the text on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2023_02_text": "спіс за люты 2023\n",
+  "@aboutMyGratitude_2023_02_text": {
+    "description": "Text for 2023-02 on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2023_02_title": "\n2023-02:\n",
+  "@aboutMyGratitude_2023_02_title": {
+    "description": "Title for 2023-02 list/text on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2023_03_text": "спіс за сакавік 2023\n",
+  "@aboutMyGratitude_2023_03_text": {
+    "description": "Text for 2023-03 on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2023_03_title": "\n2023-03:\n",
+  "@aboutMyGratitude_2023_03_title": {
+    "description": "Title for 2023-03 list/text on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_earlier_text": "спіс\n",
+  "@aboutMyGratitude_earlier_text": {
+    "description": "Text for dates earlier than 2023-02 on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_earlier_title": "\nраней:\n",
+  "@aboutMyGratitude_earlier_title": {
+    "description": "Title for list/text for dates earlier than 2023-02 on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutShortAuthor": "Аўтар праграмы — я, Мікалай Шуркаеў.",
+  "@aboutShortAuthor": {
+    "description": "Author name on the \"short\" tab on the \"About\" page."
+  },
+  "aboutShortFeedbackAndSocialNetworksParagraph": "\n{preferredPronoun, select, Vy{Вы можаце} other{Ты можаш}} перадаць зваротную сувязь па праграме любым зручным для {preferredPronoun, select, Vy{Вас} other{цябе}} спосабам. Напрыклад, у рэпазітары на GitHub можна ствараць заяўкі пра памылкі або недапрацоўкі ў праграме. Таксама, там можно весці абмеркаванні.\n\nА {preferredPronoun, select, Vy{можаце} other{можаш}} выкарыстоўваць сацыяльныя сеткі:",
+  "@aboutShortFeedbackAndSocialNetworksParagraph": {
+    "description": "Text of the pragraph about feedback and social networks on \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortFeedbackAndSocialNetworksParagraphTitle": "Зваротная сувязь і сацыяльныя сеткі.",
+  "@aboutShortFeedbackAndSocialNetworksParagraphTitle": {
+    "description": "Title of the pragraph about feedback and social networks on \"short\" tab on the \"About\" page."
+  },
+  "aboutShortHistoryOfCreationPostfix": "\".\n\n",
+  "@aboutShortHistoryOfCreationPostfix": {
+    "description": "Postfix text for \"history of creation\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortHistoryOfCreationPrefix": " Яшчэ больш дэталяў {preferredPronoun, select, Vy{Вы можаце} other{ты можаш}} даведацца на закладцы \"",
+  "@aboutShortHistoryOfCreationPrefix": {
+    "description": "Prefix text for \"history of creation\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortHowItWorksPostfix": ", то {preferredPronoun, select, Vy{глядзіце} other{глядзі}} адпаведныя закладкі.",
+  "@aboutShortHowItWorksPostfix": {
+    "description": "Postfix text for \"how it works\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortHowItWorksPrefix": " і ",
+  "@aboutShortHowItWorksPrefix": {
+    "description": "Prefix text for \"how it works\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortLinkToRepositoryPostfix": ".",
+  "@aboutShortLinkToRepositoryPostfix": {
+    "description": "Postfix text for \"link to repository\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortLinkToRepositoryPrefix": "Зыходны код праграмы ў рэпазітары на GitHub — ",
+  "@aboutShortLinkToRepositoryPrefix": {
+    "description": "Prefix text for \"link to repository\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortMyGratitudePostfix": "\".\n\n",
+  "@aboutShortMyGratitudePostfix": {
+    "description": "Postfix text for \"my gratitude\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortMyGratitudePrefix": " Але мне дапамагалі іншыя людзі. Я вельмі ўдзячны ім за дапамогу і жадаю, каб яны ведалі аб гэтым. Калі ласка, {preferredPronoun, select, Vy{зазірніце} other{зазірні}} ў закладку \"",
+  "@aboutShortMyGratitudePrefix": {
+    "description": "Prefix text for \"my gratitude\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortShowLicensesPostfix": "\".\n\n",
+  "@aboutShortShowLicensesPostfix": {
+    "description": "Postfix text for \"show licenses\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortShowLicensesPrefix": "Кампаненты, выкарастаныя ў праграме, і іх ліцэнзіі тут — \"",
+  "@aboutShortShowLicensesPrefix": {
+    "description": "Prefix text for \"show licenses\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortSupportTheProjectPostfix": "\".\n\n",
+  "@aboutShortSupportTheProjectPostfix": {
+    "description": "Postfix text for \"support the project\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortSupportTheProjectPrefix": "Інфармацыя аб тым, як можна падтрымаць праект, знаходзіцца на закладцы \"",
+  "@aboutShortSupportTheProjectPrefix": {
+    "description": "Prefix text for \"support the project\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortTabLabel": "коратка",
+  "@aboutShortTabLabel": {
+    "description": "Label of \"short\" tab on the \"About\" page."
+  },
+  "aboutShortTheWhyPostfix": " я стварыў гэтую праграму",
+  "@aboutShortTheWhyPostfix": {
+    "description": "Postfix text for \"the why\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutShortTheWhyPrefix": "Калі {preferredPronoun, select, Vy{Вам} other{табе}} цікава, ",
+  "@aboutShortTheWhyPrefix": {
+    "description": "Prefix text for \"the why\" mention on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutSupportTheProject_bugReport_text": "\nБуду ўдзячны {preferredPronoun, select, Vy{Вам} other{табе}} за паведамленне аб заўважанай памылцы. Такое паведамленне можна зрабіць любым зручным {preferredPronoun, select, Vy{Вам} other{табе}} чынам.\n",
+  "@aboutSupportTheProject_bugReport_text": {
+    "description": "Text for the \"bug report\" option on the \"support the project\" tab on the \"About\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutSupportTheProject_bugReport_title": " Паведамленне аб памылцы\n",
+  "@aboutSupportTheProject_bugReport_title": {
+    "description": "A title for the \"bug report\" option on the \"support the project\" tab on the \"About\" page."
+  },
+  "aboutSupportTheProject_checkSpelling_text": "\nУ праграме выкарыстоўваецца шмат тэкставых паведамленняў. А я не вельмі выдатны грамацей ☺️. Буду ўдзячны {preferredPronoun, select, Vy{Вам} other{табе}} за праверку правапісу і пунктуацыі паведамленняў.\n",
+  "@aboutSupportTheProject_checkSpelling_text": {
+    "description": "Text for the \"check spelling\" option on the \"support the project\" tab on the \"About\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutSupportTheProject_checkSpelling_title": " Праверка правапісу і пунктуацыі\n",
+  "@aboutSupportTheProject_checkSpelling_title": {
+    "description": "A title for the \"check spelling\" option on the \"support the project\" tab on the \"About\" page."
+  },
+  "aboutSupportTheProject_feedback_text": "\nМне вельмі цікава даведацца, што {preferredPronoun, select, Vy{Вы думаеце} other{ты думаеш}} наконт гэтай праграмы, знойдзенай каранёвай праблеме і аб спосабе яе вырашэння. Я ўпэўнены, што {preferredPronoun, select, Vy{Ваша} other{твая}} зваротная сувязь станоўча паўплывае на далейшае развіццё праекта.\n",
+  "@aboutSupportTheProject_feedback_text": {
+    "description": "Text for the \"feedback\" option on the \"support the project\" tab on the \"About\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutSupportTheProject_feedback_title": " Зваротная сувязь\n",
+  "@aboutSupportTheProject_feedback_title": {
+    "description": "A title for the \"feedback\" option on the \"support the project\" tab on the \"About\" page."
+  },
+  "aboutSupportTheProject_financially_text": "\n{userName}, мне было б вельмі прыемна, калі б {preferredPronoun, select, Vy{Вы аказалі} ty_zhanchyna{ты аказала} ty_muzhchyna{ты аказаў} other{ты аказаў/аказала}} фінансавую падтрымку. Фінансавая падтрымка вельмі значная для праекта.\n\nНажаль, я пакуль што не стварыў неабходную інфраструктуру для гэтага. Таму, пакуль што аказваць фінансавую падтрымку не варыянт.\n\nАле ёсць іншыя спосабы падтрымаць праект.\n",
+  "@aboutSupportTheProject_financially_text": {
+    "description": "Text for the \"financially\" option on the \"support the project\" tab on the \"About\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutSupportTheProject_financially_title": " Фінансава\n",
+  "@aboutSupportTheProject_financially_title": {
+    "description": "A title for the \"financially\" option on the \"support the project\" tab on the \"About\" page."
+  },
+  "aboutSupportTheProject_other_text": "\nЯ ўпэўнены, што ёсць і іншыя спосабы дапамагчы мне і падтрымаць праект. Напрыклад, калі {preferredPronoun, select, Vy{Вам} other{табе}} падабаецца праграма або яе мэта, то {preferredPronoun, select, Vy{Вы можаце} other{ты можаш}} расказаць пра гэта свайму сябру або роднаму. І гэта пашырыць аўдыторыю і павялічыць верагоднасць падтрымкі праекта.\n",
+  "@aboutSupportTheProject_other_text": {
+    "description": "Text for the \"other\" option on the \"support the project\" tab on the \"About\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutSupportTheProject_other_title": " Іншае\n",
+  "@aboutSupportTheProject_other_title": {
+    "description": "A title for the \"other\" option on the \"support the project\" tab on the \"About\" page."
+  },
+  "aboutSupportTheProject_translation_text": "\nПершапачаткова праграма была створана для беларускамоўных карыстальнікаў. Але, здаецца, можа быць карыснай і для іншамоўных людзей. Буду ўдзячны за дапамогу з перакладам на іншыя мовы.\n",
+  "@aboutSupportTheProject_translation_text": {
+    "description": "Text for the \"translation\" option on the \"support the project\" tab on the \"About\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutSupportTheProject_translation_title": "  Пераклад\n",
+  "@aboutSupportTheProject_translation_title": {
+    "description": "A title for the \"translation\" option on the \"support the project\" tab on the \"About\" page."
+  },
+  "aboutSupportTheProjectTabLabel": "падтрымаць праект",
+  "@aboutSupportTheProjectTabLabel": {
+    "description": "Label of \"support the project\" tab on the \"About\" page."
+  },
+  "aboutTheWhyTabLabel": "навошта",
+  "@aboutTheWhyTabLabel": {
+    "description": "Label of \"the why\" tab on the \"About\" page."
+  },
+  "aboutTheWhyText": "Я планую змясціць тут дыяграму тыпу \"дрэва бягучай рэальнасці\", якая выкарыстоўваецца ў тэорыі абмежаванняў Эліяху М. Голдратта пры аналізе сувязі паміж непажаданымі эфектамі складанай сістэмы і пры пошуке каранёвай прычыны гэтых эфектаў. In English: current reality tree, theory of constraints, Eliyahu M. Goldratt.\n\nА пакуль дрэва тут няма, то напішу словамі. Я прыйшоў да высновы, што каранёвая прычына наступных непажаданых эфектаў, з якімі сутыкаецца беларускае грамадства:\n\n• У школах паборы. Абавязковыя падарункі \"школе ад вучняў\".\n\n• Дыктатура Лукашэнка.\n\n• Высокі ўзровень алкагалізма. Беларусь даволі высока ў першай палове спіса краін-\"рэкардсменаў\" па спажыванню алкаголю на душу насельніцтва (вымяраецца ў літрах чыстага спірту).\n\n• Вялікая колькасць разводаў. Залежыць ад года. Амаль 70% у 2020 годзе. У 2016 Беларусь была на 3 месцы ў свеце па адсоткам разводаў.\n\n• Ідыялогія ў школах. \"Сапраўдны грамадзянін павінен быць гатовы аддаць жыццё за Радзіму.\"\n\n• Высокі адсотак самагубстваў. Беларусь даволі высока ў першай палове спіса краін-\"рэкардсменаў\" па колькасці самагубстваў на 100 000 чалавек насельніцтва.\n\n• Пераслед за іншадумства.\n\n• Апраўданне вайны абаронай \"традыцыйных каштоўнасцей\".\n\n• Настаўнік — не прэстыжная прафесія. Плацяць мала, абавязкаў многа, уступны бал у ВНУ нізкі.\n\n• Адсутнасць ініцыятывы на працы.\n\n• Высокая талерантнасць да хлусні. Калі нехта хлусіць, асабліва \"з трыбуны\", то амаль ніхто не паказвае пальцам на гэтую хлусню і не кажа ў вочы \"ты хлусіш\".\n\n• Хатняе насілле.\n\n у тым, што большасць беларусаў не лічаць сябе важнымі людзьмі ў сваім жыцці.\n\nІ крыху яшчэ глыбей — я прыйшоў да высновы, што каранёвая прычына ўсіх гэтых непажаданых эфектаў у тым, што большасць (думаю, 80%-90% па стану на пачатак 2023 года) беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім жыцці.\n\nМой праект i-care.by — спроба вырашыць гэтую каранёвую праблему.",
+  "@aboutTheWhyText": {
+    "description": "Text on the \"the why\" tab on the \"About\" page."
+  },
   "appTitle": "i-care.by | Клопат аб найважнейшым чалавеку ў тваім жыцці.",
   "@appTitle": {
     "description": "To be used as MaterialApp.title"
