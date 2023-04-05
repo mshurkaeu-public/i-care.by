@@ -59,6 +59,10 @@
   "@aboutMyGratitude_2023_02_15_01": {
     "description": "Text for 2023-02-15 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_02_28_01": "\n2023-02-28 🦸 — знайшоў памылку друку на другім уступным экране. А таксама падштурхнуў мяне задумацца пра размяшчэнне элементаў інтэрфейсу карыстальніка і зрабіць кнопку \"Далей\" бліжэй да \"асноўных падзей\" у інтэрфейсе.\n",
+  "@aboutMyGratitude_2023_02_28_01": {
+    "description": "Text for 2023-02-28 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_02_title": "\n2023-02:\n",
   "@aboutMyGratitude_2023_02_title": {
     "description": "Title for 2023-02 list/text on the \"my gratitude\" tab on the \"About\" page."
