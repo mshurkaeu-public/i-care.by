@@ -67,9 +67,9 @@
   "@aboutMyGratitude_2023_02_title": {
     "description": "Title for 2023-02 list/text on the \"my gratitude\" tab on the \"About\" page."
   },
-  "aboutMyGratitude_2023_03_text": "спіс за сакавік 2023\n",
-  "@aboutMyGratitude_2023_03_text": {
-    "description": "Text for 2023-03 on the \"my gratitude\" tab on the \"About\" page."
+  "aboutMyGratitude_2023_03_04_01": "\n2023-03-04 🦸‍♀️ — падзялілася ўласным бачаннем мэтавай аўдыторыі і гэта дапамагло мне палепшыць маё ўласнае бачанне і адлюстраваць гэта ў сваіх тэкстах.\n",
+  "@aboutMyGratitude_2023_03_04_01": {
+    "description": "Text for 2023-03-04 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
   },
   "aboutMyGratitude_2023_03_title": "\n2023-03:\n",
   "@aboutMyGratitude_2023_03_title": {
