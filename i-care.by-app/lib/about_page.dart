@@ -340,7 +340,7 @@ class _ShortAboutState extends State<_ShortAbout> {
             String txt;
             if (snapshot.hasData) {
               PackageInfo packageInfo = snapshot.data!;
-              txt = packageInfo.version;
+              txt = '${packageInfo.version}.${packageInfo.buildNumber}';
             } else if (snapshot.hasError) {
               txt = snapshot.error!.toString();
             } else {
