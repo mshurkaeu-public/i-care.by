@@ -14,5 +14,14 @@ void main() {
     },
   );
 
+  LicenseRegistry.addLicense(
+    () async* {
+      String license = await rootBundle.loadString(
+        'assets/fonts/Roboto.LICENSE.txt',
+      );
+      yield LicenseEntryWithLineBreaks(['Roboto font'], license);
+    },
+  );
+
   runApp(const ICareByApp());
 }

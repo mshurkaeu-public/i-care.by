@@ -63,10 +63,17 @@ dev_dependencies:
 flutter:
   assets:
     - assets/fonts/NotoColorEmoji.LICENSE.txt
+    - assets/fonts/Roboto.LICENSE.txt
   fonts:
     - family: Noto Color Emoji
       fonts:
         - asset: assets/fonts/NotoColorEmoji.ttf
+    # CanvasKit has Roboto as a global fallback font since Flutter 2.0.0.
+    # On Android devices the Roboto font is installed by default.
+    # On Linux devices Roboto is the default font for Material Flutter app, but the font may be absent on a system.
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
