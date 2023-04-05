@@ -141,10 +141,35 @@ class _HowItWorks extends StatelessWidget {
 }
 
 class _MyGratitude extends StatelessWidget {
+  /// Builds [TextStyle] suitable to display gratitude to superhero's help.
+  ///
+  /// For a reference:
+  ///
+  /// [Typography.blackCupertino] is based on San Francisco (.SF UI Display).
+  ///
+  /// [Typography.blackHelsinki] is based on Roboto, with fallback fonts that are likely (but not guaranteed)
+  /// to be installed on Linux ['Ubuntu', 'Cantarell', 'DejaVu Sans', 'Liberation Sans', 'Arial'].
+  ///
+  /// [Typography.blackMountainView] is based on Roboto.
+  ///
+  /// [Typography.blackRedmond] is based on Segoe UI.
+  ///
+  /// [Typography.blackRedwoodCity] is based on San Francisco (.AppleSystemUIFont)
+  static TextStyle _getSuperheroTextStyle(BuildContext context) {
+    TextStyle res = TextStyle(
+      // fontFamily value depends on platform
+      fontFamily: DefaultTextStyle.of(context).style.fontFamily,
+      fontFamilyFallback: ['Noto Color Emoji'],
+    );
+
+    return res;
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
+    TextStyle gratitudeToSuperheroTextStyle = _getSuperheroTextStyle(context);
 
     return ListView(
       padding: const EdgeInsets.all(20),
@@ -166,7 +191,10 @@ class _MyGratitude extends StatelessWidget {
                 text: l10n.aboutMyGratitude_2023_02_title,
                 style: titleStyle,
               ),
-              TextSpan(text: l10n.aboutMyGratitude_2023_02_15_01),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2023_02_15_01,
+                style: gratitudeToSuperheroTextStyle,
+              ),
               TextSpan(
                 text: l10n.aboutMyGratitude_earlier_title,
                 style: titleStyle,
