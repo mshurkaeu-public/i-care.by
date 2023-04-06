@@ -63,7 +63,7 @@
   "@aboutMyGratitude_2023_02_28_01": {
     "description": "Text for 2023-02-28 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
-  "aboutMyGratitude_2023_02_title": "\n\n2023-02:\n",
+  "aboutMyGratitude_2023_02_title": "\n\n2023-02\n",
   "@aboutMyGratitude_2023_02_title": {
     "description": "Title for 2023-02 list/text on the \"my gratitude\" tab on the \"About\" page."
   },
@@ -75,7 +75,7 @@
   "@aboutMyGratitude_2023_03_05_01": {
     "description": "Text for 2023-03-05 01 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
   },
-  "aboutMyGratitude_2023_03_title": "\n\n2023-03:\n",
+  "aboutMyGratitude_2023_03_title": "\n\n2023-03\n",
   "@aboutMyGratitude_2023_03_title": {
     "description": "Title for 2023-03 list/text on the \"my gratitude\" tab on the \"About\" page."
   },
@@ -83,7 +83,7 @@
   "@aboutMyGratitude_earlier_text": {
     "description": "Text for dates earlier than 2023-02 on the \"my gratitude\" tab on the \"About\" page."
   },
-  "aboutMyGratitude_earlier_title": "\n\nраней:\n",
+  "aboutMyGratitude_earlier_title": "\n\nраней\n",
   "@aboutMyGratitude_earlier_title": {
     "description": "Title for list/text for dates earlier than 2023-02 on the \"my gratitude\" tab on the \"About\" page."
   },
