@@ -182,6 +182,8 @@ class _MyGratitude extends StatelessWidget {
           TextSpan(
             text: l10n.aboutMyGratitudeIntroductory,
             children: [
+
+              // 2023-03
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_03_title,
                 style: titleStyle,
@@ -194,6 +196,8 @@ class _MyGratitude extends StatelessWidget {
                 text: l10n.aboutMyGratitude_2023_03_04_01,
                 style: gratitudeToSuperheroTextStyle,
               ),
+
+              // 2023-02
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_02_title,
                 style: titleStyle,
@@ -206,6 +210,8 @@ class _MyGratitude extends StatelessWidget {
                 text: l10n.aboutMyGratitude_2023_02_15_01,
                 style: gratitudeToSuperheroTextStyle,
               ),
+
+              // earlier
               TextSpan(
                 text: l10n.aboutMyGratitude_earlier_title,
                 style: titleStyle,
