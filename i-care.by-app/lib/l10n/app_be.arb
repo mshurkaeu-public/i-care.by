@@ -103,6 +103,14 @@
   "@aboutMyGratitude_2023_03_title": {
     "description": "Title for 2023-03 list/text on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_04_07_01": "\n2023-04-07 🦸‍♀️ — ✏️ заўважыла памылку пунктуацыі на галоўнай старонцы.\n",
+  "@aboutMyGratitude_2023_04_07_01": {
+    "description": "Text for 2023-04-07 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2023_04_title": "\n\n2023-04\n",
+  "@aboutMyGratitude_2023_04_title": {
+    "description": "Title for 2023-04 list/text on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_earlier_text": "спіс\n",
   "@aboutMyGratitude_earlier_text": {
     "description": "Text for dates earlier than 2023-02 on the \"my gratitude\" tab on the \"About\" page."
@@ -841,7 +849,7 @@
       }
     }
   },
-  "welcomeMessageWhenThereAreNoRecordsInDiary": "Вітаю!\nЯ рады нашай сустрэчы, {userName}!\n\nУ {preferredPronoun, select, Vy{Вашым} other{тваім}} дзённіку пакуль што няма запісаў. {preferredPronoun, select, Vy{Націсніце} other{Націсні}} на аловак каб пачаць.\n\nНа ўсялякі выпадак нагадаю, што асноўная мэта гэтай праграмы — прыносіць {preferredPronoun, select, Vy{Вам} other{табе}} задавальненне праз {preferredPronoun, select, Vy{Ваш} other{твой}} клопат аб найважнейшым чалавеку ў {preferredPronoun, select, Vy{Вашым} other{тваім}} жыцці. Неабходны \"інгрыдыент\" — {preferredPronoun, select, Vy{Ваша} other{твая}} шчырасць з {preferredPronoun, select, Vy{самімі} ty_zhanchyna{самой} ty_muzhchyna{самім} other{самой/самім}} сабой.",
+  "welcomeMessageWhenThereAreNoRecordsInDiary": "Вітаю!\nЯ рады нашай сустрэчы, {userName}!\n\nУ {preferredPronoun, select, Vy{Вашым} other{тваім}} дзённіку пакуль што няма запісаў. {preferredPronoun, select, Vy{Націсніце} other{Націсні}} на аловак, каб пачаць.\n\nНа ўсялякі выпадак нагадаю, што асноўная мэта гэтай праграмы — прыносіць {preferredPronoun, select, Vy{Вам} other{табе}} задавальненне праз {preferredPronoun, select, Vy{Ваш} other{твой}} клопат аб найважнейшым чалавеку ў {preferredPronoun, select, Vy{Вашым} other{тваім}} жыцці. Неабходны \"інгрыдыент\" — {preferredPronoun, select, Vy{Ваша} other{твая}} шчырасць з {preferredPronoun, select, Vy{самімі} ty_zhanchyna{самой} ty_muzhchyna{самім} other{самой/самім}} сабой.",
   "@welcomeMessageWhenThereAreNoRecordsInDiary": {
     "description": "A welcome message for a case when there are no records in user's diary yet.",
     "placeholders": {
