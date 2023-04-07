@@ -102,9 +102,6 @@ class _HistoryOfCreation extends StatelessWidget {
                 text: l10n.aboutHistoryOfCreation_chapter_01_text,
               ),
               TextSpan(
-                text: '\n\n---\nПрацяг будзе напісаны пазней.\n\n',
-              ),
-              TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_02_title,
                 style: titleStyle,
               ),
@@ -117,6 +114,9 @@ class _HistoryOfCreation extends StatelessWidget {
               ),
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_03_text,
+              ),
+              TextSpan(
+                text: '\n\n---\nПрацяг будзе напісаны пазней.\n\n',
               ),
             ],
           ),
