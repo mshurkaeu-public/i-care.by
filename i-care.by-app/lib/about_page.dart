@@ -2,6 +2,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:package_info_plus/package_info_plus.dart';
+import 'package:photo_view/photo_view_gallery.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class AboutPage extends StatelessWidget {
@@ -80,6 +81,95 @@ class _HistoryOfCreation extends StatelessWidget {
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
+    TextStyle photoHintStyle = TextStyle(color: Theme.of(context).disabledColor);
+
+    // ignore: non_constant_identifier_names
+    String chapter_01_text = l10n.aboutHistoryOfCreation_chapter_01_text;
+    // ignore: constant_identifier_names
+    const String chapter_01_traffic_light_placeholder = '\$traffic_light';
+    // ignore: constant_identifier_names
+    const String chapter_01_issues_placeholder = '\$issues';
+    double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
+    double photoWidth = (maxWidth > 1080) ? 1080 : maxWidth;
+
+    // ignore: non_constant_identifier_names
+    List<InlineSpan> chapter_01 = [];
+    for (String textChunk
+        in chapter_01_text.split(chapter_01_traffic_light_placeholder)) {
+      for (String smallerChunk
+          in textChunk.split(chapter_01_issues_placeholder)) {
+        chapter_01.add(TextSpan(text: smallerChunk));
+        chapter_01.add(
+          WidgetSpan(
+            child: Column(
+              children: [
+                Text(
+                  l10n.hintToEnlargePhoto,
+                  style: photoHintStyle,
+                ),
+                Text(
+                  l10n.hintToViewTheNextPhoto,
+                  style: TextStyle(color: Theme.of(context).disabledColor),
+                ),
+                SizedBox(
+                  height: photoWidth,
+                  child: PhotoViewGallery(
+                    pageOptions: [
+                      PhotoViewGalleryPageOptions(
+                        imageProvider: AssetImage(
+                            'assets/images/history-of-creation-2022-02-21-photo-1.png'),
+                      ),
+                      PhotoViewGalleryPageOptions(
+                        imageProvider: AssetImage(
+                            'assets/images/history-of-creation-2022-02-21-photo-2.png'),
+                      ),
+                      PhotoViewGalleryPageOptions(
+                        imageProvider: AssetImage(
+                            'assets/images/history-of-creation-2022-02-21-photo-3.png'),
+                      ),
+                      PhotoViewGalleryPageOptions(
+                        imageProvider: AssetImage(
+                            'assets/images/history-of-creation-2022-02-21-photo-4.png'),
+                      ),
+                    ],
+                    backgroundDecoration:
+                        BoxDecoration(color: Colors.transparent),
+                    scrollDirection: Axis.horizontal,
+                  ),
+                ),
+              ],
+            ),
+          ),
+        );
+      }
+      chapter_01.removeAt(chapter_01.length - 1);
+      chapter_01.add(
+        WidgetSpan(
+          child: Column(
+            children: [
+              Text(
+                l10n.hintToEnlargePhoto,
+                style: photoHintStyle,
+              ),
+              SizedBox(
+                height: photoWidth,
+                child: PhotoViewGallery(
+                  pageOptions: [
+                    PhotoViewGalleryPageOptions(
+                      imageProvider: AssetImage(
+                          'assets/images/history-of-creation-2022-02-21-traffic-light.png'),
+                    ),
+                  ],
+                  backgroundDecoration:
+                      BoxDecoration(color: Colors.transparent),
+                ),
+              ),
+            ],
+          ),
+        ),
+      );
+    }
+    chapter_01.removeAt(chapter_01.length - 1);
 
     return ListView(
       padding: const EdgeInsets.all(20),
@@ -98,9 +188,7 @@ class _HistoryOfCreation extends StatelessWidget {
                 text: l10n.aboutHistoryOfCreation_chapter_01_title,
                 style: titleStyle,
               ),
-              TextSpan(
-                text: l10n.aboutHistoryOfCreation_chapter_01_text,
-              ),
+              ...chapter_01,
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_02_title,
                 style: titleStyle,
@@ -121,6 +209,13 @@ class _HistoryOfCreation extends StatelessWidget {
               ),
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_04_text,
+              ),
+              TextSpan(
+                text: l10n.aboutHistoryOfCreation_chapter_05_title,
+                style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutHistoryOfCreation_chapter_05_text,
               ),
               TextSpan(
                 text: '\n\n---\nПрацяг будзе напісаны пазней.\n\n',
@@ -189,7 +284,6 @@ class _MyGratitude extends StatelessWidget {
           TextSpan(
             text: l10n.aboutMyGratitudeIntroductory,
             children: [
-
               // 2023-04
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_title,

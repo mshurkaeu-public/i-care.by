@@ -37,6 +37,7 @@ dependencies:
   package_info_plus: ^3.0.3
   path_provider: ^2.0.12
   path: ^1.8.2
+  photo_view: ^0.14.0
   url_launcher: ^6.1.10
 
 dev_dependencies:
@@ -59,6 +60,11 @@ flutter:
   assets:
     - assets/fonts/NotoColorEmoji.LICENSE.txt
     - assets/fonts/Roboto.LICENSE.txt
+    - assets/images/history-of-creation-2022-02-21-photo-1.png
+    - assets/images/history-of-creation-2022-02-21-photo-2.png
+    - assets/images/history-of-creation-2022-02-21-photo-3.png
+    - assets/images/history-of-creation-2022-02-21-photo-4.png
+    - assets/images/history-of-creation-2022-02-21-traffic-light.png
   fonts:
     - family: Noto Color Emoji
       fonts:
