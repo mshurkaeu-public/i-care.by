@@ -633,7 +633,7 @@ class _ShortAboutState extends State<_ShortAbout> {
               //Facebook
               TextSpan(
                 text: 'Facebook —',
-                style: TextStyle(wordSpacing: 3),
+                style: TextStyle(wordSpacing: 2.5),
               ),
               TextSpan(
                 text: ' ',
@@ -667,7 +667,7 @@ class _ShortAboutState extends State<_ShortAbout> {
               //LinkedIn
               TextSpan(
                 text: 'LinkedIn —',
-                style: TextStyle(wordSpacing: 10),
+                style: TextStyle(wordSpacing: 10.5),
               ),
               TextSpan(
                 text: ' ',
@@ -684,7 +684,7 @@ class _ShortAboutState extends State<_ShortAbout> {
               //Telegram
               TextSpan(
                 text: 'Telegram —',
-                style: TextStyle(wordSpacing: 4),
+                style: TextStyle(wordSpacing: 5),
               ),
               TextSpan(
                 text: ' ',
@@ -701,7 +701,7 @@ class _ShortAboutState extends State<_ShortAbout> {
               //TikTok
               TextSpan(
                 text: 'TikTok —',
-                style: TextStyle(wordSpacing: 22),
+                style: TextStyle(wordSpacing: 21.5),
               ),
               TextSpan(
                 text: ' ',
@@ -718,7 +718,7 @@ class _ShortAboutState extends State<_ShortAbout> {
               //Twitter
               TextSpan(
                 text: 'Twitter —',
-                style: TextStyle(wordSpacing: 18),
+                style: TextStyle(wordSpacing: 19.5),
               ),
               TextSpan(
                 text: ' ',
@@ -735,7 +735,7 @@ class _ShortAboutState extends State<_ShortAbout> {
               //YouTube
               TextSpan(
                 text: 'YouTube —',
-                style: TextStyle(wordSpacing: 8),
+                style: TextStyle(wordSpacing: 8.5),
               ),
               TextSpan(
                 text: ' ',
