@@ -1082,6 +1082,43 @@ class _WhatDoYouWantToDoForThePersonState
     extends _OneEmotionsAndFeelingsRequestContainerState {
   final TextEditingController _wantToDoController = TextEditingController();
 
+  List<InlineSpan> _getHints(AppLocalizations l10n) {
+    List<InlineSpan> res;
+
+    if (widget.diaryRecord.who == TheMostImportantPersonInMyLife.me) {
+      res = [
+        WidgetSpan(
+          child: SizedBox(width: 5),
+        ),
+        WidgetSpan(
+          child: Tooltip(
+            message: l10n.whatDoYouWantToDoFor_yourself_headBandageHints(
+              widget._userName,
+              widget._userPreferredPronoun,
+            ),
+            triggerMode: TooltipTriggerMode.tap,
+            showDuration: Duration(minutes: 1),
+            child: Text.rich(
+              TextSpan(
+                text: '🤕',
+                style: TextStyle(
+                  fontFamily: 'Noto Color Emoji',
+                  decoration: TextDecoration.underline,
+                  decorationColor: Colors.blue,
+                ),
+                mouseCursor: SystemMouseCursors.click,
+              ),
+            ),
+          ),
+        ),
+      ];
+    } else {
+      res = [];
+    }
+
+    return res;
+  }
+
   String _getTheQuestion(AppLocalizations l10n) {
     String res = Messages.whatDoYouWantToDo(
       widget.diaryRecord,
@@ -1135,14 +1172,19 @@ class _WhatDoYouWantToDoForThePersonState
   @override
   Widget getFirstColumnChild(AppLocalizations l10n) {
     String question = _getTheQuestion(l10n);
+    List<InlineSpan> hints = _getHints(l10n);
     ThemeData themeData = Theme.of(context);
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Text(
-          question,
-          //style: Theme.of(context).textTheme.titleMedium,
+        Text.rich(
+          TextSpan(
+            children: [
+              TextSpan(text: question),
+              ...hints,
+            ],
+          ),
         ),
         SizedBox(height: 10),
         Expanded(
