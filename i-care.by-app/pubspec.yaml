@@ -65,6 +65,14 @@ flutter:
     - assets/images/history-of-creation-2022-02-21-photo-3.png
     - assets/images/history-of-creation-2022-02-21-photo-4.png
     - assets/images/history-of-creation-2022-02-21-traffic-light.png
+    - assets/images/history-of-creation-2022-02-24-flashback-1.png
+    - assets/images/history-of-creation-2022-02-24-flashback-2.png
+    - assets/images/history-of-creation-2022-02-24-flashback-3.png
+    - assets/images/history-of-creation-2022-02-24-flashback-4.png
+    - assets/images/history-of-creation-2022-02-24-flashback-5.png
+    - assets/images/history-of-creation-2022-02-24-flashback-6.png
+    - assets/images/history-of-creation-2022-02-24-flashback-7.png
+    - assets/images/history-of-creation-2022-02-24-flashback-8.png
   fonts:
     - family: Noto Color Emoji
       fonts:

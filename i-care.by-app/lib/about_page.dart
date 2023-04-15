@@ -171,6 +171,76 @@ class _HistoryOfCreation extends StatelessWidget {
     }
     chapter_01.removeAt(chapter_01.length - 1);
 
+    // ignore: non_constant_identifier_names
+    String chapter_03_text = l10n.aboutHistoryOfCreation_chapter_03_text;
+    // ignore: constant_identifier_names
+    const String chapter_03_flashback_placeholder = '\$flashback';
+
+    // ignore: non_constant_identifier_names
+    List<InlineSpan> chapter_03 = [];
+    for (String textChunk
+        in chapter_03_text.split(chapter_03_flashback_placeholder)) {
+      chapter_03.add(TextSpan(text: textChunk));
+      chapter_03.add(
+        WidgetSpan(
+          child: Column(
+            children: [
+              Text(
+                l10n.hintToEnlargePhoto,
+                style: photoHintStyle,
+              ),
+              Text(
+                l10n.hintToViewTheNextPhoto,
+                style: photoHintStyle,
+              ),
+              SizedBox(
+                height: photoWidth,
+                child: PhotoViewGallery(
+                  pageOptions: [
+                    PhotoViewGalleryPageOptions(
+                      imageProvider: AssetImage(
+                          'assets/images/history-of-creation-2022-02-24-flashback-1.png'),
+                    ),
+                    PhotoViewGalleryPageOptions(
+                      imageProvider: AssetImage(
+                          'assets/images/history-of-creation-2022-02-24-flashback-2.png'),
+                    ),
+                    PhotoViewGalleryPageOptions(
+                      imageProvider: AssetImage(
+                          'assets/images/history-of-creation-2022-02-24-flashback-3.png'),
+                    ),
+                    PhotoViewGalleryPageOptions(
+                      imageProvider: AssetImage(
+                          'assets/images/history-of-creation-2022-02-24-flashback-4.png'),
+                    ),
+                    PhotoViewGalleryPageOptions(
+                      imageProvider: AssetImage(
+                          'assets/images/history-of-creation-2022-02-24-flashback-5.png'),
+                    ),
+                    PhotoViewGalleryPageOptions(
+                      imageProvider: AssetImage(
+                          'assets/images/history-of-creation-2022-02-24-flashback-6.png'),
+                    ),
+                    PhotoViewGalleryPageOptions(
+                      imageProvider: AssetImage(
+                          'assets/images/history-of-creation-2022-02-24-flashback-7.png'),
+                    ),
+                    PhotoViewGalleryPageOptions(
+                      imageProvider: AssetImage(
+                          'assets/images/history-of-creation-2022-02-24-flashback-8.png'),
+                    ),
+                  ],
+                  backgroundDecoration:
+                      BoxDecoration(color: Colors.transparent),
+                ),
+              ),
+            ],
+          ),
+        ),
+      );
+    }
+    chapter_03.removeAt(chapter_03.length - 1);
+
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
@@ -200,9 +270,7 @@ class _HistoryOfCreation extends StatelessWidget {
                 text: l10n.aboutHistoryOfCreation_chapter_03_title,
                 style: titleStyle,
               ),
-              TextSpan(
-                text: l10n.aboutHistoryOfCreation_chapter_03_text,
-              ),
+              ...chapter_03,
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_04_title,
                 style: titleStyle,
