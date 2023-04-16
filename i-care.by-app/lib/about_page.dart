@@ -162,13 +162,21 @@ class _HistoryOfCreation extends StatelessWidget {
     double photoWidth = (maxWidth > 1080) ? 1080 : maxWidth;
 
     // ignore: non_constant_identifier_names
-    List<InlineSpan> chapter_01 = [];
-    for (String textChunk
-        in chapter_01_text.split(chapter_01_traffic_light_placeholder)) {
-      for (String smallerChunk
-          in textChunk.split(chapter_01_issues_placeholder)) {
-        chapter_01.add(TextSpan(text: smallerChunk));
-        chapter_01.add(
+    List<InlineSpan> chapter_01 = _buildSpansFromText(
+      chapter_01_text,
+      [
+        MapEntry(
+          chapter_01_traffic_light_placeholder,
+          _buildPhotoViewGallery(
+            context,
+            photoWidth,
+            [
+              'assets/images/history-of-creation-2022-02-21-traffic-light.png',
+            ],
+          ),
+        ),
+        MapEntry(
+          chapter_01_issues_placeholder,
           _buildPhotoViewGallery(
             context,
             photoWidth,
@@ -179,20 +187,9 @@ class _HistoryOfCreation extends StatelessWidget {
               'assets/images/history-of-creation-2022-02-21-photo-4.png',
             ],
           ),
-        );
-      }
-      chapter_01.removeAt(chapter_01.length - 1);
-      chapter_01.add(
-        _buildPhotoViewGallery(
-          context,
-          photoWidth,
-          [
-            'assets/images/history-of-creation-2022-02-21-traffic-light.png',
-          ],
         ),
-      );
-    }
-    chapter_01.removeAt(chapter_01.length - 1);
+      ],
+    );
 
     List<InlineSpan> chapter03 = _buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_03_text,
