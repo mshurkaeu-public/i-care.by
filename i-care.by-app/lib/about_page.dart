@@ -172,10 +172,8 @@ class _HistoryOfCreation extends StatelessWidget {
 
     // ignore: non_constant_identifier_names
     String chapter_03_text = l10n.aboutHistoryOfCreation_chapter_03_text;
-    // ignore: constant_identifier_names
-    const String chapter_03_flashback_placeholder = '\$flashback';
     MapEntry<String, InlineSpan> mapEntry = MapEntry(
-      chapter_03_flashback_placeholder,
+      '\$flashback',
       _buildPhotoViewGallery(
         context,
         photoWidth,
