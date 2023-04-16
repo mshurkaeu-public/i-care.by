@@ -100,10 +100,14 @@ class _HistoryOfCreation extends StatelessWidget {
           l10n.hintToEnlargePhoto,
           style: photoHintStyle,
         ),
-        Text(
-          l10n.hintToViewTheNextPhoto,
-          style: photoHintStyle,
-        ),
+        ...(pageOptions.length > 1
+            ? [
+                Text(
+                  l10n.hintToViewTheNextPhoto,
+                  style: photoHintStyle,
+                ),
+              ]
+            : []),
         SizedBox(
           height: photoWidth,
           child: PhotoViewGallery(
