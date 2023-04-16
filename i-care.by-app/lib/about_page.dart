@@ -152,8 +152,6 @@ class _HistoryOfCreation extends StatelessWidget {
     AppLocalizations l10n = AppLocalizations.of(context);
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
 
-    // ignore: constant_identifier_names
-    const String chapter_01_issues_placeholder = '\$issues';
     double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
     double photoWidth = (maxWidth > 1080) ? 1080 : maxWidth;
 
@@ -172,7 +170,7 @@ class _HistoryOfCreation extends StatelessWidget {
           ),
         ),
         MapEntry(
-          chapter_01_issues_placeholder,
+          '\$issues',
           _buildPhotoViewGallery(
             context,
             photoWidth,
