@@ -77,6 +77,46 @@ class AboutPage extends StatelessWidget {
 }
 
 class _HistoryOfCreation extends StatelessWidget {
+  Widget _buildPhotoViewGallery(
+    BuildContext context,
+    double photoWidth,
+    List<String> assetsNames,
+  ) {
+    AppLocalizations l10n = AppLocalizations.of(context);
+    TextStyle photoHintStyle = TextStyle(color: Theme.of(context).disabledColor);
+
+    List<PhotoViewGalleryPageOptions> pageOptions = [];
+    for (String assetName in assetsNames) {
+      pageOptions.add(
+        PhotoViewGalleryPageOptions(
+          imageProvider: AssetImage(assetName),
+        ),
+      );
+    }
+
+    Widget res = Column(
+      children: [
+        Text(
+          l10n.hintToEnlargePhoto,
+          style: photoHintStyle,
+        ),
+        Text(
+          l10n.hintToViewTheNextPhoto,
+          style: photoHintStyle,
+        ),
+        SizedBox(
+          height: photoWidth,
+          child: PhotoViewGallery(
+            pageOptions: pageOptions,
+            backgroundDecoration: BoxDecoration(color: Colors.transparent),
+          ),
+        ),
+      ],
+    );
+
+    return res;
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -183,57 +223,18 @@ class _HistoryOfCreation extends StatelessWidget {
       chapter_03.add(TextSpan(text: textChunk));
       chapter_03.add(
         WidgetSpan(
-          child: Column(
-            children: [
-              Text(
-                l10n.hintToEnlargePhoto,
-                style: photoHintStyle,
-              ),
-              Text(
-                l10n.hintToViewTheNextPhoto,
-                style: photoHintStyle,
-              ),
-              SizedBox(
-                height: photoWidth,
-                child: PhotoViewGallery(
-                  pageOptions: [
-                    PhotoViewGalleryPageOptions(
-                      imageProvider: AssetImage(
-                          'assets/images/history-of-creation-2022-02-24-flashback-1.png'),
-                    ),
-                    PhotoViewGalleryPageOptions(
-                      imageProvider: AssetImage(
-                          'assets/images/history-of-creation-2022-02-24-flashback-2.png'),
-                    ),
-                    PhotoViewGalleryPageOptions(
-                      imageProvider: AssetImage(
-                          'assets/images/history-of-creation-2022-02-24-flashback-3.png'),
-                    ),
-                    PhotoViewGalleryPageOptions(
-                      imageProvider: AssetImage(
-                          'assets/images/history-of-creation-2022-02-24-flashback-4.png'),
-                    ),
-                    PhotoViewGalleryPageOptions(
-                      imageProvider: AssetImage(
-                          'assets/images/history-of-creation-2022-02-24-flashback-5.png'),
-                    ),
-                    PhotoViewGalleryPageOptions(
-                      imageProvider: AssetImage(
-                          'assets/images/history-of-creation-2022-02-24-flashback-6.png'),
-                    ),
-                    PhotoViewGalleryPageOptions(
-                      imageProvider: AssetImage(
-                          'assets/images/history-of-creation-2022-02-24-flashback-7.png'),
-                    ),
-                    PhotoViewGalleryPageOptions(
-                      imageProvider: AssetImage(
-                          'assets/images/history-of-creation-2022-02-24-flashback-8.png'),
-                    ),
-                  ],
-                  backgroundDecoration:
-                      BoxDecoration(color: Colors.transparent),
-                ),
-              ),
+          child: _buildPhotoViewGallery(
+            context,
+            photoWidth,
+            [
+              'assets/images/history-of-creation-2022-02-24-flashback-1.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-2.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-3.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-4.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-5.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-6.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-7.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-8.png',
             ],
           ),
         ),
