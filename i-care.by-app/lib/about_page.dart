@@ -174,28 +174,30 @@ class _HistoryOfCreation extends StatelessWidget {
     String chapter_03_text = l10n.aboutHistoryOfCreation_chapter_03_text;
     // ignore: constant_identifier_names
     const String chapter_03_flashback_placeholder = '\$flashback';
+    MapEntry<String, InlineSpan> mapEntry = MapEntry(
+      chapter_03_flashback_placeholder,
+      _buildPhotoViewGallery(
+        context,
+        photoWidth,
+        [
+          'assets/images/history-of-creation-2022-02-24-flashback-1.png',
+          'assets/images/history-of-creation-2022-02-24-flashback-2.png',
+          'assets/images/history-of-creation-2022-02-24-flashback-3.png',
+          'assets/images/history-of-creation-2022-02-24-flashback-4.png',
+          'assets/images/history-of-creation-2022-02-24-flashback-5.png',
+          'assets/images/history-of-creation-2022-02-24-flashback-6.png',
+          'assets/images/history-of-creation-2022-02-24-flashback-7.png',
+          'assets/images/history-of-creation-2022-02-24-flashback-8.png',
+        ],
+      ),
+    );
 
     // ignore: non_constant_identifier_names
     List<InlineSpan> chapter_03 = [];
     for (String textChunk
         in chapter_03_text.split(chapter_03_flashback_placeholder)) {
       chapter_03.add(TextSpan(text: textChunk));
-      chapter_03.add(
-        _buildPhotoViewGallery(
-          context,
-          photoWidth,
-          [
-            'assets/images/history-of-creation-2022-02-24-flashback-1.png',
-            'assets/images/history-of-creation-2022-02-24-flashback-2.png',
-            'assets/images/history-of-creation-2022-02-24-flashback-3.png',
-            'assets/images/history-of-creation-2022-02-24-flashback-4.png',
-            'assets/images/history-of-creation-2022-02-24-flashback-5.png',
-            'assets/images/history-of-creation-2022-02-24-flashback-6.png',
-            'assets/images/history-of-creation-2022-02-24-flashback-7.png',
-            'assets/images/history-of-creation-2022-02-24-flashback-8.png',
-          ],
-        ),
-      );
+      chapter_03.add(mapEntry.value);
     }
     chapter_03.removeAt(chapter_03.length - 1);
 
