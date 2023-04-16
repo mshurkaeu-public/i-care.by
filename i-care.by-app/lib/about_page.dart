@@ -196,29 +196,28 @@ class _HistoryOfCreation extends StatelessWidget {
 
     // ignore: non_constant_identifier_names
     String chapter_03_text = l10n.aboutHistoryOfCreation_chapter_03_text;
-    MapEntry<String, InlineSpan> mapEntry = MapEntry(
-      '\$flashback',
-      _buildPhotoViewGallery(
-        context,
-        photoWidth,
-        [
-          'assets/images/history-of-creation-2022-02-24-flashback-1.png',
-          'assets/images/history-of-creation-2022-02-24-flashback-2.png',
-          'assets/images/history-of-creation-2022-02-24-flashback-3.png',
-          'assets/images/history-of-creation-2022-02-24-flashback-4.png',
-          'assets/images/history-of-creation-2022-02-24-flashback-5.png',
-          'assets/images/history-of-creation-2022-02-24-flashback-6.png',
-          'assets/images/history-of-creation-2022-02-24-flashback-7.png',
-          'assets/images/history-of-creation-2022-02-24-flashback-8.png',
-        ],
-      ),
-    );
 
     // ignore: non_constant_identifier_names
     List<InlineSpan> chapter_03 = _buildSpansFromText(
       chapter_03_text,
       [
-        mapEntry,
+        MapEntry(
+          '\$flashback',
+          _buildPhotoViewGallery(
+            context,
+            photoWidth,
+            [
+              'assets/images/history-of-creation-2022-02-24-flashback-1.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-2.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-3.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-4.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-5.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-6.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-7.png',
+              'assets/images/history-of-creation-2022-02-24-flashback-8.png',
+            ],
+          ),
+        ),
       ],
     );
 
