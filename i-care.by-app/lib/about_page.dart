@@ -132,12 +132,13 @@ class _HistoryOfCreation extends StatelessWidget {
     }
 
     MapEntry<String, InlineSpan> mapEntry = mapEntryList[0];
+    List<MapEntry<String, InlineSpan>> reducedMapEntryList = mapEntryList.sublist(1);
 
     List<InlineSpan> res = [];
     List<String> textChunks = text.split(mapEntry.key);
     for (int i = 0; i < textChunks.length; i++) {
       String textChunk = textChunks[i];
-      res.add(TextSpan(text: textChunk));
+      res.addAll(_buildSpansFromText(textChunk, reducedMapEntryList));
       if (i < textChunks.length - 1) {
         res.add(mapEntry.value);
       }
