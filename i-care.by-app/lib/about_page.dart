@@ -194,8 +194,7 @@ class _HistoryOfCreation extends StatelessWidget {
     }
     chapter_01.removeAt(chapter_01.length - 1);
 
-    // ignore: non_constant_identifier_names
-    List<InlineSpan> chapter_03 = _buildSpansFromText(
+    List<InlineSpan> chapter03 = _buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_03_text,
       [
         MapEntry(
@@ -247,7 +246,7 @@ class _HistoryOfCreation extends StatelessWidget {
                 text: l10n.aboutHistoryOfCreation_chapter_03_title,
                 style: titleStyle,
               ),
-              ...chapter_03,
+              ...chapter03,
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_04_title,
                 style: titleStyle,
