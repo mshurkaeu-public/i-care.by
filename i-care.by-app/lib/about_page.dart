@@ -198,9 +198,10 @@ class _HistoryOfCreation extends StatelessWidget {
     for (int i = 0; i < textChunks.length; i++) {
       String textChunk = textChunks[i];
       chapter_03.add(TextSpan(text: textChunk));
-      chapter_03.add(mapEntry.value);
+      if (i < textChunks.length - 1) {
+        chapter_03.add(mapEntry.value);
+      }
     }
-    chapter_03.removeAt(chapter_03.length - 1);
 
     return ListView(
       padding: const EdgeInsets.all(20),
