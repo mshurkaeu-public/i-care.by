@@ -195,11 +195,8 @@ class _HistoryOfCreation extends StatelessWidget {
     chapter_01.removeAt(chapter_01.length - 1);
 
     // ignore: non_constant_identifier_names
-    String chapter_03_text = l10n.aboutHistoryOfCreation_chapter_03_text;
-
-    // ignore: non_constant_identifier_names
     List<InlineSpan> chapter_03 = _buildSpansFromText(
-      chapter_03_text,
+      l10n.aboutHistoryOfCreation_chapter_03_text,
       [
         MapEntry(
           '\$flashback',
