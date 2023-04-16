@@ -127,6 +127,10 @@ class _HistoryOfCreation extends StatelessWidget {
     String text,
     List<MapEntry<String, InlineSpan>> mapEntryList,
   ) {
+    if (mapEntryList.isEmpty) {
+      return [TextSpan(text: text)];
+    }
+
     MapEntry<String, InlineSpan> mapEntry = mapEntryList[0];
 
     List<InlineSpan> res = [];
