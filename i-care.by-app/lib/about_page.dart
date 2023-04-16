@@ -152,8 +152,6 @@ class _HistoryOfCreation extends StatelessWidget {
     AppLocalizations l10n = AppLocalizations.of(context);
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
 
-    // ignore: non_constant_identifier_names
-    String chapter_01_text = l10n.aboutHistoryOfCreation_chapter_01_text;
     // ignore: constant_identifier_names
     const String chapter_01_traffic_light_placeholder = '\$traffic_light';
     // ignore: constant_identifier_names
@@ -163,7 +161,7 @@ class _HistoryOfCreation extends StatelessWidget {
 
     // ignore: non_constant_identifier_names
     List<InlineSpan> chapter_01 = _buildSpansFromText(
-      chapter_01_text,
+      l10n.aboutHistoryOfCreation_chapter_01_text,
       [
         MapEntry(
           chapter_01_traffic_light_placeholder,
