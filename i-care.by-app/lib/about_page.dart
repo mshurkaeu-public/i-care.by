@@ -141,42 +141,14 @@ class _HistoryOfCreation extends StatelessWidget {
         chapter_01.add(TextSpan(text: smallerChunk));
         chapter_01.add(
           WidgetSpan(
-            child: Column(
-              children: [
-                Text(
-                  l10n.hintToEnlargePhoto,
-                  style: photoHintStyle,
-                ),
-                Text(
-                  l10n.hintToViewTheNextPhoto,
-                  style: TextStyle(color: Theme.of(context).disabledColor),
-                ),
-                SizedBox(
-                  height: photoWidth,
-                  child: PhotoViewGallery(
-                    pageOptions: [
-                      PhotoViewGalleryPageOptions(
-                        imageProvider: AssetImage(
-                            'assets/images/history-of-creation-2022-02-21-photo-1.png'),
-                      ),
-                      PhotoViewGalleryPageOptions(
-                        imageProvider: AssetImage(
-                            'assets/images/history-of-creation-2022-02-21-photo-2.png'),
-                      ),
-                      PhotoViewGalleryPageOptions(
-                        imageProvider: AssetImage(
-                            'assets/images/history-of-creation-2022-02-21-photo-3.png'),
-                      ),
-                      PhotoViewGalleryPageOptions(
-                        imageProvider: AssetImage(
-                            'assets/images/history-of-creation-2022-02-21-photo-4.png'),
-                      ),
-                    ],
-                    backgroundDecoration:
-                        BoxDecoration(color: Colors.transparent),
-                    scrollDirection: Axis.horizontal,
-                  ),
-                ),
+            child: _buildPhotoViewGallery(
+              context,
+              photoWidth,
+              [
+                'assets/images/history-of-creation-2022-02-21-photo-1.png',
+                'assets/images/history-of-creation-2022-02-21-photo-2.png',
+                'assets/images/history-of-creation-2022-02-21-photo-3.png',
+                'assets/images/history-of-creation-2022-02-21-photo-4.png',
               ],
             ),
           ),
