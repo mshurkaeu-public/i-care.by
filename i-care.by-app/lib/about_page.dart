@@ -123,6 +123,23 @@ class _HistoryOfCreation extends StatelessWidget {
     return res;
   }
 
+  List<InlineSpan> _buildSpansFromText(
+    String text,
+    MapEntry<String, InlineSpan> mapEntry,
+  ) {
+    List<InlineSpan> res = [];
+    List<String> textChunks = text.split(mapEntry.key);
+    for (int i = 0; i < textChunks.length; i++) {
+      String textChunk = textChunks[i];
+      res.add(TextSpan(text: textChunk));
+      if (i < textChunks.length - 1) {
+        res.add(mapEntry.value);
+      }
+    }
+
+    return res;
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -191,15 +208,10 @@ class _HistoryOfCreation extends StatelessWidget {
     );
 
     // ignore: non_constant_identifier_names
-    List<InlineSpan> chapter_03 = [];
-    List<String> textChunks = chapter_03_text.split(mapEntry.key);
-    for (int i = 0; i < textChunks.length; i++) {
-      String textChunk = textChunks[i];
-      chapter_03.add(TextSpan(text: textChunk));
-      if (i < textChunks.length - 1) {
-        chapter_03.add(mapEntry.value);
-      }
-    }
+    List<InlineSpan> chapter_03 = _buildSpansFromText(
+      chapter_03_text,
+      mapEntry,
+    );
 
     return ListView(
       padding: const EdgeInsets.all(20),
