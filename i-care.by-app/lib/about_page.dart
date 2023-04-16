@@ -125,7 +125,6 @@ class _HistoryOfCreation extends StatelessWidget {
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
-    TextStyle photoHintStyle = TextStyle(color: Theme.of(context).disabledColor);
 
     // ignore: non_constant_identifier_names
     String chapter_01_text = l10n.aboutHistoryOfCreation_chapter_01_text;
@@ -161,25 +160,11 @@ class _HistoryOfCreation extends StatelessWidget {
       chapter_01.removeAt(chapter_01.length - 1);
       chapter_01.add(
         WidgetSpan(
-          child: Column(
-            children: [
-              Text(
-                l10n.hintToEnlargePhoto,
-                style: photoHintStyle,
-              ),
-              SizedBox(
-                height: photoWidth,
-                child: PhotoViewGallery(
-                  pageOptions: [
-                    PhotoViewGalleryPageOptions(
-                      imageProvider: AssetImage(
-                          'assets/images/history-of-creation-2022-02-21-traffic-light.png'),
-                    ),
-                  ],
-                  backgroundDecoration:
-                      BoxDecoration(color: Colors.transparent),
-                ),
-              ),
+          child: _buildPhotoViewGallery(
+            context,
+            photoWidth,
+            [
+              'assets/images/history-of-creation-2022-02-21-traffic-light.png',
             ],
           ),
         ),
