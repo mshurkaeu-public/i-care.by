@@ -153,8 +153,6 @@ class _HistoryOfCreation extends StatelessWidget {
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
 
     // ignore: constant_identifier_names
-    const String chapter_01_traffic_light_placeholder = '\$traffic_light';
-    // ignore: constant_identifier_names
     const String chapter_01_issues_placeholder = '\$issues';
     double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
     double photoWidth = (maxWidth > 1080) ? 1080 : maxWidth;
@@ -164,7 +162,7 @@ class _HistoryOfCreation extends StatelessWidget {
       l10n.aboutHistoryOfCreation_chapter_01_text,
       [
         MapEntry(
-          chapter_01_traffic_light_placeholder,
+          '\$traffic_light',
           _buildPhotoViewGallery(
             context,
             photoWidth,
