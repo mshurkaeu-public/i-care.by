@@ -195,8 +195,8 @@ class _HistoryOfCreation extends StatelessWidget {
     // ignore: non_constant_identifier_names
     List<InlineSpan> chapter_03 = [];
     List<String> textChunks = chapter_03_text.split(mapEntry.key);
-    for (String textChunk
-        in textChunks) {
+    for (int i = 0; i < textChunks.length; i++) {
+      String textChunk = textChunks[i];
       chapter_03.add(TextSpan(text: textChunk));
       chapter_03.add(mapEntry.value);
     }
