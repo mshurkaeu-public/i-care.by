@@ -155,8 +155,7 @@ class _HistoryOfCreation extends StatelessWidget {
     double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
     double photoWidth = (maxWidth > 1080) ? 1080 : maxWidth;
 
-    // ignore: non_constant_identifier_names
-    List<InlineSpan> chapter_01 = _buildSpansFromText(
+    List<InlineSpan> chapter01 = _buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_01_text,
       [
         MapEntry(
@@ -225,7 +224,7 @@ class _HistoryOfCreation extends StatelessWidget {
                 text: l10n.aboutHistoryOfCreation_chapter_01_title,
                 style: titleStyle,
               ),
-              ...chapter_01,
+              ...chapter01,
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_02_title,
                 style: titleStyle,
