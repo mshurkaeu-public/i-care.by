@@ -125,8 +125,10 @@ class _HistoryOfCreation extends StatelessWidget {
 
   List<InlineSpan> _buildSpansFromText(
     String text,
-    MapEntry<String, InlineSpan> mapEntry,
+    List<MapEntry<String, InlineSpan>> mapEntryList,
   ) {
+    MapEntry<String, InlineSpan> mapEntry = mapEntryList[0];
+
     List<InlineSpan> res = [];
     List<String> textChunks = text.split(mapEntry.key);
     for (int i = 0; i < textChunks.length; i++) {
@@ -210,7 +212,9 @@ class _HistoryOfCreation extends StatelessWidget {
     // ignore: non_constant_identifier_names
     List<InlineSpan> chapter_03 = _buildSpansFromText(
       chapter_03_text,
-      mapEntry,
+      [
+        mapEntry,
+      ],
     );
 
     return ListView(
