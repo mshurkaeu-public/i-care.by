@@ -77,7 +77,7 @@ class AboutPage extends StatelessWidget {
 }
 
 class _HistoryOfCreation extends StatelessWidget {
-  Widget _buildPhotoViewGallery(
+  WidgetSpan _buildPhotoViewGallery(
     BuildContext context,
     double photoWidth,
     List<String> assetsNames,
@@ -94,28 +94,30 @@ class _HistoryOfCreation extends StatelessWidget {
       );
     }
 
-    Widget res = Column(
-      children: [
-        Text(
-          l10n.hintToEnlargePhoto,
-          style: photoHintStyle,
-        ),
-        ...(pageOptions.length > 1
-            ? [
-                Text(
-                  l10n.hintToViewTheNextPhoto,
-                  style: photoHintStyle,
-                ),
-              ]
-            : []),
-        SizedBox(
-          height: photoWidth,
-          child: PhotoViewGallery(
-            pageOptions: pageOptions,
-            backgroundDecoration: BoxDecoration(color: Colors.transparent),
+    WidgetSpan res = WidgetSpan(
+      child: Column(
+        children: [
+          Text(
+            l10n.hintToEnlargePhoto,
+            style: photoHintStyle,
           ),
-        ),
-      ],
+          ...(pageOptions.length > 1
+              ? [
+                  Text(
+                    l10n.hintToViewTheNextPhoto,
+                    style: photoHintStyle,
+                  ),
+                ]
+              : []),
+          SizedBox(
+            height: photoWidth,
+            child: PhotoViewGallery(
+              pageOptions: pageOptions,
+              backgroundDecoration: BoxDecoration(color: Colors.transparent),
+            ),
+          ),
+        ],
+      ),
     );
 
     return res;
@@ -143,30 +145,26 @@ class _HistoryOfCreation extends StatelessWidget {
           in textChunk.split(chapter_01_issues_placeholder)) {
         chapter_01.add(TextSpan(text: smallerChunk));
         chapter_01.add(
-          WidgetSpan(
-            child: _buildPhotoViewGallery(
-              context,
-              photoWidth,
-              [
-                'assets/images/history-of-creation-2022-02-21-photo-1.png',
-                'assets/images/history-of-creation-2022-02-21-photo-2.png',
-                'assets/images/history-of-creation-2022-02-21-photo-3.png',
-                'assets/images/history-of-creation-2022-02-21-photo-4.png',
-              ],
-            ),
+          _buildPhotoViewGallery(
+            context,
+            photoWidth,
+            [
+              'assets/images/history-of-creation-2022-02-21-photo-1.png',
+              'assets/images/history-of-creation-2022-02-21-photo-2.png',
+              'assets/images/history-of-creation-2022-02-21-photo-3.png',
+              'assets/images/history-of-creation-2022-02-21-photo-4.png',
+            ],
           ),
         );
       }
       chapter_01.removeAt(chapter_01.length - 1);
       chapter_01.add(
-        WidgetSpan(
-          child: _buildPhotoViewGallery(
-            context,
-            photoWidth,
-            [
-              'assets/images/history-of-creation-2022-02-21-traffic-light.png',
-            ],
-          ),
+        _buildPhotoViewGallery(
+          context,
+          photoWidth,
+          [
+            'assets/images/history-of-creation-2022-02-21-traffic-light.png',
+          ],
         ),
       );
     }
@@ -183,21 +181,19 @@ class _HistoryOfCreation extends StatelessWidget {
         in chapter_03_text.split(chapter_03_flashback_placeholder)) {
       chapter_03.add(TextSpan(text: textChunk));
       chapter_03.add(
-        WidgetSpan(
-          child: _buildPhotoViewGallery(
-            context,
-            photoWidth,
-            [
-              'assets/images/history-of-creation-2022-02-24-flashback-1.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-2.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-3.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-4.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-5.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-6.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-7.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-8.png',
-            ],
-          ),
+        _buildPhotoViewGallery(
+          context,
+          photoWidth,
+          [
+            'assets/images/history-of-creation-2022-02-24-flashback-1.png',
+            'assets/images/history-of-creation-2022-02-24-flashback-2.png',
+            'assets/images/history-of-creation-2022-02-24-flashback-3.png',
+            'assets/images/history-of-creation-2022-02-24-flashback-4.png',
+            'assets/images/history-of-creation-2022-02-24-flashback-5.png',
+            'assets/images/history-of-creation-2022-02-24-flashback-6.png',
+            'assets/images/history-of-creation-2022-02-24-flashback-7.png',
+            'assets/images/history-of-creation-2022-02-24-flashback-8.png',
+          ],
         ),
       );
     }
