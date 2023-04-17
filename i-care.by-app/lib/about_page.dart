@@ -1,5 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:photo_view/photo_view_gallery.dart';
@@ -207,6 +208,57 @@ class _HistoryOfCreation extends StatelessWidget {
       ],
     );
 
+    const String officialStatisticsUrl = 'https://rec.gov.by/uploads/folderForLinks/elect18.pdf';
+    List<InlineSpan> chapter04 = _buildSpansFromText(
+      l10n.aboutHistoryOfCreation_chapter_04_text,
+      [
+        MapEntry(
+          '\$official_statistics_image',
+          _buildPhotoViewGallery(
+            context,
+            photoWidth,
+            [
+              'assets/images/history-of-creation-2022-02-27-official-statistics.png'
+            ],
+          ),
+        ),
+        MapEntry(
+          '\$official_statistics_url',
+          TextSpan(
+            text: officialStatisticsUrl,
+            children: [
+              WidgetSpan(child: SizedBox(width: 5)),
+              WidgetSpan(
+                child: TextButton(
+                  style: TextButton.styleFrom(
+                    padding: EdgeInsets.zero,
+                    minimumSize: const Size(1, 1),
+                  ),
+                  child: const Icon(
+                    Icons.copy,
+                    size: 16,
+                  ),
+                  onPressed: () {
+                    Clipboard.setData(
+                      const ClipboardData(text: officialStatisticsUrl),
+                    ).then(
+                      (_) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            content: Text(l10n.messageWhenCopied),
+                          ),
+                        );
+                      },
+                    );
+                  },
+                ),
+              ),
+            ],
+          ),
+        ),
+      ],
+    );
+
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
@@ -241,9 +293,7 @@ class _HistoryOfCreation extends StatelessWidget {
                 text: l10n.aboutHistoryOfCreation_chapter_04_title,
                 style: titleStyle,
               ),
-              TextSpan(
-                text: l10n.aboutHistoryOfCreation_chapter_04_text,
-              ),
+              ...chapter04,
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_05_title,
                 style: titleStyle,
