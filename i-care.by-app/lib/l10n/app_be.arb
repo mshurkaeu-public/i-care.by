@@ -139,6 +139,10 @@
   "@aboutMyGratitude_2023_04_13_01": {
     "description": "Text for 2023-04-13 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_04_18_01": "\n2023-04-18 🦸‍♀️ — ✏️ паведаміла пра памылку друку на экране з пытаннем \"што ты зрабіла сёння\".\n",
+  "@aboutMyGratitude_2023_04_18_01": {
+    "description": "Text for 2023-04-18 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_04_title": "\n\n2023-04\n",
   "@aboutMyGratitude_2023_04_title": {
     "description": "Title for 2023-04 list/text on the \"my gratitude\" tab on the \"About\" page."
@@ -907,7 +911,7 @@
       }
     }
   },
-  "whatDidYouDoForThePersonToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для {personName} сёння?",
+  "whatDidYouDoForThePersonToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для {personName} сёння?",
   "@whatDidYouDoForThePersonToday": {
     "description": "A question \"what did you do for the person today?\".",
     "placeholders": {
@@ -925,7 +929,7 @@
       }
     }
   },
-  "whatDidYouDoForYourBoyfriendToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго хлопца сёння?",
+  "whatDidYouDoForYourBoyfriendToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго хлопца сёння?",
   "@whatDidYouDoForYourBoyfriendToday": {
     "description": "A question \"what did you do for your boyfriend today?\".",
     "placeholders": {
@@ -939,7 +943,7 @@
       }
     }
   },
-  "whatDidYouDoForYourChildToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго дзіця сёння?",
+  "whatDidYouDoForYourChildToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго дзіця сёння?",
   "@whatDidYouDoForYourChildToday": {
     "description": "A question \"what did you do for your child today?\".",
     "placeholders": {
@@ -953,7 +957,7 @@
       }
     }
   },
-  "whatDidYouDoForYourDaughterToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй дачкі сёння?",
+  "whatDidYouDoForYourDaughterToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй дачкі сёння?",
   "@whatDidYouDoForYourDaughterToday": {
     "description": "A question \"what did you do for your daughter today?\".",
     "placeholders": {
@@ -967,7 +971,7 @@
       }
     }
   },
-  "whatDidYouDoForYourFatherToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго таты сёння?",
+  "whatDidYouDoForYourFatherToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго таты сёння?",
   "@whatDidYouDoForYourFatherToday": {
     "description": "A question \"what did you do for your father today?\".",
     "placeholders": {
@@ -981,7 +985,7 @@
       }
     }
   },
-  "whatDidYouDoForYourGirlfriendToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй дзяўчыны сёння?",
+  "whatDidYouDoForYourGirlfriendToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй дзяўчыны сёння?",
   "@whatDidYouDoForYourGirlfriendToday": {
     "description": "A question \"what did you do for your girlfriend today?\".",
     "placeholders": {
@@ -995,7 +999,7 @@
       }
     }
   },
-  "whatDidYouDoForYourHusbandToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго мужа сёння?",
+  "whatDidYouDoForYourHusbandToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго мужа сёння?",
   "@whatDidYouDoForYourHusbandToday": {
     "description": "A question \"what did you do for your husband today?\".",
     "placeholders": {
@@ -1009,7 +1013,7 @@
       }
     }
   },
-  "whatDidYouDoForYourGrandfatherToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго дзядулі сёння?",
+  "whatDidYouDoForYourGrandfatherToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго дзядулі сёння?",
   "@whatDidYouDoForYourGrandfatherToday": {
     "description": "A question \"what did you do for your grandfather today?\".",
     "placeholders": {
@@ -1023,7 +1027,7 @@
       }
     }
   },
-  "whatDidYouDoForYourGrandmotherToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй бабулі сёння?",
+  "whatDidYouDoForYourGrandmotherToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй бабулі сёння?",
   "@whatDidYouDoForYourGrandmotherToday": {
     "description": "A question \"what did you do for your grandmother today?\".",
     "placeholders": {
@@ -1037,7 +1041,7 @@
       }
     }
   },
-  "whatDidYouDoForYourGrandparentToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй бабулі ці свайго дзядулі сёння?",
+  "whatDidYouDoForYourGrandparentToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй бабулі ці свайго дзядулі сёння?",
   "@whatDidYouDoForYourGrandparentToday": {
     "description": "A question \"what did you do for your grandparent today?\".",
     "placeholders": {
@@ -1051,7 +1055,7 @@
       }
     }
   },
-  "whatDidYouDoForYourMotherToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй мамы сёння?",
+  "whatDidYouDoForYourMotherToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй мамы сёння?",
   "@whatDidYouDoForYourMotherToday": {
     "description": "A question \"what did you do for your mother today?\".",
     "placeholders": {
@@ -1065,7 +1069,7 @@
       }
     }
   },
-  "whatDidYouDoForYourParentToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй мамы ці свайго таты сёння?",
+  "whatDidYouDoForYourParentToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй мамы ці свайго таты сёння?",
   "@whatDidYouDoForYourParentToday": {
     "description": "A question \"what did you do for your parent today?\".",
     "placeholders": {
@@ -1079,7 +1083,7 @@
       }
     }
   },
-  "whatDidYouDoForYourselfToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сябе сёння?",
+  "whatDidYouDoForYourselfToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сябе сёння?",
   "@whatDidYouDoForYourselfToday": {
     "description": "A question \"what did you do for yourself today?\".",
     "placeholders": {
@@ -1093,7 +1097,7 @@
       }
     }
   },
-  "whatDidYouDoForYourSonToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго сына сёння?",
+  "whatDidYouDoForYourSonToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для свайго сына сёння?",
   "@whatDidYouDoForYourSonToday": {
     "description": "A question \"what did you do for your son today?\".",
     "placeholders": {
@@ -1107,7 +1111,7 @@
       }
     }
   },
-  "whatDidYouDoForYourSpouseOrPartnerToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёго партнёра сёння?",
+  "whatDidYouDoForYourSpouseOrPartnerToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёго партнёра сёння?",
   "@whatDidYouDoForYourSpouseOrPartnerToday": {
     "description": "A question \"what did you do for your spouse or partner today?\".",
     "placeholders": {
@@ -1121,7 +1125,7 @@
       }
     }
   },
-  "whatDidYouDoForYourWifeToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабілв} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй жонкі сёння?",
+  "whatDidYouDoForYourWifeToday": "{userName}, што {preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёй жонкі сёння?",
   "@whatDidYouDoForYourWifeToday": {
     "description": "A question \"what did you do for your wife today?\".",
     "placeholders": {
