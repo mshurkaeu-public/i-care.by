@@ -263,6 +263,7 @@ class _HistoryOfCreation extends StatelessWidget {
       padding: const EdgeInsets.all(20),
       children: [
         Text.rich(
+          style: TextStyle(fontFamilyFallback: ['Noto Color Emoji']),
           TextSpan(
             children: [
               TextSpan(
@@ -300,6 +301,13 @@ class _HistoryOfCreation extends StatelessWidget {
               ),
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_05_text,
+              ),
+              TextSpan(
+                text: l10n.aboutHistoryOfCreation_chapter_06_title,
+                style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutHistoryOfCreation_chapter_06_text,
               ),
               TextSpan(
                 text: '\n\n---\nПрацяг будзе напісаны пазней.\n\n',
