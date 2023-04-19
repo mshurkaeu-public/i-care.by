@@ -59,6 +59,14 @@
   "@aboutHistoryOfCreation_chapter_06_title": {
     "description": "Title of 06 chapter on the \"history of creation\" tab on the \"About\" page."
   },
+  "aboutHistoryOfCreation_chapter_07_text": "\n\n",
+  "@aboutHistoryOfCreation_chapter_07_text": {
+    "description": "Text of 07 chapter on the \"history of creation\" tab on the \"About\" page."
+  },
+  "aboutHistoryOfCreation_chapter_07_title": "\n\nКрасавік 2022 года.\n",
+  "@aboutHistoryOfCreation_chapter_07_title": {
+    "description": "Title of 07 chapter on the \"history of creation\" tab on the \"About\" page."
+  },
   "aboutHowItWorksTabLabel": "як гэта працуе",
   "@aboutHowItWorksTabLabel": {
     "description": "Label of \"how it works\" tab on the \"About\" page."
