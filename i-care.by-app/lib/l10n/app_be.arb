@@ -151,6 +151,10 @@
   "@aboutMyGratitude_2023_04_18_01": {
     "description": "Text for 2023-04-18 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_04_20_01": "\n2023-04-20 🦸‍♀️ — 🗯️ расказала, што не зразумела, як пабачыць наступнае фота на старонцы з гісторыяй стварэння. І я дадаў сымбалы \"кнопка граць\" і \"кнопка назад\"\n",
+  "@aboutMyGratitude_2023_04_20_01": {
+    "description": "Text for 2023-04-20 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_04_title": "\n\n2023-04\n",
   "@aboutMyGratitude_2023_04_title": {
     "description": "Title for 2023-04 list/text on the \"my gratitude\" tab on the \"About\" page."
@@ -639,7 +643,7 @@
   "@hintToEnlargePhoto": {
     "description": "A hint for places, where user can enlarge photo in a PhotoView widget."
   },
-  "hintToViewTheNextPhoto": "Змахнуць убок, каб пабачыць наступнае фота.",
+  "hintToViewTheNextPhoto": "◀️ Змахнуць убок, каб пабачыць наступнае фота. ▶️",
   "@hintToViewTheNextPhoto": {
     "description": "A hint for places, where user can navigate through photos in a PhotoViewGallery widget."
   },
