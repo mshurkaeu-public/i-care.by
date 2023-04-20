@@ -167,14 +167,6 @@
   "@aboutMyGratitude_2023_04_title": {
     "description": "Title for 2023-04 list/text on the \"my gratitude\" tab on the \"About\" page."
   },
-  "aboutMyGratitude_earlier_text": "спіс\n",
-  "@aboutMyGratitude_earlier_text": {
-    "description": "Text for dates earlier than 2023-02 on the \"my gratitude\" tab on the \"About\" page."
-  },
-  "aboutMyGratitude_earlier_title": "\n\nраней\n",
-  "@aboutMyGratitude_earlier_title": {
-    "description": "Title for list/text for dates earlier than 2023-02 on the \"my gratitude\" tab on the \"About\" page."
-  },
   "aboutShortAuthor": "Аўтар праграмы — я, Мікалай Шуркаеў.",
   "@aboutShortAuthor": {
     "description": "Author name on the \"short\" tab on the \"About\" page."
