@@ -87,6 +87,14 @@
   "@aboutMyGratitudeTitle": {
     "description": "Title for the text on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2022_03_title": "\n\n2022-03\n",
+  "@aboutMyGratitude_2022_03_title": {
+    "description": "Title for 2022-03 list/text on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2022_03_24_01": "\n2022-03 або 2022-04 🦸‍♀️ — 🎇 наша размова дапамагла мне сфармуляваць гіпотэзу пра вывучаную бездапаможнасць беларускага грамадства і гіпотэзу пра тое, што можа быць лекамі ад гэтай бездапаможнасці.\n",
+  "@aboutMyGratitude_2022_03_24_01": {
+    "description": "Text for 2022-03 або 2022-04 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_02_15_01": "\n2023-02-15 🦸 — 🎇 прапанаваў мне выкарыстоўваць Flutter, каб дасягнуць маёй мэты \"адзін код -> шмат мэтавых платформаў\". Я нават не чуў пра Flutter да таго.\n",
   "@aboutMyGratitude_2023_02_15_01": {
     "description": "Text for 2023-02-15 🦸 on the \"my gratitude\" tab on the \"About\" page."
