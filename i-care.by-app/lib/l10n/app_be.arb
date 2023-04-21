@@ -163,6 +163,10 @@
   "@aboutMyGratitude_2023_04_20_01": {
     "description": "Text for 2023-04-20 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_04_21_01": "\n2023-04-21 🦸 — 👾 паведаміў, што тэкст у секцыях \"гісторыя стварэння\" і \"мая ўдзячнасць\" на Windows выглядае жудасна.\n",
+  "@aboutMyGratitude_2023_04_21_01": {
+    "description": "Text for 2023-04-21 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_04_title": "\n\n2023-04\n",
   "@aboutMyGratitude_2023_04_title": {
     "description": "Title for 2023-04 list/text on the \"my gratitude\" tab on the \"About\" page."

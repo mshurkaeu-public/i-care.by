@@ -343,6 +343,12 @@ class _HowItWorks extends StatelessWidget {
 
 class _MyGratitude extends StatelessWidget {
   /// Builds [TextStyle] suitable to display gratitude to superhero's help.
+  /// If the application is running in browser on Windows then the default
+  /// fontFamily is Segoe UI. Tested in FireFox, Chrome and Edge on Windows 10.
+  /// On Linux in browsers FireFox and Chrome the default fontFamily is Roboto.
+  /// This allows to make an assumption that Flutter web application tries to behave
+  /// as close to a native application as possible and uses the default font family
+  /// as a native application would use.
   ///
   /// For a reference:
   ///
@@ -357,9 +363,17 @@ class _MyGratitude extends StatelessWidget {
   ///
   /// [Typography.blackRedwoodCity] is based on San Francisco (.AppleSystemUIFont)
   static TextStyle _getSuperheroTextStyle(BuildContext context) {
+    // fontFamily value depends on a run-time platform
+    String fontFamily = DefaultTextStyle.of(context).style.fontFamily ?? 'Roboto';
+    if (fontFamily == 'Segoe UI') {
+      // I don't understand why, but on Windows combination of Segoe UI and Noto Color Emoji font families
+      // lead to ugly text look. Thus for now use Roboto font family instead of Segoe UI. When the
+      // behavior of Segoe UI is explained then the workaround may be improved.
+      fontFamily = 'Roboto';
+    }
+
     TextStyle res = TextStyle(
-      // fontFamily value depends on platform
-      fontFamily: DefaultTextStyle.of(context).style.fontFamily,
+      fontFamily: fontFamily,
       fontFamilyFallback: ['Noto Color Emoji'],
     );
 
@@ -387,6 +401,10 @@ class _MyGratitude extends StatelessWidget {
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_title,
                 style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2023_04_21_01,
+                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_20_01,
