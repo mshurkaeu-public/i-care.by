@@ -403,6 +403,10 @@ class _MyGratitude extends StatelessWidget {
                 style: titleStyle,
               ),
               TextSpan(
+                text: l10n.aboutMyGratitude_2023_04_21_02,
+                style: gratitudeToSuperheroTextStyle,
+              ),
+              TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_21_01,
                 style: gratitudeToSuperheroTextStyle,
               ),

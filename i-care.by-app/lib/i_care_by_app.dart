@@ -14,9 +14,13 @@ class ICareByApp extends StatelessWidget {
   Widget build(BuildContext context) {
     ThemeData darkTheme = ThemeData(
       brightness: Brightness.dark,
+      fontFamily: 'Roboto',
+      fontFamilyFallback: ['Noto Color Emoji'],
     );
     ThemeData lightTheme = ThemeData(
       brightness: Brightness.light,
+      fontFamily: 'Roboto',
+      fontFamilyFallback: ['Noto Color Emoji'],
     );
 
     return MaterialApp(
