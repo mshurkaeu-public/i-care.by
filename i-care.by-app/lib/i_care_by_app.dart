@@ -13,7 +13,9 @@ class ICareByApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     ThemeData darkTheme = ThemeData.dark();
-    ThemeData lightTheme = ThemeData.light();
+    ThemeData lightTheme = ThemeData(
+      brightness: Brightness.light,
+    );
 
     return MaterialApp(
       darkTheme: darkTheme,
