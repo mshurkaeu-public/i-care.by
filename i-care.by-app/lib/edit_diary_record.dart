@@ -1101,7 +1101,6 @@ class _WhatDoYouWantToDoForThePersonState
               TextSpan(
                 text: '🤕',
                 style: TextStyle(
-                  fontFamily: 'Noto Color Emoji',
                   decoration: TextDecoration.underline,
                   decorationColor: Colors.blue,
                 ),
