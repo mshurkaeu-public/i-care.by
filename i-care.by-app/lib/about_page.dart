@@ -263,7 +263,6 @@ class _HistoryOfCreation extends StatelessWidget {
       padding: const EdgeInsets.all(20),
       children: [
         Text.rich(
-          style: _MyGratitude._getSuperheroTextStyle(context),
           TextSpan(
             children: [
               TextSpan(
@@ -342,49 +341,10 @@ class _HowItWorks extends StatelessWidget {
 }
 
 class _MyGratitude extends StatelessWidget {
-  /// Builds [TextStyle] suitable to display gratitude to superhero's help.
-  /// If the application is running in browser on Windows then the default
-  /// fontFamily is Segoe UI. Tested in FireFox, Chrome and Edge on Windows 10.
-  /// On Linux in browsers FireFox and Chrome the default fontFamily is Roboto.
-  /// This allows to make an assumption that Flutter web application tries to behave
-  /// as close to a native application as possible and uses the default font family
-  /// as a native application would use.
-  ///
-  /// For a reference:
-  ///
-  /// [Typography.blackCupertino] is based on San Francisco (.SF UI Display).
-  ///
-  /// [Typography.blackHelsinki] is based on Roboto, with fallback fonts that are likely (but not guaranteed)
-  /// to be installed on Linux ['Ubuntu', 'Cantarell', 'DejaVu Sans', 'Liberation Sans', 'Arial'].
-  ///
-  /// [Typography.blackMountainView] is based on Roboto.
-  ///
-  /// [Typography.blackRedmond] is based on Segoe UI.
-  ///
-  /// [Typography.blackRedwoodCity] is based on San Francisco (.AppleSystemUIFont)
-  static TextStyle _getSuperheroTextStyle(BuildContext context) {
-    // fontFamily value depends on a run-time platform
-    String fontFamily = DefaultTextStyle.of(context).style.fontFamily ?? 'Roboto';
-    if (fontFamily == 'Segoe UI') {
-      // I don't understand why, but on Windows combination of Segoe UI and Noto Color Emoji font families
-      // lead to ugly text look. Thus for now use Roboto font family instead of Segoe UI. When the
-      // behavior of Segoe UI is explained then the workaround may be improved.
-      fontFamily = 'Roboto';
-    }
-
-    TextStyle res = TextStyle(
-      fontFamily: fontFamily,
-      fontFamilyFallback: ['Noto Color Emoji'],
-    );
-
-    return res;
-  }
-
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
-    TextStyle gratitudeToSuperheroTextStyle = _getSuperheroTextStyle(context);
 
     return ListView(
       padding: const EdgeInsets.all(20),
@@ -404,31 +364,24 @@ class _MyGratitude extends StatelessWidget {
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_21_02,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_21_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_20_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_18_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_13_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_08_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_07_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
 
               // 2023-03
@@ -438,35 +391,27 @@ class _MyGratitude extends StatelessWidget {
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_03_22_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_03_10_02,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_03_10_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_03_06_02,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_03_06_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_03_05_02,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_03_05_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_03_04_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
 
               // 2023-02
@@ -476,11 +421,9 @@ class _MyGratitude extends StatelessWidget {
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_02_28_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_02_15_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
 
               // 2022-03
@@ -490,7 +433,6 @@ class _MyGratitude extends StatelessWidget {
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2022_03_24_01,
-                style: gratitudeToSuperheroTextStyle,
               ),
             ],
           ),
