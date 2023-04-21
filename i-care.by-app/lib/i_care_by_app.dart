@@ -12,8 +12,10 @@ class ICareByApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    ThemeData darkTheme = ThemeData.dark();
+
     return MaterialApp(
-      darkTheme: ThemeData.dark(),
+      darkTheme: darkTheme,
       home: HomePage(),
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       onGenerateTitle: _onGenerateTitle,
