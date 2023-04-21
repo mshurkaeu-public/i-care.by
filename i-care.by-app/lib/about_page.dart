@@ -263,7 +263,7 @@ class _HistoryOfCreation extends StatelessWidget {
       padding: const EdgeInsets.all(20),
       children: [
         Text.rich(
-          style: TextStyle(fontFamilyFallback: ['Noto Color Emoji']),
+          style: _MyGratitude._getSuperheroTextStyle(context),
           TextSpan(
             children: [
               TextSpan(
