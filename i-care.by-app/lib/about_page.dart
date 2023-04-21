@@ -887,7 +887,6 @@ class _SupportTheProject extends StatelessWidget {
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
-    TextStyle titleIconStyle = TextStyle(fontFamily: 'Noto Color Emoji');
 
     return ListView(
       padding: const EdgeInsets.all(20),
@@ -898,7 +897,6 @@ class _SupportTheProject extends StatelessWidget {
             children: [
               TextSpan(
                 text: '💸',
-                style: titleIconStyle,
               ),
               TextSpan(
                 text: l10n.aboutSupportTheProject_financially_title,
@@ -912,7 +910,6 @@ class _SupportTheProject extends StatelessWidget {
               ),
               TextSpan(
                 text: '\n\n🗯️',
-                style: titleIconStyle,
               ),
               TextSpan(
                 text: l10n.aboutSupportTheProject_feedback_title,
@@ -926,7 +923,6 @@ class _SupportTheProject extends StatelessWidget {
               ),
               TextSpan(
                 text: '\n\n👾',
-                style: titleIconStyle,
               ),
               TextSpan(
                 text: l10n.aboutSupportTheProject_bugReport_title,
@@ -940,7 +936,6 @@ class _SupportTheProject extends StatelessWidget {
               ),
               TextSpan(
                 text: '\n\n✏️',
-                style: titleIconStyle,
               ),
               TextSpan(
                 text: l10n.aboutSupportTheProject_checkSpelling_title,
@@ -954,7 +949,6 @@ class _SupportTheProject extends StatelessWidget {
               ),
               TextSpan(
                 text: '\n\n🌐',
-                style: titleIconStyle,
               ),
               TextSpan(
                 text: l10n.aboutSupportTheProject_translation_title,
@@ -968,7 +962,6 @@ class _SupportTheProject extends StatelessWidget {
               ),
               TextSpan(
                 text: '\n\n🎇',
-                style: titleIconStyle,
               ),
               TextSpan(
                 text: l10n.aboutSupportTheProject_other_title,
