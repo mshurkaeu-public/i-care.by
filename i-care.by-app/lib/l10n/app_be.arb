@@ -267,7 +267,7 @@
       }
     }
   },
-  "aboutShortMyGratitudePrefix": " Але мне дапамагалі іншыя людзі 👫. Я вельмі ўдзячны ім за дапамогу і жадаю, каб яны ведалі аб гэтым. Калі ласка, {preferredPronoun, select, Vy{зазірніце} other{зазірні}} ў закладку \"",
+  "aboutShortMyGratitudePrefix": " Але мне дапамагалі іншыя людзі 👫. Я вельмі ўдзячны ім за дапамогу 🙏 і жадаю, каб яны ведалі аб гэтым. Калі ласка, {preferredPronoun, select, Vy{зазірніце} other{зазірні}} ў закладку \"",
   "@aboutShortMyGratitudePrefix": {
     "description": "Prefix text for \"my gratitude\" mention on the \"short\" tab on the \"About\" page.",
     "placeholders": {
