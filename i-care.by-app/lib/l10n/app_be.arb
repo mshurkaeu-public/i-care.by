@@ -277,7 +277,7 @@
       }
     }
   },
-  "aboutShortShowLicensesPostfix": "\".\n\n",
+  "aboutShortShowLicensesPostfix": "\" 🧾.\n\n",
   "@aboutShortShowLicensesPostfix": {
     "description": "Postfix text for \"show licenses\" mention on the \"short\" tab on the \"About\" page.",
     "placeholders": {
