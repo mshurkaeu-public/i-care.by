@@ -321,7 +321,7 @@
   "@aboutShortTabLabel": {
     "description": "Label of \"short\" tab on the \"About\" page."
   },
-  "aboutShortTheWhyPostfix": " я стварыў гэтую праграму",
+  "aboutShortTheWhyPostfix": " 🤨 я стварыў гэтую праграму",
   "@aboutShortTheWhyPostfix": {
     "description": "Postfix text for \"the why\" mention on the \"short\" tab on the \"About\" page.",
     "placeholders": {
