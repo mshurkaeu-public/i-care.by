@@ -297,7 +297,7 @@
       }
     }
   },
-  "aboutShortSupportTheProjectPostfix": "\".\n\n",
+  "aboutShortSupportTheProjectPostfix": "\" 🤝.\n\n",
   "@aboutShortSupportTheProjectPostfix": {
     "description": "Postfix text for \"support the project\" mention on the \"short\" tab on the \"About\" page.",
     "placeholders": {
