@@ -197,7 +197,7 @@
   "@aboutShortFeedbackAndSocialNetworksParagraphTitle": {
     "description": "Title of the pragraph about feedback and social networks on \"short\" tab on the \"About\" page."
   },
-  "aboutShortHistoryOfCreationPostfix": "\".\n\n",
+  "aboutShortHistoryOfCreationPostfix": "\" 📜.\n\n",
   "@aboutShortHistoryOfCreationPostfix": {
     "description": "Postfix text for \"history of creation\" mention on the \"short\" tab on the \"About\" page.",
     "placeholders": {
