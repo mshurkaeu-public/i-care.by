@@ -217,7 +217,7 @@
       }
     }
   },
-  "aboutShortHowItWorksPostfix": ", то {preferredPronoun, select, Vy{глядзіце} other{глядзі}} адпаведныя закладкі.",
+  "aboutShortHowItWorksPostfix": " 🤔, то {preferredPronoun, select, Vy{глядзіце} other{глядзі}} адпаведныя закладкі.",
   "@aboutShortHowItWorksPostfix": {
     "description": "Postfix text for \"how it works\" mention on the \"short\" tab on the \"About\" page.",
     "placeholders": {
