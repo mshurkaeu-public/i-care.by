@@ -598,6 +598,14 @@ class _ShortAboutState extends State<_ShortAbout> {
             ),
           ),
         ),
+        MapEntry(
+          '\$my_gratitude_link',
+          TextSpan(
+            text: l10n.aboutMyGratitudeTabLabel,
+            style: linkStyle,
+            recognizer: _myGratitudeTapRecognizer,
+          ),
+        ),
       ],
     );
 
@@ -610,11 +618,6 @@ class _ShortAboutState extends State<_ShortAbout> {
               ...aboutShort,
 
               //my gratitude
-              TextSpan(
-                text: l10n.aboutMyGratitudeTabLabel,
-                style: linkStyle,
-                recognizer: _myGratitudeTapRecognizer,
-              ),
               TextSpan(
                 text: l10n.aboutShortMyGratitudePostfix(userPreferredPronoun),
               ),
