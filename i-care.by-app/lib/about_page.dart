@@ -109,7 +109,8 @@ class _HistoryOfCreation extends StatelessWidget {
     List<String> assetsNames,
   ) {
     AppLocalizations l10n = AppLocalizations.of(context);
-    TextStyle photoHintStyle = TextStyle(color: Theme.of(context).disabledColor);
+    TextStyle photoHintStyle =
+        TextStyle(color: Theme.of(context).disabledColor);
 
     List<PhotoViewGalleryPageOptions> pageOptions = [];
     for (String assetName in assetsNames) {
@@ -209,7 +210,8 @@ class _HistoryOfCreation extends StatelessWidget {
       ],
     );
 
-    const String officialStatisticsUrl = 'https://rec.gov.by/uploads/folderForLinks/elect18.pdf';
+    const String officialStatisticsUrl =
+        'https://rec.gov.by/uploads/folderForLinks/elect18.pdf';
     List<InlineSpan> chapter04 = _buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_04_text,
       [
