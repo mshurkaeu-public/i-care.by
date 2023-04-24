@@ -619,10 +619,6 @@ class _ShortAboutState extends State<_ShortAbout> {
 
               //support the project
               TextSpan(
-                text: l10n
-                    .aboutShortSupportTheProjectPrefix(userPreferredPronoun),
-              ),
-              TextSpan(
                 text: l10n.aboutSupportTheProjectTabLabel,
                 style: linkStyle,
                 recognizer: _supportTheProjectTapRecognizer,
