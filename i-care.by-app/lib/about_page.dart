@@ -564,7 +564,32 @@ class _ShortAboutState extends State<_ShortAbout> {
 
     List<InlineSpan> aboutShort = _buildSpansFromText(
       l10n.aboutShort,
-      [],
+      [
+        MapEntry(
+          '\$app_version',
+          WidgetSpan(
+            child: FutureBuilder<PackageInfo>(
+              future: packageInfoFuture,
+              builder: (
+                BuildContext context,
+                AsyncSnapshot<PackageInfo> snapshot,
+              ) {
+                String txt;
+                if (snapshot.hasData) {
+                  PackageInfo packageInfo = snapshot.data!;
+                  txt = '${packageInfo.version}.${packageInfo.buildNumber}';
+                } else if (snapshot.hasError) {
+                  txt = snapshot.error!.toString();
+                } else {
+                  txt = '';
+                }
+
+                return Text(txt);
+              },
+            ),
+          ),
+        ),
+      ],
     );
 
     return ListView(
@@ -573,25 +598,6 @@ class _ShortAboutState extends State<_ShortAbout> {
         Text(
           l10n.appTitle,
           style: TextStyle(fontWeight: FontWeight.bold),
-        ),
-        FutureBuilder<PackageInfo>(
-          future: packageInfoFuture,
-          builder: (
-            BuildContext context,
-            AsyncSnapshot<PackageInfo> snapshot,
-          ) {
-            String txt;
-            if (snapshot.hasData) {
-              PackageInfo packageInfo = snapshot.data!;
-              txt = '${packageInfo.version}.${packageInfo.buildNumber}';
-            } else if (snapshot.hasError) {
-              txt = snapshot.error!.toString();
-            } else {
-              txt = '';
-            }
-
-            return Text(txt);
-          },
         ),
         Text.rich(
           TextSpan(
