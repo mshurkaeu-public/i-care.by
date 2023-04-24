@@ -6,6 +6,31 @@ import 'package:package_info_plus/package_info_plus.dart';
 import 'package:photo_view/photo_view_gallery.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+List<InlineSpan> _buildSpansFromText(
+  String text,
+  List<MapEntry<String, InlineSpan>> mapEntryList,
+) {
+  if (mapEntryList.isEmpty) {
+    return [TextSpan(text: text)];
+  }
+
+  MapEntry<String, InlineSpan> mapEntry = mapEntryList[0];
+  List<MapEntry<String, InlineSpan>> reducedMapEntryList =
+      mapEntryList.sublist(1);
+
+  List<InlineSpan> res = [];
+  List<String> textChunks = text.split(mapEntry.key);
+  for (int i = 0; i < textChunks.length; i++) {
+    String textChunk = textChunks[i];
+    res.addAll(_buildSpansFromText(textChunk, reducedMapEntryList));
+    if (i < textChunks.length - 1) {
+      res.add(mapEntry.value);
+    }
+  }
+
+  return res;
+}
+
 class AboutPage extends StatelessWidget {
   AboutPage({
     required this.userName,
@@ -120,30 +145,6 @@ class _HistoryOfCreation extends StatelessWidget {
         ],
       ),
     );
-
-    return res;
-  }
-
-  List<InlineSpan> _buildSpansFromText(
-    String text,
-    List<MapEntry<String, InlineSpan>> mapEntryList,
-  ) {
-    if (mapEntryList.isEmpty) {
-      return [TextSpan(text: text)];
-    }
-
-    MapEntry<String, InlineSpan> mapEntry = mapEntryList[0];
-    List<MapEntry<String, InlineSpan>> reducedMapEntryList = mapEntryList.sublist(1);
-
-    List<InlineSpan> res = [];
-    List<String> textChunks = text.split(mapEntry.key);
-    for (int i = 0; i < textChunks.length; i++) {
-      String textChunk = textChunks[i];
-      res.addAll(_buildSpansFromText(textChunk, reducedMapEntryList));
-      if (i < textChunks.length - 1) {
-        res.add(mapEntry.value);
-      }
-    }
 
     return res;
   }
