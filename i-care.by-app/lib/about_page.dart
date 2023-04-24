@@ -635,9 +635,6 @@ class _ShortAboutState extends State<_ShortAbout> {
 
               //how it works
               TextSpan(
-                text: l10n.aboutShortHowItWorksPrefix(userPreferredPronoun),
-              ),
-              TextSpan(
                 text: l10n.aboutHowItWorksTabLabel,
                 style: linkStyle,
                 recognizer: _howItWorksTapRecognizer,
