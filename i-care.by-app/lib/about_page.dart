@@ -606,6 +606,14 @@ class _ShortAboutState extends State<_ShortAbout> {
             recognizer: _myGratitudeTapRecognizer,
           ),
         ),
+        MapEntry(
+          '\$support_the_project_link',
+          TextSpan(
+            text: l10n.aboutSupportTheProjectTabLabel,
+            style: linkStyle,
+            recognizer: _supportTheProjectTapRecognizer,
+          ),
+        ),
       ],
     );
 
@@ -618,11 +626,6 @@ class _ShortAboutState extends State<_ShortAbout> {
               ...aboutShort,
 
               //support the project
-              TextSpan(
-                text: l10n.aboutSupportTheProjectTabLabel,
-                style: linkStyle,
-                recognizer: _supportTheProjectTapRecognizer,
-              ),
               TextSpan(
                 text: l10n
                     .aboutShortSupportTheProjectPostfix(userPreferredPronoun),
