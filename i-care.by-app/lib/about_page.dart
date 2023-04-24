@@ -590,7 +590,7 @@ class _ShortAboutState extends State<_ShortAbout> {
         SizedBox(height: textVerticalSeparation),
         Text.rich(
           TextSpan(
-            text: l10n.aboutShortAuthor,
+            text: l10n.aboutShort,
             children: [
               //my gratitude
               TextSpan(

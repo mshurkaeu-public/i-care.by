@@ -179,9 +179,9 @@
   "@aboutMyGratitude_2023_04_title": {
     "description": "Title for 2023-04 list/text on the \"my gratitude\" tab on the \"About\" page."
   },
-  "aboutShortAuthor": "Аўтар праграмы — я, Мікалай Шуркаеў.",
-  "@aboutShortAuthor": {
-    "description": "Author name on the \"short\" tab on the \"About\" page."
+  "aboutShort": "Аўтар праграмы — я, Мікалай Шуркаеў.",
+  "@aboutShort": {
+    "description": "Text to show on the \"short\" tab on the \"About\" page."
   },
   "aboutShortFeedbackAndSocialNetworksParagraph": "\n{preferredPronoun, select, Vy{Вы можаце} other{Ты можаш}} перадаць зваротную сувязь па праграме любым зручным для {preferredPronoun, select, Vy{Вас} other{цябе}} спосабам. Напрыклад, у рэпазітары на GitHub можна ствараць заяўкі пра памылкі або недапрацоўкі ў праграме. Таксама, там можно весці абмеркаванні.\n\nА {preferredPronoun, select, Vy{можаце} other{можаш}} выкарыстоўваць сацыяльныя сеткі:",
   "@aboutShortFeedbackAndSocialNetworksParagraph": {
