@@ -562,6 +562,11 @@ class _ShortAboutState extends State<_ShortAbout> {
       decoration: TextDecoration.underline,
     );
 
+    List<InlineSpan> aboutShort = _buildSpansFromText(
+      l10n.aboutShort,
+      [],
+    );
+
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
@@ -591,9 +596,7 @@ class _ShortAboutState extends State<_ShortAbout> {
         Text.rich(
           TextSpan(
             children: [
-              TextSpan(
-                text: l10n.aboutShort,
-              ),
+              ...aboutShort,
 
               //my gratitude
               TextSpan(
