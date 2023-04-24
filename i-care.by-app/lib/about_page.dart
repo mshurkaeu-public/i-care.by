@@ -641,11 +641,6 @@ class _ShortAboutState extends State<_ShortAbout> {
             children: [
               ...aboutShort,
 
-              //how it works
-              TextSpan(
-                text: l10n.aboutShortHowItWorksPostfix(userPreferredPronoun),
-              ),
-
               //history of creation
               TextSpan(
                 text: l10n
