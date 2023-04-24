@@ -633,11 +633,6 @@ class _ShortAboutState extends State<_ShortAbout> {
             children: [
               ...aboutShort,
 
-              //the wby
-              TextSpan(
-                text: l10n.aboutShortTheWhyPostfix(userPreferredPronoun),
-              ),
-
               //how it works
               TextSpan(
                 text: l10n.aboutShortHowItWorksPrefix(userPreferredPronoun),
