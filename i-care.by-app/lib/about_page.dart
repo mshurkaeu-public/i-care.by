@@ -627,9 +627,6 @@ class _ShortAboutState extends State<_ShortAbout> {
 
               //the wby
               TextSpan(
-                text: l10n.aboutShortTheWhyPrefix(userPreferredPronoun),
-              ),
-              TextSpan(
                 text: l10n.aboutTheWhyTabLabel,
                 style: linkStyle,
                 recognizer: _theWhyTapRecognizer,
