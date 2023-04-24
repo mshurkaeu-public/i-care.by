@@ -622,6 +622,14 @@ class _ShortAboutState extends State<_ShortAbout> {
             recognizer: _theWhyTapRecognizer,
           ),
         ),
+        MapEntry(
+          '\$how_it_works_link',
+          TextSpan(
+            text: l10n.aboutHowItWorksTabLabel,
+            style: linkStyle,
+            recognizer: _howItWorksTapRecognizer,
+          ),
+        ),
       ],
     );
 
@@ -634,11 +642,6 @@ class _ShortAboutState extends State<_ShortAbout> {
               ...aboutShort,
 
               //how it works
-              TextSpan(
-                text: l10n.aboutHowItWorksTabLabel,
-                style: linkStyle,
-                recognizer: _howItWorksTapRecognizer,
-              ),
               TextSpan(
                 text: l10n.aboutShortHowItWorksPostfix(userPreferredPronoun),
               ),
