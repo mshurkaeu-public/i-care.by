@@ -587,7 +587,6 @@ class _ShortAboutState extends State<_ShortAbout> {
             return Text(txt);
           },
         ),
-        SizedBox(height: textVerticalSeparation),
         Text.rich(
           TextSpan(
             children: [
