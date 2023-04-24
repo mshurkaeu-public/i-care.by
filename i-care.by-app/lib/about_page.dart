@@ -614,6 +614,14 @@ class _ShortAboutState extends State<_ShortAbout> {
             recognizer: _supportTheProjectTapRecognizer,
           ),
         ),
+        MapEntry(
+          '\$the_why_link',
+          TextSpan(
+            text: l10n.aboutTheWhyTabLabel,
+            style: linkStyle,
+            recognizer: _theWhyTapRecognizer,
+          ),
+        ),
       ],
     );
 
@@ -626,11 +634,6 @@ class _ShortAboutState extends State<_ShortAbout> {
               ...aboutShort,
 
               //the wby
-              TextSpan(
-                text: l10n.aboutTheWhyTabLabel,
-                style: linkStyle,
-                recognizer: _theWhyTapRecognizer,
-              ),
               TextSpan(
                 text: l10n.aboutShortTheWhyPostfix(userPreferredPronoun),
               ),
