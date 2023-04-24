@@ -565,7 +565,7 @@ class _ShortAboutState extends State<_ShortAbout> {
     );
 
     List<InlineSpan> aboutShort = _buildSpansFromText(
-      l10n.aboutShort,
+      l10n.aboutShort(userPreferredPronoun),
       [
         MapEntry(
           '\$app_title',
@@ -610,9 +610,6 @@ class _ShortAboutState extends State<_ShortAbout> {
               ...aboutShort,
 
               //my gratitude
-              TextSpan(
-                text: l10n.aboutShortMyGratitudePrefix(userPreferredPronoun),
-              ),
               TextSpan(
                 text: l10n.aboutMyGratitudeTabLabel,
                 style: linkStyle,

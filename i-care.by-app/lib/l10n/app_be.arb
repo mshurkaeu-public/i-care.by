@@ -179,9 +179,15 @@
   "@aboutMyGratitude_2023_04_title": {
     "description": "Title for 2023-04 list/text on the \"my gratitude\" tab on the \"About\" page."
   },
-  "aboutShort": "$app_title\n$app_version\n\nАўтар праграмы — я, Мікалай Шуркаеў.",
+  "aboutShort": "$app_title\n$app_version\n\nАўтар праграмы — я, Мікалай Шуркаеў. Але мне дапамагалі іншыя людзі 👫. Я вельмі ўдзячны ім за дапамогу 🙏 і жадаю, каб яны ведалі аб гэтым. Калі ласка, {preferredPronoun, select, Vy{зазірніце} other{зазірні}} ў закладку \"",
   "@aboutShort": {
-    "description": "Text to show on the \"short\" tab on the \"About\" page."
+    "description": "Text to show on the \"short\" tab on the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
   },
   "aboutShortFeedbackAndSocialNetworksParagraph": "\n{preferredPronoun, select, Vy{Вы можаце} other{Ты можаш}} перадаць зваротную сувязь па праграме любым зручным для {preferredPronoun, select, Vy{Вас} other{цябе}} спосабам. Напрыклад, у рэпазітары на GitHub можна ствараць заяўкі пра памылкі або недапрацоўкі ў праграме. Таксама, там можно весці абмеркаванні.\n\nА {preferredPronoun, select, Vy{можаце} other{можаш}} выкарыстоўваць сацыяльныя сеткі:",
   "@aboutShortFeedbackAndSocialNetworksParagraph": {
@@ -260,16 +266,6 @@
   "aboutShortMyGratitudePostfix": "\".\n\n",
   "@aboutShortMyGratitudePostfix": {
     "description": "Postfix text for \"my gratitude\" mention on the \"short\" tab on the \"About\" page.",
-    "placeholders": {
-      "preferredPronoun": {
-        "type": "String",
-        "example": "ty_muzhchyna"
-      }
-    }
-  },
-  "aboutShortMyGratitudePrefix": " Але мне дапамагалі іншыя людзі 👫. Я вельмі ўдзячны ім за дапамогу 🙏 і жадаю, каб яны ведалі аб гэтым. Калі ласка, {preferredPronoun, select, Vy{зазірніце} other{зазірні}} ў закладку \"",
-  "@aboutShortMyGratitudePrefix": {
-    "description": "Prefix text for \"my gratitude\" mention on the \"short\" tab on the \"About\" page.",
     "placeholders": {
       "preferredPronoun": {
         "type": "String",
