@@ -179,7 +179,7 @@
   "@aboutMyGratitude_2023_04_title": {
     "description": "Title for 2023-04 list/text on the \"my gratitude\" tab on the \"About\" page."
   },
-  "aboutShort": "$app_version\n\nАўтар праграмы — я, Мікалай Шуркаеў.",
+  "aboutShort": "$app_title\n$app_version\n\nАўтар праграмы — я, Мікалай Шуркаеў.",
   "@aboutShort": {
     "description": "Text to show on the \"short\" tab on the \"About\" page."
   },

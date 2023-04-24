@@ -566,6 +566,13 @@ class _ShortAboutState extends State<_ShortAbout> {
       l10n.aboutShort,
       [
         MapEntry(
+          '\$app_title',
+          TextSpan(
+            text: l10n.appTitle,
+            style: TextStyle(fontWeight: FontWeight.bold),
+          ),
+        ),
+        MapEntry(
           '\$app_version',
           WidgetSpan(
             child: FutureBuilder<PackageInfo>(
@@ -595,10 +602,6 @@ class _ShortAboutState extends State<_ShortAbout> {
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
-        Text(
-          l10n.appTitle,
-          style: TextStyle(fontWeight: FontWeight.bold),
-        ),
         Text.rich(
           TextSpan(
             children: [
