@@ -554,8 +554,6 @@ class _ShortAboutState extends State<_ShortAbout> {
 
   @override
   Widget build(BuildContext context) {
-    const double textVerticalSeparation = 20;
-
     AppLocalizations l10n = AppLocalizations.of(context);
     String userPreferredPronoun = widget.userPreferredPronoun;
 
@@ -665,7 +663,6 @@ class _ShortAboutState extends State<_ShortAbout> {
             children: aboutShort,
           ),
         ),
-        SizedBox(height: textVerticalSeparation),
         Text(
           l10n.aboutShortFeedbackAndSocialNetworksParagraphTitle,
           style: TextStyle(fontWeight: FontWeight.bold),
