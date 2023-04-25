@@ -643,10 +643,6 @@ class _ShortAboutState extends State<_ShortAbout> {
 
               //history of creation
               TextSpan(
-                text: l10n
-                    .aboutShortHistoryOfCreationPrefix(userPreferredPronoun),
-              ),
-              TextSpan(
                 text: l10n.aboutHistoryOfCreationTabLabel,
                 style: linkStyle,
                 recognizer: _historyOfCreationTapRecognizer,
