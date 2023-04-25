@@ -659,10 +659,6 @@ class _ShortAboutState extends State<_ShortAbout> {
 
               //link to GitHub
               TextSpan(
-                text:
-                    l10n.aboutShortLinkToRepositoryPrefix(userPreferredPronoun),
-              ),
-              TextSpan(
                 text: _gitHubUrl,
                 style: linkStyle,
                 recognizer: _gitHubUrlTapRecognizer,
