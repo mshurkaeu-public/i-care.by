@@ -638,6 +638,14 @@ class _ShortAboutState extends State<_ShortAbout> {
             recognizer: _historyOfCreationTapRecognizer,
           ),
         ),
+        MapEntry(
+          '\$components_licenses_link',
+          TextSpan(
+            text: MaterialLocalizations.of(context).viewLicensesButtonLabel,
+            style: linkStyle,
+            recognizer: _showLicensesTapRecognizer,
+          ),
+        ),
       ],
     );
 
@@ -650,11 +658,6 @@ class _ShortAboutState extends State<_ShortAbout> {
               ...aboutShort,
 
               //components
-              TextSpan(
-                text: MaterialLocalizations.of(context).viewLicensesButtonLabel,
-                style: linkStyle,
-                recognizer: _showLicensesTapRecognizer,
-              ),
               TextSpan(
                 text: l10n.aboutShortShowLicensesPostfix(userPreferredPronoun),
               ),
