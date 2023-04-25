@@ -651,9 +651,6 @@ class _ShortAboutState extends State<_ShortAbout> {
 
               //components
               TextSpan(
-                text: l10n.aboutShortShowLicensesPrefix(userPreferredPronoun),
-              ),
-              TextSpan(
                 text: MaterialLocalizations.of(context).viewLicensesButtonLabel,
                 style: linkStyle,
                 recognizer: _showLicensesTapRecognizer,
