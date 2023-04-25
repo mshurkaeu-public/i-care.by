@@ -646,6 +646,14 @@ class _ShortAboutState extends State<_ShortAbout> {
             recognizer: _showLicensesTapRecognizer,
           ),
         ),
+        MapEntry(
+          '\$GitHub_repository_link',
+          TextSpan(
+            text: _gitHubUrl,
+            style: linkStyle,
+            recognizer: _gitHubUrlTapRecognizer,
+          ),
+        ),
       ],
     );
 
@@ -658,11 +666,6 @@ class _ShortAboutState extends State<_ShortAbout> {
               ...aboutShort,
 
               //link to GitHub
-              TextSpan(
-                text: _gitHubUrl,
-                style: linkStyle,
-                recognizer: _gitHubUrlTapRecognizer,
-              ),
               TextSpan(
                 text: l10n
                     .aboutShortLinkToRepositoryPostfix(userPreferredPronoun),
