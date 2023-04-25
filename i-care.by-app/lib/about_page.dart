@@ -630,6 +630,14 @@ class _ShortAboutState extends State<_ShortAbout> {
             recognizer: _howItWorksTapRecognizer,
           ),
         ),
+        MapEntry(
+          '\$history_of_creation_link',
+          TextSpan(
+            text: l10n.aboutHistoryOfCreationTabLabel,
+            style: linkStyle,
+            recognizer: _historyOfCreationTapRecognizer,
+          ),
+        ),
       ],
     );
 
@@ -642,11 +650,6 @@ class _ShortAboutState extends State<_ShortAbout> {
               ...aboutShort,
 
               //history of creation
-              TextSpan(
-                text: l10n.aboutHistoryOfCreationTabLabel,
-                style: linkStyle,
-                recognizer: _historyOfCreationTapRecognizer,
-              ),
               TextSpan(
                 text: l10n
                     .aboutShortHistoryOfCreationPostfix(userPreferredPronoun),
