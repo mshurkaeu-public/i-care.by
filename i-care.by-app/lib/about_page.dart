@@ -664,12 +664,6 @@ class _ShortAboutState extends State<_ShortAbout> {
           TextSpan(
             children: [
               ...aboutShort,
-
-              //link to GitHub
-              TextSpan(
-                text: l10n
-                    .aboutShortLinkToRepositoryPostfix(userPreferredPronoun),
-              ),
             ],
           ),
         ),
