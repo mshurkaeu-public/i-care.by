@@ -13,16 +13,17 @@ class ICareByApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    String roboto = GoogleFonts.roboto().fontFamily!;
     String notoColorEmoji = GoogleFonts.notoColorEmoji().fontFamily!;
 
     ThemeData darkTheme = ThemeData(
       brightness: Brightness.dark,
-      fontFamily: 'Roboto',
+      fontFamily: roboto,
       fontFamilyFallback: [notoColorEmoji],
     );
     ThemeData lightTheme = ThemeData(
       brightness: Brightness.light,
-      fontFamily: 'Roboto',
+      fontFamily: roboto,
       fontFamilyFallback: [notoColorEmoji],
     );
 
