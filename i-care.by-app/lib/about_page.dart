@@ -31,12 +31,20 @@ List<InlineSpan> _buildSpansFromText(
   return res;
 }
 
-InlineSpan _getParagraphWithFeedbackRequest(AppLocalizations l10n) {
+InlineSpan _getParagraphWithFeedbackRequest(
+  AppLocalizations l10n,
+  String userPreferredPronoun,
+) {
   InlineSpan res = TextSpan(
     children: [
       TextSpan(
         text: l10n.aboutShortFeedbackAndSocialNetworksParagraphTitle,
         style: TextStyle(fontWeight: FontWeight.bold),
+      ),
+      TextSpan(
+        text: l10n.aboutShortFeedbackAndSocialNetworksParagraph(
+          userPreferredPronoun,
+        ),
       ),
     ],
   );
@@ -667,7 +675,7 @@ class _ShortAboutState extends State<_ShortAbout> {
         ),
         MapEntry(
           '\$feedback_request',
-          _getParagraphWithFeedbackRequest(l10n),
+          _getParagraphWithFeedbackRequest(l10n, userPreferredPronoun),
         ),
       ],
     );
@@ -678,11 +686,6 @@ class _ShortAboutState extends State<_ShortAbout> {
         Text.rich(
           TextSpan(
             children: aboutShort,
-          ),
-        ),
-        Text(
-          l10n.aboutShortFeedbackAndSocialNetworksParagraph(
-            userPreferredPronoun,
           ),
         ),
         Text.rich(
