@@ -467,7 +467,7 @@
       }
     }
   },
-  "feedbackRequestTitle": "🗯️ Зваротная сувязь і сацыяльныя сеткі.\n",
+  "feedbackRequestTitle": "🗯️ Зваротная сувязь.\n",
   "@feedbackRequestTitle": {
     "description": "Title of the request feedback paragraph. Used on \"short\" tab of the \"About\" page."
   },
