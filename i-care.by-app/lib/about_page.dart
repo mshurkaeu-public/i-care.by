@@ -184,7 +184,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
       decoration: TextDecoration.underline,
     );
 
-    String paragraphText = l10n.aboutShortFeedbackAndSocialNetworksParagraph(
+    String paragraphText = l10n.feedbackRequestText(
       widget.userPreferredPronoun,
     );
     List<InlineSpan> paragraphSpans = _buildSpansFromText(
