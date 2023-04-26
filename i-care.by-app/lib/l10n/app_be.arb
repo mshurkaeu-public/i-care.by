@@ -199,9 +199,9 @@
       }
     }
   },
-  "aboutShortFeedbackAndSocialNetworksParagraphTitle": "🗯️ Зваротная сувязь і сацыяльныя сеткі.\n",
-  "@aboutShortFeedbackAndSocialNetworksParagraphTitle": {
-    "description": "Title of the pragraph about feedback and social networks on \"short\" tab on the \"About\" page."
+  "feedbackRequestTitle": "🗯️ Зваротная сувязь і сацыяльныя сеткі.\n",
+  "@feedbackRequestTitle": {
+    "description": "Title of the request feedback paragraph. Used on \"short\" tab of the \"About\" page."
   },
   "aboutShortTabLabel": "коратка",
   "@aboutShortTabLabel": {

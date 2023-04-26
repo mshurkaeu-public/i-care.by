@@ -213,7 +213,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
       TextSpan(
         children: [
           TextSpan(
-            text: l10n.aboutShortFeedbackAndSocialNetworksParagraphTitle,
+            text: l10n.feedbackRequestTitle,
             style: TextStyle(fontWeight: FontWeight.bold),
           ),
           ...paragraphSpans,
