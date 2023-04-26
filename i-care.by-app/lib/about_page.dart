@@ -31,19 +31,6 @@ List<InlineSpan> _buildSpansFromText(
   return res;
 }
 
-InlineSpan _getParagraphWithFeedbackRequest(
-  AppLocalizations l10n,
-  String userPreferredPronoun,
-) {
-  InlineSpan res = WidgetSpan(
-    child: _FeedbackRequest(
-      userPreferredPronoun: userPreferredPronoun,
-    ),
-  );
-
-  return res;
-}
-
 class AboutPage extends StatelessWidget {
   AboutPage({
     required this.userName,
@@ -899,7 +886,11 @@ class _ShortAboutState extends State<_ShortAbout> {
         ),
         MapEntry(
           '\$feedback_request',
-          _getParagraphWithFeedbackRequest(l10n, userPreferredPronoun),
+          WidgetSpan(
+            child: _FeedbackRequest(
+              userPreferredPronoun: userPreferredPronoun,
+            ),
+          ),
         ),
       ],
     );
