@@ -189,20 +189,6 @@
       }
     }
   },
-  "feedbackRequestText": "\nМне вельмі цікава даведацца, што {preferredPronoun, select, Vy{Вы думаеце} other{ты думаеш}} наконт гэтай праграмы, знойдзенай каранёвай праблеме і аб спосабе яе вырашэння. Я ўпэўнены, што {preferredPronoun, select, Vy{Ваша} other{твая}} зваротная сувязь станоўча паўплывае на далейшае развіццё праекта.\n\n{preferredPronoun, select, Vy{Вы можаце} other{Ты можаш}} перадаць зваротную сувязь па праграме любым зручным {preferredPronoun, select, Vy{Вам} other{табе}} спосабам. Напрыклад, на GitHub можна ствараць паведамленні пра памылкі або недапрацоўкі ў праграме — $github_create_new_issue_url. Таксама, там можно весці абмеркаванні — $github_discussions_url.\n\nА {preferredPronoun, select, Vy{можаце} other{можаш}} выкарыстоўваць сацыяльныя сеткі:\n",
-  "@feedbackRequestText": {
-    "description": "Text of the request feedback paragraph. Used on \"short\" tab of the \"About\" page.",
-    "placeholders": {
-      "preferredPronoun": {
-        "type": "String",
-        "example": "ty_muzhchyna"
-      }
-    }
-  },
-  "feedbackRequestTitle": "🗯️ Зваротная сувязь і сацыяльныя сеткі.\n",
-  "@feedbackRequestTitle": {
-    "description": "Title of the request feedback paragraph. Used on \"short\" tab of the \"About\" page."
-  },
   "aboutShortTabLabel": "коратка",
   "@aboutShortTabLabel": {
     "description": "Label of \"short\" tab on the \"About\" page."
@@ -470,6 +456,20 @@
         "example": "UnimplementedError"
       }
     }
+  },
+  "feedbackRequestText": "\nМне вельмі цікава даведацца, што {preferredPronoun, select, Vy{Вы думаеце} other{ты думаеш}} наконт гэтай праграмы, знойдзенай каранёвай праблеме і аб спосабе яе вырашэння. Я ўпэўнены, што {preferredPronoun, select, Vy{Ваша} other{твая}} зваротная сувязь станоўча паўплывае на далейшае развіццё праекта.\n\n{preferredPronoun, select, Vy{Вы можаце} other{Ты можаш}} перадаць зваротную сувязь па праграме любым зручным {preferredPronoun, select, Vy{Вам} other{табе}} спосабам. Напрыклад, на GitHub можна ствараць паведамленні пра памылкі або недапрацоўкі ў праграме — $github_create_new_issue_url. Таксама, там можно весці абмеркаванні — $github_discussions_url.\n\nА {preferredPronoun, select, Vy{можаце} other{можаш}} выкарыстоўваць сацыяльныя сеткі:\n",
+  "@feedbackRequestText": {
+    "description": "Text of the request feedback paragraph. Used on \"short\" tab of the \"About\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "feedbackRequestTitle": "🗯️ Зваротная сувязь і сацыяльныя сеткі.\n",
+  "@feedbackRequestTitle": {
+    "description": "Title of the request feedback paragraph. Used on \"short\" tab of the \"About\" page."
   },
   "firstMeetingIntroduction": "Вітаю!\n\nЗдаецца, {preferredPronoun, select, Vy{Вы запускаеце} other{ты запускаеш}} гэтую праграму ў першы раз.\n{preferredPronoun, select, Vy{Давайце} other{Давай}} пазнаёмімся.\n\nМяне завуць Мікалай Шуркаеў.\nЯ стварыў гэтую праграму, каб дапамагчы {preferredPronoun, select, Vy{Вам} other{табе}} атрымліваць задавальненне ад жыцця праз {preferredPronoun, select, Vy{Ваш} other{твой}} клопат аб найважнейшым чалавеку/людзях у {preferredPronoun, select, Vy{Вашым} other{тваім}} жыцці.\n\n\nЯк мне звяртацца да {preferredPronoun, select, Vy{Вас} other{цябе}}?",
   "@firstMeetingIntroduction": {
