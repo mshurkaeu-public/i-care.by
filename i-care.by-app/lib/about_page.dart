@@ -130,6 +130,8 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
   final TapGestureRecognizer _facebookUrlTapRecognizer = TapGestureRecognizer();
   final TapGestureRecognizer _gitHubCreateNewIssueUrlTapRecognizer =
       TapGestureRecognizer();
+  final TapGestureRecognizer _gitHubDiscussionsUrlTapRecognizer =
+      TapGestureRecognizer();
   final TapGestureRecognizer _instagramUrlTapRecognizer =
       TapGestureRecognizer();
   final TapGestureRecognizer _linkedInUrlTapRecognizer = TapGestureRecognizer();
@@ -141,6 +143,8 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
   static const String _facebookUrl = 'https://facebook.com/icare.by.page';
   static const String _gitHubCreateNewIssueUrl =
       'https://github.com/mshurkaeu-public/i-care.by/issues/new';
+  static const String _gitHubDiscussionsUrl =
+      'https://github.com/mshurkaeu-public/i-care.by/discussions';
   static const String _instagramUrl = 'https://www.instagram.com/icare.by';
   static const String _linkedInUrl = 'https://linkedin.com/company/i-care-by';
   static const String _telegramUrl = 'https://t.me/icare_by_channel';
@@ -154,6 +158,10 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
 
   void _launchGitHubCreateNewIssueUrl() {
     launchUrl(Uri.parse(_gitHubCreateNewIssueUrl));
+  }
+
+  void _launchGitHubDiscussionsUrl() {
+    launchUrl(Uri.parse(_gitHubDiscussionsUrl));
   }
 
   void _launchInstagramUrl() {
@@ -201,6 +209,14 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
             text: _gitHubCreateNewIssueUrl,
             style: linkStyle,
             recognizer: _gitHubCreateNewIssueUrlTapRecognizer,
+          ),
+        ),
+        MapEntry(
+          '\$github_discussions_url',
+          TextSpan(
+            text: _gitHubDiscussionsUrl,
+            style: linkStyle,
+            recognizer: _gitHubDiscussionsUrlTapRecognizer,
           ),
         ),
       ],
@@ -348,6 +364,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
   void dispose() {
     _facebookUrlTapRecognizer.dispose();
     _gitHubCreateNewIssueUrlTapRecognizer.dispose();
+    _gitHubDiscussionsUrlTapRecognizer.dispose();
     _instagramUrlTapRecognizer.dispose();
     _linkedInUrlTapRecognizer.dispose();
     _telegramUrlTapRecognizer.dispose();
@@ -365,6 +382,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
     _facebookUrlTapRecognizer.onTap = _launchFacebookUrl;
     _gitHubCreateNewIssueUrlTapRecognizer.onTap =
         _launchGitHubCreateNewIssueUrl;
+    _gitHubDiscussionsUrlTapRecognizer.onTap = _launchGitHubDiscussionsUrl;
     _instagramUrlTapRecognizer.onTap = _launchInstagramUrl;
     _linkedInUrlTapRecognizer.onTap = _launchLinkedInUrl;
     _telegramUrlTapRecognizer.onTap = _launchTelegramUrl;
