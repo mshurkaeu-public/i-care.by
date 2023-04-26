@@ -971,16 +971,11 @@ class _SupportTheProject extends StatelessWidget {
                 ),
               ),
               TextSpan(
-                text: '\n\n🗯️',
+                text: '\n\n',
               ),
-              TextSpan(
-                text: l10n.aboutSupportTheProject_feedback_title,
-                style: titleStyle,
-              ),
-              TextSpan(
-                text: l10n.aboutSupportTheProject_feedback_text(
-                  userName,
-                  userPreferredPronoun,
+              WidgetSpan(
+                child: _FeedbackRequest(
+                  userPreferredPronoun: userPreferredPronoun,
                 ),
               ),
               TextSpan(

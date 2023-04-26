@@ -229,24 +229,6 @@
   "@aboutSupportTheProject_checkSpelling_title": {
     "description": "A title for the \"check spelling\" option on the \"support the project\" tab on the \"About\" page."
   },
-  "aboutSupportTheProject_feedback_text": "\nМне вельмі цікава даведацца, што {preferredPronoun, select, Vy{Вы думаеце} other{ты думаеш}} наконт гэтай праграмы, знойдзенай каранёвай праблеме і аб спосабе яе вырашэння. Я ўпэўнены, што {preferredPronoun, select, Vy{Ваша} other{твая}} зваротная сувязь станоўча паўплывае на далейшае развіццё праекта.\n",
-  "@aboutSupportTheProject_feedback_text": {
-    "description": "Text for the \"feedback\" option on the \"support the project\" tab on the \"About\" page.",
-    "placeholders": {
-      "userName": {
-        "type": "String",
-        "example": "Мікалай"
-      },
-      "preferredPronoun": {
-        "type": "String",
-        "example": "ty_muzhchyna"
-      }
-    }
-  },
-  "aboutSupportTheProject_feedback_title": " Зваротная сувязь\n",
-  "@aboutSupportTheProject_feedback_title": {
-    "description": "A title for the \"feedback\" option on the \"support the project\" tab on the \"About\" page."
-  },
   "aboutSupportTheProject_financially_text": "\n{userName}, мне было б вельмі прыемна, калі б {preferredPronoun, select, Vy{Вы аказалі} ty_zhanchyna{ты аказала} ty_muzhchyna{ты аказаў} other{ты аказаў/аказала}} фінансавую падтрымку. Фінансавая падтрымка вельмі значная для праекта.\n\nНажаль, я пакуль што не стварыў неабходную інфраструктуру для гэтага. Таму, пакуль што аказваць фінансавую падтрымку не варыянт.\n\nАле ёсць іншыя спосабы падтрымаць праект.\n",
   "@aboutSupportTheProject_financially_text": {
     "description": "Text for the \"financially\" option on the \"support the project\" tab on the \"About\" page.",
