@@ -181,6 +181,14 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
       decoration: TextDecoration.underline,
     );
 
+    String paragraphText = l10n.aboutShortFeedbackAndSocialNetworksParagraph(
+      widget.userPreferredPronoun,
+    );
+    List<InlineSpan> paragraphSpans = _buildSpansFromText(
+      paragraphText,
+      [],
+    );
+
     return Text.rich(
       TextSpan(
         children: [
@@ -188,11 +196,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
             text: l10n.aboutShortFeedbackAndSocialNetworksParagraphTitle,
             style: TextStyle(fontWeight: FontWeight.bold),
           ),
-          TextSpan(
-            text: l10n.aboutShortFeedbackAndSocialNetworksParagraph(
-              widget.userPreferredPronoun,
-            ),
-          ),
+          ...paragraphSpans,
           TextSpan(
             style: TextStyle(
               height: 1.8,
