@@ -35,18 +35,10 @@ InlineSpan _getParagraphWithFeedbackRequest(
   AppLocalizations l10n,
   String userPreferredPronoun,
 ) {
-  InlineSpan res = TextSpan(
-    children: [
-      TextSpan(
-        text: l10n.aboutShortFeedbackAndSocialNetworksParagraphTitle,
-        style: TextStyle(fontWeight: FontWeight.bold),
-      ),
-      TextSpan(
-        text: l10n.aboutShortFeedbackAndSocialNetworksParagraph(
-          userPreferredPronoun,
-        ),
-      ),
-    ],
+  InlineSpan res = WidgetSpan(
+    child: _FeedbackRequest(
+      userPreferredPronoun: userPreferredPronoun,
+    ),
   );
 
   return res;
@@ -118,6 +110,40 @@ class AboutPage extends StatelessWidget {
         body: TabBarView(
           children: tabsChildren,
         ),
+      ),
+    );
+  }
+}
+
+class _FeedbackRequest extends StatefulWidget {
+  _FeedbackRequest({
+    required this.userPreferredPronoun,
+  });
+
+  final String userPreferredPronoun;
+
+  @override
+  State<StatefulWidget> createState() => _FeedbackRequestState();
+}
+
+class _FeedbackRequestState extends State<_FeedbackRequest> {
+  @override
+  Widget build(BuildContext context) {
+    AppLocalizations l10n = AppLocalizations.of(context);
+
+    return Text.rich(
+      TextSpan(
+        children: [
+          TextSpan(
+            text: l10n.aboutShortFeedbackAndSocialNetworksParagraphTitle,
+            style: TextStyle(fontWeight: FontWeight.bold),
+          ),
+          TextSpan(
+            text: l10n.aboutShortFeedbackAndSocialNetworksParagraph(
+              widget.userPreferredPronoun,
+            ),
+          ),
+        ],
       ),
     );
   }
