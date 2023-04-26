@@ -31,6 +31,19 @@ List<InlineSpan> _buildSpansFromText(
   return res;
 }
 
+InlineSpan _getParagraphWithFeedbackRequest(AppLocalizations l10n) {
+  InlineSpan res = TextSpan(
+    children: [
+      TextSpan(
+        text: l10n.aboutShortFeedbackAndSocialNetworksParagraphTitle,
+        style: TextStyle(fontWeight: FontWeight.bold),
+      ),
+    ],
+  );
+
+  return res;
+}
+
 class AboutPage extends StatelessWidget {
   AboutPage({
     required this.userName,
@@ -652,6 +665,10 @@ class _ShortAboutState extends State<_ShortAbout> {
             recognizer: _gitHubUrlTapRecognizer,
           ),
         ),
+        MapEntry(
+          '\$feedback_request',
+          _getParagraphWithFeedbackRequest(l10n),
+        ),
       ],
     );
 
@@ -662,10 +679,6 @@ class _ShortAboutState extends State<_ShortAbout> {
           TextSpan(
             children: aboutShort,
           ),
-        ),
-        Text(
-          l10n.aboutShortFeedbackAndSocialNetworksParagraphTitle,
-          style: TextStyle(fontWeight: FontWeight.bold),
         ),
         Text(
           l10n.aboutShortFeedbackAndSocialNetworksParagraph(
