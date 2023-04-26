@@ -127,9 +127,59 @@ class _FeedbackRequest extends StatefulWidget {
 }
 
 class _FeedbackRequestState extends State<_FeedbackRequest> {
+  final TapGestureRecognizer _facebookUrlTapRecognizer = TapGestureRecognizer();
+  final TapGestureRecognizer _instagramUrlTapRecognizer =
+      TapGestureRecognizer();
+  final TapGestureRecognizer _linkedInUrlTapRecognizer = TapGestureRecognizer();
+  final TapGestureRecognizer _telegramUrlTapRecognizer = TapGestureRecognizer();
+  final TapGestureRecognizer _tikTokUrlTapRecognizer = TapGestureRecognizer();
+  final TapGestureRecognizer _twitterUrlTapRecognizer = TapGestureRecognizer();
+  final TapGestureRecognizer _youTubeUrlTapRecognizer = TapGestureRecognizer();
+
+  static const String _facebookUrl = 'https://facebook.com/icare.by.page';
+  static const String _instagramUrl = 'https://www.instagram.com/icare.by';
+  static const String _linkedInUrl = 'https://linkedin.com/company/i-care-by';
+  static const String _telegramUrl = 'https://t.me/icare_by_channel';
+  static const String _tikTokUrl = 'https://www.tiktok.com/@icare.by';
+  static const String _twitterUrl = 'https://twitter.com/icare_by';
+  static const String _youTubeUrl = 'https://www.youtube.com/@i-care-by';
+
+  void _launchFacebookUrl() {
+    launchUrl(Uri.parse(_facebookUrl));
+  }
+
+  void _launchInstagramUrl() {
+    launchUrl(Uri.parse(_instagramUrl));
+  }
+
+  void _launchLinkedInUrl() {
+    launchUrl(Uri.parse(_linkedInUrl));
+  }
+
+  void _launchTelegramUrl() {
+    launchUrl(Uri.parse(_telegramUrl));
+  }
+
+  void _launchTikTokUrl() {
+    launchUrl(Uri.parse(_tikTokUrl));
+  }
+
+  void _launchTwitterUrl() {
+    launchUrl(Uri.parse(_twitterUrl));
+  }
+
+  void _launchYouTubeUrl() {
+    launchUrl(Uri.parse(_youTubeUrl));
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
+
+    TextStyle linkStyle = TextStyle(
+      color: Colors.blue,
+      decoration: TextDecoration.underline,
+    );
 
     return Text.rich(
       TextSpan(
@@ -143,9 +193,160 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
               widget.userPreferredPronoun,
             ),
           ),
+          TextSpan(
+            style: TextStyle(
+              height: 1.8,
+            ),
+            children: [
+              //Facebook
+              TextSpan(
+                text: 'Facebook —',
+                style: TextStyle(wordSpacing: 2.5),
+              ),
+              TextSpan(
+                text: ' ',
+              ),
+              TextSpan(
+                text: _facebookUrl,
+                style: linkStyle,
+                recognizer: _facebookUrlTapRecognizer,
+              ),
+              TextSpan(
+                text: '\n',
+              ),
+
+              //Instagram
+              TextSpan(
+                text: 'Instagram —',
+                style: TextStyle(wordSpacing: 0),
+              ),
+              TextSpan(
+                text: ' ',
+              ),
+              TextSpan(
+                text: _instagramUrl,
+                style: linkStyle,
+                recognizer: _instagramUrlTapRecognizer,
+              ),
+              TextSpan(
+                text: '\n',
+              ),
+
+              //LinkedIn
+              TextSpan(
+                text: 'LinkedIn —',
+                style: TextStyle(wordSpacing: 10.5),
+              ),
+              TextSpan(
+                text: ' ',
+              ),
+              TextSpan(
+                text: _linkedInUrl,
+                style: linkStyle,
+                recognizer: _linkedInUrlTapRecognizer,
+              ),
+              TextSpan(
+                text: '\n',
+              ),
+
+              //Telegram
+              TextSpan(
+                text: 'Telegram —',
+                style: TextStyle(wordSpacing: 5),
+              ),
+              TextSpan(
+                text: ' ',
+              ),
+              TextSpan(
+                text: _telegramUrl,
+                style: linkStyle,
+                recognizer: _telegramUrlTapRecognizer,
+              ),
+              TextSpan(
+                text: '\n',
+              ),
+
+              //TikTok
+              TextSpan(
+                text: 'TikTok —',
+                style: TextStyle(wordSpacing: 21.5),
+              ),
+              TextSpan(
+                text: ' ',
+              ),
+              TextSpan(
+                text: _tikTokUrl,
+                style: linkStyle,
+                recognizer: _tikTokUrlTapRecognizer,
+              ),
+              TextSpan(
+                text: '\n',
+              ),
+
+              //Twitter
+              TextSpan(
+                text: 'Twitter —',
+                style: TextStyle(wordSpacing: 19.5),
+              ),
+              TextSpan(
+                text: ' ',
+              ),
+              TextSpan(
+                text: _twitterUrl,
+                style: linkStyle,
+                recognizer: _twitterUrlTapRecognizer,
+              ),
+              TextSpan(
+                text: '\n',
+              ),
+
+              //YouTube
+              TextSpan(
+                text: 'YouTube —',
+                style: TextStyle(wordSpacing: 8.5),
+              ),
+              TextSpan(
+                text: ' ',
+              ),
+              TextSpan(
+                text: _youTubeUrl,
+                style: linkStyle,
+                recognizer: _youTubeUrlTapRecognizer,
+              ),
+              TextSpan(
+                text: '\n',
+              ),
+            ],
+          ),
         ],
       ),
     );
+  }
+
+  @override
+  void dispose() {
+    _facebookUrlTapRecognizer.dispose();
+    _instagramUrlTapRecognizer.dispose();
+    _linkedInUrlTapRecognizer.dispose();
+    _telegramUrlTapRecognizer.dispose();
+    _tikTokUrlTapRecognizer.dispose();
+    _twitterUrlTapRecognizer.dispose();
+    _youTubeUrlTapRecognizer.dispose();
+
+    super.dispose();
+  }
+
+  @override
+  void initState() {
+    super.initState();
+
+    _facebookUrlTapRecognizer.onTap = _launchFacebookUrl;
+    _instagramUrlTapRecognizer.onTap = _launchInstagramUrl;
+    _linkedInUrlTapRecognizer.onTap = _launchLinkedInUrl;
+    _telegramUrlTapRecognizer.onTap = _launchTelegramUrl;
+    _tikTokUrlTapRecognizer.onTap = _launchTikTokUrl;
+    _twitterUrlTapRecognizer.onTap = _launchTwitterUrl;
+    _youTubeUrlTapRecognizer.onTap = _launchYouTubeUrl;
   }
 }
 
@@ -519,58 +720,13 @@ class _ShortAboutState extends State<_ShortAbout> {
 
   final TapGestureRecognizer _gitHubUrlTapRecognizer = TapGestureRecognizer();
 
-  final TapGestureRecognizer _facebookUrlTapRecognizer = TapGestureRecognizer();
-  final TapGestureRecognizer _instagramUrlTapRecognizer =
-      TapGestureRecognizer();
-  final TapGestureRecognizer _linkedInUrlTapRecognizer = TapGestureRecognizer();
-  final TapGestureRecognizer _telegramUrlTapRecognizer = TapGestureRecognizer();
-  final TapGestureRecognizer _tikTokUrlTapRecognizer = TapGestureRecognizer();
-  final TapGestureRecognizer _twitterUrlTapRecognizer = TapGestureRecognizer();
-  final TapGestureRecognizer _youTubeUrlTapRecognizer = TapGestureRecognizer();
-
   final Future<PackageInfo> packageInfoFuture = PackageInfo.fromPlatform();
 
   static const String _gitHubUrl =
       'https://github.com/mshurkaeu-public/i-care.by';
 
-  static const String _facebookUrl = 'https://facebook.com/icare.by.page';
-  static const String _instagramUrl = 'https://www.instagram.com/icare.by';
-  static const String _linkedInUrl = 'https://linkedin.com/company/i-care-by';
-  static const String _telegramUrl = 'https://t.me/icare_by_channel';
-  static const String _tikTokUrl = 'https://www.tiktok.com/@icare.by';
-  static const String _twitterUrl = 'https://twitter.com/icare_by';
-  static const String _youTubeUrl = 'https://www.youtube.com/@i-care-by';
-
-  void _launchFacebookUrl() {
-    launchUrl(Uri.parse(_facebookUrl));
-  }
-
   void _launchGitHubUrl() {
     launchUrl(Uri.parse(_gitHubUrl));
-  }
-
-  void _launchInstagramUrl() {
-    launchUrl(Uri.parse(_instagramUrl));
-  }
-
-  void _launchLinkedInUrl() {
-    launchUrl(Uri.parse(_linkedInUrl));
-  }
-
-  void _launchTelegramUrl() {
-    launchUrl(Uri.parse(_telegramUrl));
-  }
-
-  void _launchTikTokUrl() {
-    launchUrl(Uri.parse(_tikTokUrl));
-  }
-
-  void _launchTwitterUrl() {
-    launchUrl(Uri.parse(_twitterUrl));
-  }
-
-  void _launchYouTubeUrl() {
-    launchUrl(Uri.parse(_youTubeUrl));
   }
 
   void _showHistoryOfCreation() {
@@ -714,133 +870,6 @@ class _ShortAboutState extends State<_ShortAbout> {
             children: aboutShort,
           ),
         ),
-        Text.rich(
-          TextSpan(
-            style: TextStyle(
-              height: 1.8,
-            ),
-            children: [
-              //Facebook
-              TextSpan(
-                text: 'Facebook —',
-                style: TextStyle(wordSpacing: 2.5),
-              ),
-              TextSpan(
-                text: ' ',
-              ),
-              TextSpan(
-                text: _facebookUrl,
-                style: linkStyle,
-                recognizer: _facebookUrlTapRecognizer,
-              ),
-              TextSpan(
-                text: '\n',
-              ),
-
-              //Instagram
-              TextSpan(
-                text: 'Instagram —',
-                style: TextStyle(wordSpacing: 0),
-              ),
-              TextSpan(
-                text: ' ',
-              ),
-              TextSpan(
-                text: _instagramUrl,
-                style: linkStyle,
-                recognizer: _instagramUrlTapRecognizer,
-              ),
-              TextSpan(
-                text: '\n',
-              ),
-
-              //LinkedIn
-              TextSpan(
-                text: 'LinkedIn —',
-                style: TextStyle(wordSpacing: 10.5),
-              ),
-              TextSpan(
-                text: ' ',
-              ),
-              TextSpan(
-                text: _linkedInUrl,
-                style: linkStyle,
-                recognizer: _linkedInUrlTapRecognizer,
-              ),
-              TextSpan(
-                text: '\n',
-              ),
-
-              //Telegram
-              TextSpan(
-                text: 'Telegram —',
-                style: TextStyle(wordSpacing: 5),
-              ),
-              TextSpan(
-                text: ' ',
-              ),
-              TextSpan(
-                text: _telegramUrl,
-                style: linkStyle,
-                recognizer: _telegramUrlTapRecognizer,
-              ),
-              TextSpan(
-                text: '\n',
-              ),
-
-              //TikTok
-              TextSpan(
-                text: 'TikTok —',
-                style: TextStyle(wordSpacing: 21.5),
-              ),
-              TextSpan(
-                text: ' ',
-              ),
-              TextSpan(
-                text: _tikTokUrl,
-                style: linkStyle,
-                recognizer: _tikTokUrlTapRecognizer,
-              ),
-              TextSpan(
-                text: '\n',
-              ),
-
-              //Twitter
-              TextSpan(
-                text: 'Twitter —',
-                style: TextStyle(wordSpacing: 19.5),
-              ),
-              TextSpan(
-                text: ' ',
-              ),
-              TextSpan(
-                text: _twitterUrl,
-                style: linkStyle,
-                recognizer: _twitterUrlTapRecognizer,
-              ),
-              TextSpan(
-                text: '\n',
-              ),
-
-              //YouTube
-              TextSpan(
-                text: 'YouTube —',
-                style: TextStyle(wordSpacing: 8.5),
-              ),
-              TextSpan(
-                text: ' ',
-              ),
-              TextSpan(
-                text: _youTubeUrl,
-                style: linkStyle,
-                recognizer: _youTubeUrlTapRecognizer,
-              ),
-              TextSpan(
-                text: '\n',
-              ),
-            ],
-          ),
-        ),
       ],
     );
   }
@@ -855,14 +884,6 @@ class _ShortAboutState extends State<_ShortAbout> {
     _historyOfCreationTapRecognizer.dispose();
 
     _gitHubUrlTapRecognizer.dispose();
-
-    _facebookUrlTapRecognizer.dispose();
-    _instagramUrlTapRecognizer.dispose();
-    _linkedInUrlTapRecognizer.dispose();
-    _telegramUrlTapRecognizer.dispose();
-    _tikTokUrlTapRecognizer.dispose();
-    _twitterUrlTapRecognizer.dispose();
-    _youTubeUrlTapRecognizer.dispose();
 
     super.dispose();
   }
@@ -879,14 +900,6 @@ class _ShortAboutState extends State<_ShortAbout> {
     _historyOfCreationTapRecognizer.onTap = _showHistoryOfCreation;
 
     _gitHubUrlTapRecognizer.onTap = _launchGitHubUrl;
-
-    _facebookUrlTapRecognizer.onTap = _launchFacebookUrl;
-    _instagramUrlTapRecognizer.onTap = _launchInstagramUrl;
-    _linkedInUrlTapRecognizer.onTap = _launchLinkedInUrl;
-    _telegramUrlTapRecognizer.onTap = _launchTelegramUrl;
-    _tikTokUrlTapRecognizer.onTap = _launchTikTokUrl;
-    _twitterUrlTapRecognizer.onTap = _launchTwitterUrl;
-    _youTubeUrlTapRecognizer.onTap = _launchYouTubeUrl;
   }
 }
 
