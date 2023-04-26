@@ -189,7 +189,7 @@
       }
     }
   },
-  "aboutShortFeedbackAndSocialNetworksParagraph": "\n{preferredPronoun, select, Vy{Вы можаце} other{Ты можаш}} перадаць зваротную сувязь па праграме любым зручным для {preferredPronoun, select, Vy{Вас} other{цябе}} спосабам. Напрыклад, у рэпазітары на GitHub можна ствараць заяўкі пра памылкі або недапрацоўкі ў праграме. Таксама, там можно весці абмеркаванні.\n\nА {preferredPronoun, select, Vy{можаце} other{можаш}} выкарыстоўваць сацыяльныя сеткі:",
+  "aboutShortFeedbackAndSocialNetworksParagraph": "\n{preferredPronoun, select, Vy{Вы можаце} other{Ты можаш}} перадаць зваротную сувязь па праграме любым зручным {preferredPronoun, select, Vy{Вам} other{табе}} спосабам. Напрыклад, на GitHub можна ствараць паведамленні пра памылкі або недапрацоўкі ў праграме. Таксама, там можно весці абмеркаванні.\n\nА {preferredPronoun, select, Vy{можаце} other{можаш}} выкарыстоўваць сацыяльныя сеткі:",
   "@aboutShortFeedbackAndSocialNetworksParagraph": {
     "description": "Text of the pragraph about feedback and social networks on \"short\" tab on the \"About\" page.",
     "placeholders": {
