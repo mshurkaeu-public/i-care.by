@@ -32,6 +32,7 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  google_fonts: ^4.0.3
   intl: any
   multi_split_view: ^2.4.0
   package_info_plus: ^3.0.3
@@ -75,9 +76,15 @@ flutter:
     - assets/images/history-of-creation-2022-02-24-flashback-8.png
     - assets/images/history-of-creation-2022-02-27-official-statistics.png
   fonts:
-    - family: Noto Color Emoji
-      fonts:
-        - asset: assets/fonts/NotoColorEmoji.ttf
+    # It makes sense to include Noto Color Emoji font into assets only if a target device can get any benefit from
+    # this. For example, if the font is not available on a target device and it's not reasonable to load the font
+    # via the Internet (via google_fonts package). But if we target web platform then the font will be loaded to the
+    # device via the Internet in any case. Either from our own web server if we include this font into the assets.
+    # Or from Google web servers if we don't include the font into assets and use GoogleFonts.notoColorEmoji instead.
+    #- family: Noto Color Emoji
+    #  fonts:
+    #    - asset: assets/fonts/NotoColorEmoji.ttf
+
     # CanvasKit has Roboto as a global fallback font since Flutter 2.0.0.
     # On Android devices the Roboto font is installed by default.
     # On Linux devices Roboto is the default font for Material Flutter app, but the font may be absent on a system.
