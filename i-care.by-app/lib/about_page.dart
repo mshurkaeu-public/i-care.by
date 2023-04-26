@@ -128,6 +128,8 @@ class _FeedbackRequest extends StatefulWidget {
 
 class _FeedbackRequestState extends State<_FeedbackRequest> {
   final TapGestureRecognizer _facebookUrlTapRecognizer = TapGestureRecognizer();
+  final TapGestureRecognizer _gitHubCreateNewIssueUrlTapRecognizer =
+      TapGestureRecognizer();
   final TapGestureRecognizer _instagramUrlTapRecognizer =
       TapGestureRecognizer();
   final TapGestureRecognizer _linkedInUrlTapRecognizer = TapGestureRecognizer();
@@ -137,6 +139,8 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
   final TapGestureRecognizer _youTubeUrlTapRecognizer = TapGestureRecognizer();
 
   static const String _facebookUrl = 'https://facebook.com/icare.by.page';
+  static const String _gitHubCreateNewIssueUrl =
+      'https://github.com/mshurkaeu-public/i-care.by/issues/new';
   static const String _instagramUrl = 'https://www.instagram.com/icare.by';
   static const String _linkedInUrl = 'https://linkedin.com/company/i-care-by';
   static const String _telegramUrl = 'https://t.me/icare_by_channel';
@@ -146,6 +150,10 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
 
   void _launchFacebookUrl() {
     launchUrl(Uri.parse(_facebookUrl));
+  }
+
+  void _launchGitHubCreateNewIssueUrl() {
+    launchUrl(Uri.parse(_gitHubCreateNewIssueUrl));
   }
 
   void _launchInstagramUrl() {
@@ -186,7 +194,16 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
     );
     List<InlineSpan> paragraphSpans = _buildSpansFromText(
       paragraphText,
-      [],
+      [
+        MapEntry(
+          '\$github_create_new_issue_url',
+          TextSpan(
+            text: _gitHubCreateNewIssueUrl,
+            style: linkStyle,
+            recognizer: _gitHubCreateNewIssueUrlTapRecognizer,
+          ),
+        ),
+      ],
     );
 
     return Text.rich(
@@ -330,6 +347,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
   @override
   void dispose() {
     _facebookUrlTapRecognizer.dispose();
+    _gitHubCreateNewIssueUrlTapRecognizer.dispose();
     _instagramUrlTapRecognizer.dispose();
     _linkedInUrlTapRecognizer.dispose();
     _telegramUrlTapRecognizer.dispose();
@@ -345,6 +363,8 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
     super.initState();
 
     _facebookUrlTapRecognizer.onTap = _launchFacebookUrl;
+    _gitHubCreateNewIssueUrlTapRecognizer.onTap =
+        _launchGitHubCreateNewIssueUrl;
     _instagramUrlTapRecognizer.onTap = _launchInstagramUrl;
     _linkedInUrlTapRecognizer.onTap = _launchLinkedInUrl;
     _telegramUrlTapRecognizer.onTap = _launchTelegramUrl;
