@@ -16,21 +16,90 @@ import 'tmipiml_is_grandparent.dart';
 import 'tmipiml_is_parent.dart';
 import 'tmipiml_is_spouce_or_partner.dart';
 
-WidgetSpan _buildHintForEmotion(String emoji, String hint) {
+WidgetSpan _buildHintForEmotion(
+  BuildContext context,
+  String emoji,
+  String hint,
+) {
+  const double side = 4;
+  BorderSide borderSide = BorderSide(
+    color: Theme.of(context).colorScheme.onSurface.withOpacity(0.4),
+    width: 1,
+  );
+
   WidgetSpan res = WidgetSpan(
     child: Tooltip(
       message: hint,
       triggerMode: TooltipTriggerMode.tap,
       showDuration: Duration(minutes: 1),
-      child: Text.rich(
-        TextSpan(
-          text: emoji,
-          style: TextStyle(
-            decoration: TextDecoration.underline,
-            decorationColor: Colors.blue,
+      child: Stack(
+        children: [
+          Positioned(
+            bottom: 0,
+            left: 0,
+            child: Container(
+              width: side,
+              height: side,
+              decoration: BoxDecoration(
+                border: Border(
+                  bottom: borderSide,
+                  left: borderSide,
+                ),
+              ),
+            ),
           ),
-          mouseCursor: SystemMouseCursors.click,
-        ),
+          Positioned(
+            left: 0,
+            top: 0,
+            child: Container(
+              width: side,
+              height: side,
+              decoration: BoxDecoration(
+                border: Border(
+                  left: borderSide,
+                  top: borderSide,
+                ),
+              ),
+            ),
+          ),
+          Positioned(
+            top: 0,
+            right: 0,
+            child: Container(
+              width: side,
+              height: side,
+              decoration: BoxDecoration(
+                border: Border(
+                  top: borderSide,
+                  right: borderSide,
+                ),
+              ),
+            ),
+          ),
+          Positioned(
+            right: 0,
+            bottom: 0,
+            child: Container(
+              width: side,
+              height: side,
+              decoration: BoxDecoration(
+                border: Border(
+                  right: borderSide,
+                  bottom: borderSide,
+                ),
+              ),
+            ),
+          ),
+          Container(
+            margin: EdgeInsets.all(3),
+            child: Text.rich(
+              TextSpan(
+                text: emoji,
+                mouseCursor: SystemMouseCursors.click,
+              ),
+            ),
+          ),
+        ],
       ),
     ),
   );
@@ -794,6 +863,7 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
                 child: SizedBox(width: 5),
               ),
               _buildHintForEmotion(
+                context,
                 '🤔',
                 l10n.questionAboutCurrentEmotionsAndFeelingsHints(
                   userName,
@@ -863,7 +933,7 @@ class _MessageToTheUserState
   }
 
   @override
-  Widget getFirstColumnChild(AppLocalizations l10n) {
+  Widget getFirstColumnChild(BuildContext context, AppLocalizations l10n) {
     _MessageToTheUser w = (widget as _MessageToTheUser);
     return SingleChildScrollView(
       child: Text(w._messageProvider(w._userName, w._userPreferredPronoun)),
@@ -924,7 +994,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
         child: _TwoAreasSplitView(
           axis: Axis.horizontal,
           initialFirstAreaWeight: widget._firstColumnInitialWeight,
-          firstArea: getFirstColumnChild(l10n),
+          firstArea: getFirstColumnChild(context, l10n),
           secondArea: _EmotionsAndFeelingsRequest(
             controller: _emotionsAndFeelingsController,
             userName: widget._userName,
@@ -944,7 +1014,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
 
   Widget getAppBarTitle(AppLocalizations l10n);
 
-  Widget getFirstColumnChild(AppLocalizations l10n);
+  Widget getFirstColumnChild(BuildContext context, AppLocalizations l10n);
 
   @override
   void initState() {
@@ -1094,7 +1164,7 @@ class _WhatDoYouWantToDoForThePersonState
     extends _OneEmotionsAndFeelingsRequestContainerState {
   final TextEditingController _wantToDoController = TextEditingController();
 
-  List<InlineSpan> _getHints(AppLocalizations l10n) {
+  List<InlineSpan> _getHints(BuildContext context, AppLocalizations l10n) {
     List<InlineSpan> res;
 
     if (widget.diaryRecord.who == TheMostImportantPersonInMyLife.me) {
@@ -1103,6 +1173,7 @@ class _WhatDoYouWantToDoForThePersonState
           child: SizedBox(width: 5),
         ),
         _buildHintForEmotion(
+          context,
           '🤕',
           l10n.whatDoYouWantToDoFor_yourself_headBandageHints(
             widget._userName,
@@ -1168,9 +1239,9 @@ class _WhatDoYouWantToDoForThePersonState
   }
 
   @override
-  Widget getFirstColumnChild(AppLocalizations l10n) {
+  Widget getFirstColumnChild(BuildContext context, AppLocalizations l10n) {
     String question = _getTheQuestion(l10n);
-    List<InlineSpan> hints = _getHints(l10n);
+    List<InlineSpan> hints = _getHints(context, l10n);
     ThemeData themeData = Theme.of(context);
 
     return Column(
