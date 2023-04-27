@@ -380,21 +380,6 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
 }
 
 class _HistoryOfCreation extends StatelessWidget {
-  WidgetSpan _buildPhotoViewGallery(
-    BuildContext context,
-    double photoWidth,
-    List<String> assetsNames,
-  ) {
-    WidgetSpan res = WidgetSpan(
-      child: _MyPhotoGallery(
-        assetsNames: assetsNames,
-        width: photoWidth,
-      ),
-    );
-
-    return res;
-  }
-
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -408,25 +393,27 @@ class _HistoryOfCreation extends StatelessWidget {
       [
         MapEntry(
           '\$traffic_light',
-          _buildPhotoViewGallery(
-            context,
-            photoWidth,
-            [
-              'assets/images/history-of-creation-2022-02-21-traffic-light.png',
-            ],
+          WidgetSpan(
+            child: _MyPhotoGallery(
+              width: photoWidth,
+              assetsNames: [
+                'assets/images/history-of-creation-2022-02-21-traffic-light.png',
+              ],
+            ),
           ),
         ),
         MapEntry(
           '\$issues',
-          _buildPhotoViewGallery(
-            context,
-            photoWidth,
-            [
-              'assets/images/history-of-creation-2022-02-21-photo-1.png',
-              'assets/images/history-of-creation-2022-02-21-photo-2.png',
-              'assets/images/history-of-creation-2022-02-21-photo-3.png',
-              'assets/images/history-of-creation-2022-02-21-photo-4.png',
-            ],
+          WidgetSpan(
+            child: _MyPhotoGallery(
+              width: photoWidth,
+              assetsNames: [
+                'assets/images/history-of-creation-2022-02-21-photo-1.png',
+                'assets/images/history-of-creation-2022-02-21-photo-2.png',
+                'assets/images/history-of-creation-2022-02-21-photo-3.png',
+                'assets/images/history-of-creation-2022-02-21-photo-4.png',
+              ],
+            ),
           ),
         ),
       ],
@@ -437,19 +424,20 @@ class _HistoryOfCreation extends StatelessWidget {
       [
         MapEntry(
           '\$flashback',
-          _buildPhotoViewGallery(
-            context,
-            photoWidth,
-            [
-              'assets/images/history-of-creation-2022-02-24-flashback-1.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-2.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-3.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-4.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-5.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-6.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-7.png',
-              'assets/images/history-of-creation-2022-02-24-flashback-8.png',
-            ],
+          WidgetSpan(
+            child: _MyPhotoGallery(
+              width: photoWidth,
+              assetsNames: [
+                'assets/images/history-of-creation-2022-02-24-flashback-1.png',
+                'assets/images/history-of-creation-2022-02-24-flashback-2.png',
+                'assets/images/history-of-creation-2022-02-24-flashback-3.png',
+                'assets/images/history-of-creation-2022-02-24-flashback-4.png',
+                'assets/images/history-of-creation-2022-02-24-flashback-5.png',
+                'assets/images/history-of-creation-2022-02-24-flashback-6.png',
+                'assets/images/history-of-creation-2022-02-24-flashback-7.png',
+                'assets/images/history-of-creation-2022-02-24-flashback-8.png',
+              ],
+            ),
           ),
         ),
       ],
@@ -462,12 +450,13 @@ class _HistoryOfCreation extends StatelessWidget {
       [
         MapEntry(
           '\$official_statistics_image',
-          _buildPhotoViewGallery(
-            context,
-            photoWidth,
-            [
-              'assets/images/history-of-creation-2022-02-27-official-statistics.png'
-            ],
+          WidgetSpan(
+            child: _MyPhotoGallery(
+              width: photoWidth,
+              assetsNames: [
+                'assets/images/history-of-creation-2022-02-27-official-statistics.png'
+              ],
+            ),
           ),
         ),
         MapEntry(
