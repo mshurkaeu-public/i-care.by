@@ -134,7 +134,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
       'https://github.com/mshurkaeu-public/i-care.by/discussions';
   static const String _instagramUrl = 'https://www.instagram.com/icare.by';
   static const String _linkedInUrl = 'https://linkedin.com/company/i-care-by';
-  static const String _telegramUrl = 'https://t.me/icare_by_channel';
+  static const String _telegramUrl = 'https://t.me/icare_by';
   static const String _tikTokUrl = 'https://www.tiktok.com/@icare.by';
   static const String _twitterUrl = 'https://twitter.com/icare_by';
   static const String _youTubeUrl = 'https://www.youtube.com/@i-care-by';
