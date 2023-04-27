@@ -175,6 +175,10 @@
   "@aboutMyGratitude_2023_04_21_02": {
     "description": "Text for 2023-04-21 02 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_04_27_01": "\n2023-04-27 🦸 — 👾 паведаміў, што не пралістваюцца фотаздымкі ў \"гісторыі стварэння\" на Windows у Chrome. І я зрабіў спецыяльныя кнопкі для выпадкаў, калі няма магчымасці пракручваць у гарызантальным напрамку.\n",
+  "@aboutMyGratitude_2023_04_27_01": {
+    "description": "Text for 2023-04-27 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_04_title": "\n\n2023-04\n",
   "@aboutMyGratitude_2023_04_title": {
     "description": "Title for 2023-04 list/text on the \"my gratitude\" tab on the \"About\" page."
@@ -503,7 +507,7 @@
   "@hintToEnlargePhoto": {
     "description": "A hint for places, where user can enlarge photo in a PhotoView widget."
   },
-  "hintToViewTheNextPhoto": "◀️ Змахнуць убок, каб пабачыць наступнае фота. ▶️",
+  "hintToViewTheNextPhoto": "Змахнуць убок, каб пабачыць наступнае фота.",
   "@hintToViewTheNextPhoto": {
     "description": "A hint for places, where user can navigate through photos in a PhotoViewGallery widget."
   },

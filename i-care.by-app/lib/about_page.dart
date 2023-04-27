@@ -600,6 +600,9 @@ class _MyGratitude extends StatelessWidget {
                 style: titleStyle,
               ),
               TextSpan(
+                text: l10n.aboutMyGratitude_2023_04_27_01,
+              ),
+              TextSpan(
                 text: l10n.aboutMyGratitude_2023_04_21_02,
               ),
               TextSpan(
@@ -696,6 +699,34 @@ class _MyPhotoGallery extends StatefulWidget {
 }
 
 class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
+  final PageController _pageController = PageController();
+
+  void _toNextPhoto() {
+    int currentPage = _pageController.page!.toInt();
+
+    if (currentPage == widget.assetsNames.length - 1) {
+      _pageController.jumpToPage(0);
+    } else {
+      _pageController.nextPage(
+        duration: Duration(seconds: 1),
+        curve: Curves.linear,
+      );
+    }
+  }
+
+  void _toPreviousPhoto() {
+    int currentPage = _pageController.page!.toInt();
+
+    if (currentPage == 0) {
+      _pageController.jumpToPage(widget.assetsNames.length - 1);
+    } else {
+      _pageController.previousPage(
+        duration: Duration(seconds: 1),
+        curve: Curves.linear,
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -719,21 +750,42 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
         ),
         ...(pageOptions.length > 1
             ? [
-                Text(
-                  l10n.hintToViewTheNextPhoto,
-                  style: photoHintStyle,
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    TextButton(
+                      onPressed: _toPreviousPhoto,
+                      child: Icon(Icons.swipe_right),
+                    ),
+                    Text(
+                      l10n.hintToViewTheNextPhoto,
+                      style: photoHintStyle,
+                    ),
+                    TextButton(
+                      onPressed: _toNextPhoto,
+                      child: Icon(Icons.swipe_left),
+                    ),
+                  ],
                 ),
               ]
             : []),
         SizedBox(
           height: widget.width,
           child: PhotoViewGallery(
+            pageController: _pageController,
             pageOptions: pageOptions,
             backgroundDecoration: BoxDecoration(color: Colors.transparent),
           ),
         ),
       ],
     );
+  }
+
+  @override
+  void dispose() {
+    _pageController.dispose();
+
+    super.dispose();
   }
 }
 
