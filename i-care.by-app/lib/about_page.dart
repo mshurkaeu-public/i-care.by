@@ -385,42 +385,10 @@ class _HistoryOfCreation extends StatelessWidget {
     double photoWidth,
     List<String> assetsNames,
   ) {
-    AppLocalizations l10n = AppLocalizations.of(context);
-    TextStyle photoHintStyle =
-        TextStyle(color: Theme.of(context).disabledColor);
-
-    List<PhotoViewGalleryPageOptions> pageOptions = [];
-    for (String assetName in assetsNames) {
-      pageOptions.add(
-        PhotoViewGalleryPageOptions(
-          imageProvider: AssetImage(assetName),
-        ),
-      );
-    }
-
     WidgetSpan res = WidgetSpan(
-      child: Column(
-        children: [
-          Text(
-            l10n.hintToEnlargePhoto,
-            style: photoHintStyle,
-          ),
-          ...(pageOptions.length > 1
-              ? [
-                  Text(
-                    l10n.hintToViewTheNextPhoto,
-                    style: photoHintStyle,
-                  ),
-                ]
-              : []),
-          SizedBox(
-            height: photoWidth,
-            child: PhotoViewGallery(
-              pageOptions: pageOptions,
-              backgroundDecoration: BoxDecoration(color: Colors.transparent),
-            ),
-          ),
-        ],
+      child: _MyPhotoGallery(
+        assetsNames: assetsNames,
+        photoWidth: photoWidth,
       ),
     );
 
@@ -718,6 +686,61 @@ class _MyGratitude extends StatelessWidget {
                 text: l10n.aboutMyGratitude_2022_03_24_01,
               ),
             ],
+          ),
+        ),
+      ],
+    );
+  }
+}
+
+class _MyPhotoGallery extends StatefulWidget {
+  _MyPhotoGallery({
+    required this.assetsNames,
+    required this.photoWidth,
+  });
+
+  final List<String> assetsNames;
+  final double photoWidth;
+
+  @override
+  State<StatefulWidget> createState() => _MyPhotoGalleryState();
+}
+
+class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
+  @override
+  Widget build(BuildContext context) {
+    AppLocalizations l10n = AppLocalizations.of(context);
+    TextStyle photoHintStyle =
+        TextStyle(color: Theme.of(context).disabledColor);
+
+    List<PhotoViewGalleryPageOptions> pageOptions = [];
+    for (String assetName in widget.assetsNames) {
+      pageOptions.add(
+        PhotoViewGalleryPageOptions(
+          imageProvider: AssetImage(assetName),
+        ),
+      );
+    }
+
+    return Column(
+      children: [
+        Text(
+          l10n.hintToEnlargePhoto,
+          style: photoHintStyle,
+        ),
+        ...(pageOptions.length > 1
+            ? [
+                Text(
+                  l10n.hintToViewTheNextPhoto,
+                  style: photoHintStyle,
+                ),
+              ]
+            : []),
+        SizedBox(
+          height: widget.photoWidth,
+          child: PhotoViewGallery(
+            pageOptions: pageOptions,
+            backgroundDecoration: BoxDecoration(color: Colors.transparent),
           ),
         ),
       ],
