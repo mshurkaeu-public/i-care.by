@@ -16,6 +16,28 @@ import 'tmipiml_is_grandparent.dart';
 import 'tmipiml_is_parent.dart';
 import 'tmipiml_is_spouce_or_partner.dart';
 
+WidgetSpan _buildHintForEmotion(String emoji, String hint) {
+  WidgetSpan res = WidgetSpan(
+    child: Tooltip(
+      message: hint,
+      triggerMode: TooltipTriggerMode.tap,
+      showDuration: Duration(minutes: 1),
+      child: Text.rich(
+        TextSpan(
+          text: emoji,
+          style: TextStyle(
+            decoration: TextDecoration.underline,
+            decorationColor: Colors.blue,
+          ),
+          mouseCursor: SystemMouseCursors.click,
+        ),
+      ),
+    ),
+  );
+
+  return res;
+}
+
 TextStyle _getMyHintStyle(ThemeData themeData) {
   TextStyle res = TextStyle(overflow: TextOverflow.visible);
   if (themeData.textTheme.bodySmall != null) {
@@ -1089,24 +1111,11 @@ class _WhatDoYouWantToDoForThePersonState
         WidgetSpan(
           child: SizedBox(width: 5),
         ),
-        WidgetSpan(
-          child: Tooltip(
-            message: l10n.whatDoYouWantToDoFor_yourself_headBandageHints(
-              widget._userName,
-              widget._userPreferredPronoun,
-            ),
-            triggerMode: TooltipTriggerMode.tap,
-            showDuration: Duration(minutes: 1),
-            child: Text.rich(
-              TextSpan(
-                text: '🤕',
-                style: TextStyle(
-                  decoration: TextDecoration.underline,
-                  decorationColor: Colors.blue,
-                ),
-                mouseCursor: SystemMouseCursors.click,
-              ),
-            ),
+        _buildHintForEmotion(
+          '🤕',
+          l10n.whatDoYouWantToDoFor_yourself_headBandageHints(
+            widget._userName,
+            widget._userPreferredPronoun,
           ),
         ),
       ];
