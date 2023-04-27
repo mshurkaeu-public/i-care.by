@@ -388,7 +388,7 @@ class _HistoryOfCreation extends StatelessWidget {
     WidgetSpan res = WidgetSpan(
       child: _MyPhotoGallery(
         assetsNames: assetsNames,
-        photoWidth: photoWidth,
+        width: photoWidth,
       ),
     );
 
@@ -696,11 +696,11 @@ class _MyGratitude extends StatelessWidget {
 class _MyPhotoGallery extends StatefulWidget {
   _MyPhotoGallery({
     required this.assetsNames,
-    required this.photoWidth,
+    required this.width,
   });
 
   final List<String> assetsNames;
-  final double photoWidth;
+  final double width;
 
   @override
   State<StatefulWidget> createState() => _MyPhotoGalleryState();
@@ -737,7 +737,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
               ]
             : []),
         SizedBox(
-          height: widget.photoWidth,
+          height: widget.width,
           child: PhotoViewGallery(
             pageOptions: pageOptions,
             backgroundDecoration: BoxDecoration(color: Colors.transparent),
