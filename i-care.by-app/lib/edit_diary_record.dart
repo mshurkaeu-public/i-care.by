@@ -783,33 +783,37 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Tooltip(
-          message: l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-            userName,
-            userPreferredPronoun,
-          ),
-          triggerMode: TooltipTriggerMode.tap,
-          showDuration: Duration(minutes: 1),
-          child: Text.rich(
-            TextSpan(
-              text: l10n.questionAboutCurrentEmotionsAndFeelings(
-                userName,
-                userPreferredPronoun,
-              ),
-              children: [
-                WidgetSpan(
-                  child: SizedBox(width: 5),
-                ),
-                TextSpan(
-                  text: '🤔',
-                  style: TextStyle(
-                    decoration: TextDecoration.underline,
-                    decorationColor: Colors.blue,
-                  ),
-                  mouseCursor: SystemMouseCursors.click,
-                ),
-              ],
+        Text.rich(
+          TextSpan(
+            text: l10n.questionAboutCurrentEmotionsAndFeelings(
+              userName,
+              userPreferredPronoun,
             ),
+            children: [
+              WidgetSpan(
+                child: SizedBox(width: 5),
+              ),
+              WidgetSpan(
+                child: Tooltip(
+                  message: l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                    userName,
+                    userPreferredPronoun,
+                  ),
+                  triggerMode: TooltipTriggerMode.tap,
+                  showDuration: Duration(minutes: 1),
+                  child: Text.rich(
+                    TextSpan(
+                      text: '🤔',
+                      style: TextStyle(
+                        decoration: TextDecoration.underline,
+                        decorationColor: Colors.blue,
+                      ),
+                      mouseCursor: SystemMouseCursors.click,
+                    ),
+                  ),
+                ),
+              ),
+            ],
           ),
         ),
         SizedBox(height: 10),
