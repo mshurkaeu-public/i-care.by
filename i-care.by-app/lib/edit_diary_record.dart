@@ -793,24 +793,11 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
               WidgetSpan(
                 child: SizedBox(width: 5),
               ),
-              WidgetSpan(
-                child: Tooltip(
-                  message: l10n.questionAboutCurrentEmotionsAndFeelingsHints(
-                    userName,
-                    userPreferredPronoun,
-                  ),
-                  triggerMode: TooltipTriggerMode.tap,
-                  showDuration: Duration(minutes: 1),
-                  child: Text.rich(
-                    TextSpan(
-                      text: '🤔',
-                      style: TextStyle(
-                        decoration: TextDecoration.underline,
-                        decorationColor: Colors.blue,
-                      ),
-                      mouseCursor: SystemMouseCursors.click,
-                    ),
-                  ),
+              _buildHintForEmotion(
+                '🤔',
+                l10n.questionAboutCurrentEmotionsAndFeelingsHints(
+                  userName,
+                  userPreferredPronoun,
                 ),
               ),
             ],
