@@ -386,7 +386,7 @@ class _HistoryOfCreation extends StatelessWidget {
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
 
     double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
-    double photoWidth = (maxWidth > 1080) ? 1080 : maxWidth;
+    double galleryWidth = (maxWidth > 1080) ? 1080 : maxWidth;
 
     List<InlineSpan> chapter01 = _buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_01_text,
@@ -395,7 +395,7 @@ class _HistoryOfCreation extends StatelessWidget {
           '\$traffic_light',
           WidgetSpan(
             child: _MyPhotoGallery(
-              width: photoWidth,
+              width: galleryWidth,
               assetsNames: [
                 'assets/images/history-of-creation-2022-02-21-traffic-light.png',
               ],
@@ -406,7 +406,7 @@ class _HistoryOfCreation extends StatelessWidget {
           '\$issues',
           WidgetSpan(
             child: _MyPhotoGallery(
-              width: photoWidth,
+              width: galleryWidth,
               assetsNames: [
                 'assets/images/history-of-creation-2022-02-21-photo-1.png',
                 'assets/images/history-of-creation-2022-02-21-photo-2.png',
@@ -426,7 +426,7 @@ class _HistoryOfCreation extends StatelessWidget {
           '\$flashback',
           WidgetSpan(
             child: _MyPhotoGallery(
-              width: photoWidth,
+              width: galleryWidth,
               assetsNames: [
                 'assets/images/history-of-creation-2022-02-24-flashback-1.png',
                 'assets/images/history-of-creation-2022-02-24-flashback-2.png',
@@ -452,7 +452,7 @@ class _HistoryOfCreation extends StatelessWidget {
           '\$official_statistics_image',
           WidgetSpan(
             child: _MyPhotoGallery(
-              width: photoWidth,
+              width: galleryWidth,
               assetsNames: [
                 'assets/images/history-of-creation-2022-02-27-official-statistics.png'
               ],
