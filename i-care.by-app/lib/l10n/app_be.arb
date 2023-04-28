@@ -251,7 +251,7 @@
       }
     }
   },
-  "aboutSupportTheProject_financially_title": " Фінансава\n",
+  "aboutSupportTheProject_financially_title": "💸 Фінансава\n",
   "@aboutSupportTheProject_financially_title": {
     "description": "A title for the \"financially\" option on the \"support the project\" tab on the \"About\" page."
   },

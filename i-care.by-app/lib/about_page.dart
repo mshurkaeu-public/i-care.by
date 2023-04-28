@@ -1040,9 +1040,6 @@ class _SupportTheProject extends StatelessWidget {
           TextSpan(
             children: [
               TextSpan(
-                text: '💸',
-              ),
-              TextSpan(
                 text: l10n.aboutSupportTheProject_financially_title,
                 style: titleStyle,
               ),
