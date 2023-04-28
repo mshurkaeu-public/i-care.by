@@ -1038,7 +1038,6 @@ class _SupportTheProject extends StatelessWidget {
       children: [
         Text.rich(
           TextSpan(
-            text: '',
             children: [
               TextSpan(
                 text: '💸',
