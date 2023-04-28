@@ -1050,6 +1050,16 @@ class _SupportTheProject extends StatelessWidget {
                 ),
               ),
               TextSpan(
+                text: l10n.aboutSupportTheProject_drawLogo_title,
+                style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutSupportTheProject_drawLogo_text(
+                  userName,
+                  userPreferredPronoun,
+                ),
+              ),
+              TextSpan(
                 text: '\n\n',
               ),
               WidgetSpan(
