@@ -201,6 +201,24 @@
   "@aboutShortTabLabel": {
     "description": "Label of \"short\" tab on the \"About\" page."
   },
+  "aboutSupportTheProject_backup_text": "\nКалі {preferredPronoun, select, Vy{Вы зробіце} other{ты зробіш}} копію майго рэпазітара на GitHub, то гэта дапаможа захаваць мае напрацоўкі на выпадак, калі нешта пойдзе моцна \"не так\". Напрыклад, калі рапазітар будзе выпадкова выдалены з GitHub і адначасова мой уласны кампутар зламаецца або страціцца.\n\nМне падабаецца падыход, пра які я некалі прачытаў у \"Antifragile\" Нассіма Талеба ☺️. Сваімі словамі — \"Не думай, што нешта немагчыма з-за таго, што такога ніколі не было. А замест гэтага падумай пра тое, як мінімізаваць страты ў выпадку, калі яно ўсё ж такі здарыцца, хоць і не павінна.\"\n",
+  "@aboutSupportTheProject_backup_text": {
+    "description": "Text for the \"backup\" option on the \"support the project\" tab on the \"About\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "aboutSupportTheProject_backup_title": "\n\n🛡️ Рэзервовая копія рэпазітара\n",
+  "@aboutSupportTheProject_backup_title": {
+    "description": "A title for the \"backup\" option on the \"support the project\" tab on the \"About\" page."
+  },
   "aboutSupportTheProject_bugReport_text": "\nБуду ўдзячны {preferredPronoun, select, Vy{Вам} other{табе}} за паведамленне аб заўважанай памылцы. Такое паведамленне можна зрабіць любым зручным {preferredPronoun, select, Vy{Вам} other{табе}} чынам.\n",
   "@aboutSupportTheProject_bugReport_text": {
     "description": "Text for the \"bug report\" option on the \"support the project\" tab on the \"About\" page.",

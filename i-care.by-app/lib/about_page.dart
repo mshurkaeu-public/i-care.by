@@ -1107,6 +1107,16 @@ class _SupportTheProject extends StatelessWidget {
                 ),
               ),
               TextSpan(
+                text: l10n.aboutSupportTheProject_backup_title,
+                style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutSupportTheProject_backup_text(
+                  userName,
+                  userPreferredPronoun,
+                ),
+              ),
+              TextSpan(
                 text: '\n\n🎇',
               ),
               TextSpan(
