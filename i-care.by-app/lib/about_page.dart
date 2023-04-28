@@ -496,6 +496,24 @@ class _HistoryOfCreation extends StatelessWidget {
       ],
     );
 
+    List<InlineSpan> chapter06 = _buildSpansFromText(
+      l10n.aboutHistoryOfCreation_chapter_06_text,
+      [
+        MapEntry(
+          '\$was_became_examples',
+          WidgetSpan(
+            child: _MyPhotoGallery(
+              width: galleryWidth,
+              assetsNames: [
+                'assets/images/history-of-creation-2022-03-25-01.png',
+                'assets/images/history-of-creation-2022-03-25-02.png',
+              ],
+            ),
+          ),
+        ),
+      ],
+    );
+
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
@@ -542,9 +560,7 @@ class _HistoryOfCreation extends StatelessWidget {
                 text: l10n.aboutHistoryOfCreation_chapter_06_title,
                 style: titleStyle,
               ),
-              TextSpan(
-                text: l10n.aboutHistoryOfCreation_chapter_06_text,
-              ),
+              ...chapter06,
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_07_title,
                 style: titleStyle,
