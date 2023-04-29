@@ -788,6 +788,8 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
         hintPainter.dispose();
       }
 
+      double swipeIconSize = hintSize.height;
+
       secondHint = [
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -797,7 +799,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
               onPressed: _toPreviousPhoto,
               child: Icon(
                 Icons.swipe_right,
-                size: hintSize.height,
+                size: swipeIconSize,
               ),
             ),
             Text(
@@ -809,7 +811,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
               onPressed: _toNextPhoto,
               child: Icon(
                 Icons.swipe_left,
-                size: hintSize.height,
+                size: swipeIconSize,
               ),
             ),
           ],
