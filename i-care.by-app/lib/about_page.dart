@@ -1,3 +1,5 @@
+import 'dart:ui';
+
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -789,32 +791,49 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
       }
 
       double swipeIconSize = hintSize.height;
+      double maxHintWidthRequired = hintSize.width;
+      double swipeButtonWidth =
+          sideButtonPadding + swipeIconSize + sideButtonPadding;
 
       secondHint = [
-        Row(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            TextButton(
-              style: swipeButtonStyle,
-              onPressed: _toPreviousPhoto,
-              child: Icon(
-                Icons.swipe_right,
-                size: swipeIconSize,
-              ),
-            ),
-            Text(
-              hintText,
-              style: photoHintStyle,
-            ),
-            TextButton(
-              style: swipeButtonStyle,
-              onPressed: _toNextPhoto,
-              child: Icon(
-                Icons.swipe_left,
-                size: swipeIconSize,
-              ),
-            ),
-          ],
+        LayoutBuilder(
+          builder: (BuildContext context, BoxConstraints constraints) {
+            double hintWidth = constraints.maxWidth - swipeButtonWidth * 2;
+            if (hintWidth < 0) {
+              hintWidth = 0;
+            } else if (hintWidth > maxHintWidthRequired) {
+              hintWidth = maxHintWidthRequired;
+            }
+
+            return Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                TextButton(
+                  style: swipeButtonStyle,
+                  onPressed: _toPreviousPhoto,
+                  child: Icon(
+                    Icons.swipe_right,
+                    size: swipeIconSize,
+                  ),
+                ),
+                SizedBox(
+                  width: hintWidth,
+                  child: Text(
+                    hintText,
+                    style: photoHintStyle,
+                  ),
+                ),
+                TextButton(
+                  style: swipeButtonStyle,
+                  onPressed: _toNextPhoto,
+                  child: Icon(
+                    Icons.swipe_left,
+                    size: swipeIconSize,
+                  ),
+                ),
+              ],
+            );
+          },
         ),
       ];
     } else {
