@@ -765,9 +765,11 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
     List<Widget> secondHint;
     if (pageOptions.length > 1) {
       String hintText = l10n.hintToViewTheNextPhoto;
+      const double sideButtonPadding = 8;
 
       ButtonStyle swipeButtonStyle = TextButton.styleFrom(
         minimumSize: Size(1, 1),
+        padding: EdgeInsets.symmetric(horizontal: sideButtonPadding),
       );
       Size hintSize;
       TextPainter hintPainter = TextPainter(
