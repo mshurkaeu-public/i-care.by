@@ -2,6 +2,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:intl/intl.dart' as intl;
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:photo_view/photo_view_gallery.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -761,6 +762,26 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
       );
     }
 
+    ButtonStyle swipeButtonStyle = TextButton.styleFrom(
+      minimumSize: Size(1, 1),
+    );
+    Size hintSize;
+    TextPainter hintPainter = TextPainter(
+      text: TextSpan(
+        text: l10n.hintToViewTheNextPhoto,
+      ),
+      maxLines: 1,
+      textDirection: intl.Bidi.isRtlLanguage(l10n.localeName)
+          ? TextDirection.rtl
+          : TextDirection.ltr,
+    );
+    try {
+      hintPainter.layout();
+      hintSize = hintPainter.size;
+    } finally {
+      hintPainter.dispose();
+    }
+
     return Column(
       children: [
         Text(
@@ -773,16 +794,24 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     TextButton(
+                      style: swipeButtonStyle,
                       onPressed: _toPreviousPhoto,
-                      child: Icon(Icons.swipe_right),
+                      child: Icon(
+                        Icons.swipe_right,
+                        size: hintSize.height,
+                      ),
                     ),
                     Text(
                       l10n.hintToViewTheNextPhoto,
                       style: photoHintStyle,
                     ),
                     TextButton(
+                      style: swipeButtonStyle,
                       onPressed: _toNextPhoto,
-                      child: Icon(Icons.swipe_left),
+                      child: Icon(
+                        Icons.swipe_left,
+                        size: hintSize.height,
+                      ),
                     ),
                   ],
                 ),
