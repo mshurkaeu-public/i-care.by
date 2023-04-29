@@ -762,28 +762,28 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
       );
     }
 
-    ButtonStyle swipeButtonStyle = TextButton.styleFrom(
-      minimumSize: Size(1, 1),
-    );
-    Size hintSize;
-    TextPainter hintPainter = TextPainter(
-      text: TextSpan(
-        text: l10n.hintToViewTheNextPhoto,
-      ),
-      maxLines: 1,
-      textDirection: intl.Bidi.isRtlLanguage(l10n.localeName)
-          ? TextDirection.rtl
-          : TextDirection.ltr,
-    );
-    try {
-      hintPainter.layout();
-      hintSize = hintPainter.size;
-    } finally {
-      hintPainter.dispose();
-    }
-
     List<Widget> secondHint;
     if (pageOptions.length > 1) {
+      ButtonStyle swipeButtonStyle = TextButton.styleFrom(
+        minimumSize: Size(1, 1),
+      );
+      Size hintSize;
+      TextPainter hintPainter = TextPainter(
+        text: TextSpan(
+          text: l10n.hintToViewTheNextPhoto,
+        ),
+        maxLines: 1,
+        textDirection: intl.Bidi.isRtlLanguage(l10n.localeName)
+            ? TextDirection.rtl
+            : TextDirection.ltr,
+      );
+      try {
+        hintPainter.layout();
+        hintSize = hintPainter.size;
+      } finally {
+        hintPainter.dispose();
+      }
+
       secondHint = [
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
