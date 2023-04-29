@@ -782,35 +782,38 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
       hintPainter.dispose();
     }
 
-    List<Widget> secondHint = pageOptions.length > 1
-        ? [
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                TextButton(
-                  style: swipeButtonStyle,
-                  onPressed: _toPreviousPhoto,
-                  child: Icon(
-                    Icons.swipe_right,
-                    size: hintSize.height,
-                  ),
-                ),
-                Text(
-                  l10n.hintToViewTheNextPhoto,
-                  style: photoHintStyle,
-                ),
-                TextButton(
-                  style: swipeButtonStyle,
-                  onPressed: _toNextPhoto,
-                  child: Icon(
-                    Icons.swipe_left,
-                    size: hintSize.height,
-                  ),
-                ),
-              ],
+    List<Widget> secondHint;
+    if (pageOptions.length > 1) {
+      secondHint = [
+        Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            TextButton(
+              style: swipeButtonStyle,
+              onPressed: _toPreviousPhoto,
+              child: Icon(
+                Icons.swipe_right,
+                size: hintSize.height,
+              ),
             ),
-          ]
-        : [];
+            Text(
+              l10n.hintToViewTheNextPhoto,
+              style: photoHintStyle,
+            ),
+            TextButton(
+              style: swipeButtonStyle,
+              onPressed: _toNextPhoto,
+              child: Icon(
+                Icons.swipe_left,
+                size: hintSize.height,
+              ),
+            ),
+          ],
+        ),
+      ];
+    } else {
+      secondHint = [];
+    }
 
     return Column(
       children: [
