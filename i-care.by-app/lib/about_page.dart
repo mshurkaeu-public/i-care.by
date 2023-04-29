@@ -821,6 +821,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
                   child: Text(
                     hintText,
                     style: photoHintStyle,
+                    textAlign: TextAlign.center,
                   ),
                 ),
                 TextButton(
@@ -845,6 +846,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
         Text(
           l10n.hintToEnlargePhoto,
           style: photoHintStyle,
+          textAlign: TextAlign.center,
         ),
         ...secondHint,
         SizedBox(
