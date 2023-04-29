@@ -764,13 +764,15 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
 
     List<Widget> secondHint;
     if (pageOptions.length > 1) {
+      String hintText = l10n.hintToViewTheNextPhoto;
+
       ButtonStyle swipeButtonStyle = TextButton.styleFrom(
         minimumSize: Size(1, 1),
       );
       Size hintSize;
       TextPainter hintPainter = TextPainter(
         text: TextSpan(
-          text: l10n.hintToViewTheNextPhoto,
+          text: hintText,
         ),
         maxLines: 1,
         textDirection: intl.Bidi.isRtlLanguage(l10n.localeName)
@@ -797,7 +799,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
               ),
             ),
             Text(
-              l10n.hintToViewTheNextPhoto,
+              hintText,
               style: photoHintStyle,
             ),
             TextButton(
