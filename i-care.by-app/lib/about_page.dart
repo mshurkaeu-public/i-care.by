@@ -468,6 +468,7 @@ class _HistoryOfCreation extends StatelessWidget {
 
     const String officialStatisticsUrl =
         'https://rec.gov.by/uploads/folderForLinks/elect18.pdf';
+    double copyIconSize = _getTextSize('C', l10n).height;
     List<InlineSpan> chapter04 = _buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_04_text,
       [
@@ -491,16 +492,16 @@ class _HistoryOfCreation extends StatelessWidget {
               WidgetSpan(
                 // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
                 child: SizedBox(
-                  height: 16,
-                  width: 16,
+                  height: copyIconSize,
+                  width: copyIconSize,
                   child: TextButton(
                     style: TextButton.styleFrom(
                       padding: EdgeInsets.zero,
                       minimumSize: const Size(1, 1),
                     ),
-                    child: const Icon(
+                    child: Icon(
                       Icons.copy,
-                      size: 16,
+                      size: copyIconSize,
                     ),
                     onPressed: () {
                       Clipboard.setData(
