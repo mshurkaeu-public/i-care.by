@@ -32,6 +32,28 @@ List<InlineSpan> _buildSpansFromText(
   return res;
 }
 
+Size _getTextSize(String text, AppLocalizations l10n) {
+  Size res;
+
+  TextPainter hintPainter = TextPainter(
+    text: TextSpan(
+      text: text,
+    ),
+    maxLines: 1,
+    textDirection: intl.Bidi.isRtlLanguage(l10n.localeName)
+        ? TextDirection.rtl
+        : TextDirection.ltr,
+  );
+  try {
+    hintPainter.layout();
+    res = hintPainter.size;
+  } finally {
+    hintPainter.dispose();
+  }
+
+  return res;
+}
+
 class AboutPage extends StatelessWidget {
   AboutPage({
     required this.userName,
@@ -776,22 +798,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
         minimumSize: Size(1, 1),
         padding: EdgeInsets.symmetric(horizontal: sideButtonPadding),
       );
-      Size hintSize;
-      TextPainter hintPainter = TextPainter(
-        text: TextSpan(
-          text: hintText,
-        ),
-        maxLines: 1,
-        textDirection: intl.Bidi.isRtlLanguage(l10n.localeName)
-            ? TextDirection.rtl
-            : TextDirection.ltr,
-      );
-      try {
-        hintPainter.layout();
-        hintSize = hintPainter.size;
-      } finally {
-        hintPainter.dispose();
-      }
+      Size hintSize = _getTextSize(hintText, l10n);
 
       double swipeIconSize = hintSize.height;
       double maxHintWidthRequired = hintSize.width;
