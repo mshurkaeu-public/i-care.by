@@ -202,7 +202,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
 
-    TextStyle linkStyle = TextStyle(
+    TextStyle linkStyle = const TextStyle(
       color: Colors.blue,
       decoration: TextDecoration.underline,
     );
@@ -237,20 +237,20 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
         children: [
           TextSpan(
             text: l10n.feedbackRequestTitle,
-            style: TextStyle(fontWeight: FontWeight.bold),
+            style: const TextStyle(fontWeight: FontWeight.bold),
           ),
           ...paragraphSpans,
           TextSpan(
-            style: TextStyle(
+            style: const TextStyle(
               height: 1.8,
             ),
             children: [
               //Facebook
-              TextSpan(
+              const TextSpan(
                 text: 'Facebook —',
                 style: TextStyle(wordSpacing: 2.5),
               ),
-              TextSpan(
+              const TextSpan(
                 text: ' ',
               ),
               TextSpan(
@@ -258,16 +258,16 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
                 style: linkStyle,
                 recognizer: _facebookUrlTapRecognizer,
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n',
               ),
 
               //Instagram
-              TextSpan(
+              const TextSpan(
                 text: 'Instagram —',
                 style: TextStyle(wordSpacing: 0),
               ),
-              TextSpan(
+              const TextSpan(
                 text: ' ',
               ),
               TextSpan(
@@ -275,16 +275,16 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
                 style: linkStyle,
                 recognizer: _instagramUrlTapRecognizer,
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n',
               ),
 
               //LinkedIn
-              TextSpan(
+              const TextSpan(
                 text: 'LinkedIn —',
                 style: TextStyle(wordSpacing: 10.5),
               ),
-              TextSpan(
+              const TextSpan(
                 text: ' ',
               ),
               TextSpan(
@@ -292,16 +292,16 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
                 style: linkStyle,
                 recognizer: _linkedInUrlTapRecognizer,
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n',
               ),
 
               //Telegram
-              TextSpan(
+              const TextSpan(
                 text: 'Telegram —',
                 style: TextStyle(wordSpacing: 5),
               ),
-              TextSpan(
+              const TextSpan(
                 text: ' ',
               ),
               TextSpan(
@@ -309,16 +309,16 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
                 style: linkStyle,
                 recognizer: _telegramUrlTapRecognizer,
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n',
               ),
 
               //TikTok
-              TextSpan(
+              const TextSpan(
                 text: 'TikTok —',
                 style: TextStyle(wordSpacing: 21.5),
               ),
-              TextSpan(
+              const TextSpan(
                 text: ' ',
               ),
               TextSpan(
@@ -326,16 +326,16 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
                 style: linkStyle,
                 recognizer: _tikTokUrlTapRecognizer,
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n',
               ),
 
               //Twitter
-              TextSpan(
+              const TextSpan(
                 text: 'Twitter —',
                 style: TextStyle(wordSpacing: 19.5),
               ),
-              TextSpan(
+              const TextSpan(
                 text: ' ',
               ),
               TextSpan(
@@ -343,16 +343,16 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
                 style: linkStyle,
                 recognizer: _twitterUrlTapRecognizer,
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n',
               ),
 
               //YouTube
-              TextSpan(
+              const TextSpan(
                 text: 'YouTube —',
                 style: TextStyle(wordSpacing: 8.5),
               ),
-              TextSpan(
+              const TextSpan(
                 text: ' ',
               ),
               TextSpan(
@@ -360,7 +360,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
                 style: linkStyle,
                 recognizer: _youTubeUrlTapRecognizer,
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n',
               ),
             ],
@@ -406,7 +406,7 @@ class _HistoryOfCreation extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
-    TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
+    TextStyle titleStyle = const TextStyle(fontWeight: FontWeight.bold);
 
     double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
     double galleryWidth = (maxWidth > 1080) ? 1080 : maxWidth;
@@ -488,7 +488,7 @@ class _HistoryOfCreation extends StatelessWidget {
           TextSpan(
             text: officialStatisticsUrl,
             children: [
-              WidgetSpan(child: SizedBox(width: 5)),
+              const WidgetSpan(child: SizedBox(width: 5)),
               WidgetSpan(
                 // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
                 child: SizedBox(
@@ -597,7 +597,7 @@ class _HistoryOfCreation extends StatelessWidget {
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_07_text,
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n\n---\nПрацяг будзе напісаны пазней.\n\n',
               ),
             ],
@@ -626,7 +626,7 @@ class _MyGratitude extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
-    TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
+    TextStyle titleStyle = const TextStyle(fontWeight: FontWeight.bold);
 
     return ListView(
       padding: const EdgeInsets.all(20),
@@ -756,7 +756,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
       _pageController.jumpToPage(0);
     } else {
       _pageController.nextPage(
-        duration: Duration(seconds: 1),
+        duration: const Duration(seconds: 1),
         curve: Curves.linear,
       );
     }
@@ -769,7 +769,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
       _pageController.jumpToPage(widget.assetsNames.length - 1);
     } else {
       _pageController.previousPage(
-        duration: Duration(seconds: 1),
+        duration: const Duration(seconds: 1),
         curve: Curves.linear,
       );
     }
@@ -796,8 +796,8 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
       const double sideButtonPadding = 8;
 
       ButtonStyle swipeButtonStyle = TextButton.styleFrom(
-        minimumSize: Size(1, 1),
-        padding: EdgeInsets.symmetric(horizontal: sideButtonPadding),
+        minimumSize: const Size(1, 1),
+        padding: const EdgeInsets.symmetric(horizontal: sideButtonPadding),
       );
       Size hintSize = _getTextSize(hintText, l10n);
 
@@ -875,7 +875,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
           child: PhotoViewGallery(
             pageController: _pageController,
             pageOptions: pageOptions,
-            backgroundDecoration: BoxDecoration(color: Colors.transparent),
+            backgroundDecoration: const BoxDecoration(color: Colors.transparent),
           ),
         ),
       ],
@@ -954,7 +954,7 @@ class _ShortAboutState extends State<_ShortAbout> {
     AppLocalizations l10n = AppLocalizations.of(context);
     String userPreferredPronoun = widget.userPreferredPronoun;
 
-    TextStyle linkStyle = TextStyle(
+    TextStyle linkStyle = const TextStyle(
       color: Colors.blue,
       decoration: TextDecoration.underline,
     );
@@ -966,7 +966,7 @@ class _ShortAboutState extends State<_ShortAbout> {
           '\$app_title',
           TextSpan(
             text: l10n.appTitle,
-            style: TextStyle(fontWeight: FontWeight.bold),
+            style: const TextStyle(fontWeight: FontWeight.bold),
           ),
         ),
         MapEntry(
@@ -1113,7 +1113,7 @@ class _SupportTheProject extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
-    TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
+    TextStyle titleStyle = const TextStyle(fontWeight: FontWeight.bold);
 
     return ListView(
       padding: const EdgeInsets.all(20),
@@ -1141,7 +1141,7 @@ class _SupportTheProject extends StatelessWidget {
                   userPreferredPronoun,
                 ),
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n\n',
               ),
               WidgetSpan(
@@ -1149,7 +1149,7 @@ class _SupportTheProject extends StatelessWidget {
                   userPreferredPronoun: userPreferredPronoun,
                 ),
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n\n👾',
               ),
               TextSpan(
@@ -1162,7 +1162,7 @@ class _SupportTheProject extends StatelessWidget {
                   userPreferredPronoun,
                 ),
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n\n✏️',
               ),
               TextSpan(
@@ -1175,7 +1175,7 @@ class _SupportTheProject extends StatelessWidget {
                   userPreferredPronoun,
                 ),
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n\n🌐',
               ),
               TextSpan(
@@ -1198,7 +1198,7 @@ class _SupportTheProject extends StatelessWidget {
                   userPreferredPronoun,
                 ),
               ),
-              TextSpan(
+              const TextSpan(
                 text: '\n\n🎇',
               ),
               TextSpan(
