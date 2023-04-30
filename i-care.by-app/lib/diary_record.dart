@@ -11,7 +11,7 @@ class DiaryRecord {
   static const String _whoDetailsKey = 'whoDetails';
   static const String _whoKey = 'who';
 
-  Map<Object, Object?> _data;
+  final Map<Object, Object?> _data;
 
   set date(DateTime value) {
     String year = '${value.year}';

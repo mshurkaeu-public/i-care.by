@@ -174,7 +174,7 @@ class EditDiaryRecord extends StatefulWidget {
 }
 
 class _EditDiaryRecordState extends State<EditDiaryRecord> {
-  List<int> _orderOfOptions = [0, 1, 2, 3, 4, 5, 6, 7, 8];
+  final List<int> _orderOfOptions = [0, 1, 2, 3, 4, 5, 6, 7, 8];
   TheMostImportantPersonInMyLife? _theMostImportantPerson;
   late DiaryRecord _stagingDiaryRecord;
   String? _anotherPersonName;
@@ -1082,7 +1082,7 @@ class _TwoAreasSplitView extends StatefulWidget {
 }
 
 class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
-  MultiSplitViewController _multiSplitViewController =
+  final MultiSplitViewController _multiSplitViewController =
       MultiSplitViewController();
 
   void _onDividerDoubleTap(int dividerIndex) {
