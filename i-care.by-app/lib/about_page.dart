@@ -469,28 +469,33 @@ class _HistoryOfCreation extends StatelessWidget {
             children: [
               WidgetSpan(child: SizedBox(width: 5)),
               WidgetSpan(
-                child: TextButton(
-                  style: TextButton.styleFrom(
-                    padding: EdgeInsets.zero,
-                    minimumSize: const Size(1, 1),
+                // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
+                child: SizedBox(
+                  height: 16,
+                  width: 16,
+                  child: TextButton(
+                    style: TextButton.styleFrom(
+                      padding: EdgeInsets.zero,
+                      minimumSize: const Size(1, 1),
+                    ),
+                    child: const Icon(
+                      Icons.copy,
+                      size: 16,
+                    ),
+                    onPressed: () {
+                      Clipboard.setData(
+                        const ClipboardData(text: officialStatisticsUrl),
+                      ).then(
+                        (_) {
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            SnackBar(
+                              content: Text(l10n.messageWhenCopied),
+                            ),
+                          );
+                        },
+                      );
+                    },
                   ),
-                  child: const Icon(
-                    Icons.copy,
-                    size: 16,
-                  ),
-                  onPressed: () {
-                    Clipboard.setData(
-                      const ClipboardData(text: officialStatisticsUrl),
-                    ).then(
-                      (_) {
-                        ScaffoldMessenger.of(context).showSnackBar(
-                          SnackBar(
-                            content: Text(l10n.messageWhenCopied),
-                          ),
-                        );
-                      },
-                    );
-                  },
                 ),
               ),
             ],
@@ -808,12 +813,17 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
             return Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                TextButton(
-                  style: swipeButtonStyle,
-                  onPressed: _toPreviousPhoto,
-                  child: Icon(
-                    Icons.swipe_right,
-                    size: swipeIconSize,
+                // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
+                SizedBox(
+                  height: swipeIconSize,
+                  width: swipeButtonWidth,
+                  child: TextButton(
+                    style: swipeButtonStyle,
+                    onPressed: _toPreviousPhoto,
+                    child: Icon(
+                      Icons.swipe_right,
+                      size: swipeIconSize,
+                    ),
                   ),
                 ),
                 SizedBox(
@@ -824,12 +834,17 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
                     textAlign: TextAlign.center,
                   ),
                 ),
-                TextButton(
-                  style: swipeButtonStyle,
-                  onPressed: _toNextPhoto,
-                  child: Icon(
-                    Icons.swipe_left,
-                    size: swipeIconSize,
+                // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
+                SizedBox(
+                  height: swipeIconSize,
+                  width: swipeButtonWidth,
+                  child: TextButton(
+                    style: swipeButtonStyle,
+                    onPressed: _toNextPhoto,
+                    child: Icon(
+                      Icons.swipe_left,
+                      size: swipeIconSize,
+                    ),
                   ),
                 ),
               ],
