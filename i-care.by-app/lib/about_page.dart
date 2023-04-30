@@ -597,6 +597,13 @@ class _HistoryOfCreation extends StatelessWidget {
               TextSpan(
                 text: l10n.aboutHistoryOfCreation_chapter_07_text,
               ),
+              TextSpan(
+                text: l10n.aboutHistoryOfCreation_chapter_08_title,
+                style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutHistoryOfCreation_chapter_08_text,
+              ),
               const TextSpan(
                 text: '\n\n---\nПрацяг будзе напісаны пазней.\n\n',
               ),
