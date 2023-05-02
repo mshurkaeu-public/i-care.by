@@ -499,7 +499,7 @@
       }
     }
   },
-  "feedbackRequestText": "\nМне вельмі цікава даведацца, што {preferredPronoun, select, Vy{Вы думаеце} other{ты думаеш}} наконт гэтай праграмы, знойдзенай каранёвай праблеме і аб спосабе яе вырашэння. Я ўпэўнены, што {preferredPronoun, select, Vy{Ваша} other{твая}} зваротная сувязь станоўча паўплывае на далейшае развіццё праекта.\n\n{preferredPronoun, select, Vy{Вы можаце} other{Ты можаш}} перадаць зваротную сувязь па праграме любым зручным {preferredPronoun, select, Vy{Вам} other{табе}} спосабам. Напрыклад, на GitHub можна ствараць паведамленні пра памылкі або недапрацоўкі ў праграме — $github_create_new_issue_url. Таксама, там можно весці абмеркаванні — $github_discussions_url.\n\nА {preferredPronoun, select, Vy{можаце} other{можаш}} выкарыстоўваць сацыяльныя сеткі:\n",
+  "feedbackRequestText": "\nМне вельмі цікава даведацца, што {preferredPronoun, select, Vy{Вы думаеце} other{ты думаеш}} наконт гэтай праграмы, знойдзенай каранёвай праблеме і аб спосабе яе вырашэння. Я ўпэўнены, што {preferredPronoun, select, Vy{Ваша} other{твая}} зваротная сувязь станоўча паўплывае на далейшае развіццё праекта.\n\n{preferredPronoun, select, Vy{Вы можаце} other{Ты можаш}} перадаць зваротную сувязь па праграме любым зручным {preferredPronoun, select, Vy{Вам} other{табе}} спосабам. Напрыклад, на GitHub можна ствараць паведамленні пра памылкі або недапрацоўкі ў праграме — $github_create_new_issue_url. Таксама, там можна весці абмеркаванні — $github_discussions_url.\n\nА {preferredPronoun, select, Vy{можаце} other{можаш}} выкарыстоўваць сацыяльныя сеткі:\n",
   "@feedbackRequestText": {
     "description": "Text of the request feedback paragraph. Used on \"short\" tab of the \"About\" page.",
     "placeholders": {
