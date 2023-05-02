@@ -287,7 +287,7 @@ class _HomePageState extends State<HomePage> {
 }
 
 class _AsyncOperationIndicator extends StatelessWidget {
-  _AsyncOperationIndicator(
+  const _AsyncOperationIndicator(
       Future<void> asyncOperationFuture,
       String Function(BuildContext) buildInProgressMessage,
       String Function(BuildContext, Object) buildErrorMessage)
@@ -341,7 +341,7 @@ class _AsyncOperationIndicator extends StatelessWidget {
 }
 
 class _MainScreen extends StatelessWidget {
-  _MainScreen(Diary diary) : _diary = diary;
+  const _MainScreen(Diary diary) : _diary = diary;
 
   final Diary _diary;
 
@@ -432,7 +432,7 @@ class _MainScreen extends StatelessWidget {
 }
 
 class _ResponseToUserIntroduction extends StatelessWidget {
-  _ResponseToUserIntroduction(Diary diary, Function() onNext)
+  const _ResponseToUserIntroduction(Diary diary, Function() onNext)
       : _diary = diary,
         _onNext = onNext;
 

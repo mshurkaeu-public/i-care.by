@@ -55,7 +55,7 @@ Size _getTextSize(String text, AppLocalizations l10n) {
 }
 
 class AboutPage extends StatelessWidget {
-  AboutPage({
+  const AboutPage({
     required this.userName,
     required this.userPreferredPronoun,
   });
@@ -126,7 +126,7 @@ class AboutPage extends StatelessWidget {
 }
 
 class _FeedbackRequest extends StatefulWidget {
-  _FeedbackRequest({
+  const _FeedbackRequest({
     required this.userPreferredPronoun,
   });
 
@@ -750,7 +750,7 @@ class _MyGratitude extends StatelessWidget {
 }
 
 class _MyPhotoGallery extends StatefulWidget {
-  _MyPhotoGallery({
+  const _MyPhotoGallery({
     required this.assetsNames,
     required this.width,
   });
@@ -907,7 +907,7 @@ class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
 }
 
 class _ShortAbout extends StatefulWidget {
-  _ShortAbout({
+  const _ShortAbout({
     required this.userPreferredPronoun,
   });
 
@@ -1118,7 +1118,7 @@ class _ShortAboutState extends State<_ShortAbout> {
 }
 
 class _SupportTheProject extends StatelessWidget {
-  _SupportTheProject({
+  const _SupportTheProject({
     required this.userName,
     required this.userPreferredPronoun,
   });

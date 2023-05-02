@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class RequestNotEmptyListOfPersonsNames extends StatefulWidget {
-  RequestNotEmptyListOfPersonsNames({
+  const RequestNotEmptyListOfPersonsNames({
     required String hintForInputField,
     //TODO: review a possibility to convert this parameter to List<String>
     String initialValue = '',

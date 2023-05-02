@@ -143,7 +143,7 @@ class _BackToPreviousQuestionButton extends StatelessWidget {
 }
 
 class _DoneButton extends StatelessWidget {
-  _DoneButton(void Function() onPressed) : _onPressed = onPressed;
+  const _DoneButton(void Function() onPressed) : _onPressed = onPressed;
 
   final void Function() _onPressed;
 
@@ -158,7 +158,7 @@ class _DoneButton extends StatelessWidget {
 }
 
 class EditDiaryRecord extends StatefulWidget {
-  EditDiaryRecord(
+  const EditDiaryRecord(
     Diary diary,
     DiaryRecord diaryRecord,
     this.onSubmit,
@@ -835,7 +835,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 }
 
 class _EmotionsAndFeelingsRequest extends StatelessWidget {
-  _EmotionsAndFeelingsRequest({
+  const _EmotionsAndFeelingsRequest({
     required this.controller,
     required this.userName,
     required this.userPreferredPronoun,
@@ -891,7 +891,7 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
 }
 
 class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
-  _MessageToTheUser(
+  const _MessageToTheUser(
     String userName,
     String userPreferredPronoun,
     String Function(String, String) messageProvider,
@@ -942,7 +942,7 @@ class _MessageToTheUserState
 }
 
 abstract class _OneEmotionsAndFeelingsRequestContainer extends StatefulWidget {
-  _OneEmotionsAndFeelingsRequestContainer(
+  const _OneEmotionsAndFeelingsRequestContainer(
     String userName,
     String userPreferredPronoun,
     this.diaryRecord,
@@ -1036,7 +1036,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
 }
 
 class _ToTheListOfDoneButton extends StatelessWidget {
-  _ToTheListOfDoneButton(void Function() onPressed) : _onPressed = onPressed;
+  const _ToTheListOfDoneButton(void Function() onPressed) : _onPressed = onPressed;
 
   final void Function() _onPressed;
 
@@ -1065,7 +1065,7 @@ class _ToTheListOfDoneButton extends StatelessWidget {
 }
 
 class _TwoAreasSplitView extends StatefulWidget {
-  _TwoAreasSplitView({
+  const _TwoAreasSplitView({
     required this.axis,
     required this.firstArea,
     required this.initialFirstAreaWeight,
@@ -1148,7 +1148,7 @@ class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
 
 class _WhatDoYouWantToDoForThePerson
     extends _OneEmotionsAndFeelingsRequestContainer {
-  _WhatDoYouWantToDoForThePerson(
+  const _WhatDoYouWantToDoForThePerson(
     String userName,
     String userPreferredPronoun,
     DiaryRecord diaryRecord, {
@@ -1284,7 +1284,7 @@ class _WhatDoYouWantToDoForThePersonState
 }
 
 class _WhatDoYouWantToDoForThePersons extends StatefulWidget {
-  _WhatDoYouWantToDoForThePersons(
+  const _WhatDoYouWantToDoForThePersons(
     String userName,
     String userPreferredPronoun,
     this.diaryRecord, {
@@ -1454,7 +1454,7 @@ class _WhatDoYouWantToDoForThePersonsState
 }
 
 class _WhatsIsDoneForThePerson extends _WhatIsDoneRequestContainer {
-  _WhatsIsDoneForThePerson({
+  const _WhatsIsDoneForThePerson({
     required String userName,
     required String userPreferredPronoun,
     required DiaryRecord diaryRecord,
@@ -1573,7 +1573,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
 }
 
 class _WhatIsDoneForThePersons extends StatefulWidget {
-  _WhatIsDoneForThePersons(
+  const _WhatIsDoneForThePersons(
     String userName,
     String userPreferredPronoun,
     this.diaryRecord, {
@@ -1768,7 +1768,7 @@ class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
 
 class _WhatsIsDoneForYourselfWithoutWantedToDo
     extends _WhatIsDoneRequestContainer {
-  _WhatsIsDoneForYourselfWithoutWantedToDo({
+  const _WhatsIsDoneForYourselfWithoutWantedToDo({
     required String userName,
     required String userPreferredPronoun,
     required DiaryRecord diaryRecord,
@@ -1836,7 +1836,7 @@ class _WhatsIsDoneForYourselfWithoutWantedToDoState
 }
 
 abstract class _WhatIsDoneRequestContainer extends StatefulWidget {
-  _WhatIsDoneRequestContainer(
+  const _WhatIsDoneRequestContainer(
     String userName,
     String userPreferredPronoun,
     DiaryRecord diaryRecord,
