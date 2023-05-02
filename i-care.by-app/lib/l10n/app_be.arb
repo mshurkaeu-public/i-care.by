@@ -199,6 +199,10 @@
   "@aboutMyGratitude_2023_05_02_01": {
     "description": "Text for 2023-05-02 01 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_05_02_02": "\n2023-05-02 02 🦸 — ✏️ паведаміў пра памылку друку на другім пачатковым экране.\n",
+  "@aboutMyGratitude_2023_05_02_02": {
+    "description": "Text for 2023-05-02 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_05_title": "\n\n2023-05\n",
   "@aboutMyGratitude_2023_05_title": {
     "description": "Title for 2023-05 list/text on the \"my gratitude\" tab on the \"About\" page."
@@ -453,7 +457,7 @@
       }
     }
   },
-  "briefExplanationWhereToFindDiaryWeb": "Дадзеныя захоўваюцца ў лакальным сховішчы {preferredPronoun, select, Vy{Вашага} other{твайго}} браўзера (window.localStorage). На кампутары {preferredPronoun, select, Vy{Вы можаце} other{ты можаш}} прагледзець, што там захоўваецца, праз налады браўзера. Для Chrome: <F12> → Application → Local Storage. Для FireFox: <F12> → Storage → Local Storage. Для іншых браўзераў {preferredPronoun, select, Vy{пашукайце ў} other{пашукай у}} Internet. Для браўзераў на мабільных прыладах няма такога спосаба. Таму я пазней распрацую спецыяльны інструмент, каб {preferredPronoun, select, Vy{Вам} other{табе}} проста было праглядаць захаваныя дадзеныя.",
+  "briefExplanationWhereToFindDiaryWeb": "Дадзеныя захоўваюцца ў лакальным сховішчы {preferredPronoun, select, Vy{Вашага} other{твайго}} браўзера (window.localStorage). На кампутары {preferredPronoun, select, Vy{Вы можаце} other{ты можаш}} прагледзець, што там захоўваецца, праз налады браўзера. Для Chrome: <F12> → Application → Local Storage. Для FireFox: <F12> → Storage → Local Storage. Для іншых браўзераў {preferredPronoun, select, Vy{пашукайце ў} other{пашукай у}} Internet. Для браўзераў на мабільных прыладах няма такога спосабу. Таму я пазней распрацую спецыяльны інструмент, каб {preferredPronoun, select, Vy{Вам} other{табе}} проста было праглядаць захаваныя дадзеныя.",
   "@briefExplanationWhereToFindDiaryWeb": {
     "description": "Brief explanation where to find the diary data for web implementation.",
     "placeholders": {
