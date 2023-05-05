@@ -99,7 +99,10 @@ class AboutPage extends StatelessWidget {
     tabsChildren[_theWhyTabIndex] = _TheWhy();
 
     tabs[_howItWorksTabIndex] = Text(l10n.aboutHowItWorksTabLabel);
-    tabsChildren[_howItWorksTabIndex] = _HowItWorks();
+    tabsChildren[_howItWorksTabIndex] = _HowItWorks(
+      userName: userName,
+      userPreferredPronoun: userPreferredPronoun,
+    );
 
     tabs[_historyOfCreationTabIndex] =
         Text(l10n.aboutHistoryOfCreationTabLabel);
@@ -616,6 +619,14 @@ class _HistoryOfCreation extends StatelessWidget {
 }
 
 class _HowItWorks extends StatelessWidget {
+  const _HowItWorks({
+    required this.userName,
+    required this.userPreferredPronoun,
+  });
+
+  final String userName;
+  final String userPreferredPronoun;
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -623,7 +634,9 @@ class _HowItWorks extends StatelessWidget {
     return ListView(
       padding: const EdgeInsets.all(20),
       children: [
-        Text(l10n.aboutHowItWorksText),
+        Text(
+          l10n.aboutHowItWorksText(userName, userPreferredPronoun),
+        ),
       ],
     );
   }
