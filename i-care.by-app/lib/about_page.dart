@@ -397,7 +397,7 @@ class _HistoryOfCreation extends StatelessWidget {
         MapEntry(
           '\$traffic_light',
           WidgetSpan(
-            child: _MyPhotoGallery(
+            child: MyPhotoGallery(
               width: galleryWidth,
               assetsNames: [
                 'assets/images/history-of-creation-2022-02-21-traffic-light.png',
@@ -408,7 +408,7 @@ class _HistoryOfCreation extends StatelessWidget {
         MapEntry(
           '\$issues',
           WidgetSpan(
-            child: _MyPhotoGallery(
+            child: MyPhotoGallery(
               width: galleryWidth,
               assetsNames: [
                 'assets/images/history-of-creation-2022-02-21-photo-1.png',
@@ -428,7 +428,7 @@ class _HistoryOfCreation extends StatelessWidget {
         MapEntry(
           '\$flashback',
           WidgetSpan(
-            child: _MyPhotoGallery(
+            child: MyPhotoGallery(
               width: galleryWidth,
               assetsNames: [
                 'assets/images/history-of-creation-2022-02-24-flashback-1.png',
@@ -455,7 +455,7 @@ class _HistoryOfCreation extends StatelessWidget {
         MapEntry(
           '\$official_statistics_image',
           WidgetSpan(
-            child: _MyPhotoGallery(
+            child: MyPhotoGallery(
               width: galleryWidth,
               assetsNames: [
                 'assets/images/history-of-creation-2022-02-27-official-statistics.png'
@@ -511,7 +511,7 @@ class _HistoryOfCreation extends StatelessWidget {
         MapEntry(
           '\$was_became_examples',
           WidgetSpan(
-            child: _MyPhotoGallery(
+            child: MyPhotoGallery(
               width: galleryWidth,
               assetsNames: [
                 'assets/images/history-of-creation-2022-03-25-01.png',
@@ -742,8 +742,8 @@ class _MyGratitude extends StatelessWidget {
   }
 }
 
-class _MyPhotoGallery extends StatefulWidget {
-  const _MyPhotoGallery({
+class MyPhotoGallery extends StatefulWidget {
+  const MyPhotoGallery({
     required this.assetsNames,
     required this.width,
   });
@@ -755,7 +755,7 @@ class _MyPhotoGallery extends StatefulWidget {
   State<StatefulWidget> createState() => _MyPhotoGalleryState();
 }
 
-class _MyPhotoGalleryState extends State<_MyPhotoGallery> {
+class _MyPhotoGalleryState extends State<MyPhotoGallery> {
   final PageController _pageController = PageController();
 
   void _toNextPhoto() {
