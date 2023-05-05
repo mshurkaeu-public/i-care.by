@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:intl/intl.dart' as intl;
 
 class TextUtils {
   static List<InlineSpan> buildSpansFromText(
@@ -21,6 +23,28 @@ class TextUtils {
       if (i < textChunks.length - 1) {
         res.add(mapEntry.value);
       }
+    }
+
+    return res;
+  }
+
+  static Size getTextSize(String text, AppLocalizations l10n) {
+    Size res;
+
+    TextPainter hintPainter = TextPainter(
+      text: TextSpan(
+        text: text,
+      ),
+      maxLines: 1,
+      textDirection: intl.Bidi.isRtlLanguage(l10n.localeName)
+          ? TextDirection.rtl
+          : TextDirection.ltr,
+    );
+    try {
+      hintPainter.layout();
+      res = hintPainter.size;
+    } finally {
+      hintPainter.dispose();
     }
 
     return res;

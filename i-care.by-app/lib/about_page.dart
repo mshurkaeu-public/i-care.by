@@ -2,34 +2,11 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:intl/intl.dart' as intl;
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:photo_view/photo_view_gallery.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'text_utils.dart';
-
-Size _getTextSize(String text, AppLocalizations l10n) {
-  Size res;
-
-  TextPainter hintPainter = TextPainter(
-    text: TextSpan(
-      text: text,
-    ),
-    maxLines: 1,
-    textDirection: intl.Bidi.isRtlLanguage(l10n.localeName)
-        ? TextDirection.rtl
-        : TextDirection.ltr,
-  );
-  try {
-    hintPainter.layout();
-    res = hintPainter.size;
-  } finally {
-    hintPainter.dispose();
-  }
-
-  return res;
-}
 
 class AboutPage extends StatelessWidget {
   const AboutPage({
@@ -448,7 +425,7 @@ class _HistoryOfCreation extends StatelessWidget {
 
     const String officialStatisticsUrl =
         'https://rec.gov.by/uploads/folderForLinks/elect18.pdf';
-    double copyIconSize = _getTextSize('C', l10n).height;
+    double copyIconSize = TextUtils.getTextSize('C', l10n).height;
     List<InlineSpan> chapter04 = TextUtils.buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_04_text,
       [
@@ -808,7 +785,7 @@ class _MyPhotoGalleryState extends State<MyPhotoGallery> {
         minimumSize: const Size(1, 1),
         padding: const EdgeInsets.symmetric(horizontal: sideButtonPadding),
       );
-      Size hintSize = _getTextSize(hintText, l10n);
+      Size hintSize = TextUtils.getTextSize(hintText, l10n);
 
       double swipeIconSize = hintSize.height;
       double maxHintWidthRequired = hintSize.width;
