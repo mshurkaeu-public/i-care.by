@@ -7,30 +7,7 @@ import 'package:package_info_plus/package_info_plus.dart';
 import 'package:photo_view/photo_view_gallery.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-List<InlineSpan> _buildSpansFromText(
-  String text,
-  List<MapEntry<String, InlineSpan>> mapEntryList,
-) {
-  if (mapEntryList.isEmpty) {
-    return [TextSpan(text: text)];
-  }
-
-  MapEntry<String, InlineSpan> mapEntry = mapEntryList[0];
-  List<MapEntry<String, InlineSpan>> reducedMapEntryList =
-      mapEntryList.sublist(1);
-
-  List<InlineSpan> res = [];
-  List<String> textChunks = text.split(mapEntry.key);
-  for (int i = 0; i < textChunks.length; i++) {
-    String textChunk = textChunks[i];
-    res.addAll(_buildSpansFromText(textChunk, reducedMapEntryList));
-    if (i < textChunks.length - 1) {
-      res.add(mapEntry.value);
-    }
-  }
-
-  return res;
-}
+import 'text_utils.dart';
 
 Size _getTextSize(String text, AppLocalizations l10n) {
   Size res;
@@ -213,7 +190,7 @@ class _FeedbackRequestState extends State<_FeedbackRequest> {
     String paragraphText = l10n.feedbackRequestText(
       widget.userPreferredPronoun,
     );
-    List<InlineSpan> paragraphSpans = _buildSpansFromText(
+    List<InlineSpan> paragraphSpans = TextUtils.buildSpansFromText(
       paragraphText,
       [
         MapEntry(
@@ -414,7 +391,7 @@ class _HistoryOfCreation extends StatelessWidget {
     double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
     double galleryWidth = (maxWidth > 1080) ? 1080 : maxWidth;
 
-    List<InlineSpan> chapter01 = _buildSpansFromText(
+    List<InlineSpan> chapter01 = TextUtils.buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_01_text,
       [
         MapEntry(
@@ -445,7 +422,7 @@ class _HistoryOfCreation extends StatelessWidget {
       ],
     );
 
-    List<InlineSpan> chapter03 = _buildSpansFromText(
+    List<InlineSpan> chapter03 = TextUtils.buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_03_text,
       [
         MapEntry(
@@ -472,7 +449,7 @@ class _HistoryOfCreation extends StatelessWidget {
     const String officialStatisticsUrl =
         'https://rec.gov.by/uploads/folderForLinks/elect18.pdf';
     double copyIconSize = _getTextSize('C', l10n).height;
-    List<InlineSpan> chapter04 = _buildSpansFromText(
+    List<InlineSpan> chapter04 = TextUtils.buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_04_text,
       [
         MapEntry(
@@ -528,7 +505,7 @@ class _HistoryOfCreation extends StatelessWidget {
       ],
     );
 
-    List<InlineSpan> chapter06 = _buildSpansFromText(
+    List<InlineSpan> chapter06 = TextUtils.buildSpansFromText(
       l10n.aboutHistoryOfCreation_chapter_06_text,
       [
         MapEntry(
@@ -991,7 +968,7 @@ class _ShortAboutState extends State<_ShortAbout> {
       decoration: TextDecoration.underline,
     );
 
-    List<InlineSpan> aboutShort = _buildSpansFromText(
+    List<InlineSpan> aboutShort = TextUtils.buildSpansFromText(
       l10n.aboutShort(userPreferredPronoun),
       [
         MapEntry(
