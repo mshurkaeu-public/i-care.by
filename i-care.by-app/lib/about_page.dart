@@ -572,7 +572,7 @@ class _HistoryOfCreation extends StatelessWidget {
   }
 }
 
-class _HowItWorks extends StatelessWidget {
+class _HowItWorks extends StatefulWidget {
   const _HowItWorks({
     required this.userName,
     required this.userPreferredPronoun,
@@ -582,6 +582,11 @@ class _HowItWorks extends StatelessWidget {
   final String userPreferredPronoun;
 
   @override
+  State<_HowItWorks> createState() => _HowItWorksState();
+}
+
+class _HowItWorksState extends State<_HowItWorks> {
+  @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
 
@@ -589,7 +594,10 @@ class _HowItWorks extends StatelessWidget {
       padding: const EdgeInsets.all(20),
       children: [
         Text(
-          l10n.aboutHowItWorksText(userName, userPreferredPronoun),
+          l10n.aboutHowItWorksText(
+            widget.userName,
+            widget.userPreferredPronoun,
+          ),
         ),
       ],
     );
