@@ -7,6 +7,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 import 'my_photo_gallery.dart';
 import 'text_utils.dart';
+import 'how_to_find_out_who_is_tmipiyl.dart';
 
 class AboutPage extends StatelessWidget {
   const AboutPage({
@@ -586,21 +587,73 @@ class _HowItWorks extends StatefulWidget {
 }
 
 class _HowItWorksState extends State<_HowItWorks> {
+  final TapGestureRecognizer _howToFindOutWhoIsTmipiylTapRecognizer =
+      TapGestureRecognizer();
+
+  void _showHowToFindOutWhoIsTmipiylPage() {
+    NavigatorState navigator = Navigator.of(context);
+    navigator.push(
+      MaterialPageRoute(
+        builder: (BuildContext context) =>
+            HowToFindOutWhoIsTmipiyl(
+          userName: widget.userName,
+          userPreferredPronoun: widget.userPreferredPronoun,
+        ),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
 
-    return ListView(
-      padding: const EdgeInsets.all(20),
-      children: [
-        Text(
-          l10n.aboutHowItWorksText(
-            widget.userName,
-            widget.userPreferredPronoun,
+    List<InlineSpan> textSpans = TextUtils.buildSpansFromText(
+      l10n.aboutHowItWorksText(
+        widget.userName,
+        widget.userPreferredPronoun,
+      ),
+      [
+        MapEntry(
+          '\$how_to_find_out_who_is_tmipiyl_link',
+          TextSpan(
+            text: l10n.howToFindOutWhoIsTmipiyl_title(
+              widget.userPreferredPronoun,
+            ),
+            style: TextStyle(
+              color: Colors.blue,
+              decoration: TextDecoration.underline,
+            ),
+            recognizer: _howToFindOutWhoIsTmipiylTapRecognizer,
           ),
         ),
       ],
     );
+
+    return ListView(
+      padding: const EdgeInsets.all(20),
+      children: [
+        Text.rich(
+          TextSpan(
+            children: textSpans,
+          ),
+        ),
+      ],
+    );
+  }
+
+  @override
+  void dispose() {
+    _howToFindOutWhoIsTmipiylTapRecognizer.dispose();
+
+    super.dispose();
+  }
+
+  @override
+  void initState() {
+    super.initState();
+
+    _howToFindOutWhoIsTmipiylTapRecognizer.onTap =
+        _showHowToFindOutWhoIsTmipiylPage;
   }
 }
 
@@ -625,6 +678,9 @@ class _MyGratitude extends StatelessWidget {
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_05_title,
                 style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2023_05_05_01,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2023_05_02_02,

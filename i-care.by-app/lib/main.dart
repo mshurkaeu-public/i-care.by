@@ -23,5 +23,23 @@ void main() {
     },
   );
 
+  LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
+    const LicenseEntryWithLineBreaks(<String>['scale-640.jpg'], '''
+Image by Arek Socha (https://pixabay.com/users/qimono-1962238/) from Pixabay (https://pixabay.com).
+
+-
+
+Content License
+
+* Free to use under the Content License
+
+* No attribution required
+
+-
+
+Complete Content License description is available at https://pixabay.com/service/terms/.''',
+    ),
+  ));
+
   runApp(const ICareByApp());
 }
