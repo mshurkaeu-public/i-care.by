@@ -16,7 +16,12 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
 
+    ThemeData themeData = Theme.of(context);
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
+    TextStyle imageCreditsStyle = themeData.textTheme.bodySmall ?? const TextStyle();
+    imageCreditsStyle = imageCreditsStyle.merge(
+      TextStyle(color: themeData.disabledColor),
+    );
 
     List<InlineSpan> chapter00 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter00_text(
@@ -31,6 +36,34 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
               child: Image.asset(
                 'assets/images/how-to-find-out-who-is-tmipiyl-scale-640.jpg',
                 filterQuality: FilterQuality.medium,
+              ),
+            ),
+          ),
+        ),
+      ],
+    );
+
+    List<InlineSpan> chapter02 = TextUtils.buildSpansFromText(
+      l10n.howToFindOutWhoIsTmipiyl_chapter02_text(
+        userName,
+        userPreferredPronoun,
+      ),
+      [
+        MapEntry(
+          '\$graph_example',
+          WidgetSpan(
+            child: Center(
+              child: Column(
+                children: [
+                  Image.asset(
+                    'assets/images/how-to-find-out-who-is-tmipiyl-sound-wave-640.jpg',
+                    filterQuality: FilterQuality.medium,
+                  ),
+                  Text(
+                    'Image by Pete Linforth from Pixabay',
+                    style: imageCreditsStyle,
+                  ),
+                ],
               ),
             ),
           ),
@@ -65,6 +98,13 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                     userPreferredPronoun,
                   ),
                 ),
+                TextSpan(
+                  text: l10n.howToFindOutWhoIsTmipiyl_chapter02_title(
+                    userPreferredPronoun,
+                  ),
+                  style: titleStyle,
+                ),
+                ...chapter02,
               ],
             ),
           ),

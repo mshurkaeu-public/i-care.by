@@ -241,6 +241,10 @@
   "@aboutMyGratitude_2023_05_07_02": {
     "description": "Text for 2023-05-07 І.Л. Капылоў, М.Н. Крыўко і каманда on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_05_08_01": "\n2023-05-08 Pete Linforth (https://pixabay.com/users/thedigitalartist-202249/) — 🖌️ стварыў ілюстрацыю гукавой хвалі. Я выкарыстаў яе ў якасці графіка вагання важнасці на старонцы \"як высветліць, хто найважнейшы чалавек у тваім/Вашым жыцці\".\n",
+  "@aboutMyGratitude_2023_05_08_01": {
+    "description": "Text for 2023-05-08 Pete Linforth (https://pixabay.com/users/thedigitalartist-202249/) on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_05_title": "\n\n2023-05\n",
   "@aboutMyGratitude_2023_05_title": {
     "description": "Title for 2023-05 list/text on the \"my gratitude\" tab on the \"About\" page."
@@ -648,6 +652,30 @@
   "howToFindOutWhoIsTmipiyl_chapter01_title": "\n\nПра што пытанне \"хто найважнейшы чалавек у тваім жыцці?\"\n",
   "@howToFindOutWhoIsTmipiyl_chapter01_title": {
     "description": "Title of chapter 01 on the \"how to find out who is the most important person in your life\" page."
+  },
+  "howToFindOutWhoIsTmipiyl_chapter02_text": "\n{userName}, {preferredPronoun, select, Vy{уявіце} other{уяві}}, што ў {preferredPronoun, select, Vy{Вас} other{цябе}} ёсць цудоўны вымяральны прыбор, які ў кожны момант вымярае важнасць зададзенага чалавека і запісвае яе. Нешта накшталт сейсмографа. І для зададзенага чалавека {preferredPronoun, select, Vy{Вы атрымліваеце} other{ты атрымліваеш}} графік накшталт такога:\n\n$graph_example\n\nТады для некалькіх чалавек графікі іх важнасці на працягу {preferredPronoun, select, Vy{Вашага} other{твайго}} жыцця будуць выглядаць накшталт такога (спрошчаны прыклад):\n",
+  "@howToFindOutWhoIsTmipiyl_chapter02_text": {
+    "description": "Text of chapter 02 on the \"how to find out who is the most important person in your life\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "howToFindOutWhoIsTmipiyl_chapter02_title": "\n\nДобра… Працягнем… Як параўнаць значнасць некалькіх чалавек на працягу {preferredPronoun, select, Vy{Вашага} other{твайго}} жыцця?\n",
+  "@howToFindOutWhoIsTmipiyl_chapter02_title": {
+    "description": "Title of chapter 02 on the \"how to find out who is the most important person in your life\" page.",
+    "placeholders": {
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
   },
   "howToFindOutWhoIsTmipiyl_title": "Як высветліць, хто найважнейшы чалавек у {preferredPronoun, select, Vy{Вашым} other{тваім}} жыцці",
   "@howToFindOutWhoIsTmipiyl_title": {
