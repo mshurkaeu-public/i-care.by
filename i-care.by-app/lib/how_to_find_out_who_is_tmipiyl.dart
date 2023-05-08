@@ -33,11 +33,10 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
         MapEntry(
           '\$in_doubt_image',
           WidgetSpan(
-            child: Center(
-              child: Image.asset(
-                'assets/images/how-to-find-out-who-is-tmipiyl-scale-640.jpg',
-                filterQuality: FilterQuality.medium,
-              ),
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/how-to-find-out-who-is-tmipiyl-scale-640.jpg',
+              caption: 'Image by Arek Socha from Pixabay',
             ),
           ),
         ),
