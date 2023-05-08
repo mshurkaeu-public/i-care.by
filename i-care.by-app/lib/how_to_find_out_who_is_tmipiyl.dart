@@ -59,6 +59,16 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
+        MapEntry(
+          '\$several_people_graph_example',
+          WidgetSpan(
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/how-to-find-out-who-is-tmipiyl-graph-640.jpg',
+              caption: 'Image by Mediamodifier from Pixabay',
+            ),
+          ),
+        ),
       ],
     );
 

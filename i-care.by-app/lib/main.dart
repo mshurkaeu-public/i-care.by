@@ -59,5 +59,15 @@ void main() {
         ),
       ));
 
+  LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
+        LicenseEntryWithLineBreaks(
+          <String>['graph-640.jpg'],
+          _buildLicenseTextForImageFromPixabay(
+            'Mediamodifier',
+            'mediamodifier-1567646',
+          ),
+        ),
+      ));
+
   runApp(const ICareByApp());
 }
