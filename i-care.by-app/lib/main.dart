@@ -50,22 +50,14 @@ void main() {
       ));
 
   LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
-    const LicenseEntryWithLineBreaks(<String>['sound-wave-640.jpg'], '''
-Image by Pete Linforth (https://pixabay.com/users/thedigitalartist-202249/) from Pixabay (https://pixabay.com).
-
--
-
-Content License
-
-* Free to use under the Content License
-
-* No attribution required
-
--
-
-Complete Content License description is available at https://pixabay.com/service/terms/.''',
-    ),
-  ));
+        LicenseEntryWithLineBreaks(
+          <String>['sound-wave-640.jpg'],
+          _buildLicenseTextForImageFromPixabay(
+            'Pete Linforth',
+            'thedigitalartist-202249',
+          ),
+        ),
+      ));
 
   runApp(const ICareByApp());
 }
