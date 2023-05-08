@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
+import 'asset_image_with_caption.dart';
 import 'text_utils.dart';
 
 class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
@@ -52,19 +53,10 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
         MapEntry(
           '\$graph_example',
           WidgetSpan(
-            child: Center(
-              child: Column(
-                children: [
-                  Image.asset(
-                    'assets/images/how-to-find-out-who-is-tmipiyl-sound-wave-640.jpg',
-                    filterQuality: FilterQuality.medium,
-                  ),
-                  Text(
-                    'Image by Pete Linforth from Pixabay',
-                    style: imageCreditsStyle,
-                  ),
-                ],
-              ),
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/how-to-find-out-who-is-tmipiyl-sound-wave-640.jpg',
+              caption: 'Image by Pete Linforth from Pixabay',
             ),
           ),
         ),
