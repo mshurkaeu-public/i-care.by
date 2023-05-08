@@ -4,6 +4,25 @@ import 'package:flutter/services.dart' show rootBundle;
 
 import 'i_care_by_app.dart';
 
+String _buildLicenseTextForImageFromPixabay(String artistName, String artistProfileName) {
+  String res = '''
+Image by $artistName (https://pixabay.com/users/$artistProfileName/) from Pixabay (https://pixabay.com).
+
+-
+
+Content License
+
+* Free to use under the Content License
+
+* No attribution required
+
+-
+
+Complete Content License description is available at https://pixabay.com/service/terms/.''';
+
+  return res;
+}
+
 void main() {
   LicenseRegistry.addLicense(
     () async* {
@@ -24,22 +43,11 @@ void main() {
   );
 
   LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
-    const LicenseEntryWithLineBreaks(<String>['scale-640.jpg'], '''
-Image by Arek Socha (https://pixabay.com/users/qimono-1962238/) from Pixabay (https://pixabay.com).
-
--
-
-Content License
-
-* Free to use under the Content License
-
-* No attribution required
-
--
-
-Complete Content License description is available at https://pixabay.com/service/terms/.''',
-    ),
-  ));
+        LicenseEntryWithLineBreaks(
+          <String>['scale-640.jpg'],
+          _buildLicenseTextForImageFromPixabay('Arek Socha', 'qimono-1962238'),
+        ),
+      ));
 
   LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
     const LicenseEntryWithLineBreaks(<String>['sound-wave-640.jpg'], '''
