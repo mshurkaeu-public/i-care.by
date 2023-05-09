@@ -23,6 +23,29 @@ Complete Content License description is available at https://pixabay.com/service
   return res;
 }
 
+String _buildLicenseTextForPhotoFromUnsplash(
+  String photographerName,
+  String photographerProfileName,
+) {
+  String res = '''
+Photo by $photographerName (https://unsplash.com/$photographerProfileName) on Unsplash (https://unsplash.com).
+
+-
+
+Free to use under the Unsplash License
+
+Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify,
+distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without
+permission from or attributing the photographer or Unsplash, but this license does not include the right
+to compile photos from Unsplash to replicate a similar or competing service.
+
+-
+
+Complete Unsplash License description is available at https://unsplash.com/terms/.''';
+
+  return res;
+}
+
 void main() {
   LicenseRegistry.addLicense(
     () async* {
@@ -65,6 +88,16 @@ void main() {
           _buildLicenseTextForImageFromPixabay(
             'Mediamodifier',
             'mediamodifier-1567646',
+          ),
+        ),
+      ));
+
+  LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
+        LicenseEntryWithLineBreaks(
+          <String>['colores-a-medida-640.jpg'],
+          _buildLicenseTextForPhotoFromUnsplash(
+            'Patricia Serna',
+            '@sernarial',
           ),
         ),
       ));

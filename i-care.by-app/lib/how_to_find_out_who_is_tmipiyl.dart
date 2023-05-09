@@ -72,6 +72,25 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
       ],
     );
 
+    List<InlineSpan> chapter03 = TextUtils.buildSpansFromText(
+      l10n.howToFindOutWhoIsTmipiyl_chapter03_text(
+        userName,
+        userPreferredPronoun,
+      ),
+      [
+        MapEntry(
+          '\$emotions_measures',
+          WidgetSpan(
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/how-to-find-out-who-is-tmipiyl-colores-a-medida-640.jpg',
+              caption: 'Photo by Patricia Serna on Unsplash',
+            ),
+          ),
+        ),
+      ],
+    );
+
     return Scaffold(
       appBar: AppBar(
         title: Text(
@@ -106,6 +125,13 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                   style: titleStyle,
                 ),
                 ...chapter02,
+                TextSpan(
+                  text: l10n.howToFindOutWhoIsTmipiyl_chapter03_title(
+                    userPreferredPronoun,
+                  ),
+                  style: titleStyle,
+                ),
+                ...chapter03,
               ],
             ),
           ),
