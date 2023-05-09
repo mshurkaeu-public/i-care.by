@@ -102,5 +102,15 @@ void main() {
         ),
       ));
 
+  LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
+        LicenseEntryWithLineBreaks(
+          <String>['time-640.jpg'],
+          _buildLicenseTextForImageFromPixabay(
+            'Gerd Altmann',
+            'geralt-9301',
+          ),
+        ),
+      ));
+
   runApp(const ICareByApp());
 }

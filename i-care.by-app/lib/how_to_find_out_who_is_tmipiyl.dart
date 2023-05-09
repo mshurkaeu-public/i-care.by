@@ -88,6 +88,16 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
+        MapEntry(
+          '\$time_measures',
+          WidgetSpan(
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/how-to-find-out-who-is-tmipiyl-time-640.jpg',
+              caption: 'Image by Gerd Altmann from Pixabay',
+            ),
+          ),
+        ),
       ],
     );
 
