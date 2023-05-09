@@ -108,6 +108,16 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
+        MapEntry(
+          '\$submarine_gauges',
+          WidgetSpan(
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/how-to-find-out-who-is-tmipiyl-submarine-640.jpg',
+              caption: 'Image by Achim Scholty from Pixabay',
+            ),
+          ),
+        ),
       ],
     );
 

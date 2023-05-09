@@ -122,5 +122,15 @@ void main() {
         ),
       ));
 
+  LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
+        LicenseEntryWithLineBreaks(
+          <String>['submarine-640.jpg'],
+          _buildLicenseTextForImageFromPixabay(
+            'Achim Scholty',
+            'scholty1970-7596740',
+          ),
+        ),
+      ));
+
   runApp(const ICareByApp());
 }
