@@ -112,5 +112,15 @@ void main() {
         ),
       ));
 
+  LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
+        LicenseEntryWithLineBreaks(
+          <String>['aircraft-640.jpg'],
+          _buildLicenseTextForImageFromPixabay(
+            'Nel Botha',
+            'nel_botha-nz-1267169',
+          ),
+        ),
+      ));
+
   runApp(const ICareByApp());
 }

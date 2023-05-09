@@ -98,6 +98,16 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
+        MapEntry(
+          '\$aircraft_gauges',
+          WidgetSpan(
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/how-to-find-out-who-is-tmipiyl-aircraft-640.jpg',
+              caption: 'Image by Nel Botha from Pixabay',
+            ),
+          ),
+        ),
       ],
     );
 
