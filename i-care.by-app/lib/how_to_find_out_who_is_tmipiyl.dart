@@ -118,6 +118,16 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
+        MapEntry(
+          '\$infinite_number_of_choices',
+          WidgetSpan(
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/how-to-find-out-who-is-tmipiyl-doors-640.jpg',
+              caption: 'Image by Arek Socha from Pixabay',
+            ),
+          ),
+        ),
       ],
     );
 
