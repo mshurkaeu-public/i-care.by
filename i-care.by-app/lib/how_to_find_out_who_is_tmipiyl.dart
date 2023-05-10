@@ -114,7 +114,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             child: AssetImageWithCaption(
               assetName:
                   'assets/images/how-to-find-out-who-is-tmipiyl-submarine-640.jpg',
-              caption: 'Image by Achim Scholty from Pixabay',
+              caption: 'Photo by Achim Scholty from Pixabay',
             ),
           ),
         ),
