@@ -31,7 +31,7 @@ WidgetSpan _buildHintForEmotion(
     child: Tooltip(
       message: hint,
       triggerMode: TooltipTriggerMode.tap,
-      showDuration: Duration(minutes: 1),
+      showDuration: const Duration(minutes: 1),
       child: Stack(
         children: [
           Positioned(
@@ -91,7 +91,7 @@ WidgetSpan _buildHintForEmotion(
             ),
           ),
           Container(
-            margin: EdgeInsets.all(3),
+            margin: const EdgeInsets.all(3),
             child: Text.rich(
               TextSpan(
                 text: emoji,
@@ -108,7 +108,7 @@ WidgetSpan _buildHintForEmotion(
 }
 
 TextStyle _getMyHintStyle(ThemeData themeData) {
-  TextStyle res = TextStyle(overflow: TextOverflow.visible);
+  TextStyle res = const TextStyle(overflow: TextOverflow.visible);
   if (themeData.textTheme.bodySmall != null) {
     res = themeData.textTheme.bodySmall!.merge(res);
   }
@@ -150,7 +150,7 @@ class _DoneButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return IconButton(
-      icon: Icon(Icons.check),
+      icon: const Icon(Icons.check),
       tooltip: AppLocalizations.of(context).doneButtonText,
       onPressed: _onPressed,
     );
@@ -254,14 +254,14 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
   Widget _nextButtonIfTrue(bool condition, AppLocalizations l10n) {
     if (condition) {
       return Padding(
-        padding: EdgeInsets.only(top: 10),
+        padding: const EdgeInsets.only(top: 10),
         child: ElevatedButton(
           onPressed: _onSubmitFirstScreen,
           child: Text(l10n.nextButtonText),
         ),
       );
     } else {
-      return SizedBox();
+      return const SizedBox();
     }
   }
 
@@ -695,7 +695,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Padding(
-            padding: EdgeInsets.all(20),
+            padding: const EdgeInsets.all(20),
             child: Text(
               l10n.whoIsTheMostImportantPersonInYourLife(
                   userName, userPreferredPronoun),
@@ -704,7 +704,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           ),
           Expanded(
             child: SingleChildScrollView(
-              padding: EdgeInsets.fromLTRB(20, 0, 20, 0),
+              padding: const EdgeInsets.fromLTRB(20, 0, 20, 0),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: shuffledOptions,
@@ -818,7 +818,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     if (autoSubmitFirstScreen) {
       if (autoSubmitSecondScreen) {
         Timer(
-          Duration(seconds: 0),
+          const Duration(seconds: 0),
           () {
             _onSubmitFirstScreen();
             _onSubmitSecondScreen();
@@ -826,7 +826,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         );
       } else {
         Timer(
-          Duration(seconds: 0),
+          const Duration(seconds: 0),
           _onSubmitFirstScreen,
         );
       }
@@ -859,7 +859,7 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
               userPreferredPronoun,
             ),
             children: [
-              WidgetSpan(
+              const WidgetSpan(
                 child: SizedBox(width: 5),
               ),
               _buildHintForEmotion(
@@ -873,11 +873,11 @@ class _EmotionsAndFeelingsRequest extends StatelessWidget {
             ],
           ),
         ),
-        SizedBox(height: 10),
+        const SizedBox(height: 10),
         Expanded(
           child: TextField(
             controller: controller,
-            decoration: InputDecoration(
+            decoration: const InputDecoration(
               border: OutlineInputBorder(),
             ),
             maxLines: null,
@@ -990,7 +990,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
         ],
       ),
       body: Padding(
-        padding: EdgeInsets.all(20),
+        padding: const EdgeInsets.all(20),
         child: _TwoAreasSplitView(
           axis: Axis.horizontal,
           initialFirstAreaWeight: widget._firstColumnInitialWeight,
@@ -1116,14 +1116,14 @@ class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
         children: [
           Padding(
             padding: (widget.axis == Axis.horizontal)
-                ? EdgeInsets.only(right: 9)
-                : EdgeInsets.only(bottom: 9),
+                ? const EdgeInsets.only(right: 9)
+                : const EdgeInsets.only(bottom: 9),
             child: widget.firstArea,
           ),
           Padding(
             padding: (widget.axis == Axis.horizontal)
-                ? EdgeInsets.only(left: 9)
-                : EdgeInsets.only(top: 9),
+                ? const EdgeInsets.only(left: 9)
+                : const EdgeInsets.only(top: 9),
             child: widget.secondArea,
           ),
         ],
@@ -1169,7 +1169,7 @@ class _WhatDoYouWantToDoForThePersonState
 
     if (widget.diaryRecord.who == TheMostImportantPersonInMyLife.me) {
       res = [
-        WidgetSpan(
+        const WidgetSpan(
           child: SizedBox(width: 5),
         ),
         _buildHintForEmotion(
@@ -1255,12 +1255,12 @@ class _WhatDoYouWantToDoForThePersonState
             ],
           ),
         ),
-        SizedBox(height: 10),
+        const SizedBox(height: 10),
         Expanded(
           child: TextField(
             controller: _wantToDoController,
             decoration: InputDecoration(
-              border: OutlineInputBorder(),
+              border: const OutlineInputBorder(),
               hintText: l10n.exampleOfWantToDoForTmipiml,
               hintStyle: _getMyHintStyle(themeData),
             ),
@@ -1360,7 +1360,7 @@ class _WhatDoYouWantToDoForThePersonsState
         personName: personName,
       );
 
-      content.add(SizedBox(height: 20));
+      content.add(const SizedBox(height: 20));
       content.add(
         SizedBox(
           height: 180,
@@ -1373,12 +1373,12 @@ class _WhatDoYouWantToDoForThePersonsState
                 Text(
                   question,
                 ),
-                SizedBox(height: 10),
+                const SizedBox(height: 10),
                 Expanded(
                   child: TextField(
                     controller: _wantToDoControllers[i],
                     decoration: InputDecoration(
-                      border: OutlineInputBorder(),
+                      border: const OutlineInputBorder(),
                       hintText: l10n.exampleOfWantToDoForTmipiml,
                       hintStyle: _getMyHintStyle(themeData),
                     ),
@@ -1409,7 +1409,7 @@ class _WhatDoYouWantToDoForThePersonsState
         ],
       ),
       body: ListView(
-        padding: EdgeInsets.fromLTRB(20, 0, 20, 0),
+        padding: const EdgeInsets.fromLTRB(20, 0, 20, 0),
         children: content,
       ),
     );
@@ -1489,7 +1489,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     );
 
     if (emotionsAndFeelingsOnWantedToDo != null) {
-      eafOnWantedToDoColumnChildren.add(SizedBox(height: 10));
+      eafOnWantedToDoColumnChildren.add(const SizedBox(height: 10));
       eafOnWantedToDoColumnChildren.add(
         Text(
           emotionsAndFeelingsOnWantedToDo,
@@ -1530,7 +1530,7 @@ class _WhatsIsDoneForThePersonState extends _WhatIsDoneRequestContainerState {
     );
 
     if (wantedToDo != null) {
-      wantedToDoColumnChildren.add(SizedBox(height: 10));
+      wantedToDoColumnChildren.add(const SizedBox(height: 10));
       wantedToDoColumnChildren.add(
         Text(
           wantedToDo,
@@ -1652,7 +1652,7 @@ class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
         personName: personName,
       );
 
-      content.add(SizedBox(height: 20));
+      content.add(const SizedBox(height: 20));
       content.add(
         SizedBox(
           height: 250,
@@ -1688,12 +1688,12 @@ class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
                   Text(
                     question,
                   ),
-                  SizedBox(height: 10),
+                  const SizedBox(height: 10),
                   Expanded(
                     child: TextField(
                       controller: _doneControllers[i],
                       decoration: InputDecoration(
-                        border: OutlineInputBorder(),
+                        border: const OutlineInputBorder(),
                         hintStyle: _getMyHintStyle(themeData),
                       ),
                       expands: true,
@@ -1723,7 +1723,7 @@ class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
         ],
       ),
       body: ListView(
-        padding: EdgeInsets.fromLTRB(20, 0, 20, 0),
+        padding: const EdgeInsets.fromLTRB(20, 0, 20, 0),
         children: content,
       ),
     );
@@ -1805,7 +1805,7 @@ class _WhatsIsDoneForYourselfWithoutWantedToDoState
         ),
       ),
     );
-    eafOnWantedToDoColumnChildren.add(SizedBox(height: 10));
+    eafOnWantedToDoColumnChildren.add(const SizedBox(height: 10));
     eafOnWantedToDoColumnChildren.add(
       Text(
         l10n.yourEmotionsAndFeelingsLabel(widget._userPreferredPronoun),
@@ -1817,7 +1817,7 @@ class _WhatsIsDoneForYourselfWithoutWantedToDoState
     String? emotionsAndFeelingsOnWantedToDo =
         widget._diaryRecord.emotionsAndFeelingsOnWantToDo;
     if (emotionsAndFeelingsOnWantedToDo != null) {
-      eafOnWantedToDoColumnChildren.add(SizedBox(height: 10));
+      eafOnWantedToDoColumnChildren.add(const SizedBox(height: 10));
       eafOnWantedToDoColumnChildren.add(
         Text(
           emotionsAndFeelingsOnWantedToDo,
@@ -1881,7 +1881,7 @@ abstract class _WhatIsDoneRequestContainerState
         ],
       ),
       body: Padding(
-        padding: EdgeInsets.all(20),
+        padding: const EdgeInsets.all(20),
         child: MultiSplitViewTheme(
           data: MultiSplitViewThemeData(
             dividerPainter: DividerPainters.dashed(
@@ -1900,11 +1900,11 @@ abstract class _WhatIsDoneRequestContainerState
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(question),
-                  SizedBox(height: 10),
+                  const SizedBox(height: 10),
                   Expanded(
                     child: TextField(
                       controller: _doneController,
-                      decoration: InputDecoration(
+                      decoration: const InputDecoration(
                         border: OutlineInputBorder(),
                       ),
                       maxLines: null,
