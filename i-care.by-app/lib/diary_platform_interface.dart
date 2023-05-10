@@ -70,7 +70,7 @@ abstract class DiaryBase {
   }
 
   String buildJson() {
-    JsonEncoder jsonEncoder = JsonEncoder.withIndent('\t');
+    JsonEncoder jsonEncoder = const JsonEncoder.withIndent('\t');
     String res = jsonEncoder.convert(_allData);
     return res;
   }
