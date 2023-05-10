@@ -19,7 +19,8 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
 
     ThemeData themeData = Theme.of(context);
     TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
-    TextStyle imageCreditsStyle = themeData.textTheme.bodySmall ?? const TextStyle();
+    TextStyle imageCreditsStyle =
+        themeData.textTheme.bodySmall ?? const TextStyle();
     imageCreditsStyle = imageCreditsStyle.merge(
       TextStyle(color: themeData.disabledColor),
     );
