@@ -619,7 +619,7 @@ class _HowItWorksState extends State<_HowItWorks> {
             text: l10n.howToFindOutWhoIsTmipiyl_title(
               widget.userPreferredPronoun,
             ),
-            style: TextStyle(
+            style: const TextStyle(
               color: Colors.blue,
               decoration: TextDecoration.underline,
             ),
