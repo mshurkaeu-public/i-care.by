@@ -87,13 +87,13 @@ class _HomePageState extends State<HomePage> {
                 ),
                 // TODO: implement backups review
                 ListTile(
-                  title: Text('Рэзервовыя копіі'),
+                  title: const Text('Рэзервовыя копіі'),
                   onTap: () {
                     Navigator.pop(context);
                     showAboutDialog(
                       context: context,
                       children: [
-                        Text(
+                        const Text(
                             'Функцыя прагляду рэзервовых копій пакуль што не зроблена.'),
                       ],
                     );
@@ -101,13 +101,13 @@ class _HomePageState extends State<HomePage> {
                 ),
                 // TODO: implement review of saved data
                 ListTile(
-                  title: Text('Захаваныя дадзеныя'),
+                  title: const Text('Захаваныя дадзеныя'),
                   onTap: () {
                     Navigator.pop(context);
                     showAboutDialog(
                       context: context,
                       children: [
-                        Text(
+                        const Text(
                             'Функцыя прагляду захаваных дадзеных пакуль што не зроблена.'),
                       ],
                     );
@@ -265,7 +265,7 @@ class _HomePageState extends State<HomePage> {
         title: Text(l10n.appTitle),
       ),
       body: SingleChildScrollView(
-        padding: EdgeInsets.all(20),
+        padding: const EdgeInsets.all(20),
         child: pageContent,
       ),
       drawer: drawer,
