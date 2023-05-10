@@ -64,7 +64,7 @@ class _RequestNotEmptyListOfPersonsNamesState
           TextFormField(
             controller: _namesController,
             decoration: InputDecoration(
-              border: OutlineInputBorder(),
+              border: const OutlineInputBorder(),
               labelText: widget._hintForInputField,
             ),
             focusNode: _namesFocusNode,
