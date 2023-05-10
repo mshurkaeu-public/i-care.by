@@ -92,7 +92,7 @@ class _RequestUserInfoState extends State<RequestUserInfo> {
           TextFormField(
             controller: _userNameController,
             decoration: InputDecoration(
-              border: OutlineInputBorder(),
+              border: const OutlineInputBorder(),
               labelText: l10n.hintForUserNameRequest(_preferredPronoun ?? ''),
             ),
             focusNode: _userNameFocusNode,
@@ -115,7 +115,7 @@ class _RequestUserInfoState extends State<RequestUserInfo> {
             builder: (FormFieldState<Object?> field) {
               return InputDecorator(
                 decoration: InputDecoration(
-                  border: OutlineInputBorder(),
+                  border: const OutlineInputBorder(),
                   errorText: field.hasError ? field.errorText : null,
                   labelText: l10n
                       .hintForPreferredPronounRequest(_preferredPronoun ?? ''),
