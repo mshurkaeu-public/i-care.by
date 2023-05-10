@@ -29,7 +29,7 @@ class ICareByApp extends StatelessWidget {
 
     return MaterialApp(
       darkTheme: darkTheme,
-      home: HomePage(),
+      home: const HomePage(),
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       onGenerateTitle: _onGenerateTitle,
       supportedLocales: AppLocalizations.supportedLocales,
