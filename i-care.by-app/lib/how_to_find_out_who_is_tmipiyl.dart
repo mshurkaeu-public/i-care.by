@@ -104,7 +104,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             child: AssetImageWithCaption(
               assetName:
                   'assets/images/how-to-find-out-who-is-tmipiyl-aircraft-640.jpg',
-              caption: 'Image by Nel Botha from Pixabay',
+              caption: 'Photo by Nel Botha from Pixabay',
             ),
           ),
         ),
