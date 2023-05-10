@@ -28,7 +28,7 @@ class DisplayDiaryRecord extends StatelessWidget {
     required String youDidLabelText,
     required String youWantedToDoLabelText,
   }) {
-    dayContent.add(SizedBox(height: 10));
+    dayContent.add(const SizedBox(height: 10));
     dayContent.add(Row(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -320,8 +320,8 @@ class DisplayDiaryRecord extends StatelessWidget {
           ),
         ),
       ),
-      margin: EdgeInsets.only(top: 20),
-      padding: EdgeInsets.only(top: 10),
+      margin: const EdgeInsets.only(top: 20),
+      padding: const EdgeInsets.only(top: 10),
       child: Row(
         children: [
           Expanded(
