@@ -743,6 +743,24 @@
   "@howToFindOutWhoIsTmipiyl_chapter04_title": {
     "description": "Title of chapter 04 on the \"how to find out who is the most important person in your life\" page."
   },
+  "howToFindOutWhoIsTmipiyl_chapter05_text": "\nГэта не проста \"цікава ведаць\". Гэта фундаментальны інгрыдыент для \"лекаў\" ад \"хвароб\" грамадства, пералічаных у раздзеле \"навошта\" на старонцы з \"інфармацыяй аб праграме\". Падрабязнасці апісаны на адпаведных асобных старонках.\n\n{userName}, як {preferredPronoun, select, Vy{думаеце} other{думаеш}}, пацягне гэта на кагнітыўную рэвалюцыю? Асабіста для {preferredPronoun, select, Vy{Вас} other{цябе}}? Для {preferredPronoun, select, Vy{Вашай} other{тваёй}} сям'і? Краіны? Чалавецтва? 😲\n",
+  "@howToFindOutWhoIsTmipiyl_chapter05_text": {
+    "description": "Text of chapter 05 on the \"how to find out who is the most important person in your life\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "howToFindOutWhoIsTmipiyl_chapter05_title": "\n\nP.S.\n",
+  "@howToFindOutWhoIsTmipiyl_chapter05_title": {
+    "description": "Title of chapter 05 on the \"how to find out who is the most important person in your life\" page."
+  },
   "howToFindOutWhoIsTmipiyl_title": "Як высветліць, хто найважнейшы чалавек у {preferredPronoun, select, Vy{Вашым} other{тваім}} жыцці",
   "@howToFindOutWhoIsTmipiyl_title": {
     "description": "Title for the \"how to find out who is the most important person in your life\" page.",

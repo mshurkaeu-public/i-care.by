@@ -197,6 +197,16 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                   style: titleStyle,
                 ),
                 ...chapter04,
+                TextSpan(
+                  text: l10n.howToFindOutWhoIsTmipiyl_chapter05_title,
+                  style: titleStyle,
+                ),
+                TextSpan(
+                  text: l10n.howToFindOutWhoIsTmipiyl_chapter05_text(
+                    userName,
+                    userPreferredPronoun,
+                  ),
+                ),
               ],
             ),
           ),
