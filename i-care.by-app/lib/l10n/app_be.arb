@@ -725,6 +725,24 @@
       }
     }
   },
+  "howToFindOutWhoIsTmipiyl_chapter04_text": "\nЗараз мы ведаем, якую меру выкарыстоўваць для зададзенага чалавека і для зададзенага моманту {preferredPronoun, select, Vy{Вашага} other{твайго}} жыцця, каб адказаць на зыходнае пытанне. Таму, {preferredPronoun, select, Vy{Вы можаце} other{ты можаш}} прыкінуць, як выглядаюць графікі важнасці/значнасці цікавых {preferredPronoun, select, Vy{Вам} other{табе}} людзей на працягу {preferredPronoun, select, Vy{Вашага} other{твайго}} жыцця. Я выкарыстаю для прыклада ізноў гэтую ілюстрацыю:\n\n$several_people_graph_example\n\nМы ўжо разбіралі, што ў найважнейшага чалавека ў {preferredPronoun, select, Vy{Вашым} other{тваім}} жыцці плошча фігуры пад яго/яе графікам будзе самай вялікай.\n\nА магчыма, {userName}, {preferredPronoun, select, Vy{Вы можаце} other{ты можаш}} і без графікаў адказаць, хто той чалавек, які/якая больш усяго паўплывае на тое, што {preferredPronoun, select, Vy{Вы лічыце} other{ты лічыш}} важным для сябе на працягу ўсяго {preferredPronoun, select, Vy{Вашага} other{твайго}} жыцця.\n",
+  "@howToFindOutWhoIsTmipiyl_chapter04_text": {
+    "description": "Text of chapter 04 on the \"how to find out who is the most important person in your life\" page.",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Мікалай"
+      },
+      "preferredPronoun": {
+        "type": "String",
+        "example": "ty_muzhchyna"
+      }
+    }
+  },
+  "howToFindOutWhoIsTmipiyl_chapter04_title": "\n\nАбагульнім\n",
+  "@howToFindOutWhoIsTmipiyl_chapter04_title": {
+    "description": "Title of chapter 04 on the \"how to find out who is the most important person in your life\" page."
+  },
   "howToFindOutWhoIsTmipiyl_title": "Як высветліць, хто найважнейшы чалавек у {preferredPronoun, select, Vy{Вашым} other{тваім}} жыцці",
   "@howToFindOutWhoIsTmipiyl_title": {
     "description": "Title for the \"how to find out who is the most important person in your life\" page.",
