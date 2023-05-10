@@ -18,7 +18,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
     AppLocalizations l10n = AppLocalizations.of(context);
 
     ThemeData themeData = Theme.of(context);
-    TextStyle titleStyle = TextStyle(fontWeight: FontWeight.bold);
+    TextStyle titleStyle = const TextStyle(fontWeight: FontWeight.bold);
     TextStyle imageCreditsStyle =
         themeData.textTheme.bodySmall ?? const TextStyle();
     imageCreditsStyle = imageCreditsStyle.merge(
@@ -31,7 +31,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
         userPreferredPronoun,
       ),
       [
-        MapEntry(
+        const MapEntry(
           '\$in_doubt_image',
           WidgetSpan(
             child: AssetImageWithCaption(
@@ -50,7 +50,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
         userPreferredPronoun,
       ),
       [
-        MapEntry(
+        const MapEntry(
           '\$graph_example',
           WidgetSpan(
             child: AssetImageWithCaption(
@@ -60,7 +60,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
-        MapEntry(
+        const MapEntry(
           '\$several_people_graph_example',
           WidgetSpan(
             child: AssetImageWithCaption(
@@ -79,7 +79,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
         userPreferredPronoun,
       ),
       [
-        MapEntry(
+        const MapEntry(
           '\$emotions_measures',
           WidgetSpan(
             child: AssetImageWithCaption(
@@ -89,7 +89,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
-        MapEntry(
+        const MapEntry(
           '\$time_measures',
           WidgetSpan(
             child: AssetImageWithCaption(
@@ -99,7 +99,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
-        MapEntry(
+        const MapEntry(
           '\$aircraft_gauges',
           WidgetSpan(
             child: AssetImageWithCaption(
@@ -109,7 +109,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
-        MapEntry(
+        const MapEntry(
           '\$submarine_gauges',
           WidgetSpan(
             child: AssetImageWithCaption(
@@ -119,7 +119,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
-        MapEntry(
+        const MapEntry(
           '\$infinite_number_of_choices',
           WidgetSpan(
             child: AssetImageWithCaption(
