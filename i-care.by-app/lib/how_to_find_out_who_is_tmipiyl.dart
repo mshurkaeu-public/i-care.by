@@ -60,7 +60,9 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                 enabled: false,
               ),
               child: ExpandableText(
-                l10n.howToFindOutWhoIsTmipiyl_chapter01_vocabularies_description,
+                l10n.howToFindOutWhoIsTmipiyl_chapter01_vocabularies_description(
+                  userPreferredPronoun,
+                ),
                 expandText: l10n.showMoreText,
                 collapseText: l10n.showLessText,
               ),
