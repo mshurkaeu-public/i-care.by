@@ -1,3 +1,4 @@
+import 'package:expandable_text/expandable_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
@@ -38,6 +39,31 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
               assetName:
                   'assets/images/how-to-find-out-who-is-tmipiyl-scale-640.jpg',
               caption: 'Image by Arek Socha from Pixabay',
+            ),
+          ),
+        ),
+      ],
+    );
+
+    List<InlineSpan> chapter01 = TextUtils.buildSpansFromText(
+      l10n.howToFindOutWhoIsTmipiyl_chapter01_text(
+        userName,
+        userPreferredPronoun,
+      ),
+      [
+        MapEntry(
+          '\$vocabularies_description',
+          WidgetSpan(
+            child: InputDecorator(
+              decoration: const InputDecoration(
+                border: OutlineInputBorder(),
+                enabled: false,
+              ),
+              child: ExpandableText(
+                l10n.howToFindOutWhoIsTmipiyl_chapter01_vocabularies_description,
+                expandText: l10n.showMoreText,
+                collapseText: l10n.showLessText,
+              ),
             ),
           ),
         ),
@@ -172,12 +198,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                   text: l10n.howToFindOutWhoIsTmipiyl_chapter01_title,
                   style: titleStyle,
                 ),
-                TextSpan(
-                  text: l10n.howToFindOutWhoIsTmipiyl_chapter01_text(
-                    userName,
-                    userPreferredPronoun,
-                  ),
-                ),
+                ...chapter01,
                 TextSpan(
                   text: l10n.howToFindOutWhoIsTmipiyl_chapter02_title(
                     userPreferredPronoun,
