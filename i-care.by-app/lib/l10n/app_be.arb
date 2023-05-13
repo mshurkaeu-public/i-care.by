@@ -717,7 +717,7 @@
       }
     }
   },
-  "howToFindOutWhoIsTmipiyl_chapter02_title": "\n\nЯк параўнаць значнасць некалькіх чалавек на працягу {preferredPronoun, select, Vy{Вашага} other{твайго}} жыцця?\n",
+  "howToFindOutWhoIsTmipiyl_chapter02_title": "\n\n2. Як параўнаць значнасць некалькіх чалавек на працягу {preferredPronoun, select, Vy{Вашага} other{твайго}} жыцця?\n",
   "@howToFindOutWhoIsTmipiyl_chapter02_title": {
     "description": "Title of chapter 02 on the \"how to find out who is the most important person in your life\" page.",
     "placeholders": {
