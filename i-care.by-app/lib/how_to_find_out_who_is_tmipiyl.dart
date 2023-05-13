@@ -147,6 +147,15 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
             ),
           ),
         ),
+      ],
+    );
+
+    List<InlineSpan> chapter04 = TextUtils.buildSpansFromText(
+      l10n.howToFindOutWhoIsTmipiyl_chapter04_text(
+        userName,
+        userPreferredPronoun,
+      ),
+      [
         const MapEntry(
           '\$infinite_number_of_choices',
           WidgetSpan(
@@ -160,8 +169,8 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
       ],
     );
 
-    List<InlineSpan> chapter04 = TextUtils.buildSpansFromText(
-      l10n.howToFindOutWhoIsTmipiyl_chapter04_text(
+    List<InlineSpan> chapter05 = TextUtils.buildSpansFromText(
+      l10n.howToFindOutWhoIsTmipiyl_chapter05_text(
         userName,
         userPreferredPronoun,
       ),
@@ -224,8 +233,13 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                   text: l10n.howToFindOutWhoIsTmipiyl_chapter05_title,
                   style: titleStyle,
                 ),
+                ...chapter05,
                 TextSpan(
-                  text: l10n.howToFindOutWhoIsTmipiyl_chapter05_text(
+                  text: l10n.howToFindOutWhoIsTmipiyl_chapter06_title,
+                  style: titleStyle,
+                ),
+                TextSpan(
+                  text: l10n.howToFindOutWhoIsTmipiyl_chapter06_text(
                     userName,
                     userPreferredPronoun,
                   ),
