@@ -169,25 +169,6 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
       ],
     );
 
-    List<InlineSpan> chapter05 = TextUtils.buildSpansFromText(
-      l10n.howToFindOutWhoIsTmipiyl_chapter05_text(
-        userName,
-        userPreferredPronoun,
-      ),
-      [
-        const MapEntry(
-          '\$several_people_graph_example',
-          WidgetSpan(
-            child: AssetImageWithCaption(
-              assetName:
-                  'assets/images/how-to-find-out-who-is-tmipiyl-graph-640.jpg',
-              caption: 'Image by Mediamodifier from Pixabay',
-            ),
-          ),
-        ),
-      ],
-    );
-
     return Scaffold(
       appBar: AppBar(
         title: Text(
@@ -229,21 +210,6 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                   style: titleStyle,
                 ),
                 ...chapter04,
-                TextSpan(
-                  text: l10n.howToFindOutWhoIsTmipiyl_chapter05_title,
-                  style: titleStyle,
-                ),
-                ...chapter05,
-                TextSpan(
-                  text: l10n.howToFindOutWhoIsTmipiyl_chapter06_title,
-                  style: titleStyle,
-                ),
-                TextSpan(
-                  text: l10n.howToFindOutWhoIsTmipiyl_chapter06_text(
-                    userName,
-                    userPreferredPronoun,
-                  ),
-                ),
               ],
             ),
           ),
