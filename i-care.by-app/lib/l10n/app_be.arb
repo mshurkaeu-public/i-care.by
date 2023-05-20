@@ -297,6 +297,10 @@
   "@aboutMyGratitude_2023_05_17_01": {
     "description": "Text for 2023-05-17 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_05_20_01": "\n2023-05-20 01 🦸‍♀️ — ✏️ паведаміла пра граматычную памылку на старонцы са спісам даступных версій праграмы https://mshurkaeu-public.github.io/i-care.by-app/.\n",
+  "@aboutMyGratitude_2023_05_20_01": {
+    "description": "Text for 2023-05-20 01 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_05_title": "\n\n2023-05\n",
   "@aboutMyGratitude_2023_05_title": {
     "description": "Title for 2023-05 list/text on the \"my gratitude\" tab on the \"About\" page."
