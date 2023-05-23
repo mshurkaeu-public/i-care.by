@@ -33,6 +33,16 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
       ),
       [
         const MapEntry(
+          '\$select_a_place_to_talk',
+          WidgetSpan(
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/how-to-find-out-who-is-tmipiyl-fireplace-640.jpg',
+              caption: 'Photo by Annie Spratt on Unsplash',
+            ),
+          ),
+        ),
+        const MapEntry(
           '\$in_doubt_image',
           WidgetSpan(
             child: AssetImageWithCaption(
