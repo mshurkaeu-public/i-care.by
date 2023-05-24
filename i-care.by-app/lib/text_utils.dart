@@ -28,12 +28,17 @@ class TextUtils {
     return res;
   }
 
-  static Size getTextSize(String text, AppLocalizations l10n) {
+  static Size getTextSize(
+    String text,
+    AppLocalizations l10n, {
+    TextStyle? style,
+  }) {
     Size res;
 
     TextPainter hintPainter = TextPainter(
       text: TextSpan(
         text: text,
+        style: style,
       ),
       maxLines: 1,
       textDirection: intl.Bidi.isRtlLanguage(l10n.localeName)
