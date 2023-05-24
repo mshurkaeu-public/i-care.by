@@ -78,6 +78,9 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                       'assets/images/how-to-find-out-who-is-tmipiyl-sea-beach-640.jpg',
                   caption: 'Photo by Arnaud Marchais on Unsplash',
                 ),
+                _DisplayImageFromUrl(
+                  userPreferredPronoun: userPreferredPronoun,
+                ),
               ],
             ),
           ),
@@ -266,6 +269,87 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
         ],
       ),
     );
+  }
+}
+
+class _DisplayImageFromUrl extends StatefulWidget {
+  const _DisplayImageFromUrl({
+    required this.userPreferredPronoun,
+  });
+
+  final String userPreferredPronoun;
+
+  @override
+  State<_DisplayImageFromUrl> createState() => _DisplayImageFromUrlState();
+}
+
+class _DisplayImageFromUrlState extends State<_DisplayImageFromUrl> {
+  final TextEditingController _controller = TextEditingController();
+  static String _imageUrl = '';
+
+  void _onDownloadPress() {
+    setState(_updateImageUrl);
+  }
+
+  void _updateImageUrl() {
+    _imageUrl = _controller.text;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    AppLocalizations l10n = AppLocalizations.of(context);
+
+    List<Widget> children = [];
+    if (_imageUrl.isNotEmpty) {
+      children.add(
+        Expanded(
+          child: Image.network(
+            _imageUrl,
+            filterQuality: FilterQuality.medium,
+          ),
+        ),
+      );
+    }
+
+    children.add(
+      Container(
+        padding: const EdgeInsets.symmetric(horizontal: 32),
+        child: TextFormField(
+          controller: _controller,
+          decoration: InputDecoration(
+            labelText: l10n.howToFindOutWhoIsTmipiyl_chapter00_customUrlLabel(
+              widget.userPreferredPronoun,
+            ),
+            floatingLabelBehavior: FloatingLabelBehavior.always,
+            suffixIcon: IconButton(
+              onPressed: _onDownloadPress,
+              icon: const Icon(Icons.download),
+            ),
+          ),
+          onFieldSubmitted: (value) {
+            _onDownloadPress();
+          },
+        ),
+      ),
+    );
+
+    return Column(
+      children: children,
+    );
+  }
+
+  @override
+  void dispose() {
+    _controller.dispose();
+
+    super.dispose();
+  }
+
+  @override
+  void initState() {
+    super.initState();
+
+    _controller.text = _imageUrl;
   }
 }
 
