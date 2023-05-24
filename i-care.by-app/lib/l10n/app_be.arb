@@ -309,6 +309,10 @@
   "@aboutMyGratitude_2023_05_23_01": {
     "description": "Text for 2023-05-23 Annie Spratt (https://unsplash.com/@anniespratt) on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_05_24_01": "\n2023-05-24 serenader (https://github.com/serenader2014) — 🎇 стварыў пакет carousel_slider для Flutter. Я выкарыстаў пакет для выбару \"месца размовы\" на старонцы \"як высветліць, хто найважнейшы чалавек у тваім/Вашым жыцці\".\n",
+  "@aboutMyGratitude_2023_05_24_01": {
+    "description": "Text for 2023-05-24 serenader (https://github.com/serenader2014) on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_05_title": "\n\n2023-05\n",
   "@aboutMyGratitude_2023_05_title": {
     "description": "Title for 2023-05 list/text on the \"my gratitude\" tab on the \"About\" page."

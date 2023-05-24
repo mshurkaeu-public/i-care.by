@@ -1,3 +1,4 @@
+import 'package:carousel_slider/carousel_slider.dart';
 import 'package:expandable_text/expandable_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
@@ -26,19 +27,38 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
       TextStyle(color: themeData.disabledColor),
     );
 
+    const double photoWidth = 640;
+    double photoHeight = 426;
+    double photoAspectRatio = photoWidth / photoHeight;
+    double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
+    double csWidth = (maxWidth > photoWidth) ? photoWidth : maxWidth;
+    double scHeight = csWidth / photoAspectRatio +
+        TextUtils.getTextSize(
+          'P',
+          l10n,
+          style: themeData.textTheme.bodySmall,
+        ).height +
+        1;
+
     List<InlineSpan> chapter00 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter00_text(
         userName,
         userPreferredPronoun,
       ),
       [
-        const MapEntry(
+        MapEntry(
           '\$select_a_place_to_talk',
           WidgetSpan(
-            child: AssetImageWithCaption(
-              assetName:
-                  'assets/images/how-to-find-out-who-is-tmipiyl-fireplace-640.jpg',
-              caption: 'Photo by Annie Spratt on Unsplash',
+            child: _PlaceToTalkSelector(
+              aspectRatio: csWidth / scHeight,
+              height: scHeight,
+              places: [
+                const AssetImageWithCaption(
+                  assetName:
+                      'assets/images/how-to-find-out-who-is-tmipiyl-fireplace-640.jpg',
+                  caption: 'Photo by Annie Spratt on Unsplash',
+                ),
+              ],
             ),
           ),
         ),
@@ -225,6 +245,102 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
           ),
         ],
       ),
+    );
+  }
+}
+
+class _PlaceToTalkSelector extends StatefulWidget {
+  const _PlaceToTalkSelector({
+    required this.aspectRatio,
+    required this.height,
+    required this.places,
+  });
+
+  final double aspectRatio;
+  final double height;
+  final List<Widget> places;
+
+  @override
+  State<_PlaceToTalkSelector> createState() => _PlaceToTalkSelectorState();
+}
+
+class _PlaceToTalkSelectorState extends State<_PlaceToTalkSelector> {
+  final CarouselController _controller = CarouselController();
+
+  void _toNextPlace() {
+    _controller.nextPage();
+  }
+
+  void _toPreviousPlace() {
+    _controller.previousPage();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    AppLocalizations l10n = AppLocalizations.of(context);
+    ThemeData themeData = Theme.of(context);
+
+    const double sideButtonPadding = 8;
+    ButtonStyle swipeButtonStyle = TextButton.styleFrom(
+      minimumSize: const Size(1, 1),
+      padding: const EdgeInsets.symmetric(horizontal: sideButtonPadding),
+    );
+    Size hintSize = TextUtils.getTextSize(
+      'S',
+      l10n,
+      style: themeData.textTheme.bodySmall,
+    );
+
+    double swipeIconSize = hintSize.height;
+    double swipeButtonWidth =
+        sideButtonPadding + swipeIconSize + sideButtonPadding;
+
+    return Stack(
+      children: [
+        CarouselSlider(
+          carouselController: _controller,
+          items: widget.places,
+          options: CarouselOptions(
+            aspectRatio: widget.aspectRatio,
+            height: widget.height,
+            viewportFraction: 1.0,
+          ),
+        ),
+        Positioned(
+          bottom: 0,
+          left: 0,
+          // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
+          child: SizedBox(
+            height: swipeIconSize,
+            width: swipeButtonWidth,
+            child: TextButton(
+              style: swipeButtonStyle,
+              onPressed: _toPreviousPlace,
+              child: Icon(
+                Icons.swipe_right,
+                size: swipeIconSize,
+              ),
+            ),
+          ),
+        ),
+        Positioned(
+          bottom: 0,
+          right: 0,
+          // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
+          child: SizedBox(
+            height: swipeIconSize,
+            width: swipeButtonWidth,
+            child: TextButton(
+              style: swipeButtonStyle,
+              onPressed: _toNextPlace,
+              child: Icon(
+                Icons.swipe_left,
+                size: swipeIconSize,
+              ),
+            ),
+          ),
+        ),
+      ],
     );
   }
 }
