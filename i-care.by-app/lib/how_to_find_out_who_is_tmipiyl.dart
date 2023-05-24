@@ -58,6 +58,11 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                       'assets/images/how-to-find-out-who-is-tmipiyl-fireplace-640.jpg',
                   caption: 'Photo by Annie Spratt on Unsplash',
                 ),
+                const AssetImageWithCaption(
+                  assetName:
+                      'assets/images/how-to-find-out-who-is-tmipiyl-long-pond-640.jpg',
+                  caption: 'Photo by Mick Haupt on Unsplash',
+                ),
               ],
             ),
           ),

@@ -77,6 +77,16 @@ void main() {
 
   LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
         LicenseEntryWithLineBreaks(
+          <String>['long-pond-640.jpg'],
+          _buildLicenseTextForPhotoFromUnsplash(
+            'Mick Haupt',
+            '@rocinante_11',
+          ),
+        ),
+      ));
+
+  LicenseRegistry.addLicense(() => Stream<LicenseEntry>.value(
+        LicenseEntryWithLineBreaks(
           <String>[
             'doors-640.jpg',
             'scale-640.jpg',
