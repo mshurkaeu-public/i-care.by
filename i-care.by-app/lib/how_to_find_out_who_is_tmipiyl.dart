@@ -73,6 +73,11 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                       'assets/images/how-to-find-out-who-is-tmipiyl-lake-640.jpg',
                   caption: 'Photo by Vladimir Zuhovitsky on Unsplash',
                 ),
+                const AssetImageWithCaption(
+                  assetName:
+                      'assets/images/how-to-find-out-who-is-tmipiyl-sea-beach-640.jpg',
+                  caption: 'Photo by Arnaud Marchais on Unsplash',
+                ),
               ],
             ),
           ),
