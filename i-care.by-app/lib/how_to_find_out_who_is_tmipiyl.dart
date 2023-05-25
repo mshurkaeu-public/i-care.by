@@ -382,24 +382,93 @@ class _PlaceToTalkSelectorState extends State<_PlaceToTalkSelector> {
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
-    ThemeData themeData = Theme.of(context);
 
-    const double sideButtonPadding = 8;
-    ButtonStyle swipeButtonStyle = TextButton.styleFrom(
-      minimumSize: const Size(1, 1),
-      padding: const EdgeInsets.symmetric(horizontal: sideButtonPadding),
-    );
-    Size hintSize = TextUtils.getTextSize(
-      'S',
-      l10n,
-      style: themeData.textTheme.bodySmall,
-    );
+    List<Widget> hintAboutSwipe;
+    if (widget.places.length > 1) {
+      ThemeData themeData = Theme.of(context);
+      TextStyle hintAboutSwipeStyle =
+          themeData.textTheme.bodyMedium ?? const TextStyle();
+      hintAboutSwipeStyle = hintAboutSwipeStyle.merge(
+        TextStyle(
+          color: themeData.disabledColor,
+        ),
+      );
 
-    double swipeIconSize = hintSize.height;
-    double swipeButtonWidth =
-        sideButtonPadding + swipeIconSize + sideButtonPadding;
+      String hintText = l10n.hintToViewTheNextPhoto;
+      const double sideButtonPadding = 8;
 
-    return Stack(
+      ButtonStyle swipeButtonStyle = TextButton.styleFrom(
+        minimumSize: const Size(1, 1),
+        padding: const EdgeInsets.symmetric(horizontal: sideButtonPadding),
+      );
+      Size hintSize = TextUtils.getTextSize(
+        hintText,
+        l10n,
+        style: hintAboutSwipeStyle,
+      );
+
+      double swipeIconSize = hintSize.height;
+      double maxHintWidthRequired = hintSize.width;
+      double swipeButtonWidth =
+          sideButtonPadding + swipeIconSize + sideButtonPadding;
+
+      hintAboutSwipe = [
+        LayoutBuilder(
+          builder: (BuildContext context, BoxConstraints constraints) {
+            double hintWidth = constraints.maxWidth - swipeButtonWidth * 2;
+            if (hintWidth < 0) {
+              hintWidth = 0;
+            } else if (hintWidth > maxHintWidthRequired) {
+              hintWidth = maxHintWidthRequired;
+            }
+
+            return Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
+                SizedBox(
+                  height: swipeIconSize,
+                  width: swipeButtonWidth,
+                  child: TextButton(
+                    style: swipeButtonStyle,
+                    onPressed: _toPreviousPlace,
+                    child: Icon(
+                      Icons.swipe_right,
+                      size: swipeIconSize,
+                    ),
+                  ),
+                ),
+                SizedBox(
+                  width: hintWidth,
+                  child: Text(
+                    hintText,
+                    style: hintAboutSwipeStyle,
+                    textAlign: TextAlign.center,
+                  ),
+                ),
+                // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
+                SizedBox(
+                  height: swipeIconSize,
+                  width: swipeButtonWidth,
+                  child: TextButton(
+                    style: swipeButtonStyle,
+                    onPressed: _toNextPlace,
+                    child: Icon(
+                      Icons.swipe_left,
+                      size: swipeIconSize,
+                    ),
+                  ),
+                ),
+              ],
+            );
+          },
+        ),
+      ];
+    } else {
+      hintAboutSwipe = [];
+    }
+
+    return Column(
       children: [
         CarouselSlider(
           carouselController: _controller,
@@ -410,40 +479,7 @@ class _PlaceToTalkSelectorState extends State<_PlaceToTalkSelector> {
             viewportFraction: 1.0,
           ),
         ),
-        Positioned(
-          bottom: 0,
-          left: 0,
-          // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
-          child: SizedBox(
-            height: swipeIconSize,
-            width: swipeButtonWidth,
-            child: TextButton(
-              style: swipeButtonStyle,
-              onPressed: _toPreviousPlace,
-              child: Icon(
-                Icons.swipe_right,
-                size: swipeIconSize,
-              ),
-            ),
-          ),
-        ),
-        Positioned(
-          bottom: 0,
-          right: 0,
-          // SizedBox here is to workaround bug https://github.com/flutter/flutter/issues/125756
-          child: SizedBox(
-            height: swipeIconSize,
-            width: swipeButtonWidth,
-            child: TextButton(
-              style: swipeButtonStyle,
-              onPressed: _toNextPlace,
-              child: Icon(
-                Icons.swipe_left,
-                size: swipeIconSize,
-              ),
-            ),
-          ),
-        ),
+        ...hintAboutSwipe,
       ],
     );
   }
