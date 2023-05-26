@@ -450,6 +450,13 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
       ],
     );
 
+    dialogContent.add(
+      TextSpan(
+        text: l10n.howToFindOutWhoIsTmipiyl_chapter04_title,
+        style: titleStyle,
+      ),
+    );
+
     return Scaffold(
       appBar: AppBar(
         title: Text(
@@ -463,10 +470,6 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
             TextSpan(
               children: [
                 ...dialogContent,
-                TextSpan(
-                  text: l10n.howToFindOutWhoIsTmipiyl_chapter04_title,
-                  style: titleStyle,
-                ),
                 ...chapter04,
               ],
             ),
