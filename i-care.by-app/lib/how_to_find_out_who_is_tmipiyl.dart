@@ -362,6 +362,15 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
       ],
     );
 
+    dialogContent.add(
+      TextSpan(
+        text: l10n.howToFindOutWhoIsTmipiyl_chapter02_title(
+          widget.userPreferredPronoun,
+        ),
+        style: titleStyle,
+      ),
+    );
+
     List<InlineSpan> chapter03 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter03_text(
         widget.userName,
@@ -443,12 +452,6 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
             TextSpan(
               children: [
                 ...dialogContent,
-                TextSpan(
-                  text: l10n.howToFindOutWhoIsTmipiyl_chapter02_title(
-                    widget.userPreferredPronoun,
-                  ),
-                  style: titleStyle,
-                ),
                 ...chapter02,
                 TextSpan(
                   text: l10n.howToFindOutWhoIsTmipiyl_chapter03_title(
