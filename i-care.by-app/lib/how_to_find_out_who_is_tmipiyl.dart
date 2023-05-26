@@ -1,7 +1,9 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:expandable_text/expandable_text.dart';
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import 'asset_image_with_caption.dart';
 import 'text_utils.dart';
@@ -21,6 +23,15 @@ class HowToFindOutWhoIsTmipiyl extends StatefulWidget {
 }
 
 class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
+  final TapGestureRecognizer _telegramPollUrlBYTapRecognizer =
+      TapGestureRecognizer();
+
+  static const String _telegramPollUrlBY = 'https://t.me/icare_by/3';
+
+  void _launchPollUrlBY() {
+    launchUrl(Uri.parse(_telegramPollUrlBY));
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -31,6 +42,11 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
         themeData.textTheme.bodySmall ?? const TextStyle();
     imageCreditsStyle = imageCreditsStyle.merge(
       TextStyle(color: themeData.disabledColor),
+    );
+
+    TextStyle linkStyle = const TextStyle(
+      color: Colors.blue,
+      decoration: TextDecoration.underline,
     );
 
     const double photoWidth = 640;
@@ -89,6 +105,14 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
                 ),
               ],
             ),
+          ),
+        ),
+        MapEntry(
+          '\$BY_who_is_tmipiyl_poll_url',
+          TextSpan(
+            text: _telegramPollUrlBY,
+            recognizer: _telegramPollUrlBYTapRecognizer,
+            style: linkStyle,
           ),
         ),
         const MapEntry(
@@ -275,6 +299,20 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
         ],
       ),
     );
+  }
+
+  @override
+  void dispose() {
+    _telegramPollUrlBYTapRecognizer.dispose();
+
+    super.dispose();
+  }
+
+  @override
+  void initState() {
+    _telegramPollUrlBYTapRecognizer.onTap = _launchPollUrlBY;
+
+    super.initState();
   }
 }
 
