@@ -1069,7 +1069,7 @@
       }
     }
   },
-  "userResponseAboutParticipationInThePoll_participated": "Я {preferredPronoun, select, ty_muzhchyna{адказаў} ty_zhanchyna{адказала} other{адказаў/адказала}}.",
+  "userResponseAboutParticipationInThePoll_participated": "Я {preferredPronoun, select, ty_muzhchyna{адказаў у} ty_zhanchyna{адказала ў} other{адказаў/адказала ў}} апытанні.",
   "@userResponseAboutParticipationInThePoll_participated": {
     "description": "User responds that he/she participated in the Telegram poll.",
     "placeholders": {
