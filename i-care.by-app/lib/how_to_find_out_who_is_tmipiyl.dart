@@ -469,9 +469,7 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
         children: [
           Text.rich(
             TextSpan(
-              children: [
-                ...dialogContent,
-              ],
+              children: dialogContent,
             ),
           ),
         ],
