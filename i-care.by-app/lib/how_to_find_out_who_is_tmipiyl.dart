@@ -298,165 +298,169 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
     );
     dialogContent.addAll(chapter00);
 
-    List<InlineSpan> chapter01 = TextUtils.buildSpansFromText(
-      l10n.howToFindOutWhoIsTmipiyl_chapter01_text(
-        widget.userName,
-        widget.userPreferredPronoun,
-      ),
-      [
-        MapEntry(
-          '\$vocabularies_description',
-          WidgetSpan(
-            child: InputDecorator(
-              decoration: const InputDecoration(
-                border: OutlineInputBorder(),
-                enabled: false,
-              ),
-              child: ExpandableText(
-                l10n.howToFindOutWhoIsTmipiyl_chapter01_vocabularies_description(
-                  widget.userPreferredPronoun,
+    if (_userResponseOnQuestion01 !=
+        _UserResponseAboutParticipationInThePoll.unknown) {
+
+      List<InlineSpan> chapter01 = TextUtils.buildSpansFromText(
+        l10n.howToFindOutWhoIsTmipiyl_chapter01_text(
+          widget.userName,
+          widget.userPreferredPronoun,
+        ),
+        [
+          MapEntry(
+            '\$vocabularies_description',
+            WidgetSpan(
+              child: InputDecorator(
+                decoration: const InputDecoration(
+                  border: OutlineInputBorder(),
+                  enabled: false,
                 ),
-                expandText: l10n.showMoreText,
-                collapseText: l10n.showLessText,
+                child: ExpandableText(
+                  l10n.howToFindOutWhoIsTmipiyl_chapter01_vocabularies_description(
+                    widget.userPreferredPronoun,
+                  ),
+                  expandText: l10n.showMoreText,
+                  collapseText: l10n.showLessText,
+                ),
               ),
             ),
           ),
-        ),
-      ],
-    );
+        ],
+      );
 
-    dialogContent.add(
-      TextSpan(
-        text: l10n.howToFindOutWhoIsTmipiyl_chapter01_title,
-        style: titleStyle,
-      ),
-    );
-    dialogContent.addAll(chapter01);
-
-    List<InlineSpan> chapter02 = TextUtils.buildSpansFromText(
-      l10n.howToFindOutWhoIsTmipiyl_chapter02_text(
-        widget.userName,
-        widget.userPreferredPronoun,
-      ),
-      [
-        const MapEntry(
-          '\$graph_example',
-          WidgetSpan(
-            child: AssetImageWithCaption(
-              assetName:
-                  'assets/images/how-to-find-out-who-is-tmipiyl-sound-wave-640.jpg',
-              caption: 'Image by Pete Linforth from Pixabay',
-            ),
-          ),
+      dialogContent.add(
+        TextSpan(
+          text: l10n.howToFindOutWhoIsTmipiyl_chapter01_title,
+          style: titleStyle,
         ),
-        const MapEntry(
-          '\$several_people_graph_example',
-          WidgetSpan(
-            child: AssetImageWithCaption(
-              assetName:
-                  'assets/images/how-to-find-out-who-is-tmipiyl-graph-640.jpg',
-              caption: 'Image by Mediamodifier from Pixabay',
-            ),
-          ),
-        ),
-      ],
-    );
+      );
+      dialogContent.addAll(chapter01);
 
-    dialogContent.add(
-      TextSpan(
-        text: l10n.howToFindOutWhoIsTmipiyl_chapter02_title(
+      List<InlineSpan> chapter02 = TextUtils.buildSpansFromText(
+        l10n.howToFindOutWhoIsTmipiyl_chapter02_text(
+          widget.userName,
           widget.userPreferredPronoun,
         ),
-        style: titleStyle,
-      ),
-    );
-    dialogContent.addAll(chapter02);
+        [
+          const MapEntry(
+            '\$graph_example',
+            WidgetSpan(
+              child: AssetImageWithCaption(
+                assetName:
+                    'assets/images/how-to-find-out-who-is-tmipiyl-sound-wave-640.jpg',
+                caption: 'Image by Pete Linforth from Pixabay',
+              ),
+            ),
+          ),
+          const MapEntry(
+            '\$several_people_graph_example',
+            WidgetSpan(
+              child: AssetImageWithCaption(
+                assetName:
+                    'assets/images/how-to-find-out-who-is-tmipiyl-graph-640.jpg',
+                caption: 'Image by Mediamodifier from Pixabay',
+              ),
+            ),
+          ),
+        ],
+      );
 
-    List<InlineSpan> chapter03 = TextUtils.buildSpansFromText(
-      l10n.howToFindOutWhoIsTmipiyl_chapter03_text(
-        widget.userName,
-        widget.userPreferredPronoun,
-      ),
-      [
-        const MapEntry(
-          '\$emotions_measures',
-          WidgetSpan(
-            child: AssetImageWithCaption(
-              assetName:
-                  'assets/images/how-to-find-out-who-is-tmipiyl-colores-a-medida-640.jpg',
-              caption: 'Photo by Patricia Serna on Unsplash',
-            ),
+      dialogContent.add(
+        TextSpan(
+          text: l10n.howToFindOutWhoIsTmipiyl_chapter02_title(
+            widget.userPreferredPronoun,
           ),
+          style: titleStyle,
         ),
-        const MapEntry(
-          '\$time_measures',
-          WidgetSpan(
-            child: AssetImageWithCaption(
-              assetName:
-                  'assets/images/how-to-find-out-who-is-tmipiyl-time-640.jpg',
-              caption: 'Image by Gerd Altmann from Pixabay',
-            ),
-          ),
-        ),
-        const MapEntry(
-          '\$aircraft_gauges',
-          WidgetSpan(
-            child: AssetImageWithCaption(
-              assetName:
-                  'assets/images/how-to-find-out-who-is-tmipiyl-aircraft-640.jpg',
-              caption: 'Photo by Nel Botha from Pixabay',
-            ),
-          ),
-        ),
-        const MapEntry(
-          '\$submarine_gauges',
-          WidgetSpan(
-            child: AssetImageWithCaption(
-              assetName:
-                  'assets/images/how-to-find-out-who-is-tmipiyl-submarine-640.jpg',
-              caption: 'Photo by Achim Scholty from Pixabay',
-            ),
-          ),
-        ),
-      ],
-    );
+      );
+      dialogContent.addAll(chapter02);
 
-    dialogContent.add(
-      TextSpan(
-        text: l10n.howToFindOutWhoIsTmipiyl_chapter03_title(
+      List<InlineSpan> chapter03 = TextUtils.buildSpansFromText(
+        l10n.howToFindOutWhoIsTmipiyl_chapter03_text(
+          widget.userName,
           widget.userPreferredPronoun,
         ),
-        style: titleStyle,
-      ),
-    );
-    dialogContent.addAll(chapter03);
-
-    List<InlineSpan> chapter04 = TextUtils.buildSpansFromText(
-      l10n.howToFindOutWhoIsTmipiyl_chapter04_text(
-        widget.userName,
-        widget.userPreferredPronoun,
-      ),
-      [
-        const MapEntry(
-          '\$infinite_number_of_choices',
-          WidgetSpan(
-            child: AssetImageWithCaption(
-              assetName:
-                  'assets/images/how-to-find-out-who-is-tmipiyl-doors-640.jpg',
-              caption: 'Image by Arek Socha from Pixabay',
+        [
+          const MapEntry(
+            '\$emotions_measures',
+            WidgetSpan(
+              child: AssetImageWithCaption(
+                assetName:
+                    'assets/images/how-to-find-out-who-is-tmipiyl-colores-a-medida-640.jpg',
+                caption: 'Photo by Patricia Serna on Unsplash',
+              ),
             ),
           ),
-        ),
-      ],
-    );
+          const MapEntry(
+            '\$time_measures',
+            WidgetSpan(
+              child: AssetImageWithCaption(
+                assetName:
+                    'assets/images/how-to-find-out-who-is-tmipiyl-time-640.jpg',
+                caption: 'Image by Gerd Altmann from Pixabay',
+              ),
+            ),
+          ),
+          const MapEntry(
+            '\$aircraft_gauges',
+            WidgetSpan(
+              child: AssetImageWithCaption(
+                assetName:
+                    'assets/images/how-to-find-out-who-is-tmipiyl-aircraft-640.jpg',
+                caption: 'Photo by Nel Botha from Pixabay',
+              ),
+            ),
+          ),
+          const MapEntry(
+            '\$submarine_gauges',
+            WidgetSpan(
+              child: AssetImageWithCaption(
+                assetName:
+                    'assets/images/how-to-find-out-who-is-tmipiyl-submarine-640.jpg',
+                caption: 'Photo by Achim Scholty from Pixabay',
+              ),
+            ),
+          ),
+        ],
+      );
 
-    dialogContent.add(
-      TextSpan(
-        text: l10n.howToFindOutWhoIsTmipiyl_chapter04_title,
-        style: titleStyle,
-      ),
-    );
-    dialogContent.addAll(chapter04);
+      dialogContent.add(
+        TextSpan(
+          text: l10n.howToFindOutWhoIsTmipiyl_chapter03_title(
+            widget.userPreferredPronoun,
+          ),
+          style: titleStyle,
+        ),
+      );
+      dialogContent.addAll(chapter03);
+
+      List<InlineSpan> chapter04 = TextUtils.buildSpansFromText(
+        l10n.howToFindOutWhoIsTmipiyl_chapter04_text(
+          widget.userName,
+          widget.userPreferredPronoun,
+        ),
+        [
+          const MapEntry(
+            '\$infinite_number_of_choices',
+            WidgetSpan(
+              child: AssetImageWithCaption(
+                assetName:
+                    'assets/images/how-to-find-out-who-is-tmipiyl-doors-640.jpg',
+                caption: 'Image by Arek Socha from Pixabay',
+              ),
+            ),
+          ),
+        ],
+      );
+
+      dialogContent.add(
+        TextSpan(
+          text: l10n.howToFindOutWhoIsTmipiyl_chapter04_title,
+          style: titleStyle,
+        ),
+      );
+      dialogContent.addAll(chapter04);
+    }
 
     return Scaffold(
       appBar: AppBar(
