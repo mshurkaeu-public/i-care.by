@@ -6,7 +6,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'asset_image_with_caption.dart';
 import 'text_utils.dart';
 
-class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
+class HowToFindOutWhoIsTmipiyl extends StatefulWidget {
   const HowToFindOutWhoIsTmipiyl({
     required this.userName,
     required this.userPreferredPronoun,
@@ -15,6 +15,12 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
   final String userName;
   final String userPreferredPronoun;
 
+  @override
+  State<HowToFindOutWhoIsTmipiyl> createState() =>
+      _HowToFindOutWhoIsTmipiylState();
+}
+
+class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -42,8 +48,8 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
 
     List<InlineSpan> chapter00 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter00_text(
-        userName,
-        userPreferredPronoun,
+        widget.userName,
+        widget.userPreferredPronoun,
       ),
       [
         MapEntry(
@@ -79,7 +85,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                   caption: 'Photo by Arnaud Marchais on Unsplash',
                 ),
                 _DisplayImageFromUrl(
-                  userPreferredPronoun: userPreferredPronoun,
+                  userPreferredPronoun: widget.userPreferredPronoun,
                 ),
               ],
             ),
@@ -100,8 +106,8 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
 
     List<InlineSpan> chapter01 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter01_text(
-        userName,
-        userPreferredPronoun,
+        widget.userName,
+        widget.userPreferredPronoun,
       ),
       [
         MapEntry(
@@ -114,7 +120,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
               ),
               child: ExpandableText(
                 l10n.howToFindOutWhoIsTmipiyl_chapter01_vocabularies_description(
-                  userPreferredPronoun,
+                  widget.userPreferredPronoun,
                 ),
                 expandText: l10n.showMoreText,
                 collapseText: l10n.showLessText,
@@ -127,8 +133,8 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
 
     List<InlineSpan> chapter02 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter02_text(
-        userName,
-        userPreferredPronoun,
+        widget.userName,
+        widget.userPreferredPronoun,
       ),
       [
         const MapEntry(
@@ -156,8 +162,8 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
 
     List<InlineSpan> chapter03 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter03_text(
-        userName,
-        userPreferredPronoun,
+        widget.userName,
+        widget.userPreferredPronoun,
       ),
       [
         const MapEntry(
@@ -205,8 +211,8 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
 
     List<InlineSpan> chapter04 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter04_text(
-        userName,
-        userPreferredPronoun,
+        widget.userName,
+        widget.userPreferredPronoun,
       ),
       [
         const MapEntry(
@@ -225,7 +231,7 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          l10n.howToFindOutWhoIsTmipiyl_title(userPreferredPronoun),
+          l10n.howToFindOutWhoIsTmipiyl_title(widget.userPreferredPronoun),
         ),
       ),
       body: ListView(
@@ -246,14 +252,14 @@ class HowToFindOutWhoIsTmipiyl extends StatelessWidget {
                 ...chapter01,
                 TextSpan(
                   text: l10n.howToFindOutWhoIsTmipiyl_chapter02_title(
-                    userPreferredPronoun,
+                    widget.userPreferredPronoun,
                   ),
                   style: titleStyle,
                 ),
                 ...chapter02,
                 TextSpan(
                   text: l10n.howToFindOutWhoIsTmipiyl_chapter03_title(
-                    userPreferredPronoun,
+                    widget.userPreferredPronoun,
                   ),
                   style: titleStyle,
                 ),
