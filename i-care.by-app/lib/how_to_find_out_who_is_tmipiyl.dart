@@ -27,6 +27,31 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
       TapGestureRecognizer();
 
   static const String _telegramPollUrlBY = 'https://t.me/icare_by/3';
+  static _UserResponseAboutParticipationInThePoll _userResponseOnQuestion01 =
+      _UserResponseAboutParticipationInThePoll.unknown;
+
+  InlineSpan _buildDialogFragment(
+    AppLocalizations l10n,
+    String fragmentTemplate,
+    Widget changeAnswerButton,
+  ) {
+    List<InlineSpan> dialogFragmentContent = TextUtils.buildSpansFromText(
+      fragmentTemplate,
+      [
+        MapEntry(
+          '\$oops_correct_the_answer',
+          WidgetSpan(
+            child: changeAnswerButton,
+          ),
+        ),
+      ],
+    );
+
+    InlineSpan res = TextSpan(
+      children: dialogFragmentContent,
+    );
+    return res;
+  }
 
   void _launchPollUrlBY() {
     launchUrl(Uri.parse(_telegramPollUrlBY));
@@ -48,6 +73,10 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
       color: Colors.blue,
       decoration: TextDecoration.underline,
     );
+    TextStyle changeAnswerStyle = TextStyle(
+      color: themeData.disabledColor,
+      decoration: TextDecoration.underline,
+    );
 
     const double photoWidth = 640;
     double photoHeight = 426;
@@ -61,6 +90,8 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
           style: themeData.textTheme.bodySmall,
         ).height +
         1;
+
+    TextSpan q01Stub = const TextSpan(text: 'Question 01 stub');
 
     List<InlineSpan> chapter00 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter00_text(
@@ -115,6 +146,10 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
             style: linkStyle,
           ),
         ),
+        MapEntry(
+          '\$user_response_about_participation_in_the_poll',
+          q01Stub,
+        ),
         const MapEntry(
           '\$in_doubt_image',
           WidgetSpan(
@@ -127,6 +162,131 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
         ),
       ],
     );
+
+    for (int i = 0; i < chapter00.length; i++) {
+      if (chapter00[i] == q01Stub) {
+        InlineSpan stubReplacement;
+
+        Widget changeAnswerButton = TextButton(
+          onPressed: () {
+            setState(() {
+              _userResponseOnQuestion01 =
+                  _UserResponseAboutParticipationInThePoll.unknown;
+            });
+          },
+          style: TextButton.styleFrom(
+            minimumSize: const Size(1, 1),
+            padding: EdgeInsets.zero,
+          ),
+          child: Text(
+            l10n.userWantsToCorrectAChoice,
+            style: changeAnswerStyle,
+          ),
+        );
+
+        switch (_userResponseOnQuestion01) {
+          case _UserResponseAboutParticipationInThePoll.unknown:
+            stubReplacement = TextSpan(
+              children: [
+                // якія могуць быць прычыны, каб чалавек не адказаў у апытанні:
+                // не ведаў, што трэба адказаць;
+                // ведаў, але не ўмеў адказваць;
+                // ведаў, умеў, але не мог адказаць;
+                // ведаў, умеў, мог, але не жадаў адказваць.
+                WidgetSpan(
+                  child: OutlinedButton(
+                    onPressed: () {
+                      setState(() {
+                        _userResponseOnQuestion01 =
+                            _UserResponseAboutParticipationInThePoll
+                                .participated;
+                      });
+                    },
+                    child: Text(
+                      l10n.userResponseAboutParticipationInThePoll_participated(
+                        widget.userPreferredPronoun,
+                      ),
+                    ),
+                  ),
+                ),
+                WidgetSpan(
+                  child: OutlinedButton(
+                    onPressed: () {
+                      setState(() {
+                        _userResponseOnQuestion01 =
+                            _UserResponseAboutParticipationInThePoll
+                                .cannotParticipate;
+                      });
+                    },
+                    child: Text(
+                      l10n.userResponseAboutParticipationInThePoll_cannotParticipate(
+                        widget.userPreferredPronoun,
+                      ),
+                    ),
+                  ),
+                ),
+                WidgetSpan(
+                  child: OutlinedButton(
+                    onPressed: () {
+                      setState(() {
+                        _userResponseOnQuestion01 =
+                            _UserResponseAboutParticipationInThePoll
+                                .doesntWantToParticipate;
+                      });
+                    },
+                    child: Text(
+                      l10n.userResponseAboutParticipationInThePoll_doesntWantToParticipate(
+                        widget.userPreferredPronoun,
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            );
+            if (i < chapter00.length - 1) {
+              chapter00.removeRange(i + 1, chapter00.length);
+            }
+            break;
+
+          case _UserResponseAboutParticipationInThePoll.participated:
+            stubReplacement = _buildDialogFragment(
+              l10n,
+              l10n.dialogWhenUserParticipatedInTheTelegramPoll(
+                widget.userName,
+                widget.userPreferredPronoun,
+              ),
+              changeAnswerButton,
+            );
+            break;
+
+          case _UserResponseAboutParticipationInThePoll.cannotParticipate:
+            stubReplacement = _buildDialogFragment(
+              l10n,
+              l10n.dialogWhenUserCannotParticipateInTheTelegramPoll(
+                widget.userName,
+                widget.userPreferredPronoun,
+              ),
+              changeAnswerButton,
+            );
+            break;
+
+          case _UserResponseAboutParticipationInThePoll.doesntWantToParticipate:
+            stubReplacement = _buildDialogFragment(
+              l10n,
+              l10n.dialogWhenUserDoesntWantToParticipateInTheTelegramPoll(
+                widget.userName,
+                widget.userPreferredPronoun,
+              ),
+              changeAnswerButton,
+            );
+            break;
+        }
+
+        chapter00[i] = stubReplacement;
+
+        break; // exit the for
+      }
+    }
 
     List<InlineSpan> chapter01 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter01_text(
@@ -527,4 +687,12 @@ class _PlaceToTalkSelectorState extends State<_PlaceToTalkSelector> {
       ],
     );
   }
+}
+
+enum _UserResponseAboutParticipationInThePoll {
+  unknown,
+  participated,
+  cannotParticipate,
+  doesntWantToParticipate,
+  ;
 }
