@@ -78,6 +78,8 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
       decoration: TextDecoration.underline,
     );
 
+    List<InlineSpan> dialogContent = [];
+
     const double photoWidth = 640;
     double photoHeight = 426;
     double photoAspectRatio = photoWidth / photoHeight;
@@ -424,6 +426,7 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
           Text.rich(
             TextSpan(
               children: [
+                ...dialogContent,
                 TextSpan(
                   text: l10n.howToFindOutWhoIsTmipiyl_chapter00_title,
                   style: titleStyle,
