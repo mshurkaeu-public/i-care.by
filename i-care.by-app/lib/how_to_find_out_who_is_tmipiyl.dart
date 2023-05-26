@@ -296,6 +296,7 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
         style: titleStyle,
       ),
     );
+    dialogContent.addAll(chapter00);
 
     List<InlineSpan> chapter01 = TextUtils.buildSpansFromText(
       l10n.howToFindOutWhoIsTmipiyl_chapter01_text(
@@ -434,7 +435,6 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
             TextSpan(
               children: [
                 ...dialogContent,
-                ...chapter00,
                 TextSpan(
                   text: l10n.howToFindOutWhoIsTmipiyl_chapter01_title,
                   style: titleStyle,
