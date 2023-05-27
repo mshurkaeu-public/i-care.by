@@ -23,6 +23,8 @@ class HowToFindOutWhoIsTmipiyl extends StatefulWidget {
 }
 
 class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
+  final TapGestureRecognizer _resetUserResponseOnQuestion01TapRecognizer =
+      TapGestureRecognizer();
   final TapGestureRecognizer _telegramPollUrlBYTapRecognizer =
       TapGestureRecognizer();
 
@@ -174,18 +176,10 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
       if (chapter00[i] == q01Stub) {
         InlineSpan stubReplacement;
 
-        InlineSpan changeAnswerButton = WidgetSpan(
-          child: TextButton(
-            onPressed: _resetUserResponseOnQuestion01,
-            style: TextButton.styleFrom(
-              minimumSize: const Size(1, 1),
-              padding: EdgeInsets.zero,
-            ),
-            child: Text(
-              l10n.userWantsToCorrectAChoice,
-              style: changeAnswerStyle,
-            ),
-          ),
+        InlineSpan changeAnswerButton = TextSpan(
+          text: l10n.userWantsToCorrectAChoice,
+          style: changeAnswerStyle,
+          recognizer: _resetUserResponseOnQuestion01TapRecognizer,
         );
 
         switch (_userResponseOnQuestion01) {
@@ -485,6 +479,7 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
 
   @override
   void dispose() {
+    _resetUserResponseOnQuestion01TapRecognizer.dispose();
     _telegramPollUrlBYTapRecognizer.dispose();
 
     super.dispose();
@@ -492,6 +487,9 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
 
   @override
   void initState() {
+    _resetUserResponseOnQuestion01TapRecognizer.onTap =
+        _resetUserResponseOnQuestion01;
+
     _telegramPollUrlBYTapRecognizer.onTap = _launchPollUrlBY;
 
     super.initState();
