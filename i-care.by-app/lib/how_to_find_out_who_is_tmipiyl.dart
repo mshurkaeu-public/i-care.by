@@ -33,16 +33,14 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
   InlineSpan _buildDialogFragment(
     AppLocalizations l10n,
     String fragmentTemplate,
-    Widget changeAnswerButton,
+    InlineSpan changeAnswerArea,
   ) {
     List<InlineSpan> dialogFragmentContent = TextUtils.buildSpansFromText(
       fragmentTemplate,
       [
         MapEntry(
           '\$oops_correct_the_answer',
-          WidgetSpan(
-            child: changeAnswerButton,
-          ),
+          changeAnswerArea,
         ),
       ],
     );
@@ -169,20 +167,22 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
       if (chapter00[i] == q01Stub) {
         InlineSpan stubReplacement;
 
-        Widget changeAnswerButton = TextButton(
-          onPressed: () {
-            setState(() {
-              _userResponseOnQuestion01 =
-                  _UserResponseAboutParticipationInThePoll.unknown;
-            });
-          },
-          style: TextButton.styleFrom(
-            minimumSize: const Size(1, 1),
-            padding: EdgeInsets.zero,
-          ),
-          child: Text(
-            l10n.userWantsToCorrectAChoice,
-            style: changeAnswerStyle,
+        InlineSpan changeAnswerButton = WidgetSpan(
+          child: TextButton(
+            onPressed: () {
+              setState(() {
+                _userResponseOnQuestion01 =
+                    _UserResponseAboutParticipationInThePoll.unknown;
+              });
+            },
+            style: TextButton.styleFrom(
+              minimumSize: const Size(1, 1),
+              padding: EdgeInsets.zero,
+            ),
+            child: Text(
+              l10n.userWantsToCorrectAChoice,
+              style: changeAnswerStyle,
+            ),
           ),
         );
 
