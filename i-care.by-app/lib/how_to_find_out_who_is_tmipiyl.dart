@@ -55,6 +55,13 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
     launchUrl(Uri.parse(_telegramPollUrlBY));
   }
 
+  void _resetUserResponseOnQuestion01() {
+    setState(() {
+      _userResponseOnQuestion01 =
+          _UserResponseAboutParticipationInThePoll.unknown;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -169,12 +176,7 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
 
         InlineSpan changeAnswerButton = WidgetSpan(
           child: TextButton(
-            onPressed: () {
-              setState(() {
-                _userResponseOnQuestion01 =
-                    _UserResponseAboutParticipationInThePoll.unknown;
-              });
-            },
+            onPressed: _resetUserResponseOnQuestion01,
             style: TextButton.styleFrom(
               minimumSize: const Size(1, 1),
               padding: EdgeInsets.zero,
