@@ -3,6 +3,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class RequestNotEmptyListOfPersonsNames extends StatefulWidget {
   const RequestNotEmptyListOfPersonsNames({
+    super.key,
     required String hintForInputField,
     //TODO: review a possibility to convert this parameter to List<String>
     String initialValue = '',
