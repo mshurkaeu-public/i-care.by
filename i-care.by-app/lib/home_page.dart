@@ -11,6 +11,7 @@ import 'display_diary_record.dart';
 import 'edit_diary_record.dart';
 import 'known_diary_states.dart';
 import 'request_user_info.dart';
+import 'scaffold_helpers.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -265,7 +266,7 @@ class _HomePageState extends State<HomePage> {
         title: Text(l10n.appTitle),
       ),
       body: SingleChildScrollView(
-        padding: const EdgeInsets.all(20),
+        padding: ScaffoldHelpers.defaultBodyPadding,
         child: pageContent,
       ),
       drawer: drawer,
