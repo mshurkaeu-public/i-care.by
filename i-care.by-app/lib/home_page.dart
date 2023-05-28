@@ -54,11 +54,7 @@ class _HomePageState extends State<HomePage> {
         break;
 
       case KnownDiaryStates.fileIsUselessButUserNameWasProvidedInUI:
-        return ScaffoldHelpers.wrapIntoScaffold(
-          context: context,
-          pageContent:
-              _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp),
-        );
+        return _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp);
 
       case KnownDiaryStates.valid:
         if (_needToRecordVisit) {
@@ -428,19 +424,22 @@ class _ResponseToUserIntroduction extends StatelessWidget {
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
 
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Text(l10n.responseToUserIntroduction(
-            _diary.getNotEmptyUserName(l10n),
-            _diary.userPreferredPronoun ?? '',
-            _diary.getBriefExplanationWhereToFindDiary(l10n))),
-        const SizedBox(height: 20),
-        ElevatedButton(
-          onPressed: _onNext,
-          child: Text(l10n.yesLetsTryIt),
-        ),
-      ],
+    return ScaffoldHelpers.wrapIntoScaffold(
+      context: context,
+      pageContent: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(l10n.responseToUserIntroduction(
+              _diary.getNotEmptyUserName(l10n),
+              _diary.userPreferredPronoun ?? '',
+              _diary.getBriefExplanationWhereToFindDiary(l10n))),
+          const SizedBox(height: 20),
+          ElevatedButton(
+            onPressed: _onNext,
+            child: Text(l10n.yesLetsTryIt),
+          ),
+        ],
+      ),
     );
   }
 }
