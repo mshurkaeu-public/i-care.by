@@ -3,6 +3,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class RequestUserInfo extends StatefulWidget {
   const RequestUserInfo({
+    super.key,
     String initialUserNameValue = '',
     String? initialPreferredPronounValue,
     required String Function(String) introductoryTextProvider,
