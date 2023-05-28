@@ -11,6 +11,7 @@ import 'diary_platform_interface.dart'
 import 'diary_record.dart';
 import 'messages.dart';
 import 'request_not_empty_list_of_persons_names.dart';
+import 'scaffold_helpers.dart';
 import 'the_most_important_person_in_my_life.dart';
 import 'tmipiml_is_child.dart';
 import 'tmipiml_is_grandparent.dart';
@@ -697,7 +698,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Padding(
-            padding: const EdgeInsets.all(20),
+            padding: ScaffoldHelpers.defaultBodyPadding,
             child: Text(
               l10n.whoIsTheMostImportantPersonInYourLife(
                   userName, userPreferredPronoun),
@@ -706,7 +707,12 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
           ),
           Expanded(
             child: SingleChildScrollView(
-              padding: const EdgeInsets.fromLTRB(20, 0, 20, 0),
+              padding: const EdgeInsets.fromLTRB(
+                ScaffoldHelpers.defaultPaddingSide,
+                0,
+                ScaffoldHelpers.defaultPaddingSide,
+                0,
+              ),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: shuffledOptions,
@@ -992,7 +998,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
         ],
       ),
       body: Padding(
-        padding: const EdgeInsets.all(20),
+        padding: ScaffoldHelpers.defaultBodyPadding,
         child: _TwoAreasSplitView(
           axis: Axis.horizontal,
           initialFirstAreaWeight: widget._firstColumnInitialWeight,
@@ -1417,7 +1423,12 @@ class _WhatDoYouWantToDoForThePersonsState
         ],
       ),
       body: ListView(
-        padding: const EdgeInsets.fromLTRB(20, 0, 20, 0),
+        padding: const EdgeInsets.fromLTRB(
+          ScaffoldHelpers.defaultPaddingSide,
+          0,
+          ScaffoldHelpers.defaultPaddingSide,
+          0,
+        ),
         children: content,
       ),
     );
@@ -1731,7 +1742,12 @@ class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
         ],
       ),
       body: ListView(
-        padding: const EdgeInsets.fromLTRB(20, 0, 20, 0),
+        padding: const EdgeInsets.fromLTRB(
+          ScaffoldHelpers.defaultPaddingSide,
+          0,
+          ScaffoldHelpers.defaultPaddingSide,
+          0,
+        ),
         children: content,
       ),
     );
@@ -1889,7 +1905,7 @@ abstract class _WhatIsDoneRequestContainerState
         ],
       ),
       body: Padding(
-        padding: const EdgeInsets.all(20),
+        padding: ScaffoldHelpers.defaultBodyPadding,
         child: MultiSplitViewTheme(
           data: MultiSplitViewThemeData(
             dividerPainter: DividerPainters.dashed(
