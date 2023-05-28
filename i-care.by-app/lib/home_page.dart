@@ -183,13 +183,20 @@ class _HomePageState extends State<HomePage> {
   }
 
   void _onSubmitUserInfoTheVeryFirstTime(
-      String userName, String preferredPronoun) {
+    String userName,
+    String preferredPronoun,
+  ) {
     _diary.userName = userName;
     _diary.userPreferredPronoun = preferredPronoun;
-    Navigator.of(context).push(MaterialPageRoute(
-      builder: (BuildContext context) =>
-          _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp),
-    ));
+
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (BuildContext context) => _ResponseToUserIntroduction(
+          _diary,
+          _onUserDecidedToTryTheApp,
+        ),
+      ),
+    );
   }
 
   void _onUserDecidedToTryTheApp() {
