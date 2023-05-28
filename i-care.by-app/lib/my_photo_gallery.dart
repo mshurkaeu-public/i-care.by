@@ -6,6 +6,7 @@ import 'text_utils.dart';
 
 class MyPhotoGallery extends StatefulWidget {
   const MyPhotoGallery({
+    super.key,
     required this.assetsNames,
     required this.width,
   });
