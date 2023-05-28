@@ -6,6 +6,23 @@ class ScaffoldHelpers {
   static const EdgeInsetsGeometry defaultBodyPadding =
       EdgeInsets.all(defaultPaddingSide);
 
+  static Widget buildViewBackupsListTile(BuildContext context) {
+    // TODO: implement backups review
+    return ListTile(
+      title: const Text('Рэзервовыя копіі'),
+      onTap: () {
+        Navigator.pop(context);
+        showAboutDialog(
+          context: context,
+          children: [
+            const Text(
+                'Функцыя прагляду рэзервовых копій пакуль што не зроблена.'),
+          ],
+        );
+      },
+    );
+  }
+
   static Widget wrapIntoScaffold(
       {required BuildContext context,
       required Widget pageContent,

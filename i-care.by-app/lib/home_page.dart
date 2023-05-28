@@ -81,20 +81,7 @@ class _HomePageState extends State<HomePage> {
                   trailing: const Icon(Icons.edit),
                   onTap: _onUserInfoEdit,
                 ),
-                // TODO: implement backups review
-                ListTile(
-                  title: const Text('Рэзервовыя копіі'),
-                  onTap: () {
-                    Navigator.pop(context);
-                    showAboutDialog(
-                      context: context,
-                      children: [
-                        const Text(
-                            'Функцыя прагляду рэзервовых копій пакуль што не зроблена.'),
-                      ],
-                    );
-                  },
-                ),
+                ScaffoldHelpers.buildViewBackupsListTile(context),
                 // TODO: implement review of saved data
                 ListTile(
                   title: const Text('Захаваныя дадзеныя'),
