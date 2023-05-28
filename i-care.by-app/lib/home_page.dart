@@ -147,7 +147,7 @@ class _HomePageState extends State<HomePage> {
         break;
     }
 
-    return _wrapIntoScaffold(
+    return ScaffoldHelpers.wrapIntoScaffold(
       l10n: l10n,
       pageContent: pageContent,
       drawer: drawer,
@@ -213,7 +213,7 @@ class _HomePageState extends State<HomePage> {
     AppLocalizations l10n = AppLocalizations.of(context);
     navigator.push(MaterialPageRoute(
       builder: (BuildContext context) {
-        return _wrapIntoScaffold(
+        return ScaffoldHelpers.wrapIntoScaffold(
           l10n: l10n,
           pageContent: RequestUserInfo(
             initialUserNameValue: _diary.userName ?? '',
@@ -254,24 +254,6 @@ class _HomePageState extends State<HomePage> {
       _needToRecordVisit = false;
       _asyncOperationFuture = null;
     });
-  }
-
-  Widget _wrapIntoScaffold(
-      {required AppLocalizations l10n,
-      required Widget pageContent,
-      Widget? drawer,
-      Widget? floatingActionButton}) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(l10n.appTitle),
-      ),
-      body: SingleChildScrollView(
-        padding: ScaffoldHelpers.defaultBodyPadding,
-        child: pageContent,
-      ),
-      drawer: drawer,
-      floatingActionButton: floatingActionButton,
-    );
   }
 
   @override
