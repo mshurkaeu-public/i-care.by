@@ -54,11 +54,10 @@ class _HomePageState extends State<HomePage> {
         break;
 
       case KnownDiaryStates.fileIsUselessButUserNameWasProvidedInUI:
-        pageContent =
-            _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp);
         return ScaffoldHelpers.wrapIntoScaffold(
           context: context,
-          pageContent: pageContent,
+          pageContent:
+              _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp),
         );
 
       case KnownDiaryStates.valid:
