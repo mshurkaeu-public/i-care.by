@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 class AssetImageWithCaption extends StatelessWidget {
   const AssetImageWithCaption({
+    super.key,
     required this.assetName,
     required this.caption,
   });
