@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:multi_split_view/multi_split_view.dart';
@@ -1043,6 +1044,12 @@ class _ToTheListOfDoneButton extends StatelessWidget {
 
   /// Returns the appropriate "back" icon for the given `platform`.
   static IconData _getIconData(TargetPlatform platform) {
+    if (kIsWeb) {
+      // Always use 'Icons.arrow_forward' as a forward_button icon in web.
+      // To be in sync with the behavior of Material [BackButtonIcon].
+      // For more details look at https://github.com/flutter/flutter/issues/107646/.
+      return Icons.arrow_forward;
+    }
     switch (platform) {
       case TargetPlatform.android:
       case TargetPlatform.fuchsia:
