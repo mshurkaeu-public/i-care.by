@@ -53,9 +53,6 @@ class _HomePageState extends State<HomePage> {
         );
         break;
 
-      case KnownDiaryStates.fileIsUselessButUserNameWasProvidedInUI:
-        return _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp);
-
       case KnownDiaryStates.valid:
         if (_needToRecordVisit) {
           _asyncOperationFuture = _updateRecentVisitTimeOnceOnStart();
@@ -190,10 +187,8 @@ class _HomePageState extends State<HomePage> {
     _diary.userName = userName;
     _diary.userPreferredPronoun = preferredPronoun;
     Navigator.of(context).push(MaterialPageRoute(
-      builder: (BuildContext context) => _buildFullContent(
-          context,
-          KnownDiaryStates
-              .fileIsUselessButUserNameWasProvidedInUI), //passing this value without setting to _diary allows to hot reload during development and preserve state of previous page
+      builder: (BuildContext context) =>
+          _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp),
     ));
   }
 
