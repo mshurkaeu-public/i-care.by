@@ -377,7 +377,7 @@ class _HistoryOfCreation extends StatelessWidget {
           WidgetSpan(
             child: MyPhotoGallery(
               width: galleryWidth,
-              assetsNames: [
+              assetsNames: const [
                 'assets/images/history-of-creation-2022-02-21-traffic-light.png',
               ],
             ),
@@ -388,7 +388,7 @@ class _HistoryOfCreation extends StatelessWidget {
           WidgetSpan(
             child: MyPhotoGallery(
               width: galleryWidth,
-              assetsNames: [
+              assetsNames: const [
                 'assets/images/history-of-creation-2022-02-21-photo-1.png',
                 'assets/images/history-of-creation-2022-02-21-photo-2.png',
                 'assets/images/history-of-creation-2022-02-21-photo-3.png',
@@ -408,7 +408,7 @@ class _HistoryOfCreation extends StatelessWidget {
           WidgetSpan(
             child: MyPhotoGallery(
               width: galleryWidth,
-              assetsNames: [
+              assetsNames: const [
                 'assets/images/history-of-creation-2022-02-24-flashback-1.png',
                 'assets/images/history-of-creation-2022-02-24-flashback-2.png',
                 'assets/images/history-of-creation-2022-02-24-flashback-3.png',
@@ -435,7 +435,7 @@ class _HistoryOfCreation extends StatelessWidget {
           WidgetSpan(
             child: MyPhotoGallery(
               width: galleryWidth,
-              assetsNames: [
+              assetsNames: const [
                 'assets/images/history-of-creation-2022-02-27-official-statistics.png'
               ],
             ),
@@ -491,7 +491,7 @@ class _HistoryOfCreation extends StatelessWidget {
           WidgetSpan(
             child: MyPhotoGallery(
               width: galleryWidth,
-              assetsNames: [
+              assetsNames: const [
                 'assets/images/history-of-creation-2022-03-25-01.png',
                 'assets/images/history-of-creation-2022-03-25-02.png',
               ],
