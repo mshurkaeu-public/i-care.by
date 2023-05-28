@@ -56,7 +56,12 @@ class _HomePageState extends State<HomePage> {
       case KnownDiaryStates.fileIsUselessButUserNameWasProvidedInUI:
         pageContent =
             _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp);
-        break;
+        return ScaffoldHelpers.wrapIntoScaffold(
+          l10n: l10n,
+          pageContent: pageContent,
+          drawer: drawer,
+          floatingActionButton: floatingActionButton,
+        );
 
       case KnownDiaryStates.valid:
         if (_needToRecordVisit) {
