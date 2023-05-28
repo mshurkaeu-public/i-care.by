@@ -7,10 +7,12 @@ class ScaffoldHelpers {
       EdgeInsets.all(defaultPaddingSide);
 
   static Widget wrapIntoScaffold(
-      {required AppLocalizations l10n,
+      {required BuildContext context,
       required Widget pageContent,
       Widget? drawer,
       Widget? floatingActionButton}) {
+    AppLocalizations l10n = AppLocalizations.of(context);
+
     return Scaffold(
       appBar: AppBar(
         title: Text(l10n.appTitle),

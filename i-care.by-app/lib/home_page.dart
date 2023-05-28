@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
         pageContent =
             _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp);
         return ScaffoldHelpers.wrapIntoScaffold(
-          l10n: l10n,
+          context: context,
           pageContent: pageContent,
         );
 
@@ -151,7 +151,7 @@ class _HomePageState extends State<HomePage> {
     }
 
     return ScaffoldHelpers.wrapIntoScaffold(
-      l10n: l10n,
+      context: context,
       pageContent: pageContent,
       drawer: drawer,
       floatingActionButton: floatingActionButton,
@@ -217,7 +217,7 @@ class _HomePageState extends State<HomePage> {
     navigator.push(MaterialPageRoute(
       builder: (BuildContext context) {
         return ScaffoldHelpers.wrapIntoScaffold(
-          l10n: l10n,
+          context: context,
           pageContent: RequestUserInfo(
             initialUserNameValue: _diary.userName ?? '',
             initialPreferredPronounValue: _diary.userPreferredPronoun,
