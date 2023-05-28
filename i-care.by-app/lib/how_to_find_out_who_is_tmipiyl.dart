@@ -6,6 +6,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'asset_image_with_caption.dart';
+import 'scaffold_helpers.dart';
 import 'text_utils.dart';
 
 class HowToFindOutWhoIsTmipiyl extends StatefulWidget {
@@ -91,7 +92,8 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
     const double photoWidth = 640;
     double photoHeight = 426;
     double photoAspectRatio = photoWidth / photoHeight;
-    double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
+    double maxWidth = MediaQuery.of(context).size.width -
+        ScaffoldHelpers.defaultPaddingSide * 2;
     double csWidth = (maxWidth > photoWidth) ? photoWidth : maxWidth;
     double scHeight = csWidth / photoAspectRatio +
         TextUtils.getTextSize(
@@ -466,7 +468,7 @@ class _HowToFindOutWhoIsTmipiylState extends State<HowToFindOutWhoIsTmipiyl> {
         ),
       ),
       body: ListView(
-        padding: const EdgeInsets.all(20),
+        padding: ScaffoldHelpers.defaultBodyPadding,
         children: [
           Text.rich(
             TextSpan(
