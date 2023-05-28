@@ -6,6 +6,7 @@ import 'package:package_info_plus/package_info_plus.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'my_photo_gallery.dart';
+import 'scaffold_helpers.dart';
 import 'text_utils.dart';
 import 'how_to_find_out_who_is_tmipiyl.dart';
 
@@ -503,7 +504,7 @@ class _HistoryOfCreation extends StatelessWidget {
     );
 
     return ListView(
-      padding: const EdgeInsets.all(20),
+      padding: ScaffoldHelpers.defaultBodyPadding,
       children: [
         Text.rich(
           TextSpan(
@@ -631,7 +632,7 @@ class _HowItWorksState extends State<_HowItWorks> {
     );
 
     return ListView(
-      padding: const EdgeInsets.all(20),
+      padding: ScaffoldHelpers.defaultBodyPadding,
       children: [
         Text.rich(
           TextSpan(
@@ -665,7 +666,7 @@ class _MyGratitude extends StatelessWidget {
     TextStyle titleStyle = const TextStyle(fontWeight: FontWeight.bold);
 
     return ListView(
-      padding: const EdgeInsets.all(20),
+      padding: ScaffoldHelpers.defaultBodyPadding,
       children: [
         Text(
           l10n.aboutMyGratitudeTitle,
@@ -1039,7 +1040,7 @@ class _ShortAboutState extends State<_ShortAbout> {
     );
 
     return ListView(
-      padding: const EdgeInsets.all(20),
+      padding: ScaffoldHelpers.defaultBodyPadding,
       children: [
         Text.rich(
           TextSpan(
@@ -1094,7 +1095,7 @@ class _SupportTheProject extends StatelessWidget {
     TextStyle titleStyle = const TextStyle(fontWeight: FontWeight.bold);
 
     return ListView(
-      padding: const EdgeInsets.all(20),
+      padding: ScaffoldHelpers.defaultBodyPadding,
       children: [
         Text.rich(
           TextSpan(
@@ -1203,7 +1204,7 @@ class _TheWhy extends StatelessWidget {
     AppLocalizations l10n = AppLocalizations.of(context);
 
     return ListView(
-      padding: const EdgeInsets.all(20),
+      padding: ScaffoldHelpers.defaultBodyPadding,
       children: [
         Text(l10n.aboutTheWhyText),
       ],
