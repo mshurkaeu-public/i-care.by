@@ -59,8 +59,6 @@ class _HomePageState extends State<HomePage> {
         return ScaffoldHelpers.wrapIntoScaffold(
           l10n: l10n,
           pageContent: pageContent,
-          drawer: drawer,
-          floatingActionButton: floatingActionButton,
         );
 
       case KnownDiaryStates.valid:
