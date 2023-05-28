@@ -10,7 +10,7 @@ import 'tmipiml_is_parent.dart';
 import 'tmipiml_is_spouce_or_partner.dart';
 
 class DisplayDiaryRecord extends StatelessWidget {
-  DisplayDiaryRecord(dynamic data, String userPreferredPronoun)
+  DisplayDiaryRecord(dynamic data, String userPreferredPronoun, {super.key})
       : _diaryRecord = DiaryRecord(data),
         _userPreferredPronoun = userPreferredPronoun;
 
