@@ -685,7 +685,7 @@
   "@feedbackRequestTitle": {
     "description": "Title of the request feedback paragraph. Used on \"short\" tab of the \"About\" page."
   },
-  "firstMeetingIntroduction": "Вітаю!\n\nЗдаецца, {preferredPronoun, select, Vy{Вы запускаеце} other{ты запускаеш}} гэтую праграму ў першы раз.\n{preferredPronoun, select, Vy{Давайце} other{Давай}} пазнаёмімся.\n\nМяне завуць Мікалай Шуркаеў.\nЯ стварыў гэтую праграму, каб дапамагчы {preferredPronoun, select, Vy{Вам} other{табе}} атрымліваць задавальненне ад жыцця праз {preferredPronoun, select, Vy{Ваш} other{твой}} клопат аб найважнейшым чалавеку/людзях у {preferredPronoun, select, Vy{Вашым} other{тваім}} жыцці.\n\n\nЯк мне звяртацца да {preferredPronoun, select, Vy{Вас} other{цябе}}?",
+  "firstMeetingIntroduction": "Вітаю!\n\nЗдаецца, {preferredPronoun, select, Vy{Вы запускаеце} other{ты запускаеш}} гэтую праграму ў першы раз.\n{preferredPronoun, select, Vy{Давайце} other{Давай}} пазнаёмімся.\n\nМяне завуць Мікалай Шуркаеў. Я працую над наборам інструментаў, якія, я спадзяюся, дапамогуць людзям клапаціцца аб тым, што важна для іх, больш свядома, больш прыемна і больш эфектыўна. Гэтая праграма — важная частка гэтых інструментаў.\n\n\nЯк мне звяртацца да {preferredPronoun, select, Vy{Вас} other{цябе}}?",
   "@firstMeetingIntroduction": {
     "description": "Introduction for a case when user runs the application the very first time.",
     "placeholders": {
