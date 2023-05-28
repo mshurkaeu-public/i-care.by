@@ -161,8 +161,9 @@ class EditDiaryRecord extends StatefulWidget {
   const EditDiaryRecord(
     Diary diary,
     DiaryRecord diaryRecord,
-    this.onSubmit,
-  )   : _diary = diary,
+    this.onSubmit, {
+    super.key,
+  })  : _diary = diary,
         _diaryRecord = diaryRecord;
 
   final Diary _diary;
