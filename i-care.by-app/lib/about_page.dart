@@ -11,6 +11,7 @@ import 'how_to_find_out_who_is_tmipiyl.dart';
 
 class AboutPage extends StatelessWidget {
   const AboutPage({
+    super.key,
     required this.userName,
     required this.userPreferredPronoun,
   });
