@@ -368,7 +368,8 @@ class _HistoryOfCreation extends StatelessWidget {
     AppLocalizations l10n = AppLocalizations.of(context);
     TextStyle titleStyle = const TextStyle(fontWeight: FontWeight.bold);
 
-    double maxWidth = MediaQuery.of(context).size.width - 20 * 2;
+    double maxWidth = MediaQuery.of(context).size.width -
+        ScaffoldHelpers.defaultPaddingSide * 2;
     double galleryWidth = (maxWidth > 1080) ? 1080 : maxWidth;
 
     List<InlineSpan> chapter01 = TextUtils.buildSpansFromText(
