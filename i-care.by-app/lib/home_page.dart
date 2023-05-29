@@ -416,6 +416,16 @@ class _ResponseToUserIntroduction extends StatelessWidget {
     String userName = _diary.getNotEmptyUserName(l10n);
     String userPreferredPronoun = _diary.userPreferredPronoun ?? '';
 
+    List<InlineSpan> majorContent = [
+      TextSpan(
+        text: l10n.responseToUserIntroduction(
+          userName,
+          userPreferredPronoun,
+          _diary.getBriefExplanationWhereToFindDiary(l10n),
+        ),
+      ),
+    ];
+
     return ScaffoldHelpers.wrapIntoScaffold(
       context: context,
       pageContent: Column(
@@ -423,15 +433,7 @@ class _ResponseToUserIntroduction extends StatelessWidget {
         children: [
           Text.rich(
             TextSpan(
-              children: [
-                TextSpan(
-                  text: l10n.responseToUserIntroduction(
-                    userName,
-                    userPreferredPronoun,
-                    _diary.getBriefExplanationWhereToFindDiary(l10n),
-                  ),
-                ),
-              ],
+              children: majorContent,
             ),
           ),
           const SizedBox(height: 20),
