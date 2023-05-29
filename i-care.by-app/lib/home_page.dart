@@ -414,6 +414,7 @@ class _ResponseToUserIntroduction extends StatelessWidget {
     AppLocalizations l10n = AppLocalizations.of(context);
 
     String userName = _diary.getNotEmptyUserName(l10n);
+    String userPreferredPronoun = _diary.userPreferredPronoun ?? '';
 
     return ScaffoldHelpers.wrapIntoScaffold(
       context: context,
@@ -422,7 +423,7 @@ class _ResponseToUserIntroduction extends StatelessWidget {
         children: [
           Text(l10n.responseToUserIntroduction(
               userName,
-              _diary.userPreferredPronoun ?? '',
+              userPreferredPronoun,
               _diary.getBriefExplanationWhereToFindDiary(l10n))),
           const SizedBox(height: 20),
           ElevatedButton(
