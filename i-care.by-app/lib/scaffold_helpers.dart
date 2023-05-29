@@ -1,10 +1,36 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
+import 'about_page.dart';
+
 class ScaffoldHelpers {
   static const double defaultPaddingSide = 20;
   static const EdgeInsetsGeometry defaultBodyPadding =
       EdgeInsets.all(defaultPaddingSide);
+
+  static Widget buildAboutTheApplicationListTile({
+    required BuildContext context,
+    required String userName,
+    required String userPreferredPronoun,
+  }) {
+    return ListTile(
+      title: Text(
+        MaterialLocalizations.of(context).aboutListTileTitle('i-care.by'),
+      ),
+      onTap: () {
+        NavigatorState navigator = Navigator.of(context);
+        navigator.pop();
+        navigator.push(
+          MaterialPageRoute(
+            builder: (BuildContext context) => AboutPage(
+              userName: userName,
+              userPreferredPronoun: userPreferredPronoun,
+            ),
+          ),
+        );
+      },
+    );
+  }
 
   static Widget buildViewBackupsListTile(BuildContext context) {
     // TODO: implement backups review

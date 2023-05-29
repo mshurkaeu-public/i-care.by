@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:intl/intl.dart';
 
-import 'about_page.dart';
 import 'diary_platform_interface.dart'
     if (dart.library.io) 'diary_io.dart'
     if (dart.library.html) 'diary_web.dart';
@@ -97,24 +96,10 @@ class _HomePageState extends State<HomePage> {
                     );
                   },
                 ),
-                ListTile(
-                  title: Text(
-                    MaterialLocalizations.of(context)
-                        .aboutListTileTitle('i-care.by'),
-                  ),
-                  onTap: () {
-                    NavigatorState navigator = Navigator.of(context);
-                    navigator.pop();
-                    navigator.push(
-                      MaterialPageRoute(
-                        builder: (BuildContext context) => AboutPage(
-                          userName: _diary.getNotEmptyUserName(l10n),
-                          userPreferredPronoun:
-                              _diary.userPreferredPronoun ?? '',
-                        ),
-                      ),
-                    );
-                  },
+                ScaffoldHelpers.buildAboutTheApplicationListTile(
+                  context: context,
+                  userName: _diary.getNotEmptyUserName(l10n),
+                  userPreferredPronoun: _diary.userPreferredPronoun ?? '',
                 ),
               ],
             ),
