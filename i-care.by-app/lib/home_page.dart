@@ -12,7 +12,7 @@ import 'edit_diary_record.dart';
 import 'known_diary_states.dart';
 import 'request_user_info.dart';
 import 'scaffold_helpers.dart';
-import 'text_utils.dart';
+import 'second_introductory_screen.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -398,54 +398,6 @@ class _MainScreen extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: content,
-    );
-  }
-}
-
-class SecondIntroductoryScreen extends StatelessWidget {
-  const SecondIntroductoryScreen(
-    Diary diary,
-    Function() onNext, {
-    super.key,
-  })  : _diary = diary,
-        _onNext = onNext;
-
-  final Diary _diary;
-  final Function() _onNext;
-
-  @override
-  Widget build(BuildContext context) {
-    AppLocalizations l10n = AppLocalizations.of(context);
-
-    String userName = _diary.getNotEmptyUserName(l10n);
-    String userPreferredPronoun = _diary.userPreferredPronoun ?? '';
-
-    List<InlineSpan> majorContent = TextUtils.buildSpansFromText(
-      l10n.responseToUserIntroduction(
-        userName,
-        userPreferredPronoun,
-        _diary.getBriefExplanationWhereToFindDiary(l10n),
-      ),
-      [],
-    );
-
-    return ScaffoldHelpers.wrapIntoScaffold(
-      context: context,
-      pageContent: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Text.rich(
-            TextSpan(
-              children: majorContent,
-            ),
-          ),
-          const SizedBox(height: 20),
-          ElevatedButton(
-            onPressed: _onNext,
-            child: Text(l10n.yesLetsTryIt),
-          ),
-        ],
-      ),
     );
   }
 }
