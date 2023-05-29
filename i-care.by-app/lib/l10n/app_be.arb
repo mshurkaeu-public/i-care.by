@@ -329,6 +329,10 @@
   "@aboutMyGratitude_2023_05_24_05": {
     "description": "Text for 2023-05-24 Arnaud Marchais (https://unsplash.com/@arnaud79) on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_05_28_01": "\n2023-05-28 🦸 — 🎇 праверыў, як выглядаюць кнопкі web версіі праграмы ў iOS.\n",
+  "@aboutMyGratitude_2023_05_28_01": {
+    "description": "Text for 2023-05-28 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_05_title": "\n\n2023-05\n",
   "@aboutMyGratitude_2023_05_title": {
     "description": "Title for 2023-05 list/text on the \"my gratitude\" tab on the \"About\" page."
