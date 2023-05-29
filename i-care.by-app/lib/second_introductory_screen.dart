@@ -69,6 +69,11 @@ class _SecondIntroductoryScreenState extends State<SecondIntroductoryScreen> {
         child: ListView(
           children: [
             ScaffoldHelpers.buildViewBackupsListTile(context),
+            ScaffoldHelpers.buildAboutTheApplicationListTile(
+              context: context,
+              userName: userName,
+              userPreferredPronoun: userPreferredPronoun,
+            ),
           ],
         ),
       ),
