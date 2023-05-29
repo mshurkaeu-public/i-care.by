@@ -413,13 +413,15 @@ class _ResponseToUserIntroduction extends StatelessWidget {
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
 
+    String userName = _diary.getNotEmptyUserName(l10n);
+
     return ScaffoldHelpers.wrapIntoScaffold(
       context: context,
       pageContent: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(l10n.responseToUserIntroduction(
-              _diary.getNotEmptyUserName(l10n),
+              userName,
               _diary.userPreferredPronoun ?? '',
               _diary.getBriefExplanationWhereToFindDiary(l10n))),
           const SizedBox(height: 20),
