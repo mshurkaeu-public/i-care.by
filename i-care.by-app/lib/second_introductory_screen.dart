@@ -1,3 +1,4 @@
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
@@ -24,6 +25,13 @@ class SecondIntroductoryScreen extends StatefulWidget {
 }
 
 class _SecondIntroductoryScreenState extends State<SecondIntroductoryScreen> {
+  final TapGestureRecognizer _backToCorrectTheNameTapRecognizer =
+      TapGestureRecognizer();
+
+  void _backToCorrectTheName() {
+    Navigator.of(context).pop();
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -31,13 +39,28 @@ class _SecondIntroductoryScreenState extends State<SecondIntroductoryScreen> {
     String userName = widget._diary.getNotEmptyUserName(l10n);
     String userPreferredPronoun = widget._diary.userPreferredPronoun ?? '';
 
+    ThemeData themeData = Theme.of(context);
+    TextStyle changeAnswerStyle = TextStyle(
+      color: themeData.disabledColor,
+      decoration: TextDecoration.underline,
+    );
+
     List<InlineSpan> majorContent = TextUtils.buildSpansFromText(
       l10n.responseToUserIntroduction(
         userName,
         userPreferredPronoun,
         widget._diary.getBriefExplanationWhereToFindDiary(l10n),
       ),
-      [],
+      [
+        MapEntry(
+          '\$back_to_correct_the_name',
+          TextSpan(
+            text: l10n.secondIntroductoryScreen_backToCorrectTheName,
+            recognizer: _backToCorrectTheNameTapRecognizer,
+            style: changeAnswerStyle,
+          ),
+        ),
+      ],
     );
 
     return ScaffoldHelpers.wrapIntoScaffold(
@@ -58,5 +81,19 @@ class _SecondIntroductoryScreenState extends State<SecondIntroductoryScreen> {
         ],
       ),
     );
+  }
+
+  @override
+  void dispose() {
+    _backToCorrectTheNameTapRecognizer.dispose();
+
+    super.dispose();
+  }
+
+  @override
+  void initState() {
+    super.initState();
+
+    _backToCorrectTheNameTapRecognizer.onTap = _backToCorrectTheName;
   }
 }
