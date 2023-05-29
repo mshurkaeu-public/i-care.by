@@ -65,6 +65,13 @@ class _SecondIntroductoryScreenState extends State<SecondIntroductoryScreen> {
 
     return ScaffoldHelpers.wrapIntoScaffold(
       context: context,
+      drawer: Drawer(
+        child: ListView(
+          children: [
+            ScaffoldHelpers.buildViewBackupsListTile(context),
+          ],
+        ),
+      ),
       pageContent: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
