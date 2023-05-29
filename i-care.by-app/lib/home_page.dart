@@ -179,7 +179,7 @@ class _HomePageState extends State<HomePage> {
 
     Navigator.of(context).push(
       MaterialPageRoute(
-        builder: (BuildContext context) => _ResponseToUserIntroduction(
+        builder: (BuildContext context) => ResponseToUserIntroduction(
           _diary,
           _onUserDecidedToTryTheApp,
         ),
@@ -402,11 +402,12 @@ class _MainScreen extends StatelessWidget {
   }
 }
 
-class _ResponseToUserIntroduction extends StatelessWidget {
-  const _ResponseToUserIntroduction(
+class ResponseToUserIntroduction extends StatelessWidget {
+  const ResponseToUserIntroduction(
     Diary diary,
-    Function() onNext,
-  )   : _diary = diary,
+    Function() onNext, {
+    super.key,
+  })  : _diary = diary,
         _onNext = onNext;
 
   final Diary _diary;
