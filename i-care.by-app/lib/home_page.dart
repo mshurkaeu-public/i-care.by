@@ -421,10 +421,13 @@ class _ResponseToUserIntroduction extends StatelessWidget {
       pageContent: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text(l10n.responseToUserIntroduction(
+          Text(
+            l10n.responseToUserIntroduction(
               userName,
               userPreferredPronoun,
-              _diary.getBriefExplanationWhereToFindDiary(l10n))),
+              _diary.getBriefExplanationWhereToFindDiary(l10n),
+            ),
+          ),
           const SizedBox(height: 20),
           ElevatedButton(
             onPressed: _onNext,
