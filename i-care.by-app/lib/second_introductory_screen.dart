@@ -7,7 +7,7 @@ import 'diary_platform_interface.dart'
 import 'scaffold_helpers.dart';
 import 'text_utils.dart';
 
-class SecondIntroductoryScreen extends StatelessWidget {
+class SecondIntroductoryScreen extends StatefulWidget {
   const SecondIntroductoryScreen(
     Diary diary,
     Function() onNext, {
@@ -19,17 +19,23 @@ class SecondIntroductoryScreen extends StatelessWidget {
   final Function() _onNext;
 
   @override
+  State<SecondIntroductoryScreen> createState() =>
+      _SecondIntroductoryScreenState();
+}
+
+class _SecondIntroductoryScreenState extends State<SecondIntroductoryScreen> {
+  @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
 
-    String userName = _diary.getNotEmptyUserName(l10n);
-    String userPreferredPronoun = _diary.userPreferredPronoun ?? '';
+    String userName = widget._diary.getNotEmptyUserName(l10n);
+    String userPreferredPronoun = widget._diary.userPreferredPronoun ?? '';
 
     List<InlineSpan> majorContent = TextUtils.buildSpansFromText(
       l10n.responseToUserIntroduction(
         userName,
         userPreferredPronoun,
-        _diary.getBriefExplanationWhereToFindDiary(l10n),
+        widget._diary.getBriefExplanationWhereToFindDiary(l10n),
       ),
       [],
     );
@@ -46,7 +52,7 @@ class SecondIntroductoryScreen extends StatelessWidget {
           ),
           const SizedBox(height: 20),
           ElevatedButton(
-            onPressed: _onNext,
+            onPressed: widget._onNext,
             child: Text(l10n.yesLetsTryIt),
           ),
         ],
