@@ -403,8 +403,10 @@ class _MainScreen extends StatelessWidget {
 }
 
 class _ResponseToUserIntroduction extends StatelessWidget {
-  const _ResponseToUserIntroduction(Diary diary, Function() onNext)
-      : _diary = diary,
+  const _ResponseToUserIntroduction(
+    Diary diary,
+    Function() onNext,
+  )   : _diary = diary,
         _onNext = onNext;
 
   final Diary _diary;
