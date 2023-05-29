@@ -12,6 +12,7 @@ import 'edit_diary_record.dart';
 import 'known_diary_states.dart';
 import 'request_user_info.dart';
 import 'scaffold_helpers.dart';
+import 'text_utils.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -416,15 +417,14 @@ class _ResponseToUserIntroduction extends StatelessWidget {
     String userName = _diary.getNotEmptyUserName(l10n);
     String userPreferredPronoun = _diary.userPreferredPronoun ?? '';
 
-    List<InlineSpan> majorContent = [
-      TextSpan(
-        text: l10n.responseToUserIntroduction(
-          userName,
-          userPreferredPronoun,
-          _diary.getBriefExplanationWhereToFindDiary(l10n),
-        ),
+    List<InlineSpan> majorContent = TextUtils.buildSpansFromText(
+      l10n.responseToUserIntroduction(
+        userName,
+        userPreferredPronoun,
+        _diary.getBriefExplanationWhereToFindDiary(l10n),
       ),
-    ];
+      [],
+    );
 
     return ScaffoldHelpers.wrapIntoScaffold(
       context: context,
