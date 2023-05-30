@@ -1,6 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:icare_by_app/asset_image_with_caption.dart';
 
 import 'diary_platform_interface.dart'
     if (dart.library.io) 'diary_io.dart'
@@ -58,6 +59,17 @@ class _SecondIntroductoryScreenState extends State<SecondIntroductoryScreen> {
             text: l10n.secondIntroductoryScreen_backToCorrectTheName,
             recognizer: _backToCorrectTheNameTapRecognizer,
             style: changeAnswerStyle,
+          ),
+        ),
+        MapEntry(
+          '\$powerful_flow',
+          WidgetSpan(
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/second-introductory-screen-flood-uk-2015-640.jpg',
+              caption:
+                  'Photo by Chris Gallagher on Unsplash\n\n${l10n.secondIntroductoryScreen_powerfulFlowComment}',
+            ),
           ),
         ),
       ],
