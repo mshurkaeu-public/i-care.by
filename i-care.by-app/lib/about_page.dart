@@ -43,7 +43,7 @@ class AboutPage extends StatelessWidget {
     );
 
     tabs[_myGratitudeTabIndex] = Text(l10n.aboutMyGratitudeTabLabel);
-    tabsChildren[_myGratitudeTabIndex] = _MyGratitude();
+    tabsChildren[_myGratitudeTabIndex] = const MyGratitude();
 
     tabs[_supportThePtojectTabIndex] =
         Text(l10n.aboutSupportTheProjectTabLabel);
@@ -660,7 +660,9 @@ class _HowItWorksState extends State<_HowItWorks> {
   }
 }
 
-class _MyGratitude extends StatelessWidget {
+class MyGratitude extends StatelessWidget {
+  const MyGratitude({super.key});
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
