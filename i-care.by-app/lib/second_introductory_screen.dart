@@ -46,7 +46,7 @@ class _SecondIntroductoryScreenState extends State<SecondIntroductoryScreen> {
     );
 
     List<InlineSpan> majorContent = TextUtils.buildSpansFromText(
-      l10n.responseToUserIntroduction(
+      l10n.secondIntroductoryScreen_text(
         userName,
         userPreferredPronoun,
         widget._diary.getBriefExplanationWhereToFindDiary(l10n),
