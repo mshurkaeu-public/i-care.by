@@ -29,6 +29,7 @@ class AssetImageWithCaption extends StatelessWidget {
           Text(
             caption,
             style: imageCreditsStyle,
+            textAlign: TextAlign.center,
           ),
         ],
       ),
