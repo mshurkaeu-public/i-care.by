@@ -72,6 +72,17 @@ class _SecondIntroductoryScreenState extends State<SecondIntroductoryScreen> {
             ),
           ),
         ),
+        MapEntry(
+          '\$alive_and_active_in_the_flow',
+          WidgetSpan(
+            child: AssetImageWithCaption(
+              assetName:
+                  'assets/images/second-introductory-screen-flood-nl-2019-640.jpg',
+              caption:
+                  'Photo by Jos Zwaan on Unsplash\n\n${l10n.secondIntroductoryScreen_aliveAndActiveInTheFlowComment}',
+            ),
+          ),
+        ),
       ],
     );
 

@@ -92,6 +92,7 @@ flutter:
     - assets/images/how-to-find-out-who-is-tmipiyl-submarine-640.jpg
     - assets/images/how-to-find-out-who-is-tmipiyl-terrace-640.jpg
     - assets/images/how-to-find-out-who-is-tmipiyl-time-640.jpg
+    - assets/images/second-introductory-screen-flood-nl-2019-640.jpg
     - assets/images/second-introductory-screen-flood-uk-2015-640.jpg
   #fonts:
     # It makes sense to include Noto Color Emoji font into assets only if a target device can get any benefit from
