@@ -235,25 +235,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     }
   }
 
-  String Function(String, String) _getMessageToTheUserProvider() {
-    AppLocalizations l10n = AppLocalizations.of(context);
-
-    String Function(String, String) res;
-    switch (_stagingDiaryRecord.who) {
-      case TheMostImportantPersonInMyLife.absent:
-        res = l10n.messageWhenTmipiylIsAbsent;
-        break;
-
-      case TheMostImportantPersonInMyLife.dontKnow:
-        res = l10n.messageWhenTmipiylIsUknownToUser;
-        break;
-
-      default:
-        throw UnimplementedError();
-    }
-    return res;
-  }
-
   Widget _nextButtonIfTrue(bool condition, AppLocalizations l10n) {
     if (condition) {
       return Padding(
@@ -340,7 +321,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         secondScreen = _MessageToTheUser(
           userName,
           userPreferredPronoun,
-          _getMessageToTheUserProvider(),
           _stagingDiaryRecord,
           onDoneButtonPressed: _onFinalSubmit,
           onNextButtonPressed: _onSubmitSecondScreen,
@@ -902,14 +882,10 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
   const _MessageToTheUser(
     String userName,
     String userPreferredPronoun,
-    String Function(String, String) messageProvider,
     DiaryRecord diaryRecord, {
     required super.onDoneButtonPressed,
     required super.onNextButtonPressed,
-  })  : _messageProvider = messageProvider,
-        super(userName, userPreferredPronoun, diaryRecord, 0.8);
-
-  final String Function(String, String) _messageProvider;
+  }) : super(userName, userPreferredPronoun, diaryRecord, 0.8);
 
   @override
   State<StatefulWidget> createState() => _MessageToTheUserState();
@@ -917,6 +893,25 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
 
 class _MessageToTheUserState
     extends _OneEmotionsAndFeelingsRequestContainerState {
+  String Function(String, String) _getMessageToTheUserProvider() {
+    AppLocalizations l10n = AppLocalizations.of(context);
+
+    String Function(String, String) res;
+    switch (widget.diaryRecord.who) {
+      case TheMostImportantPersonInMyLife.absent:
+        res = l10n.messageWhenTmipiylIsAbsent;
+        break;
+
+      case TheMostImportantPersonInMyLife.dontKnow:
+        res = l10n.messageWhenTmipiylIsUknownToUser;
+        break;
+
+      default:
+        throw UnimplementedError();
+    }
+    return res;
+  }
+
   @override
   void _onDoneButtonPressed() {
     super._onDoneButtonPressed();
@@ -943,10 +938,12 @@ class _MessageToTheUserState
   @override
   Widget getFirstColumnChild(BuildContext context, AppLocalizations l10n) {
     _MessageToTheUser w = (widget as _MessageToTheUser);
+    String Function(String, String) messageProvider =
+        _getMessageToTheUserProvider();
 
     List<InlineSpan> messageContent = [
       TextSpan(
-        text: w._messageProvider(
+        text: messageProvider(
           w._userName,
           w._userPreferredPronoun,
         ),
