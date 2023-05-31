@@ -943,17 +943,20 @@ class _MessageToTheUserState
   @override
   Widget getFirstColumnChild(BuildContext context, AppLocalizations l10n) {
     _MessageToTheUser w = (widget as _MessageToTheUser);
+
+    List<InlineSpan> messageContent = [
+      TextSpan(
+        text: w._messageProvider(
+          w._userName,
+          w._userPreferredPronoun,
+        ),
+      ),
+    ];
+
     return SingleChildScrollView(
       child: Text.rich(
         TextSpan(
-          children: [
-            TextSpan(
-              text: w._messageProvider(
-                w._userName,
-                w._userPreferredPronoun,
-              ),
-            ),
-          ],
+          children: messageContent,
         ),
       ),
     );
