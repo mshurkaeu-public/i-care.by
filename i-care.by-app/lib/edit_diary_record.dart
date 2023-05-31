@@ -944,7 +944,12 @@ class _MessageToTheUserState
   Widget getFirstColumnChild(BuildContext context, AppLocalizations l10n) {
     _MessageToTheUser w = (widget as _MessageToTheUser);
     return SingleChildScrollView(
-      child: Text(w._messageProvider(w._userName, w._userPreferredPronoun)),
+      child: Text(
+        w._messageProvider(
+          w._userName,
+          w._userPreferredPronoun,
+        ),
+      ),
     );
   }
 }
