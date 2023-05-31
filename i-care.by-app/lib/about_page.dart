@@ -598,8 +598,7 @@ class _HowItWorksState extends State<_HowItWorks> {
     NavigatorState navigator = Navigator.of(context);
     navigator.push(
       MaterialPageRoute(
-        builder: (BuildContext context) =>
-            HowToFindOutWhoIsTmipiyl(
+        builder: (BuildContext context) => HowToFindOutWhoIsTmipiyl(
           userName: widget.userName,
           userPreferredPronoun: widget.userPreferredPronoun,
         ),
