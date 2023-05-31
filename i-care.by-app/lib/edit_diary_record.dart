@@ -239,7 +239,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     AppLocalizations l10n = AppLocalizations.of(context);
 
     String Function(String, String) res;
-    switch (_theMostImportantPerson) {
+    switch (_stagingDiaryRecord.who) {
       case TheMostImportantPersonInMyLife.absent:
         res = l10n.messageWhenTmipiylIsAbsent;
         break;
