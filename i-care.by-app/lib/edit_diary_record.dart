@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:multi_split_view/multi_split_view.dart';
@@ -9,9 +10,11 @@ import 'diary_platform_interface.dart'
     if (dart.library.io) 'diary_io.dart'
     if (dart.library.html) 'diary_web.dart';
 import 'diary_record.dart';
+import 'how_to_find_out_who_is_tmipiyl.dart';
 import 'messages.dart';
 import 'request_not_empty_list_of_persons_names.dart';
 import 'scaffold_helpers.dart';
+import 'text_utils.dart';
 import 'the_most_important_person_in_my_life.dart';
 import 'tmipiml_is_child.dart';
 import 'tmipiml_is_grandparent.dart';
@@ -893,6 +896,9 @@ class _MessageToTheUser extends _OneEmotionsAndFeelingsRequestContainer {
 
 class _MessageToTheUserState
     extends _OneEmotionsAndFeelingsRequestContainerState {
+  final TapGestureRecognizer _howToFindOutWhoIsTmipiylTapRecognizer =
+      TapGestureRecognizer();
+
   String Function(String, String) _getMessageToTheUserProvider() {
     AppLocalizations l10n = AppLocalizations.of(context);
 
@@ -912,6 +918,18 @@ class _MessageToTheUserState
     return res;
   }
 
+  void _showHowToFindOutWhoIsTmipiylPage() {
+    NavigatorState navigator = Navigator.of(context);
+    navigator.push(
+      MaterialPageRoute(
+        builder: (BuildContext context) => HowToFindOutWhoIsTmipiyl(
+          userName: widget._userName,
+          userPreferredPronoun: widget._userPreferredPronoun,
+        ),
+      ),
+    );
+  }
+
   @override
   void _onDoneButtonPressed() {
     super._onDoneButtonPressed();
@@ -924,6 +942,13 @@ class _MessageToTheUserState
     super._onNextButtonPressed();
 
     widget.onNextButtonPressed();
+  }
+
+  @override
+  void dispose() {
+    _howToFindOutWhoIsTmipiylTapRecognizer.dispose();
+
+    super.dispose();
   }
 
   @override
@@ -941,14 +966,27 @@ class _MessageToTheUserState
     String Function(String, String) messageProvider =
         _getMessageToTheUserProvider();
 
-    List<InlineSpan> messageContent = [
-      TextSpan(
-        text: messageProvider(
-          w._userName,
-          w._userPreferredPronoun,
-        ),
+    List<InlineSpan> messageContent = TextUtils.buildSpansFromText(
+      messageProvider(
+        w._userName,
+        w._userPreferredPronoun,
       ),
-    ];
+      [
+        MapEntry(
+          '\$how_to_find_out_who_is_tmipiyl_link',
+          TextSpan(
+            text: l10n.howToFindOutWhoIsTmipiyl_title(
+              w._userPreferredPronoun,
+            ),
+            style: const TextStyle(
+              color: Colors.blue,
+              decoration: TextDecoration.underline,
+            ),
+            recognizer: _howToFindOutWhoIsTmipiylTapRecognizer,
+          ),
+        ),
+      ],
+    );
 
     return SingleChildScrollView(
       child: Text.rich(
@@ -957,6 +995,14 @@ class _MessageToTheUserState
         ),
       ),
     );
+  }
+
+  @override
+  void initState() {
+    super.initState();
+
+    _howToFindOutWhoIsTmipiylTapRecognizer.onTap =
+        _showHowToFindOutWhoIsTmipiylPage;
   }
 }
 
