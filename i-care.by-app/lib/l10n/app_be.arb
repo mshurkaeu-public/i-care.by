@@ -365,6 +365,10 @@
   "@aboutMyGratitude_2023_08_06_02": {
     "description": "Text for 2023-08-06 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_08_08_01": "\n2023-08-08 каманды кампаній JGraph Ltd і draw.io AG — 🎇 стварылі бясплатны вэб-сайт https://draw.io, які я выкарыстаў для таго, каб маляваць дрэва цяперашняй рэальнасці для высвятлення каранёвай прычыны дыктатуры ў Беларусі.\n",
+  "@aboutMyGratitude_2023_08_08_01": {
+    "description": "Text for 2023-08-08 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_08_title": "\n\n2023-08\n",
   "@aboutMyGratitude_2023_08_title": {
     "description": "Title for 2023-08 list/text on the \"my gratitude\" tab on the \"About\" page."
