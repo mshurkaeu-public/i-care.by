@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="2aD0T-LcDpTNTKMddJls" modified="2023-08-14T09:53:32.318Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" type="device">
+<mxfile host="app.diagrams.net" etag="6naViiMbZkSpqeIvOYvH" modified="2023-08-14T09:55:46.178Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" type="device">
   <diagram name="агляд" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="2261" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -319,11 +319,6 @@
         <mxCell id="trFHjS8OtI2W3_3FPiBj-62" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#001DBC;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-236" y="1937.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZGO1qrQpXi79sG8c-zsR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="trFHjS8OtI2W3_3FPiBj-63">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-680.92" y="1362" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-63" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;fillColor=none;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="-760.92" y="1300" width="60" height="60" as="geometry" />
         </mxCell>
@@ -415,11 +410,6 @@
         </mxCell>
         <mxCell id="ZGO1qrQpXi79sG8c-zsR-14" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#001DBC;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-760.92" y="1435" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZGO1qrQpXi79sG8c-zsR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZGO1qrQpXi79sG8c-zsR-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-680.92" y="1602" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZGO1qrQpXi79sG8c-zsR-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;fillColor=none;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-760.92" y="1540" width="60" height="60" as="geometry" />
