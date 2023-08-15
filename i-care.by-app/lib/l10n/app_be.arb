@@ -369,6 +369,10 @@
   "@aboutMyGratitude_2023_08_08_01": {
     "description": "Text for 2023-08-08 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_08_15_01": "\n2023-08-15 🦸 — 🗯️ параіў выкарыстоўваць \"важна памятаць\" замест \"важна не забываць\" ва ўступным тэксце да ДЦР пра дыктатуру ў Беларусі.\n",
+  "@aboutMyGratitude_2023_08_15_01": {
+    "description": "Text for 2023-08-15 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_08_title": "\n\n2023-08\n",
   "@aboutMyGratitude_2023_08_title": {
     "description": "Title for 2023-08 list/text on the \"my gratitude\" tab on the \"About\" page."
