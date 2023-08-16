@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="9P_uaBCu0Xjl28QRUN5u" modified="2023-08-16T12:34:06.232Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="d5RoQE-jMORYZ1K6S-xv" modified="2023-08-16T12:38:49.980Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" type="device" pages="2">
   <diagram name="агляд" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="2261" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -139,13 +139,13 @@
         <mxCell id="trFHjS8OtI2W3_3FPiBj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;entryX=0.556;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-14" target="trFHjS8OtI2W3_3FPiBj-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="159" y="1390" />
+              <mxPoint x="160" y="1390" />
               <mxPoint x="68" y="1390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-14" value="Тое, што грамадства дазваляе ўладзе з сабой рабіць, складаецца з таго, што дазваляюць рабіць уладзе з грамадствам асобныя грамадзяне." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="81.5" y="1400" width="308" height="90" as="geometry" />
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-14" value="Тое, што грамадства дазваляе ўладзе з сабой рабіць, складаецца з таго, што дазваляюць рабіць уладзе з грамадствам асобныя грамадзяне." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1400" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-16" value="грамадзянін&lt;br&gt;&lt;b&gt;нічога не робіць&lt;/b&gt;&lt;br&gt;у сувязі з гэтым&lt;br&gt;уздзеяннем." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-160" y="1480" width="140" height="90" as="geometry" />
@@ -439,14 +439,14 @@
         <mxCell id="ZGO1qrQpXi79sG8c-zsR-27" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#001DBC;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-430" y="1852.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pAry6xl3ZhUczWlkYcrq-1" value="Рэакцыя грамадства на ўздзеянне ўлады" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-108.5" y="1180" width="190" height="60" as="geometry" />
+        <mxCell id="pAry6xl3ZhUczWlkYcrq-1" value="Рэакцыя грамадства на ўздзеянне ўлады" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;dashed=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="1180" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pAry6xl3ZhUczWlkYcrq-3" value="Пажаданні грамадства і яго ўздзеянне на ўладу" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="775" y="1180" width="190" height="60" as="geometry" />
+        <mxCell id="pAry6xl3ZhUczWlkYcrq-3" value="Пажаданні грамадства і яго ўздзеянне на ўладу" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;dashed=1;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1180" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1uukreD7585R6irRMM3L-1" value="Тое, як грамадства ўплывае на ўладу, складаецца з таго, як уплываюць на ўладу асобныя грамадзяне." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="449.5" y="1400" width="308" height="90" as="geometry" />
+        <mxCell id="1uukreD7585R6irRMM3L-1" value="Тое, як грамадства ўплывае на ўладу, складаецца з таго, як уплываюць на ўладу асобныя грамадзяне." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1400" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1uukreD7585R6irRMM3L-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;" parent="1" vertex="1">
           <mxGeometry x="736.5" y="1320" width="120" height="80" as="geometry" />
@@ -459,7 +459,7 @@
             <mxPoint x="169" y="1410" as="sourcePoint" />
             <mxPoint x="78" y="1331" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="681" y="1390" />
+              <mxPoint x="690" y="1390" />
               <mxPoint x="796" y="1390" />
             </Array>
           </mxGeometry>
