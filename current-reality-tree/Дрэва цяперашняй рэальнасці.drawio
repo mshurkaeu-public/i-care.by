@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="od_xSY4N5hHMZHqBiBkj" modified="2023-08-16T12:57:42.900Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="d0St0rKx1TYK5eg6t2UQ" modified="2023-08-16T13:21:13.179Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.8" type="device" pages="2">
   <diagram name="агляд" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="2261" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -472,8 +472,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2Fm3dQcCP67QBN1soVzs-1" value="Сітуацыя, калі грамадзянін увогуле не ведае пра нейкае асобнае ўздзеянне ўлады на грамадства, можа мець розныя прычыны і кожная з іх можа ўспрымацца гэтым грамадзянінам па-рознаму. можа часткова вырашацца дасціпнасцю сродкаў масавай інфармацыі, якія асвятляюць тое, што адбываецца. Таксама, было б карысна, калі б быў агульнадаступны рэпазітар законаў, дзе можна было б адсачыць усю гісторыю змен законаў. Хто, калі і навошта змяніў нешта ў законе. Хто разглядаў прапанаваныя змены і падтрымаў іх." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry y="80" width="827" height="120" as="geometry" />
+        <mxCell id="2Fm3dQcCP67QBN1soVzs-1" value="Сітуацыя, калі грамадзянін увогуле не ведае пра нейкае асобнае ўздзеянне ўлады на грамадства, можа мець розныя прычыны і кожная з іх можа ўспрымацца гэтым грамадзянінам па-рознаму." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry y="80" width="827" height="60" as="geometry" />
         </mxCell>
         <UserObject label="" id="OLU7qjLeS_5trEYBMe4V-1">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;fillColor=none;fontColor=#ffffff;strokeColor=#001DBC;comic=0;" parent="1" vertex="1">
@@ -486,30 +486,36 @@
           </mxCell>
         </UserObject>
         <mxCell id="Kq_ZB11kmzc9UZBkAW0O-1" value="У гэтым слупку усе (&lt;font color=&quot;#ff0000&quot;&gt;?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не ведае пра дадзенае асобнае ўздзеянне ўлады на грамадства" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="240" width="250" height="90" as="geometry" />
+          <mxGeometry x="40" y="161" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Kq_ZB11kmzc9UZBkAW0O-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" parent="1" source="Kq_ZB11kmzc9UZBkAW0O-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425" y="670" as="sourcePoint" />
-            <mxPoint x="165" y="370" as="targetPoint" />
+            <mxPoint x="425" y="591" as="sourcePoint" />
+            <mxPoint x="165" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AYBfKe0LrzLtooZ9VJGE-1" value="Улада &lt;b&gt;актыўна хавае інфармацыю&lt;/b&gt; пра дадзенае асобнае &lt;b&gt;ўздзеянне&lt;/b&gt; на грамадства. Прыклады:&lt;br&gt;- улада не публікуе інфармацыю, таму што яна &quot;для службовага выкарыстання&quot; або па іншай фармальнай прычыне;&lt;br&gt;- улада знішчае незалежныя СМІ, якія могуць агучыць інфармацыю;&lt;br&gt;- улада арыштоўвае грамадзян, якія абмяркоўваюць інфармацыю;&lt;br&gt;- ...&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry y="400" width="320" height="240" as="geometry" />
+          <mxGeometry y="321" width="320" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="fWjUnr6x9XqJAKNyiNSD-1" value="&lt;b&gt;Адсутнічаюць інструменты&lt;/b&gt;, якія дазваляюць грамадзяніну хутка і якасна атрымваць інфармацыю пра кожнае асобнае ўздзеянне ўлады на грамадства. Прыклады:&lt;br&gt;- не публікуе інфармацыю, таму што яна для &quot;службовага выкарыстання&quot;;&lt;br&gt;- знішчае СМ, якія могуць агучыць інфармацыю;&lt;br&gt;- арыштоўвае грамадзян, якія абмяркоўваюць інфармацыю;&lt;br&gt;- ...&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry y="680" width="320" height="200" as="geometry" />
+        <mxCell id="fWjUnr6x9XqJAKNyiNSD-1" value="&lt;b&gt;Адсутнічаюць інструменты&lt;/b&gt;, якія дазваляюць грамадзяніну хутка і якасна атрымваць інфармацыю пра кожнае асобнае ўздзеянне ўлады на грамадства.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry y="601" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5lrt6YIB7Be11JN4AIcV-1" value="&lt;span&gt;Калі грамадзянін жадае змяніць сітуацыю&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="360" y="680" width="320" height="200" as="geometry" />
+        <mxCell id="5lrt6YIB7Be11JN4AIcV-1" value="&lt;span&gt;Інструменты могуць быць створаны. Прыклады:&lt;br&gt;1) прававыя інфармацыйныя парталы;&lt;br&gt;2) СМІ, якія асвятляюць тое, што адбываецца;&lt;br&gt;3) &lt;/span&gt;агульнадаступны рэпазітар законаў (дзе можна было б адсачыць усю гісторыю змен законаў. І хто, калі і навошта змяніў нешта ў законе. І хто разглядаў прапанаваныя змены і падтрымаў іх.) І гэтак далей.&lt;br&gt;&lt;br&gt;Магчымыя сітуацыі, калі пажаданне/патрабаванне можа ісці з боку грамадзян, апісаны на старонцы &quot;&lt;b&gt;агляд&lt;/b&gt;&quot;. Правая палова." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="601" width="400" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="5lrt6YIB7Be11JN4AIcV-2" value="&lt;span&gt;Гэта ўздзеянне ўлады на грамадства. Магчымыя рэакцыі грамадзяніна на ўздзеянне ўлады апісаны на старонцы &quot;&lt;b&gt;агляд&lt;/b&gt;&quot;.&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="320" height="90" as="geometry" />
+        <mxCell id="5lrt6YIB7Be11JN4AIcV-2" value="&lt;span&gt;Гэта ўздзеянне ўлады на грамадства. Спроба схаваць інфармацыю.&lt;br&gt;&lt;br&gt;Магчымыя рэакцыі грамадзяніна на ўздзеянне ўлады апісаны на старонцы &quot;&lt;b&gt;агляд&lt;/b&gt;&quot;. Левая палова.&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="321" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5lrt6YIB7Be11JN4AIcV-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AYBfKe0LrzLtooZ9VJGE-1" target="5lrt6YIB7Be11JN4AIcV-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="590" as="sourcePoint" />
-            <mxPoint x="440" y="540" as="targetPoint" />
+            <mxPoint x="390" y="511" as="sourcePoint" />
+            <mxPoint x="440" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYJznkCKignXz5eh1KU_-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWjUnr6x9XqJAKNyiNSD-1" target="5lrt6YIB7Be11JN4AIcV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="451" as="sourcePoint" />
+            <mxPoint x="410" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
