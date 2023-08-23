@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="5YyGyh4JF-vEXr8V2iEM" modified="2023-08-23T09:14:19.294Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.9" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="5oE_7CieRJGitjAnk8rc" modified="2023-08-23T14:57:41.056Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" version="21.6.9" type="device" pages="2">
   <diagram name="агляд" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="2191" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -763,6 +763,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="1070" as="sourcePoint" />
             <mxPoint x="410" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3uh-NaR-e7jwTi28QNI-1" value="&lt;div&gt;Усё ёсць, але жадання няма. Грамадзянін лічыць няважнай для сябе інфармацыю пра ўздзеянне ўлады на грамадства. Або яму гэтая тэма проста не цікава.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1360" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P3uh-NaR-e7jwTi28QNI-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bZ2Pl1ZKy69hSIRAkDbg-3" target="P3uh-NaR-e7jwTi28QNI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="1270" as="sourcePoint" />
+            <mxPoint x="410" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
