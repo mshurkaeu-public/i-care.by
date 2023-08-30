@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="eKYclJJF4a7UEW4KrPIM" modified="2023-08-30T09:42:53.561Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.0" type="device" pages="7">
+<mxfile host="app.diagrams.net" etag="CuyzEOj-jPPGImdB_OnQ" modified="2023-08-30T09:50:41.074Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.0" type="device" pages="7">
   <diagram name="агляд" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="2191" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -953,8 +953,8 @@
       <root>
         <mxCell id="mp-GRFEnIhx5eOJjfMlt-0" />
         <mxCell id="mp-GRFEnIhx5eOJjfMlt-1" parent="mp-GRFEnIhx5eOJjfMlt-0" />
-        <mxCell id="mp-GRFEnIhx5eOJjfMlt-2" value="Сітуацыя, калі грамадзянін лічыць, што дадзенае асобнае ўздзеянне ўлады на грамадства негатыўна ўплывае на яго асабістыя інтарэсы, але нічога не робіць пры гэтым, можа мець розныя прычыны." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
-          <mxGeometry x="120" width="707" height="80" as="geometry" />
+        <mxCell id="mp-GRFEnIhx5eOJjfMlt-2" value="Сітуацыя, калі грамадзянін лічыць, што дадзенае асобнае ўздзеянне ўлады на грамадства негатыўна ўплывае на яго асабістыя інтарэсы, але нічога не робіць пры гэтым, можа мець розныя прычыны.&lt;br&gt;Тое, што грамадзянін нічога не робіць, калі другі бок адносін негатыўна ўплывае на яго, азначае, што грамадзянін не бароніць свае ўласныя межы." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
+          <mxGeometry x="120" width="707" height="120" as="geometry" />
         </mxCell>
         <UserObject label="" id="mp-GRFEnIhx5eOJjfMlt-3">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;strokeWidth=3;fillColor=none;fontColor=#ffffff;strokeColor=#001DBC;comic=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
@@ -966,7 +966,7 @@
             <mxGeometry x="10" y="25" width="60" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="mp-GRFEnIhx5eOJjfMlt-5" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін нічога не робіць хоць і лічыць, што дадзенае асобнае ўздзеянне негатыўна ўплывае на яго асабістыя інтарэсы." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;dashed=1;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
+        <mxCell id="mp-GRFEnIhx5eOJjfMlt-5" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не бароніць свае ўласныя межы." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;dashed=1;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
           <mxGeometry x="10" y="120" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mp-GRFEnIhx5eOJjfMlt-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" edge="1" parent="mp-GRFEnIhx5eOJjfMlt-1" source="mp-GRFEnIhx5eOJjfMlt-5">
@@ -978,21 +978,18 @@
         <mxCell id="mp-GRFEnIhx5eOJjfMlt-7" value="Грамадзянін наогул не ведае, што можна бараніць свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
           <mxGeometry y="280" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mp-GRFEnIhx5eOJjfMlt-8" value="Грамадзянін не ведае, як гэта магчыма высветліць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
+        <mxCell id="mp-GRFEnIhx5eOJjfMlt-9" value="Грамадзянін не ўмее бараніць свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
           <mxGeometry y="440" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mp-GRFEnIhx5eOJjfMlt-9" value="Грамадзянін не ўмее бараніць свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
-          <mxGeometry y="560" width="320" height="80" as="geometry" />
+        <mxCell id="mp-GRFEnIhx5eOJjfMlt-10" value="Грамадзянін не можа бараніць свае ўласныя межы. Нейкія абмежаванні, якія грамадзянін не ведае як абыйсці. Напрыклад: не мае патрэбных тэхнічных сродкаў, не мае энергіі, не мае часу, рукі звязаны..." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
+          <mxGeometry y="560" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mp-GRFEnIhx5eOJjfMlt-10" value="Грамадзянін не можа гэта высвятляць. Нейкія абмежаванні, якія грамадзянін не ведае як абыйсці. Напрыклад: не мае патрэбных тэхнічных сродкаў, не мае энергіі, не мае часу, рукі звязаны..." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
-          <mxGeometry y="680" width="320" height="120" as="geometry" />
-        </mxCell>
-        <UserObject label="Грамадзянін не жадае гэта высвятляць. (Гэтая сітуацыя разгледжана на старонцы &lt;b&gt;нататка-2&lt;/b&gt;.)" link="data:page/id,X-fnIdIkmw8tWdgJKU5w" id="mp-GRFEnIhx5eOJjfMlt-11">
+        <UserObject label="Грамадзянін не жадае бараніць свае ўласныя межы." id="mp-GRFEnIhx5eOJjfMlt-11">
           <mxCell style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
-            <mxGeometry y="840" width="320" height="80" as="geometry" />
+            <mxGeometry y="720" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="9401asK__METOunhjnVi-0" value="Чалавек не лічыць сябе найважнейшым чалавекам у сваім жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
+        <mxCell id="9401asK__METOunhjnVi-0" value="Чалавек не лічыць сябе важным чалавекам у сваім жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="mp-GRFEnIhx5eOJjfMlt-1">
           <mxGeometry x="400" y="360" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AJOjIs_bk0dOSO79h_5U-0" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="mp-GRFEnIhx5eOJjfMlt-1" source="9401asK__METOunhjnVi-0" target="mp-GRFEnIhx5eOJjfMlt-7">
