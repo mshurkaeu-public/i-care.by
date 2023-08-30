@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="Ro84J7dydw5EDMtOZ_YW" modified="2023-08-30T07:44:32.901Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.0" type="device" pages="3">
+<mxfile host="app.diagrams.net" etag="3UL_q1w2TerHenZaYNl4" modified="2023-08-30T07:55:58.005Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.0" type="device" pages="3">
   <diagram name="агляд" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="2191" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -793,7 +793,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X-fnIdIkmw8tWdgJKU5w" name="нататка-2">
-    <mxGraphModel dx="1364" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -810,7 +810,7 @@
             <mxGeometry x="10" y="25" width="60" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="EY_yUhrlpaQSaqqV_hO4-1" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;?усе?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не жадае высвятляць, як дадзенае асобнае ўздзеянне ўлады на грамадства, уплывае асабіста на яго." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;dashed=1;rotation=0;" parent="1" vertex="1">
+        <mxCell id="EY_yUhrlpaQSaqqV_hO4-1" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не жадае высвятляць, як дадзенае асобнае ўздзеянне ўлады на грамадства, уплывае асабіста на яго." style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#666666;dashed=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="120" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EY_yUhrlpaQSaqqV_hO4-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" parent="1" source="EY_yUhrlpaQSaqqV_hO4-1" edge="1">
@@ -822,7 +822,7 @@
         <mxCell id="8VQipc3Zzne0w4PNsFyw-1" value="&lt;div&gt;Стах нейкіх наступстваў высвятлення. Напрыклад:&lt;br&gt;- я буду разумець, што адбываецца нешта жудаснае. Лепей &quot;схаваць галаву ў пясок&quot;.&lt;/div&gt;&lt;div&gt;- з гэтым патрэбна будзе нешта рабіць, а я не магу. Адчуваць уласную бездапаможнасць вельмі жудасна. Лепей &quot;схаваць галаву ў пясок&quot;.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" parent="1" vertex="1">
           <mxGeometry y="280" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="EmEA8esbLT6sqEBTCGBS-1" value="Адсутнасць цікаўнасці да гэтага пытання." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" vertex="1" parent="1">
+        <mxCell id="EmEA8esbLT6sqEBTCGBS-1" value="Адсутнасць цікаўнасці да гэтага пытання." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;" parent="1" vertex="1">
           <mxGeometry y="520" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
