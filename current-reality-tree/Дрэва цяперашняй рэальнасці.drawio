@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="L0uJcwhtzr1UT5OwblpA" modified="2023-09-08T13:05:09.495Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.2" type="device">
+<mxfile host="app.diagrams.net" etag="LjPfur9ZUXqlquyp5F-G" modified="2023-09-08T13:07:47.746Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.2" type="device">
   <diagram name="ДЦР" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="3845" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -599,7 +599,7 @@
             <mxPoint x="441" y="2490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RzRHco29vnpIjZpa8g06-1" value="2023-09-01. Версія №70" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="RzRHco29vnpIjZpa8g06-1" value="2023-09-08. Версія №85" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-800" y="40" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M5mpbalIPrIZrsdFD9r1-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-5" target="M5mpbalIPrIZrsdFD9r1-3" edge="1">
