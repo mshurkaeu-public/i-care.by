@@ -393,6 +393,10 @@
   "@aboutMyGratitude_2023_09_19_02": {
     "description": "Text for 2023-09-19 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2023_09_25_01": "\n2023-09-25 🦸‍♀️ — 🗯️ паведаміла, што спасылка ва ўступе да ДЦР не відавочная.\n",
+  "@aboutMyGratitude_2023_09_25_01": {
+    "description": "Text for 2023-09-25 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2023_09_title": "\n\n2023-09\n",
   "@aboutMyGratitude_2023_09_title": {
     "description": "Title for 2023-09 list/text on the \"my gratitude\" tab on the \"About\" page."
