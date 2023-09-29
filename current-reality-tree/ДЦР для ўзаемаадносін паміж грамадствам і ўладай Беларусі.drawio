@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="v74Nh27YHay_9Ddt91nx" modified="2023-09-28T09:59:16.278Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="21.8.2" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="c8nphpU9QeZ-gjJ1sLjm" modified="2023-09-29T10:25:09.570Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.0" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -817,10 +817,10 @@
         <mxCell id="trFHjS8OtI2W3_3FPiBj-53" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1300" y="2630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lAl6IwTCLYnLzIhwObD8-1" value="Немагчымасць&amp;nbsp;змяніць значныя для сябе аспекты ва ўзаемаадносінах з уладай вядзе да стрэсу грамадзяніна. Гэты стрэс прыводзіць да вельмі розных праяў. Ад вымяшчэння злосці на слабейшых да праблем з псіхікай і фізічным здароўем.&lt;br&gt;&lt;br&gt;Калі грамадзянін разумее прычыны свайго стрэсу, то немагчымасць змяніць значныя для сябе аспекты ва ўзаемаадносінах мірным шляхам можа прывесці або да &quot;сілавога вырашэння праблемы&quot; або да &quot;выхаду з адносін&quot;.&lt;br&gt;&lt;br&gt;&quot;Выхад з адносін&quot;, напэўна, азначае&amp;nbsp;— пакінуць краіну і пазбавіцца ад усіх сувязей з ёй." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="lAl6IwTCLYnLzIhwObD8-1" value="&lt;div&gt;Калі ёсць аспекты ў адносінах з уладай, якімі грамадзянін не задаволен, але ён ніякім чынам не выказвае сваё незадавальненне гэтым уладзе, тады ўлада атрымвае няяўны сігнал ад грамадзяніна — &quot;са мной так можна&quot;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Грамадзянін у гэтых аспектах цалкам залежыць ад знешніх абставін і не з&#39;яўляецца суб&#39;ектам адносін у гэтых аспектах.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Знешнія абставіны могуць змяніцца і тады можа змяніцца сітуацыя для грамадзяніна і яго адносіны паміж ім і ўладай. Таксама можа змяніцца &lt;br&gt;ўнутранная карціна свету грамадзяніна і прывесці да пераасэнсавання сваіх адносін з уладай.&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#F8E2E2;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-680" y="160" width="400" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="lAl6IwTCLYnLzIhwObD8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="trFHjS8OtI2W3_3FPiBj-3" target="lAl6IwTCLYnLzIhwObD8-1" edge="1">
+        <mxCell id="lAl6IwTCLYnLzIhwObD8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF7A75;" parent="1" source="trFHjS8OtI2W3_3FPiBj-3" target="lAl6IwTCLYnLzIhwObD8-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-620.5" y="210" as="sourcePoint" />
             <mxPoint x="-440" y="400" as="targetPoint" />
@@ -1383,13 +1383,22 @@
             <mxPoint x="-4270" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Usy42NvSzbBwnGGQ3jnm-1" value="Калі &quot;не надта дрэнна&quot; і &quot;нешта ёсць і добрае тут&quot;, &quot;ёсць чарка і шкварка&quot;, то &quot;можна цярпець&quot; і проста жыць далей." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="Usy42NvSzbBwnGGQ3jnm-1" value="&lt;div&gt;Калі ў адносінах грамадзяніна і ўлады зусім няма аспектаў, якімі грамадзянін не задаволены, то грамадзянін нічога не будзе прадпрымаць, каб нешта змяніць.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Знешнія абставіны могуць змяніцца і тады можа змяніцца сітуацыя для грамадзяніна і яго адносіны паміж ім і ўладай. Таксама можа змяніцца ўнутранная карціна свету грамадзяніна і прывесці да пераасэнсавання сваіх адносін з уладай.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-200" y="160" width="400" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="Usy42NvSzbBwnGGQ3jnm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#858585;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="trFHjS8OtI2W3_3FPiBj-3" target="Usy42NvSzbBwnGGQ3jnm-1">
+        <mxCell id="Usy42NvSzbBwnGGQ3jnm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#858585;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-3" target="Usy42NvSzbBwnGGQ3jnm-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-510" y="2130" as="sourcePoint" />
             <mxPoint x="-380" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEr-12BcYO6opY1slGUl-1" value="Немагчымасць&amp;nbsp;змяніць значныя для сябе аспекты ва ўзаемаадносінах з уладай вядзе да стрэсу грамадзяніна. Гэты стрэс прыводзіць да вельмі розных праяў. Можа выліцца ў вымяшчэнне злосці на слабейшых. Вядзе да праблем з псіхікай і фізічным здароўем.&lt;br&gt;&lt;br&gt;Калі грамадзянін разумее прычыны свайго стрэсу, то немагчымасць змяніць значныя для сябе аспекты ва ўзаемаадносінах мірным шляхам можа прывесці або да &quot;сілавога вырашэння праблемы&quot; або да &quot;выхаду з адносін&quot;.&lt;br&gt;&lt;br&gt;&quot;Выхад з адносін&quot;, напэўна, азначае пакінуць краіну і пазбавіцца ад усіх сувязей з ёй." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="160" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BEr-12BcYO6opY1slGUl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#ff0000;" edge="1" parent="1" source="trFHjS8OtI2W3_3FPiBj-3" target="BEr-12BcYO6opY1slGUl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="649" as="sourcePoint" />
+            <mxPoint x="-470" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
