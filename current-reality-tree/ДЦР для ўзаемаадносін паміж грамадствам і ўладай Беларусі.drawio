@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="IBFBm5EDVY2K8H5PGhcw" modified="2023-10-01T13:06:55.823Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.0" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="gzhVvBGSZwJPE_z3JNR4" modified="2023-10-02T10:09:56.833Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.0" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,6 +128,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="653N9guY6KzKqRdlZXlQ-1" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму чалавек, які ведае, што ў кожнага існуюць свае ўласныя межы, не кажа пра гэта грамадзяніну, які пра гэта не ведае." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" vertex="1" parent="1">
+          <mxGeometry x="-4520" y="3920" width="400" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="hYxCh7mmWvaN55Y2kegG-20" value="Чалавек не ведае, што грамадзянін не ведае пра свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="653N9guY6KzKqRdlZXlQ-1" vertex="1">
+          <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="653N9guY6KzKqRdlZXlQ-4" value="Чалавек не ўмее расказваць пра тое, что ў кожнага ёсць свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="653N9guY6KzKqRdlZXlQ-1">
+          <mxGeometry x="40" y="200" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="653N9guY6KzKqRdlZXlQ-6" value="Чалавек не можа пераадолець страх сутыкнення сваёй карціны свету з пануючай у грамадстве практыкай. Расказваць пра тое, что ў кожнага ёсць свае ўласныя межы і як можна заўважаць іх парушэнне — сутыкнуцца з грамадскім асуджэннем. Вельмі малы адсотак здольны супрацьстаяць натоўпу. (Чытаць пра экспэрыменты Аша пра &lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;меркаванні наваколля і сацыяльны ціск&lt;/span&gt;&lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;&lt;/span&gt;)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="653N9guY6KzKqRdlZXlQ-1">
+          <mxGeometry x="40" y="320" width="320" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-8" value="Патрэбна выявіць прычыны, чаму чалавек не ўмее бараніць уласныя межы.&lt;br&gt;&lt;br&gt;Каб умець бараніць свае ўласныя межы самае першае, што неабходна — заўважаць, што межы парушаюцца. Парушэнне межаў робіць чалавеку больна.&lt;br&gt;&lt;br&gt;Не любое &quot;больна&quot; — гэта &quot;кепска&quot;. Калі чалавек самастойна ідзе да стаматолага, то ён дабравольна пагаджаецца пацярпець боль, каб атрымаць нейкі патрэбны яму вынік. Чалавеку неабходна ўмець адказаць сабе на пытанне &quot;хто і калі мае права рабіць мне больна?&quot;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-2520" y="5200" width="320" height="360" as="geometry" />
         </mxCell>
@@ -1597,7 +1609,7 @@
         <mxCell id="AzSIxJlkXMay5v1qxDUT-21" value="Тое, што было &quot;ўкладзена ў галаву&quot; чалавека ў дзяцінстве, робіцца яго &quot;фундаментам&quot;, на якім будуецца ўся карціна свету ў дарослым жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4840" y="3120" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AzSIxJlkXMay5v1qxDUT-22" value="Людзі вакол чалавека з самага маленства папракаюць яго за ўважлівасць да сваіх жаданняў і пачуццяў, за громкі плач, за слёзы, папракаюць за недастаткова безумоўнае падпарадкаванне інтарэсам іншых людзей.&lt;br&gt;&lt;br&gt;Не тлумачаць чалавеку, што з ім адбываецца, што гэта эмоцыі, што так яны адчуваюцца. Не вучаць абапірацца на гэтыя сігналы, разумець сябе, разумець ўласныя межы і паведамляць іншым людзям пра парушэнне гэтых межаў экалагічным чынам." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="AzSIxJlkXMay5v1qxDUT-22" value="Людзі вакол чалавека з самага маленства папракаюць яго за ўважлівасць да сваіх жаданняў і пачуццяў, за громкі плач, за слёзы, папракаюць за недастаткова безумоўнае падпарадкаванне інтарэсам іншых людзей, &quot;мала лі чаго ты жадаеш...&quot;.&lt;br&gt;&lt;br&gt;Не тлумачаць чалавеку, што з ім адбываецца, што гэта эмоцыі, што так яны адчуваюцца. Не вучаць абапірацца на гэтыя сігналы, разумець сябе, разумець ўласныя межы і паведамляць іншым людзям пра парушэнне гэтых межаў экалагічным чынам." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4880" y="3960" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-18" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
@@ -1618,14 +1630,15 @@
             <mxPoint x="-3550" y="3250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzSIxJlkXMay5v1qxDUT-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
+        <mxCell id="AzSIxJlkXMay5v1qxDUT-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3710" y="3369" as="sourcePoint" />
             <mxPoint x="-3550" y="3250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-4720" y="3550" />
-              <mxPoint x="-4340" y="3550" />
-              <mxPoint x="-4340" y="3240" />
+              <mxPoint x="-4900" y="4120" />
+              <mxPoint x="-4900" y="3570" />
+              <mxPoint x="-4350" y="3570" />
+              <mxPoint x="-4350" y="3240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1659,7 +1672,7 @@
         <mxCell id="hYxCh7mmWvaN55Y2kegG-4" value="Грамадзянін зразумеў, што яму &quot;казалі&quot;, але забыўся пра гэта." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="hYxCh7mmWvaN55Y2kegG-1" vertex="1">
           <mxGeometry x="40" y="400" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qgJFmqJG-6sJmBy31DOs-3" value="Грамадзянін самастойна заўважаў, што яму больна ад некаторых учынкаў людзей навокал. Але найбольш часта больна рабілі тыя, хто заўсёды побач, самыя значныя людзі. І гэтыя людзі часта папракалі за тое, што грамадзянін праяўляў сваю боль у нязручны для іх момант і нязручным для іх чынам. Яны тлумачылі яму, што яму не павінна быць больна. Так грамадзянін вучыўся ігнараваць сігналы аб парушэнні ўласных межаў.&lt;br&gt;&lt;br&gt;У выніку, грамадзянін не здолеў самастойна зразумець, што ў яго ёсць ўласныя межы і як іх заўважыць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="hYxCh7mmWvaN55Y2kegG-1">
+        <mxCell id="qgJFmqJG-6sJmBy31DOs-3" value="Грамадзянін самастойна заўважаў, што яму больна ад некаторых учынкаў людзей навокал. Але найбольш часта больна рабілі тыя, хто заўсёды побач, самыя значныя людзі. І гэтыя людзі часта папракалі за тое, што грамадзянін праяўляў сваю боль у нязручны для іх момант і нязручным для іх чынам. Яны тлумачылі яму, што яму не павінна быць больна. Так грамадзянін вучыўся ігнараваць сігналы аб парушэнні ўласных межаў.&lt;br&gt;&lt;br&gt;У выніку, грамадзянін не здолеў самастойна зразумець, што ў яго ёсць ўласныя межы і як іх заўважыць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="hYxCh7mmWvaN55Y2kegG-1" vertex="1">
           <mxGeometry x="40" y="520" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="hYxCh7mmWvaN55Y2kegG-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="hYxCh7mmWvaN55Y2kegG-2" target="AzSIxJlkXMay5v1qxDUT-16" edge="1">
@@ -1738,10 +1751,7 @@
         <mxCell id="hYxCh7mmWvaN55Y2kegG-19" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-3720" y="4150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hYxCh7mmWvaN55Y2kegG-20" value="Павінна быць нейкая прычына, чаму чалавек, які ведае, што можна не падзяліўся гэтай інфармацыяй.&lt;br&gt;&lt;br&gt;Напрыклад, чалавек ведае, што гэта тэарэтычна магчыма, але сам не меў пазітыўнага досведу ў гэтым." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-4440" y="4000" width="320" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="hYxCh7mmWvaN55Y2kegG-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="hYxCh7mmWvaN55Y2kegG-20" target="hYxCh7mmWvaN55Y2kegG-12" edge="1">
+        <mxCell id="hYxCh7mmWvaN55Y2kegG-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="hYxCh7mmWvaN55Y2kegG-20" target="653N9guY6KzKqRdlZXlQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3730" y="3910" as="sourcePoint" />
             <mxPoint x="-3570" y="3830" as="targetPoint" />
@@ -1761,32 +1771,48 @@
         <mxCell id="hYxCh7mmWvaN55Y2kegG-25" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што ў яго існуюць свае ўласныя межы, але &lt;b&gt;не ведае, што можна бараніць&lt;/b&gt; свае &lt;b&gt;ўласныя межы&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-2520" y="5040" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qgJFmqJG-6sJmBy31DOs-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="qgJFmqJG-6sJmBy31DOs-3">
+        <mxCell id="qgJFmqJG-6sJmBy31DOs-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="qgJFmqJG-6sJmBy31DOs-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3710" y="3670" as="sourcePoint" />
             <mxPoint x="-2570" y="4000" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-4720" y="3790" />
-              <mxPoint x="-4950" y="3790" />
-              <mxPoint x="-4950" y="4560" />
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgJFmqJG-6sJmBy31DOs-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="qgJFmqJG-6sJmBy31DOs-3" target="AzSIxJlkXMay5v1qxDUT-16">
+        <mxCell id="qgJFmqJG-6sJmBy31DOs-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="qgJFmqJG-6sJmBy31DOs-3" target="AzSIxJlkXMay5v1qxDUT-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2710" y="4530" as="sourcePoint" />
             <mxPoint x="-2615" y="4340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgJFmqJG-6sJmBy31DOs-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="AzSIxJlkXMay5v1qxDUT-16" target="AzSIxJlkXMay5v1qxDUT-22">
+        <mxCell id="qgJFmqJG-6sJmBy31DOs-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-16" target="AzSIxJlkXMay5v1qxDUT-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2190" y="4350" as="sourcePoint" />
             <mxPoint x="-3871" y="3930" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2120" y="4340" />
               <mxPoint x="-2120" y="3760" />
-              <mxPoint x="-4640" y="3760" />
+              <mxPoint x="-4720" y="3760" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="653N9guY6KzKqRdlZXlQ-2" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-3735" y="4065" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="653N9guY6KzKqRdlZXlQ-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="653N9guY6KzKqRdlZXlQ-2" target="hYxCh7mmWvaN55Y2kegG-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4150" y="4050" as="sourcePoint" />
+            <mxPoint x="-4000" y="4087" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="653N9guY6KzKqRdlZXlQ-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="653N9guY6KzKqRdlZXlQ-4" target="653N9guY6KzKqRdlZXlQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4150" y="4050" as="sourcePoint" />
+            <mxPoint x="-3725" y="4090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="653N9guY6KzKqRdlZXlQ-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="653N9guY6KzKqRdlZXlQ-6" target="653N9guY6KzKqRdlZXlQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4150" y="4170" as="sourcePoint" />
+            <mxPoint x="-3725" y="4090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
