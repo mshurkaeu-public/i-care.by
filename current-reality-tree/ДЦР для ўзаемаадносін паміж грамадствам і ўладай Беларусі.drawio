@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="7eA5sj_HHWwdx3FWFHiI" modified="2023-10-24T08:03:59.181Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.6" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="I0MnJzwefcR0_rH0XwML" modified="2023-10-24T08:25:14.557Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.6" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -283,8 +283,8 @@
         <mxCell id="trFHjS8OtI2W3_3FPiBj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;entryX=0.591;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-14" target="trFHjS8OtI2W3_3FPiBj-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-14" value="Тое, як грамадства рэагуе на ўздзеянне ўлады, складаецца з таго, як рэагуюць на гэта ўздзеянне ўлады асобныя грамадзяне." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="1120" width="260" height="120" as="geometry" />
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-14" value="Тое, як грамадства рэагуе на ўздзеянне ўлады, нейкім чынам складаецца з таго, як рэагуюць на гэта ўздзеянне ўлады асобныя грамадзяне.&lt;br&gt;&lt;br&gt;І гэта не лінейная залежнасць. Існуюць прыклады з жыцця, якія паказваюць, што моцна матываваная меншасць можа прымусіць большасць улічваць іх інтарэсы, нават падпарадкоўваць правілы інтарэсам меншасці. Прыклады з кнігі Талеба &quot;Скура ў гульне&quot;: адсутнасць прадуктаў з гарэхамі ў школах і на борце самалётаў, улік інтарэсаў людзей з дыябетам пры вытворчасці напояў, улік рэлігійных патрабаванняў пры вытворчасці прадуктаў харчавання.&lt;br&gt;&lt;br&gt;Нелінейнасць эфекта, на мой погляд, азначае, што калі большасць грамадзян будзе матывавана &quot;цягнуць&quot; у нейкі бок, то гэта будзе практычна немагчыма стрымаць." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="1120" width="260" height="560" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-16" value="грамадзянін&lt;br&gt;&lt;b&gt;нічога не робіць&lt;/b&gt;&lt;br&gt;у сувязі з гэтым&lt;br&gt;уздзеяннем." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-640" y="2440" width="160" height="120" as="geometry" />
@@ -354,8 +354,8 @@
         <mxCell id="trFHjS8OtI2W3_3FPiBj-54" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-400" y="1040" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1uukreD7585R6irRMM3L-1" value="Тое, як грамадства ўздзейнічае на ўладу, складаецца з таго, як уздзейнічаюць на ўладу асобныя грамадзяне." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1120" width="260" height="120" as="geometry" />
+        <mxCell id="1uukreD7585R6irRMM3L-1" value="Тое, як грамадства ўздзейнічае на ўладу, нейкім чынам складаецца з таго, як уздзейнічаюць на ўладу асобныя грамадзяне.&lt;br&gt;&lt;br&gt;І гэта не лінейная залежнасць. Існуюць прыклады з жыцця, якія &lt;br&gt;паказваюць, што моцна матываваная меншасць можа прымусіць большасць &lt;br&gt;улічваць іх інтарэсы, нават падпарадкоўваць правілы інтарэсам меншасці. &lt;br&gt;Прыклады з кнігі Талеба &quot;Скура ў гульне&quot;: адсутнасць прадуктаў з &lt;br&gt;гарэхамі ў школах і на борце самалётаў, улік інтарэсаў людзей з дыябетам пры вытворчасці напояў, улік рэлігійных патрабаванняў пры вытворчасці &lt;br&gt;прадуктаў харчавання.&lt;br&gt;&lt;br&gt;Нелінейнасць эфекта, на мой погляд, азначае, што калі большасць грамадзян будзе матывавана &quot;цягнуць&quot; у нейкі&lt;br&gt; бок, то гэта будзе практычна немагчыма стрымаць." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1120" width="260" height="560" as="geometry" />
         </mxCell>
         <mxCell id="1uukreD7585R6irRMM3L-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;entryX=0.406;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="1uukreD7585R6irRMM3L-1" target="trFHjS8OtI2W3_3FPiBj-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -415,7 +415,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-3" value="&lt;span&gt;грамадзянін &lt;b&gt;патрабуе&lt;/b&gt;&lt;/span&gt; ад ўлады выканання свайго патрабавання" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;gradientDirection=west;" parent="1" vertex="1">
-          <mxGeometry x="80" y="2120" width="160" height="120" as="geometry" />
+          <mxGeometry x="80" y="2440" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-20" target="utNHYfiI1P-ElOVeHikR-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -985,12 +985,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-2" value="&quot;прынцыпова дамагуся свайго&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2440" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="2600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="2490" as="sourcePoint" />
-            <mxPoint x="250" y="2550" as="targetPoint" />
+            <mxPoint x="300" y="2650" as="sourcePoint" />
+            <mxPoint x="270" y="2700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#00ff00;" parent="1" source="u4h5CCwdaAVt-h-GZreR-3" target="j5JjeeWauFz4Uhg9E__5-15" edge="1">
