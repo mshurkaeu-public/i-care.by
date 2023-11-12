@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="o20W0QxMA8UW5FVZjvwV" modified="2023-11-12T16:24:24.779Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="CfgqlLaNr0pIknnPJ5g3" modified="2023-11-12T16:32:42.882Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ДЦР" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="7980" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="12072" dy="3180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -541,7 +541,7 @@
             <mxPoint x="-1343.92" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RNDRSYDRFuZBWHNrruaz-5" value="Грамадзянін лічыць сябе не самым важным чалавекам у сваім уласным жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="RNDRSYDRFuZBWHNrruaz-5" value="Дарослы грамадзянін лічыць сябе не самым важным чалавекам у сваім уласным жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-4320" y="4720" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RNDRSYDRFuZBWHNrruaz-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AzSIxJlkXMay5v1qxDUT-29" target="RNDRSYDRFuZBWHNrruaz-4" edge="1">
@@ -2310,6 +2310,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5670" y="4639" as="sourcePoint" />
             <mxPoint x="-5510" y="4639" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-5" value="&lt;div&gt;Калі чалавек не лічыць сябе найважнейшым чалавекам у сваім жыцці, то надаваць вялікую ўвагу ўласным эмоцыям не мае ніякага сэнсу.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-3840" y="4640" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RNDRSYDRFuZBWHNrruaz-5" target="3fLgss1ITQnwHuJ1fyQ3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3990" y="4790" as="sourcePoint" />
+            <mxPoint x="-3190" y="4850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-7" value="Чалавек не вучыцца назіраць за сваімі эмоцыямі і разумець іх вытокі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-3760" y="4440" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-5" target="3fLgss1ITQnwHuJ1fyQ3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3990" y="4790" as="sourcePoint" />
+            <mxPoint x="-3830" y="4710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
