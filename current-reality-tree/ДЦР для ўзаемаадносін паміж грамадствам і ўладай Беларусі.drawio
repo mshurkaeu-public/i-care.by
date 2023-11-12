@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="FKAQGGwyL2uD7CVtaFUB" modified="2023-11-12T16:59:16.754Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="w5xxLgnXeorCp3rEvU0D" modified="2023-11-12T17:07:49.555Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ДЦР" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="12072" dy="3180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="7980" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,7 +212,7 @@
             <mxPoint x="-1190" y="4053" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="2023-11-XX. Версія №1XX. &lt;font style=&quot;font-size: 18px;&quot;&gt;Дрэва цяперашняй рэальнасці для ўзаемаадносін паміж грамадствам і ўладай Беларусі.&lt;/font&gt;" id="QYJsRXK22Pn9gDYH14T6-1">
+        <UserObject label="2023-11-12. Версія №190. &lt;font style=&quot;font-size: 18px;&quot;&gt;Дрэва цяперашняй рэальнасці для ўзаемаадносін паміж грамадствам і ўладай Беларусі.&lt;/font&gt;" id="QYJsRXK22Pn9gDYH14T6-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=0;fontSize=18;" parent="1" vertex="1">
             <mxGeometry x="-440" y="1" width="827" height="40" as="geometry" />
           </mxCell>
