@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="zijkMeDS0msrWug8UttF" modified="2023-11-12T15:58:50.662Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="UPpgI7JuwaCpMFbp0QgA" modified="2023-11-12T16:14:56.444Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1593,7 +1593,7 @@
           <mxGeometry x="-4800" y="4920" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-22" value="Найбольш частая сітуацыя ў беларускім грамадстве — людзі вакол чалавека з самага маленства папракаюць яго за ўважлівасць да сваіх жаданняў і пачуццяў, за громкі плач, за слёзы, папракаюць за недастаткова безумоўнае падпарадкаванне інтарэсам іншых людзей, &quot;мала лі чаго ты жадаеш...&quot;.&lt;br&gt;&lt;br&gt;Не тлумачаць чалавеку, што з ім адбываецца, што гэта эмоцыі, што так яны адчуваюцца. Не вучаць абапірацца на гэтыя сігналы, разумець сябе, разумець ўласныя межы і паведамляць іншым людзям пра парушэнне гэтых межаў экалагічным чынам." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-5760" y="6720" width="320" height="320" as="geometry" />
+          <mxGeometry x="-6320" y="4920" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-18" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1613,7 +1613,7 @@
             <mxPoint x="-3670" y="4770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzSIxJlkXMay5v1qxDUT-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
+        <mxCell id="AzSIxJlkXMay5v1qxDUT-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3830" y="4889" as="sourcePoint" />
             <mxPoint x="-3670" y="4770" as="targetPoint" />
@@ -1756,7 +1756,7 @@
         <mxCell id="hYxCh7mmWvaN55Y2kegG-25" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што ў яго існуюць свае ўласныя межы, але &lt;b&gt;не ведае, што можна бараніць&lt;/b&gt; свае &lt;b&gt;ўласныя межы&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-2640" y="8680" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qgJFmqJG-6sJmBy31DOs-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="qgJFmqJG-6sJmBy31DOs-3" edge="1">
+        <mxCell id="qgJFmqJG-6sJmBy31DOs-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="qgJFmqJG-6sJmBy31DOs-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3830" y="6430" as="sourcePoint" />
             <mxPoint x="-2690" y="6760" as="targetPoint" />
@@ -1768,14 +1768,15 @@
             <mxPoint x="-2735" y="7100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgJFmqJG-6sJmBy31DOs-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-16" target="AzSIxJlkXMay5v1qxDUT-22" edge="1">
+        <mxCell id="qgJFmqJG-6sJmBy31DOs-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-16" target="AzSIxJlkXMay5v1qxDUT-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2310" y="7110" as="sourcePoint" />
             <mxPoint x="-3991" y="6690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2210" y="7220" />
-              <mxPoint x="-2210" y="6360" />
-              <mxPoint x="-5600" y="6360" />
+              <mxPoint x="-2200" y="7220" />
+              <mxPoint x="-2200" y="6200" />
+              <mxPoint x="-6480" y="6200" />
+              <mxPoint x="-6480" y="5080" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2298,6 +2299,9 @@
             <mxPoint x="-4630" y="4490" as="sourcePoint" />
             <mxPoint x="-4310" y="4790" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-1" value="Пераважная большасць людзей у беларускім грамадстве катэгарычна не згодны з тым, што найважнейшы чалавек у жыцці чалавека — гэта ён сам/яна сама.&lt;br&gt;&lt;br&gt;(&lt;br&gt;&lt;i&gt;Гэта мая здагадка аб беларускім грамадстве на падстве ананімнага апытання беларусаў пра найважнейшага чалавека ў іх жыцці, на падстве размовы на гэтую тэму з Сяргеем Дубаўцом, на падстве некалькіх размоў з рознымі людзьмі з вышэйшай адукацыяй, на падставе размоў маіх сяброў з іх бацькамі.&lt;br&gt;&lt;br&gt;Як сказаў Дубавец: гэта фармуліроўка — гэта формула эгацэнтрызму. А эгацэнтрызм — гэта адразу дрэнна. Чаму ён вырашыў, што гэты формула эгацэнтрызму і што такое эгацэнтрызм Дубавец адмовіўся абмеркаваць.&lt;br&gt;&lt;/i&gt;)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-6600" y="4400" width="320" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
