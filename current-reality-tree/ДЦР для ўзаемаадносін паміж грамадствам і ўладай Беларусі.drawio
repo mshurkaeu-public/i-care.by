@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="pmejKWoxRLVw9T6S5m5A" modified="2023-11-14T09:18:19.545Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="wOVM9_Dfs5lIyNFJo5kE" modified="2023-11-14T09:38:57.026Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ДЦР" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="8807" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="12899" dy="3180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2070,7 +2070,7 @@
             <mxPoint x="-2670" y="8451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qgJFmqJG-6sJmBy31DOs-3" value="Самы першы досвед сутыкнення з эмацыйным &quot;болем&quot; ад учынкаў іншых людзей для грамадзяніна здарыўся ў кантакце з вельмі значнымі людзьмі — бацькамі. Потым з настаўнікамі і сябрамі.&lt;br&gt;&lt;br&gt;Гэтыя людзі часта папракалі за тое, што грамадзянін заўважаў свой эмацыйны боль у нязручны для іх момант і рэагаваў на яго нязручным для іх чынам. Значыныя людзі грамадзяніна тлумачылі яму, што гэта няважна, што гэта патрэбна ігнараваць. А не тое - грамадзяніна не будуць любіць, не будуць з ім сябраваць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="qgJFmqJG-6sJmBy31DOs-3" value="Самы першы досвед сутыкнення з эмацыйным &quot;болем&quot; ад учынкаў іншых людзей для грамадзяніна здарыўся ў кантакце з вельмі значнымі людзьмі — бацькамі. Потым з настаўнікамі і сябрамі.&lt;br&gt;&lt;br&gt;Гэтыя людзі часта папракалі за тое, што грамадзянін заўважаў свой эмацыйны боль у нязручны для іх момант і рэагаваў на яго нязручным для іх чынам. Значныя людзі грамадзяніна тлумачылі яму, што гэта няважна, што гэта патрэбна ігнараваць. А не тое — грамадзяніна не будуць любіць, не будуць з ім сябраваць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-5880" y="8000" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="WbGDOdR-wIxGMsY7HyMC-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="WJ00U516zGQZVzLkpuzL-6" target="S3tnbKk8vrlpBnAOCh3i-4" edge="1">
@@ -2362,8 +2362,8 @@
             <mxPoint x="-4150" y="4510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-15" value="Вельмі малы адсотак людзей здольны супрацьстаяць натоўпу. (Чытаць пра экспэрыменты Аша пра &lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;меркаванні наваколля і сацыяльны ціск&lt;/span&gt;&lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;&lt;/span&gt;)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-5120" y="5680" width="320" height="120" as="geometry" />
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-15" value="Вельмі малы адсотак людзей здольны супрацьстаяць меркаванню натоўпа нават калі гутарка вядзецца пра тое, што бачыш сваімі ўласнымі вачыма. (Чытаць пра экспэрыменты Аша пра &lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;меркаванні наваколля і сацыяльны ціск&lt;/span&gt;&lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;Думаю, што яшчэ меншы адсотак здольны супрацьстаяць меркаванню натоўпа, калі гутарка вядзецца пра &quot;нябачныя&quot; з&#39;явы. Накшталт меркавання пра тое, хто найважнейшы чалавек у тваім жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="-5120" y="5680" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-4655" y="5525" width="30" height="30" as="geometry" />
@@ -2386,8 +2386,8 @@
             <mxPoint x="-4150" y="4950" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-3720" y="5360" />
-              <mxPoint x="-3720" y="5960" />
-              <mxPoint x="-5240" y="5960" />
+              <mxPoint x="-3720" y="6120" />
+              <mxPoint x="-5240" y="6120" />
               <mxPoint x="-5240" y="5360" />
             </Array>
           </mxGeometry>
