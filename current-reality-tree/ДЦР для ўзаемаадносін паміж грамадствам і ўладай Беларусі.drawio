@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="CJ7RSU-yKtBm110aIf3B" modified="2023-11-14T08:44:13.035Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="88_yEUp5E1PbxJEFc5Ps" modified="2023-11-14T09:00:49.307Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.0" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2468,6 +2468,15 @@
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-8" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-4735" y="5480" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEs8K-WkTOi9_ukTomgo-9" value="&lt;div&gt;У беларускім грамадстве сацыяльнай нормай з&#39;яўляецца падаўленне чалавекам сваіх эмоцый, якія лічацца негатыўнымі.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вось, напрыклад, цытата рэальнага чалавека ад 2023-11-13, якая, на мой погляд, добра адлюстроўвае сітуацыю ў грамадстве:&lt;br&gt;&lt;br&gt;&quot;я даже можно сказать психанула когда в схеме твоей это увидела. Думаю, &lt;br&gt;но епсель, еще и  тут про эмоции началось. Наверное не начну ничего &lt;br&gt;менять, я пока все еще верю, что это какое-то офигеть какое ненужное &lt;br&gt;переусложнение. Ну злишься ты, ну само собой это норм. Ну блин злись &lt;br&gt;как-то так, чтобы пострадавших не было вокруг. &quot;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-6362" y="7960" width="320" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BEs8K-WkTOi9_ukTomgo-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="BEs8K-WkTOi9_ukTomgo-9" target="qgJFmqJG-6sJmBy31DOs-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5550" y="8150" as="sourcePoint" />
+            <mxPoint x="-5390" y="8430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
