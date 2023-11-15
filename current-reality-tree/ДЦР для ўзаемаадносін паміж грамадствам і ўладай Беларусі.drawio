@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="olRI_DpWCEJKT8JMku2F" modified="2023-11-15T09:01:05.610Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.1" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="GGYK31nqtDg1akuQGqWC" modified="2023-11-15T09:04:43.442Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.1" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -734,7 +734,7 @@
         <mxCell id="dRgE6LV4nwExN1NtKPTc-3" value="грамадзянін &lt;u&gt;бароніць&lt;/u&gt; свае ўласныя межы" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-600" y="8720" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dRgE6LV4nwExN1NtKPTc-6" value="&quot;прынцыповы пратэст&quot;&lt;br&gt;&lt;br&gt;або&lt;br&gt;абарона іншых грамадзян ад дрэнных наступствазў&amp;nbsp; гэтага ўздзеяння ўлады" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+        <mxCell id="dRgE6LV4nwExN1NtKPTc-6" value="&quot;прынцыповы пратэст&quot;&lt;br&gt;&lt;br&gt;або &quot;ратаўнік&quot; —&lt;br&gt;&quot;абарона іншых грамадзян ад дрэнных наступствазў&amp;nbsp; гэтага ўздзеяння ўлады&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="-320" y="4480" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="dRgE6LV4nwExN1NtKPTc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="trFHjS8OtI2W3_3FPiBj-19" target="trFHjS8OtI2W3_3FPiBj-46" edge="1">
@@ -991,7 +991,7 @@
             <mxPoint x="130" y="3490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8W4iyF8bD5PTs7V5SWev-2" value="&quot;прынцыпова дамагуся свайго&quot;&lt;br&gt;&lt;br&gt;або&lt;br&gt;грамадзянін упэўнены, што ён вырашае праблему нейкіх іншых грамадзян" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+        <mxCell id="8W4iyF8bD5PTs7V5SWev-2" value="&quot;прынцыпова дамагуся свайго&quot;&lt;br&gt;&lt;br&gt;або &quot;ратаўнік&quot; —&lt;br&gt;&quot;грамадзянін упэўнены, што ён вырашае праблему нейкіх іншых грамадзян&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="200" y="4480" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-2" edge="1">
