@@ -28,6 +28,9 @@ class MyGratitude extends StatelessWidget {
                 style: titleStyle,
               ),
               TextSpan(
+                text: l10n.aboutMyGratitude_2023_11_15_01,
+              ),
+              TextSpan(
                 text: l10n.aboutMyGratitude_2023_11_14_01,
               ),
 
