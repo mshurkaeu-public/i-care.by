@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="Xsk1LU_brF60hyiBsAIl" modified="2023-11-15T10:00:38.997Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.1" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="F6S2ZCJu15Bu8RAFJ0i9" modified="2023-11-15T10:04:06.584Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.1" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ДЦР" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="9634" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="13726" dy="2984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1620,13 +1620,13 @@
           <mxGeometry x="-6240" y="4360" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-21" value="&lt;div&gt;Адсутнасць навыка крытычнага і свядомага асэнсоўвання сацыяльных з&#39;яў і ўласных эмоцый вядзе да таго, што тое, што было &quot;ўкладзена ў галаву&quot; чалавека ў гэтых аспектах ў дзяцінстве, робіцца яго &quot;фундаментам&quot;, на якім будуецца ўся карціна свету ў дарослым жыцці.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-6280" y="5000" width="320" height="160" as="geometry" />
+          <mxGeometry x="-6120" y="4920" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-22" value="Найбольш частая сітуацыя ў беларускім грамадстве — людзі вакол чалавека з самага маленства папракаюць яго за ўважлівасць да сваіх жаданняў і пачуццяў, за громкі плач, за слёзы, папракаюць за недастаткова безумоўнае падпарадкаванне інтарэсам іншых людзей, &quot;мала лі чаго ты жадаеш...&quot;.&lt;br&gt;&lt;br&gt;Не тлумачаць чалавеку, што з ім адбываецца, што гэта эмоцыі, што так яны адчуваюцца. Не вучаць абапірацца на гэтыя сігналы, разумець сябе, разумець ўласныя межы і паведамляць іншым людзям пра парушэнне гэтых межаў экалагічным чынам." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-7440" y="4920" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-27" value="&lt;div&gt;У сям&#39;і, у дзіцячым садку, у школе, ва універсітэце, на працы &lt;b&gt;не&lt;/b&gt; вучаць крытычна ставіцца да існуючых сацыяльных з&#39;яў, да сацыяльнай іерархіі. Нават хутчэй можна сказаць, што прымушаюць завучваць &quot;догмы&quot; і не задаваць дурных пытанняў. Забаронена &quot;атакаваць&quot; аўтарытэт старэйшага, настаўніка ці начальніка. За &quot;атаку&quot; аўтарытэту бацькоў, настаўнікаў, начальнікаў караюць.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-6680" y="5120" width="320" height="240" as="geometry" />
+          <mxGeometry x="-6600" y="5080" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-27" target="AzSIxJlkXMay5v1qxDUT-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2482,7 +2482,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-15" value="Вельмі малы адсотак людзей здольны супрацьстаяць меркаванню натоўпа нават калі гутарка вядзецца пра тое, што бачыш сваімі ўласнымі вачыма. (Чытаць пра экспэрыменты Аша пра &lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;меркаванні наваколля і сацыяльны ціск&lt;/span&gt;&lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;Думаю, што яшчэ меншы адсотак здольны супрацьстаяць меркаванню натоўпа, калі гутарка вядзецца пра &quot;нябачныя&quot; з&#39;явы. Накшталт меркавання пра тое, хто найважнейшы чалавек у тваім жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-6280" y="5200" width="320" height="280" as="geometry" />
+          <mxGeometry x="-6120" y="5121" width="320" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
