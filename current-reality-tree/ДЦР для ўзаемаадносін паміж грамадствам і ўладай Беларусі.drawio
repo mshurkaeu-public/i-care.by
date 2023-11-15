@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="GGYK31nqtDg1akuQGqWC" modified="2023-11-15T09:04:43.442Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.1" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="1R-P_WtBYG_z3BB-n5VA" modified="2023-11-15T09:18:03.200Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.1" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ДЦР" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="8807" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="9634" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,8 +152,8 @@
         <mxCell id="trFHjS8OtI2W3_3FPiBj-16" value="грамадзянін&lt;br&gt;&lt;b&gt;нічога не робіць&lt;/b&gt;&lt;br&gt;у сувязі з гэтым&lt;br&gt;уздзеяннем." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="BEs8K-WkTOi9_ukTomgo-12" value="Мая гіпотэза — вось гэты, падпітваючы сам сабе, цыкл з&#39;яўляецца каранёвай прычынай існавання дыктатуры ў Беларусі" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=#fff;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="-5400" y="4600" width="1520" height="1560" as="geometry" />
+        <mxCell id="BEs8K-WkTOi9_ukTomgo-12" value="Мая гіпотэза — вось гэты, падпітваючы сам сябе, цыкл з&#39;яўляецца каранёвай прычынай існавання дыктатуры ў Беларусі" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;" parent="1" vertex="1">
+          <mxGeometry x="-5880" y="4600" width="1560" height="1560" as="geometry" />
         </mxCell>
         <mxCell id="GoDlm1b_GlB4gomtcci7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;glass=0;shadow=0;gradientColor=none;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="1560" y="6280" width="4360" height="3800" as="geometry" />
@@ -1590,48 +1590,48 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-18" value="Калі чалавек нараджаецца, то ён зусім нічога не ведае аб уладкаванні свету/рэальнасці вакол яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-5760" y="4520" width="320" height="80" as="geometry" />
+          <mxGeometry x="-6240" y="4520" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-19" value="Адзіны шанец выжыць для маленькага чалавека — цалкам даверыцца людзям вакол яго.&lt;br&gt;&lt;br&gt;Цалкам верыць у тое, што ўсё, што гэтыя людзі робяць і кажуць яму, дапаможа яму выжываць у гэтым свеце." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-5280" y="4360" width="320" height="160" as="geometry" />
+          <mxGeometry x="-5760" y="4360" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-21" value="&lt;div&gt;Адсутнасць навыка крытычнага і свядомага асэнсоўвання сацыяльных з&#39;яў і ўласных эмоцый вядзе да таго, што тое, што было &quot;ўкладзена ў галаву&quot; чалавека ў гэтых аспектах ў дзяцінстве, робіцца яго &quot;фундаментам&quot;, на якім будуецца ўся карціна свету ў дарослым жыцці.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-5440" y="4880" width="320" height="160" as="geometry" />
+          <mxGeometry x="-5920" y="4880" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-22" value="Найбольш частая сітуацыя ў беларускім грамадстве — людзі вакол чалавека з самага маленства папракаюць яго за ўважлівасць да сваіх жаданняў і пачуццяў, за громкі плач, за слёзы, папракаюць за недастаткова безумоўнае падпарадкаванне інтарэсам іншых людзей, &quot;мала лі чаго ты жадаеш...&quot;.&lt;br&gt;&lt;br&gt;Не тлумачаць чалавеку, што з ім адбываецца, што гэта эмоцыі, што так яны адчуваюцца. Не вучаць абапірацца на гэтыя сігналы, разумець сябе, разумець ўласныя межы і паведамляць іншым людзям пра парушэнне гэтых межаў экалагічным чынам." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-6480" y="4920" width="320" height="320" as="geometry" />
+          <mxGeometry x="-6960" y="4920" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-18" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4290" y="4490" as="sourcePoint" />
-            <mxPoint x="-4130" y="4730" as="targetPoint" />
+            <mxPoint x="-4770" y="4490" as="sourcePoint" />
+            <mxPoint x="-4610" y="4730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-19" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4290" y="4530" as="sourcePoint" />
-            <mxPoint x="-4130" y="4730" as="targetPoint" />
+            <mxPoint x="-4770" y="4530" as="sourcePoint" />
+            <mxPoint x="-4610" y="4730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-21" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4290" y="4690" as="sourcePoint" />
-            <mxPoint x="-4130" y="4730" as="targetPoint" />
+            <mxPoint x="-4770" y="4690" as="sourcePoint" />
+            <mxPoint x="-4610" y="4730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3990" y="4889" as="sourcePoint" />
-            <mxPoint x="-3830" y="4770" as="targetPoint" />
+            <mxPoint x="-4470" y="4889" as="sourcePoint" />
+            <mxPoint x="-4310" y="4770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-27" value="&lt;div&gt;У сям&#39;і, у дзіцячым садку, у школе, ва універсітэце, на працы &lt;b&gt;не&lt;/b&gt; вучаць крытычна ставіцца да існуючых сацыяльных з&#39;яў, да сацыяльнай іерархіі. Нават хутчэй можна сказаць, што прымушаюць завучваць &quot;догмы&quot; і не задаваць дурных пытанняў. Забаронена &quot;атакаваць&quot; аўтарытэт старэйшага, настаўніка ці начальніка. За &quot;атаку&quot; аўтарытэту бацькоў, настаўнікаў, начальнікаў караюць.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-5920" y="5120" width="320" height="240" as="geometry" />
+          <mxGeometry x="-6400" y="5120" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-27" target="AzSIxJlkXMay5v1qxDUT-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4290" y="4750" as="sourcePoint" />
-            <mxPoint x="-4130" y="4730" as="targetPoint" />
+            <mxPoint x="-4770" y="4750" as="sourcePoint" />
+            <mxPoint x="-4610" y="4730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-29" value="Грамадзянін не лічыць сябе важным чалавекам у сваім уласным жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;" parent="1" vertex="1">
@@ -2159,7 +2159,7 @@
           <mxGeometry x="-5480" y="8360" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GoDlm1b_GlB4gomtcci7-1" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-4880" y="4680" width="80" height="120" as="geometry" />
+          <mxGeometry x="-5360" y="4680" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hAQigQGxuxCvUTN7VuZu-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-2255" y="4165" width="30" height="30" as="geometry" />
@@ -2298,91 +2298,91 @@
           <mxGeometry x="-3040" y="9800" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JqqMSS8aNkaQGxuJM1Ga-6" value="Калі чалавек нараджаецца, то ён зусім бездапаможны і ніяк не зможа выжыць у свеце самастойна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-5760" y="4400" width="320" height="80" as="geometry" />
+          <mxGeometry x="-6240" y="4400" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JqqMSS8aNkaQGxuJM1Ga-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="JqqMSS8aNkaQGxuJM1Ga-6" target="AzSIxJlkXMay5v1qxDUT-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-5090" y="4450" as="sourcePoint" />
-            <mxPoint x="-4770" y="4750" as="targetPoint" />
+            <mxPoint x="-5570" y="4450" as="sourcePoint" />
+            <mxPoint x="-5250" y="4750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-1" value="Пераважная большасць людзей у беларускім грамадстве катэгарычна не згодны з тым, што найважнейшы чалавек у жыцці чалавека — гэта ён сам/яна сама.&lt;br&gt;&lt;br&gt;&lt;i&gt;(Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падставе ананімнага апытання беларусаў пра найважнейшага чалавека ў іх жыцці &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt; ,&lt;br&gt;- на падставе публічнай &quot;размовы&quot; на гэтую тэму з Сяргеем Дубаўцом,&lt;br&gt;- на падставе некалькіх прыватных размоў з рознымі людзьмі з вышэйшай адукацыяй,&lt;br&gt;- на падставе размоў маіх сяброў з іх бацькамі.&lt;br&gt;&lt;br&gt;Як сказаў Дубавец: гэтая фармуліроўка — гэта формула эгацэнтрызму. А эгацэнтрызм — гэта адразу дрэнна.&lt;br&gt;&lt;br&gt;Чаму ён вырашыў, што гэта формула эгацэнтрызму і што такое эгацэнтрызм увогуле Дубавец адмовіўся абмеркаваць. Па нейкай прычыне мае пытанні былі праігнараваны.)&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-5280" y="5080" width="320" height="560" as="geometry" />
+          <mxGeometry x="-5760" y="5080" width="320" height="560" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-2" value="Пераважная большасць людзей у беларускім грамадстве не лічаць сябе найважнейшымі людзьмі ў сваім жыцці.&lt;br&gt;&lt;br&gt;(&lt;br&gt;&lt;i&gt;Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падстве ананімнага апытання &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt;&lt;br&gt;&lt;/i&gt;- на падстве ўласных жыццёвых назіранняў)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-4320" y="5240" width="320" height="240" as="geometry" />
+          <mxGeometry x="-4800" y="5240" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-5" value="&lt;div&gt;Калі чалавек не лічыць сябе найважнейшым чалавекам у сваім жыцці, то надаваць вялікую ўвагу ўласным эмоцыям не лагічна для яго.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-4320" y="4440" width="320" height="120" as="geometry" />
+          <mxGeometry x="-4800" y="4440" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RNDRSYDRFuZBWHNrruaz-5" target="3fLgss1ITQnwHuJ1fyQ3-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4150" y="4790" as="sourcePoint" />
-            <mxPoint x="-3350" y="4850" as="targetPoint" />
+            <mxPoint x="-4630" y="4790" as="sourcePoint" />
+            <mxPoint x="-3830" y="4850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-7" value="Чалавек не вучыцца мэтанакіравана назіраць за сваімі эмоцыямі і разумець іх вытокі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-4800" y="4280" width="320" height="80" as="geometry" />
+          <mxGeometry x="-5280" y="4280" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-5" target="3fLgss1ITQnwHuJ1fyQ3-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4150" y="4630" as="sourcePoint" />
-            <mxPoint x="-3990" y="4550" as="targetPoint" />
+            <mxPoint x="-4630" y="4630" as="sourcePoint" />
+            <mxPoint x="-4470" y="4550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3980" y="4500" />
-              <mxPoint x="-3980" y="4320" />
+              <mxPoint x="-4460" y="4500" />
+              <mxPoint x="-4460" y="4320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-9" value="Чалавек не ўмее назіраць за сваімі эмоцыямі і разумець іх вытокі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-7040" y="4720" width="320" height="80" as="geometry" />
+          <mxGeometry x="-7520" y="4720" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-7" target="3fLgss1ITQnwHuJ1fyQ3-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3990" y="4510" as="sourcePoint" />
-            <mxPoint x="-3830" y="4490" as="targetPoint" />
+            <mxPoint x="-4470" y="4510" as="sourcePoint" />
+            <mxPoint x="-4310" y="4490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-7080" y="4320" />
-              <mxPoint x="-7080" y="4760" />
+              <mxPoint x="-7560" y="4320" />
+              <mxPoint x="-7560" y="4760" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-11" value="Чалавек не можа навучыць іншых людзей таму, што сам не разумее і з чым не жадае разабрацца." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-7040" y="4960" width="320" height="80" as="geometry" />
+          <mxGeometry x="-7520" y="4960" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3M3iMHrq4sZV-lB5rsYP-6" target="AzSIxJlkXMay5v1qxDUT-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4470" y="4750" as="sourcePoint" />
-            <mxPoint x="-4310" y="4670" as="targetPoint" />
+            <mxPoint x="-4950" y="4750" as="sourcePoint" />
+            <mxPoint x="-4790" y="4670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RNDRSYDRFuZBWHNrruaz-5" target="3fLgss1ITQnwHuJ1fyQ3-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4470" y="4750" as="sourcePoint" />
-            <mxPoint x="-4310" y="4510" as="targetPoint" />
+            <mxPoint x="-4950" y="4750" as="sourcePoint" />
+            <mxPoint x="-4790" y="4510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-15" value="Вельмі малы адсотак людзей здольны супрацьстаяць меркаванню натоўпа нават калі гутарка вядзецца пра тое, што бачыш сваімі ўласнымі вачыма. (Чытаць пра экспэрыменты Аша пра &lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;меркаванні наваколля і сацыяльны ціск&lt;/span&gt;&lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;Думаю, што яшчэ меншы адсотак здольны супрацьстаяць меркаванню натоўпа, калі гутарка вядзецца пра &quot;нябачныя&quot; з&#39;явы. Накшталт меркавання пра тое, хто найважнейшы чалавек у тваім жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-5280" y="5680" width="320" height="280" as="geometry" />
+          <mxGeometry x="-5760" y="5680" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-4815" y="5525" width="30" height="30" as="geometry" />
+          <mxGeometry x="-5295" y="5525" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-16" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4670" y="5330" as="sourcePoint" />
-            <mxPoint x="-4525" y="5510" as="targetPoint" />
+            <mxPoint x="-5150" y="5330" as="sourcePoint" />
+            <mxPoint x="-5005" y="5510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-2" target="3fLgss1ITQnwHuJ1fyQ3-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4470" y="4750" as="sourcePoint" />
-            <mxPoint x="-4310" y="4950" as="targetPoint" />
+            <mxPoint x="-4950" y="4750" as="sourcePoint" />
+            <mxPoint x="-4790" y="4950" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3880" y="5360" />
-              <mxPoint x="-3880" y="6120" />
-              <mxPoint x="-5400" y="6120" />
-              <mxPoint x="-5400" y="5360" />
+              <mxPoint x="-4360" y="5360" />
+              <mxPoint x="-4360" y="6120" />
+              <mxPoint x="-5880" y="6120" />
+              <mxPoint x="-5880" y="5360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2412,56 +2412,56 @@
         </mxCell>
         <mxCell id="3M3iMHrq4sZV-lB5rsYP-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-9" target="3M3iMHrq4sZV-lB5rsYP-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-5000" y="4520" as="sourcePoint" />
-            <mxPoint x="-6440" y="5360" as="targetPoint" />
+            <mxPoint x="-5480" y="4520" as="sourcePoint" />
+            <mxPoint x="-6920" y="5360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3M3iMHrq4sZV-lB5rsYP-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-6615" y="4865" width="30" height="30" as="geometry" />
+          <mxGeometry x="-7095" y="4865" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3M3iMHrq4sZV-lB5rsYP-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-11" target="3M3iMHrq4sZV-lB5rsYP-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-6600" y="4995" as="sourcePoint" />
-            <mxPoint x="-6430" y="5370" as="targetPoint" />
+            <mxPoint x="-7080" y="4995" as="sourcePoint" />
+            <mxPoint x="-6910" y="5370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-1" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-6695" y="4820" width="80" height="120" as="geometry" />
+          <mxGeometry x="-7175" y="4820" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-3" value="Для чалавека не лагічна спрыяць таму, каб іншыя людзі навучыліся надаваць вялікую ўвагу сваім эмоцыям, навучыліся разумець вытокі сваіх эмоцый." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-4800" y="4120" width="320" height="120" as="geometry" />
+          <mxGeometry x="-5280" y="4120" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-5" target="BEs8K-WkTOi9_ukTomgo-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3990" y="4510" as="sourcePoint" />
-            <mxPoint x="-4470" y="4330" as="targetPoint" />
+            <mxPoint x="-4470" y="4510" as="sourcePoint" />
+            <mxPoint x="-4950" y="4330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3960" y="4500" />
-              <mxPoint x="-3960" y="4180" />
+              <mxPoint x="-4440" y="4500" />
+              <mxPoint x="-4440" y="4180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-5" value="Чалавек не жадае разабрацца з тым, як навучыць іншых людзей назіраць за сваімі эмоцыямі і разумець іх вытокі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-7040" y="4840" width="320" height="80" as="geometry" />
+          <mxGeometry x="-7520" y="4840" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BEs8K-WkTOi9_ukTomgo-3" target="BEs8K-WkTOi9_ukTomgo-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4790" y="4330" as="sourcePoint" />
-            <mxPoint x="-6990" y="4810" as="targetPoint" />
+            <mxPoint x="-5270" y="4330" as="sourcePoint" />
+            <mxPoint x="-7470" y="4810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-7120" y="4180" />
-              <mxPoint x="-7120" y="4880" />
+              <mxPoint x="-7600" y="4180" />
+              <mxPoint x="-7600" y="4880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BEs8K-WkTOi9_ukTomgo-5" target="3M3iMHrq4sZV-lB5rsYP-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-6710" y="4770" as="sourcePoint" />
-            <mxPoint x="-6605" y="4890" as="targetPoint" />
+            <mxPoint x="-7190" y="4770" as="sourcePoint" />
+            <mxPoint x="-7085" y="4890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-8" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-4895" y="5480" width="80" height="120" as="geometry" />
+          <mxGeometry x="-5375" y="5480" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-9" value="&lt;div&gt;У беларускім грамадстве сацыяльнай нормай з&#39;яўляецца падаўленне чалавекам сваіх эмоцый, якія лічацца негатыўнымі.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Далей цытата рэальнага чалавека. Цытата, на мой погляд, часткова падтрымвае падаўленне негатыўных эмоцый і ігнараванне эмоцый наогул. Але патрэбна падкрэсліць, што адначасова цытата і &quot;дазваляе&quot; існаванне злосці. Думаю, што многія беларускія бацькі нават і &quot;не дазволілі&quot; б дзіцю злавацца.&lt;br&gt;&lt;br&gt;2023-11-13:&lt;br&gt;&quot;я даже можно сказать психанула когда в схеме твоей это увидела. Думаю, &lt;br&gt;но епсель, еще и  тут про эмоции началось. Наверное не начну ничего &lt;br&gt;менять, я пока все еще верю, что это какое-то офигеть какое ненужное &lt;br&gt;переусложнение. Ну злишься ты, ну само собой это норм. Ну блин злись &lt;br&gt;как-то так, чтобы пострадавших не было вокруг. Вон [імя яе сына] пока что вообще меня тырит, когда злой. Очевидно же, что нужно его научить не поубивать всех вокруг, пока злится.&quot;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-6360" y="7880" width="320" height="560" as="geometry" />
@@ -2475,19 +2475,19 @@
         <mxCell id="BEs8K-WkTOi9_ukTomgo-11" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-5960" y="8080" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RNDRSYDRFuZBWHNrruaz-5" value="Дарослы чалавек лічыць сябе не самым важным чалавекам у сваім уласным жыцці. І не можа нават дапусціць думкі, што гэта не так." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-4800" y="4680" width="320" height="120" as="geometry" />
+        <mxCell id="RNDRSYDRFuZBWHNrruaz-5" value="Дарослы чалавек лічыць сябе не самым важным чалавекам у сваім уласным жыцці. &lt;u&gt;І не можа нават дапусціць думкі, што гэта не так&lt;/u&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-5280" y="4680" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-1" target="3fLgss1ITQnwHuJ1fyQ3-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4031" y="5239" as="sourcePoint" />
-            <mxPoint x="-3871" y="5239" as="targetPoint" />
+            <mxPoint x="-4511" y="5239" as="sourcePoint" />
+            <mxPoint x="-4351" y="5239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-15" target="3fLgss1ITQnwHuJ1fyQ3-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-4950" y="5370" as="sourcePoint" />
-            <mxPoint x="-4800" y="5645" as="targetPoint" />
+            <mxPoint x="-5430" y="5370" as="sourcePoint" />
+            <mxPoint x="-5280" y="5645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
