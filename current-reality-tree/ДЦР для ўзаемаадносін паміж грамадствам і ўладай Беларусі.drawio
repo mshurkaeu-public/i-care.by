@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="SyTGddW1wtNIxWynisAN" modified="2023-11-15T09:37:11.334Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.1" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="0PwdRmZt0Tp46GnfPe4p" modified="2023-11-15T09:48:35.400Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.1" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,7 +153,26 @@
           <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-12" value="Мая гіпотэза — вось гэты, падпітваючы сам сябе, цыкл з&#39;яўляецца каранёвай прычынай існавання дыктатуры ў Беларусі" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;" parent="1" vertex="1">
-          <mxGeometry x="-5920" y="4600" width="1600" height="1560" as="geometry" />
+          <mxGeometry x="-5920" y="4600" width="1320" height="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-2" value="Пераважная большасць людзей у беларускім грамадстве не лічаць сябе найважнейшымі людзьмі ў сваім жыцці.&lt;br&gt;&lt;br&gt;(&lt;br&gt;&lt;i&gt;Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падстве ананімнага апытання &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt;&lt;br&gt;&lt;/i&gt;- на падстве ўласных жыццёвых назіранняў)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="BEs8K-WkTOi9_ukTomgo-12" vertex="1">
+          <mxGeometry x="960" y="280" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-15" value="Вельмі малы адсотак людзей здольны супрацьстаяць меркаванню натоўпа нават калі гутарка вядзецца пра тое, што бачыш сваімі ўласнымі вачыма. (Чытаць пра экспэрыменты Аша пра &lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;меркаванні наваколля і сацыяльны ціск&lt;/span&gt;&lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;Думаю, што яшчэ меншы адсотак здольны супрацьстаяць меркаванню натоўпа, калі гутарка вядзецца пра &quot;нябачныя&quot; з&#39;явы. Накшталт меркавання пра тое, хто найважнейшы чалавек у тваім жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="BEs8K-WkTOi9_ukTomgo-12" vertex="1">
+          <mxGeometry x="160" y="521" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-1" value="Пераважная большасць людзей у беларускім грамадстве катэгарычна не згодны з тым, што найважнейшы чалавек у жыцці чалавека — гэта ён сам/яна сама.&lt;br&gt;&lt;br&gt;&lt;i&gt;(Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падставе ананімнага апытання беларусаў пра найважнейшага чалавека ў іх жыцці &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt; ,&lt;br&gt;- на падставе публічнай &quot;размовы&quot; на гэтую тэму з Сяргеем Дубаўцом,&lt;br&gt;- на падставе некалькіх прыватных размоў з рознымі людзьмі з вышэйшай адукацыяй,&lt;br&gt;- на падставе размоў маіх сяброў з іх бацькамі.&lt;br&gt;&lt;br&gt;Як сказаў Дубавец: гэтая фармуліроўка — гэта формула эгацэнтрызму. А эгацэнтрызм — гэта адразу дрэнна.&lt;br&gt;&lt;br&gt;Чаму ён вырашыў, што гэта формула эгацэнтрызму і што такое эгацэнтрызм увогуле Дубавец адмовіўся абмеркаваць. Па нейкай прычыне мае пытанні былі праігнараваны.)&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="BEs8K-WkTOi9_ukTomgo-12" vertex="1">
+          <mxGeometry x="160" y="840" width="320" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="BEs8K-WkTOi9_ukTomgo-12" source="3fLgss1ITQnwHuJ1fyQ3-2" target="3fLgss1ITQnwHuJ1fyQ3-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="150" as="sourcePoint" />
+            <mxPoint x="1130" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="1480" />
+              <mxPoint x="320" y="1480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GoDlm1b_GlB4gomtcci7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;glass=0;shadow=0;gradientColor=none;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="1560" y="6280" width="4360" height="3800" as="geometry" />
@@ -2282,12 +2301,6 @@
             <mxPoint x="-5730" y="4750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-1" value="Пераважная большасць людзей у беларускім грамадстве катэгарычна не згодны з тым, што найважнейшы чалавек у жыцці чалавека — гэта ён сам/яна сама.&lt;br&gt;&lt;br&gt;&lt;i&gt;(Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падставе ананімнага апытання беларусаў пра найважнейшага чалавека ў іх жыцці &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt; ,&lt;br&gt;- на падставе публічнай &quot;размовы&quot; на гэтую тэму з Сяргеем Дубаўцом,&lt;br&gt;- на падставе некалькіх прыватных размоў з рознымі людзьмі з вышэйшай адукацыяй,&lt;br&gt;- на падставе размоў маіх сяброў з іх бацькамі.&lt;br&gt;&lt;br&gt;Як сказаў Дубавец: гэтая фармуліроўка — гэта формула эгацэнтрызму. А эгацэнтрызм — гэта адразу дрэнна.&lt;br&gt;&lt;br&gt;Чаму ён вырашыў, што гэта формула эгацэнтрызму і што такое эгацэнтрызм увогуле Дубавец адмовіўся абмеркаваць. Па нейкай прычыне мае пытанні былі праігнараваны.)&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-5760" y="5080" width="320" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-2" value="Пераважная большасць людзей у беларускім грамадстве не лічаць сябе найважнейшымі людзьмі ў сваім жыцці.&lt;br&gt;&lt;br&gt;(&lt;br&gt;&lt;i&gt;Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падстве ананімнага апытання &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt;&lt;br&gt;&lt;/i&gt;- на падстве ўласных жыццёвых назіранняў)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-4800" y="5240" width="320" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-5" value="&lt;div&gt;Калі чалавек не лічыць сябе найважнейшым чалавекам у сваім жыцці, то надаваць вялікую ўвагу ўласным эмоцыям не лагічна для яго.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-4800" y="4440" width="320" height="120" as="geometry" />
         </mxCell>
@@ -2332,14 +2345,11 @@
             <mxPoint x="-5270" y="4670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RNDRSYDRFuZBWHNrruaz-5" target="3fLgss1ITQnwHuJ1fyQ3-2" edge="1">
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RNDRSYDRFuZBWHNrruaz-5" target="3fLgss1ITQnwHuJ1fyQ3-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-4950" y="4750" as="sourcePoint" />
             <mxPoint x="-4790" y="4510" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-15" value="Вельмі малы адсотак людзей здольны супрацьстаяць меркаванню натоўпа нават калі гутарка вядзецца пра тое, што бачыш сваімі ўласнымі вачыма. (Чытаць пра экспэрыменты Аша пра &lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;меркаванні наваколля і сацыяльны ціск&lt;/span&gt;&lt;span lang=&quot;be&quot; class=&quot;HwtZe&quot;&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;Думаю, што яшчэ меншы адсотак здольны супрацьстаяць меркаванню натоўпа, калі гутарка вядзецца пра &quot;нябачныя&quot; з&#39;явы. Накшталт меркавання пра тое, хто найважнейшы чалавек у тваім жыцці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-5760" y="5680" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-5295" y="5525" width="30" height="30" as="geometry" />
@@ -2348,18 +2358,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5150" y="5330" as="sourcePoint" />
             <mxPoint x="-5005" y="5510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-2" target="3fLgss1ITQnwHuJ1fyQ3-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4950" y="4750" as="sourcePoint" />
-            <mxPoint x="-4790" y="4950" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-4360" y="5360" />
-              <mxPoint x="-4360" y="6120" />
-              <mxPoint x="-5880" y="6120" />
-              <mxPoint x="-5880" y="5360" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3M3iMHrq4sZV-lB5rsYP-1" value="&lt;div&gt;Чалавек лічыць найважнейшым чалавекам у сваім жыцці некага іншага. Дзяцей, бацькоў, жонку або мужа… Прысвячае гэтаму іншаму чалавеку/людзям сваё жыццё. Прыносіць сябе ў ахвяру гэтаму чалавеку і спадзяецца, што атрымае любоў у зварот.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;fillColor=default;" parent="1" vertex="1">
