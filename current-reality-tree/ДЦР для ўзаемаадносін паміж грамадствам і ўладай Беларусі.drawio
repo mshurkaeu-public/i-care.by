@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="IwiQQFeDt8b3L1E177vC" modified="2023-11-18T09:43:37.799Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.3" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="2disSaFVuEbtdBAEdOB8" modified="2023-11-18T10:40:52.091Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.3" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-2" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя тыпы ўздзеяння грамадзяніна на ўладу ў сувязі са сваім пажаданнем/патрабаваннем да ўлады&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;" parent="1" vertex="1">
-          <mxGeometry x="320" y="5360" width="640" height="240" as="geometry" />
+          <mxGeometry x="320" y="1440" width="640" height="240" as="geometry" />
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-3" value="&lt;span&gt;грамадзянін &lt;b&gt;патрабуе&lt;/b&gt;&lt;/span&gt; ад ўлады выканання свайго патрабавання" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;gradientDirection=west;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
@@ -141,7 +141,7 @@
           <mxGeometry x="440" y="80" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя рэакцыі грамадзяніна на дадзенае асобнае ўздзеянне ўлады на грамадства&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;" parent="1" vertex="1">
-          <mxGeometry x="-960" y="5360" width="640" height="240" as="geometry" />
+          <mxGeometry x="-960" y="1440" width="640" height="240" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-46" value="&lt;span&gt;грамадзянін&lt;br&gt;&lt;b&gt;супраціўляецца&lt;/b&gt;&lt;/span&gt;&lt;br&gt;гэтаму ўздзеянню" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
           <mxGeometry x="440" y="80" width="160" height="120" as="geometry" />
@@ -180,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GoDlm1b_GlB4gomtcci7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;glass=0;shadow=0;gradientColor=none;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="7600" width="4360" height="3800" as="geometry" />
+          <mxGeometry x="1840" y="7740" width="4360" height="3800" as="geometry" />
         </mxCell>
         <mxCell id="GoDlm1b_GlB4gomtcci7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;glass=0;shadow=0;gradientColor=none;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="-6190" y="7740" width="4360" height="3800" as="geometry" />
@@ -222,19 +222,19 @@
           <mxGeometry x="40" y="960" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-5" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не спрабуе высветліць, наколькі важнае яго патрабаванне да ўлады для яго самога." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=cross-hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="2040" y="4200" width="400" height="1360" as="geometry" />
+          <mxGeometry x="2040" y="4400" width="400" height="1960" as="geometry" />
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-1" value="Грамадзянін &lt;b&gt;не жадае спрабаваць высветліць&lt;/b&gt;, як дадзенае асобнае яго патрабаванне да ўлады ўплывае на яго асабістыя інтарэсы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="8KlCnt_39-ksAiERNVki-5" vertex="1">
-          <mxGeometry x="40" y="1640" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="1800" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-6" value="Грамадзянін &lt;b&gt;не можа паспрабаваць высветліць&lt;/b&gt;,&amp;nbsp;наколькі важнае яго патрабаванне да ўлады для яго самога." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="8KlCnt_39-ksAiERNVki-5" vertex="1">
-          <mxGeometry x="40" y="480" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="1080" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-8" value="Грамадзянін &lt;b&gt;наогул не ведае, што можна спрабаваць высветліць&lt;/b&gt;, наколькі важнае яго патрабаванне да ўлады для яго самога." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="8KlCnt_39-ksAiERNVki-5" vertex="1">
           <mxGeometry x="40" y="120" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-9" value="Грамадзянін &lt;b&gt;не ўмее спрабаваць высвятляць&lt;/b&gt;, наколькі важнае яго патрабаванне да ўлады для яго самога. Напрыклад:&lt;br&gt;не ведае як гэта рабіць,&lt;br&gt;не ўмее карыстацца нейкімі інструментамі, якія дапамагаюць гэта зрабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="8KlCnt_39-ksAiERNVki-5" vertex="1">
-          <mxGeometry x="40" y="280" width="320" height="160" as="geometry" />
+          <mxGeometry x="40" y="840" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lAl6IwTCLYnLzIhwObD8-4" value="У гэтым слупку ўсе&amp;nbsp;(&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты стаўлення грамадзяніна да свайго ўласнага патрабавання да ўлады" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="1160" y="2240" width="400" height="8240" as="geometry" />
@@ -243,7 +243,7 @@
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="u4h5CCwdaAVt-h-GZreR-3" value="Грамадзянін &lt;b&gt;лічыць, што&lt;/b&gt; выкананне дадзенага асобнага яго патрабавання да ўлады не істотна ўплывае на яго асабістыя інтарэсы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="lAl6IwTCLYnLzIhwObD8-4" vertex="1">
-          <mxGeometry x="40" y="4720" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="4840" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-1" value="Грамадзянін &lt;b&gt;лічыць, што&lt;/b&gt; выкананне дадзенага асобнага яго &lt;u&gt;пажадання&lt;/u&gt; да ўлады істотна &lt;b&gt;павялічыць пазітыў існуючай &lt;u&gt;добрай&lt;/u&gt;&lt;/b&gt; для яго &lt;b&gt;сітуацыі&lt;/b&gt;." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="lAl6IwTCLYnLzIhwObD8-4" vertex="1">
           <mxGeometry x="40" y="5200" width="320" height="120" as="geometry" />
@@ -252,7 +252,7 @@
           <mxGeometry x="40" y="8080" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-5" value="Грамадзянін ведае, што ў яго ёсць патрабаванне да ўлады, але &lt;b&gt;не мае меркавання, наколькі яно важнае&lt;/b&gt; для яго самога." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="lAl6IwTCLYnLzIhwObD8-4" vertex="1">
-          <mxGeometry x="40" y="3840" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="4040" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;і&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-60" y="759" width="120" height="80" as="geometry" />
@@ -340,7 +340,7 @@
         <mxCell id="trFHjS8OtI2W3_3FPiBj-10" value="Грамадства неяк уздзейнічае на ўладу, а ўлада неяк рэагуе на гэта ўздзеянне.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;u&gt;(Пажаданні&lt;/u&gt; і &lt;u&gt;патрабаванні&lt;/u&gt; грамадства, яго ўздзеянне на ўладу)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="440" y="920" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;entryX=0.591;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-14" target="trFHjS8OtI2W3_3FPiBj-5" edge="1">
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;entryX=0.591;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-14" target="trFHjS8OtI2W3_3FPiBj-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-560" y="1400" as="sourcePoint" />
           </mxGeometry>
@@ -410,7 +410,7 @@
         <mxCell id="1uukreD7585R6irRMM3L-1" value="Тое, як грамадства ўздзейнічае на ўладу, нейкім чынам складаецца з таго, як уздзейнічаюць на ўладу асобныя грамадзяне.&lt;br&gt;&lt;br&gt;&lt;br&gt;І гэта не лінейная залежнасць. Існуюць прыклады з жыцця, якія &lt;br&gt;паказваюць, што моцна матываваная меншасць можа прымусіць большасць улічваць іх інтарэсы, нават падпарадкоўваць правілы інтарэсам меншасці. &lt;br&gt;Прыклады з кнігі Талеба &quot;Скура ў гульне&quot;: адсутнасць прадуктаў з &lt;br&gt;гарэхамі ў школах і на борце самалётаў, улік інтарэсаў людзей з дыябетам пры вытворчасці напояў, улік рэлігійных патрабаванняў пры вытворчасці &lt;br&gt;прадуктаў харчавання.&lt;br&gt;&lt;br&gt;Нелінейнасць эфекта, на мой погляд, дае надзею, што калі большасць грамадзян пачне матывавана і свядома &quot;цягнуць&quot; у нейкі бок, то гэта будзе практычна немагчыма стрымаць." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="1120" width="260" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="1uukreD7585R6irRMM3L-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;entryX=0.406;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="1uukreD7585R6irRMM3L-1" target="trFHjS8OtI2W3_3FPiBj-10" edge="1">
+        <mxCell id="1uukreD7585R6irRMM3L-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;entryX=0.406;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="1uukreD7585R6irRMM3L-1" target="trFHjS8OtI2W3_3FPiBj-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="1400" as="sourcePoint" />
             <mxPoint x="-65" y="1053" as="targetPoint" />
@@ -429,15 +429,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-6" value="грамадзянін &lt;u&gt;спрабуе&lt;/u&gt; высветліць, наколькі важнае яго патрабаванне да ўлады для яго самога." style="text;html=1;strokeColor=#666666;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="6600" width="200" height="120" as="geometry" />
+          <mxGeometry x="1600" y="6800" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="j5JjeeWauFz4Uhg9E__5-5" target="j5JjeeWauFz4Uhg9E__5-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1742" y="4459.5" as="sourcePoint" />
             <mxPoint x="1580" y="4529.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1850" y="6140" />
-              <mxPoint x="1850" y="6660" />
+              <mxPoint x="1880" y="6340" />
+              <mxPoint x="1880" y="6860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -502,7 +502,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-14" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1670" y="6720" width="60" height="30" as="geometry" />
+          <mxGeometry x="1670" y="6920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u4h5CCwdaAVt-h-GZreR-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#858585;" parent="1" source="u4h5CCwdaAVt-h-GZreR-3" target="hciFa1by5LvJK5wFZR8x-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -761,7 +761,7 @@
           <mxGeometry x="-880" y="10040" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dRgE6LV4nwExN1NtKPTc-6" value="&quot;прынцыповы пратэст&quot;&lt;br&gt;&lt;br&gt;або &quot;ратаўнік&quot; —&lt;br&gt;&quot;абарона іншых грамадзян ад дрэнных наступствазў&amp;nbsp; гэтага ўздзеяння ўлады&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="5880" width="120" height="160" as="geometry" />
+          <mxGeometry x="-800" y="7200" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="dRgE6LV4nwExN1NtKPTc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="trFHjS8OtI2W3_3FPiBj-19" target="trFHjS8OtI2W3_3FPiBj-46" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -770,7 +770,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dRgE6LV4nwExN1NtKPTc-9" value="&quot;я заусёды з уладай&quot;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="5880" width="120" height="160" as="geometry" />
+          <mxGeometry x="-800" y="6921" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="dRgE6LV4nwExN1NtKPTc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#00ff00;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-19" target="trFHjS8OtI2W3_3FPiBj-35" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -846,44 +846,38 @@
             <mxPoint x="-440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B-bpBMmvNKlXQOACEIDy-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="dRgE6LV4nwExN1NtKPTc-9" edge="1">
+        <mxCell id="B-bpBMmvNKlXQOACEIDy-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="dRgE6LV4nwExN1NtKPTc-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1100" y="6112" as="sourcePoint" />
-            <mxPoint x="-680" y="6240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="B-bpBMmvNKlXQOACEIDy-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="dRgE6LV4nwExN1NtKPTc-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-549" y="5882" as="sourcePoint" />
-            <mxPoint x="-490" y="5680" as="targetPoint" />
+            <mxPoint x="-970" y="6840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-9" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1520" y="6110" width="60" height="30" as="geometry" />
+          <mxGeometry x="1520" y="6310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-1" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1140" y="6990" width="60" height="30" as="geometry" />
+          <mxGeometry x="1140" y="7110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-2" value="грамадзянін &lt;u&gt;не&lt;/u&gt; спрабуе высветліць, наколькі важнае яго патрабаванне да ўлады для яго самога." style="text;html=1;strokeColor=#666666;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="5600" width="200" height="120" as="geometry" />
+          <mxGeometry x="1600" y="5800" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="j5JjeeWauFz4Uhg9E__5-5" target="8KlCnt_39-ksAiERNVki-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="5070" as="sourcePoint" />
             <mxPoint x="1710" y="5370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1850" y="6140" />
-              <mxPoint x="1850" y="5660" />
+              <mxPoint x="1880" y="6340" />
+              <mxPoint x="1880" y="5860" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8KlCnt_39-ksAiERNVki-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="j5JjeeWauFz4Uhg9E__5-1" target="kJyxvsDuKLN6N7F3R-1t-24" edge="1">
+        <mxCell id="8KlCnt_39-ksAiERNVki-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="j5JjeeWauFz4Uhg9E__5-1" target="kJyxvsDuKLN6N7F3R-1t-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="5070" as="sourcePoint" />
             <mxPoint x="1710" y="4770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8KlCnt_39-ksAiERNVki-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" target="kJyxvsDuKLN6N7F3R-1t-24" edge="1">
+        <mxCell id="8KlCnt_39-ksAiERNVki-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" target="kJyxvsDuKLN6N7F3R-1t-24" edge="1" source="8KlCnt_39-ksAiERNVki-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2080" y="5180" as="sourcePoint" />
             <mxPoint x="1810" y="4710" as="targetPoint" />
@@ -902,7 +896,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-1" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не ведае, што ў яго ёсць нейкае патрабаванне да ўлады" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=zigzag-line;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="2040" y="720" width="400" height="1000" as="geometry">
+          <mxGeometry x="2040" y="960" width="400" height="2640" as="geometry">
             <mxRectangle x="-1280" y="1480" width="900" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -910,13 +904,13 @@
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-5" value="&lt;b&gt;Грамадзянін не ўмее&lt;/b&gt; даведвацца пра сваі патрабаванні да ўлады. " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="u8j-KaxE-SIpMTuqpm7c-1" vertex="1">
-          <mxGeometry x="40" y="400" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="760" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-6" value="&lt;b&gt;Грамадзянін не можа&lt;/b&gt; даведацца пра свае патрабаванні да ўлады. " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="u8j-KaxE-SIpMTuqpm7c-1" vertex="1">
-          <mxGeometry x="40" y="1280" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="1560" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-7" value="&lt;b&gt;Грамадзянін не жадае ведаць&lt;/b&gt; пра свае патрабаванні да ўлады.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="u8j-KaxE-SIpMTuqpm7c-1" vertex="1">
-          <mxGeometry x="40" y="1520" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="2480" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-2" target="u8j-KaxE-SIpMTuqpm7c-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -997,7 +991,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-25" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="2505" y="5885" width="30" height="30" as="geometry" />
+          <mxGeometry x="2505" y="6245" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-25" target="j5JjeeWauFz4Uhg9E__5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1018,12 +1012,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-2" value="&quot;прынцыпова дамагуся свайго&quot;&lt;br&gt;&lt;br&gt;або &quot;ратаўнік&quot; —&lt;br&gt;&quot;грамадзянін упэўнены, што ён вырашае праблему нейкіх іншых грамадзян&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="480" y="5800" width="120" height="160" as="geometry" />
+          <mxGeometry x="680" y="7200" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="8W4iyF8bD5PTs7V5SWev-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-2" edge="1">
+        <mxCell id="8W4iyF8bD5PTs7V5SWev-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="5930" as="sourcePoint" />
-            <mxPoint x="500" y="6240" as="targetPoint" />
+            <mxPoint x="1010" y="7040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#00ff00;" parent="1" source="u4h5CCwdaAVt-h-GZreR-3" target="j5JjeeWauFz4Uhg9E__5-15" edge="1">
@@ -1033,12 +1027,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-5" value="&quot;прыемная нагода для ўзаемадзеяння&quot;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="680" y="5800" width="120" height="160" as="geometry" />
+          <mxGeometry x="680" y="6920" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="8W4iyF8bD5PTs7V5SWev-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-5" edge="1">
+        <mxCell id="8W4iyF8bD5PTs7V5SWev-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="5755" as="sourcePoint" />
-            <mxPoint x="680" y="6240" as="targetPoint" />
+            <mxPoint x="970" y="6840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-1" value="УР.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
@@ -1156,7 +1150,7 @@
           <mxGeometry x="3200" y="1040" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-3" value="Улада не будуе інструменты неабходныя для таго, каб грамадзяне заўважалі свае пажаданні.&lt;b&gt; Адсутнічаюць або недастаткова якасныя інструменты&lt;/b&gt;, якія дазваляюць грамадзяніну хутка заўважаць свае патрабаванні да ўлады.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="1960" width="320" height="160" as="geometry" />
+          <mxGeometry x="2840" y="2480" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-6" target="u8j-KaxE-SIpMTuqpm7c-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1176,7 +1170,7 @@
             <mxPoint x="2290" y="2050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WjF_KWa-nUk0AI6wJrLU-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-26" target="8KlCnt_39-ksAiERNVki-6" edge="1">
+        <mxCell id="WjF_KWa-nUk0AI6wJrLU-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-9" target="8KlCnt_39-ksAiERNVki-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3505" y="4170" as="sourcePoint" />
             <mxPoint x="2290" y="3530" as="targetPoint" />
@@ -1551,7 +1545,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-1" value="Павінны быць нейкія прычыны, чаму грамадзянін спрабуе высветліць, як гэтае ўздзеянне ўплывае на яго асабістыя інтарэсы. Але, магчыма, для дадзенага аналізу гэтыя прычыны не істотны." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-2400" y="6801" width="320" height="120" as="geometry" />
+          <mxGeometry x="-2400" y="6800" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZGO1qrQpXi79sG8c-zsR-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;strokeColor=#001DBC;dashPattern=12 12;" parent="1" source="trFHjS8OtI2W3_3FPiBj-28" target="ZGO1qrQpXi79sG8c-zsR-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1870,7 +1864,7 @@
           <mxGeometry x="-2490" y="6200" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-20" value="Павінны быць нейкія прычыны, чаму грамадзянін спрабуе высветліць, наколькі важнае яго патрабаванне да ўлады для яго самога. Але, магчыма, для дадзенага аналізу гэтыя прычыны не істотны." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="2080" y="6600" width="320" height="120" as="geometry" />
+          <mxGeometry x="2080" y="6800" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="kJyxvsDuKLN6N7F3R-1t-20" target="j5JjeeWauFz4Uhg9E__5-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1888,10 +1882,10 @@
           <mxGeometry x="-1880" y="6800" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-18" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1800" y="6600" width="80" height="120" as="geometry" />
+          <mxGeometry x="1800" y="6800" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1905" y="5345" width="30" height="30" as="geometry" />
+          <mxGeometry x="1905" y="5365" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="kJyxvsDuKLN6N7F3R-1t-24" target="8KlCnt_39-ksAiERNVki-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1904,20 +1898,20 @@
             <mxPoint x="1944" y="4556" as="sourcePoint" />
             <mxPoint x="1870" y="4241" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1700" y="6840" />
-              <mxPoint x="2520" y="6840" />
-              <mxPoint x="2520" y="5900" />
+              <mxPoint x="1700" y="7040" />
+              <mxPoint x="2520" y="7040" />
+              <mxPoint x="2520" y="6260" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-23" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="2400" y="5840" width="80" height="120" as="geometry" />
+          <mxGeometry x="2400" y="6200" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-26" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1800" y="5600" width="80" height="120" as="geometry" />
+          <mxGeometry x="1800" y="5800" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1905" y="1845" width="30" height="30" as="geometry" />
+          <mxGeometry x="1905" y="2365" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="kJyxvsDuKLN6N7F3R-1t-27" target="hciFa1by5LvJK5wFZR8x-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1931,22 +1925,16 @@
             <mxPoint x="-630" y="5570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4sducl9t49WLYDzldoge-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="dRgE6LV4nwExN1NtKPTc-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-730" y="5890" as="sourcePoint" />
-            <mxPoint x="-680" y="5680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4sducl9t49WLYDzldoge-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="JhPQRlO-KKgyaNoFn7eW-13" target="trFHjS8OtI2W3_3FPiBj-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1190" y="6630" as="sourcePoint" />
             <mxPoint x="-430" y="5570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4sducl9t49WLYDzldoge-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="dRgE6LV4nwExN1NtKPTc-6" edge="1">
+        <mxCell id="4sducl9t49WLYDzldoge-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="dRgE6LV4nwExN1NtKPTc-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-550" y="5880" as="sourcePoint" />
-            <mxPoint x="-480" y="6220" as="targetPoint" />
+            <mxPoint x="-1010" y="7040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4sducl9t49WLYDzldoge-5" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
@@ -1977,19 +1965,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4sducl9t49WLYDzldoge-8" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1540" y="5630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4sducl9t49WLYDzldoge-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="5890" as="sourcePoint" />
-            <mxPoint x="680" y="5600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4sducl9t49WLYDzldoge-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="5730" as="sourcePoint" />
-            <mxPoint x="480" y="5600" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1540" y="5830" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4sducl9t49WLYDzldoge-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4sducl9t49WLYDzldoge-11" target="4sducl9t49WLYDzldoge-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2641,6 +2617,45 @@
         </mxCell>
         <mxCell id="4sducl9t49WLYDzldoge-25" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-3040" y="6520" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-1" value="&quot;я заусёды з уладай&quot;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-1720" y="5600" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1050" y="5810" as="sourcePoint" />
+            <mxPoint x="-1380" y="5800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-3" value="&quot;прынцыповы пратэст&quot;&lt;br&gt;&lt;br&gt;або &quot;ратаўнік&quot; —&lt;br&gt;&quot;абарона іншых грамадзян ад дрэнных наступствазў&amp;nbsp; гэтага ўздзеяння ўлады&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-1720" y="5960" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1669" y="5962" as="sourcePoint" />
+            <mxPoint x="-1380" y="5820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-5" value="&quot;прыемная нагода для ўзаемадзеяння&quot;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="5600" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="5490" as="sourcePoint" />
+            <mxPoint x="1390" y="5800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-7" value="&quot;прынцыпова дамагуся свайго&quot;&lt;br&gt;&lt;br&gt;або &quot;ратаўнік&quot; —&lt;br&gt;&quot;грамадзянін упэўнены, што ён вырашае праблему нейкіх іншых грамадзян&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="5960" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1440" y="5690" as="sourcePoint" />
+            <mxPoint x="1390" y="5820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="2625" y="5525" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
