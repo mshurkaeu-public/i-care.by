@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="fffKd2cduwcdOUDbkrLB" modified="2023-12-05T16:28:33.943Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.5" type="device" pages="2">
+<mxfile host="app.diagrams.net" etag="m-L-4qh8zDuGMHsvXV7T" modified="2023-12-07T03:44:25.105Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.7" type="device" pages="2">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,13 +148,13 @@
         <mxCell id="hciFa1by5LvJK5wFZR8x-2" value="грамадзянін&lt;b&gt; нічога не робіць&lt;/b&gt;&lt;br&gt;у сувязі са сваім патрабаваннем да ЧіС." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя рэакцыі грамадзяніна на дадзенае асобнае ўздзеянне ЧіС на грамадства&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
+        <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя тыпы рэакцыі грамадзяніна на дадзенае асобнае ўздзеянне ЧіС на грамадства&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="1680" width="640" height="240" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-46" value="&lt;span&gt;грамадзянін&lt;br&gt;&lt;b&gt;супраціўляецца&lt;/b&gt;&lt;/span&gt;&lt;br&gt;гэтаму ўздзеянню" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-35" value="&lt;span&gt;грамадзянін&lt;br&gt;&lt;b&gt;падтрымлівае&lt;/b&gt;&lt;/span&gt;&lt;br&gt;гэтае ўздзеянне" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-35" value="&lt;span&gt;грамадзянін&lt;br&gt;&lt;b&gt;падтрымвае&lt;/b&gt;&lt;/span&gt;&lt;br&gt;гэтае ўздзеянне" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
           <mxGeometry x="240" y="80" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-16" value="грамадзянін&lt;br&gt;&lt;b&gt;нічога не робіць&lt;/b&gt;&lt;br&gt;у сувязі з гэтым&lt;br&gt;уздзеяннем." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
@@ -229,7 +229,7 @@
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-1" value="Грамадзянін не здолеў самастойна стварыць веды, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
           <mxGeometry x="40" y="1040" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mNDuvsE3x9D3qr3CAPvf-1" value="Грамадзянін не стаў &quot;слухаць&quot;, што яму &quot;казалі&quot;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" vertex="1" parent="zGS259PE60l4bMru1_S_-14">
+        <mxCell id="mNDuvsE3x9D3qr3CAPvf-1" value="Грамадзянін не стаў &quot;слухаць&quot;, што яму &quot;казалі&quot;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
           <mxGeometry x="40" y="680" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-5" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не спрабуе высветліць, наколькі важнае яго патрабаванне да ўлады для яго самога." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=cross-hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;startSize=23;" parent="1" vertex="1">
@@ -1344,7 +1344,7 @@
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-3" value="Грамадзянін не здолеў самастойна стварыць веды, што можна&amp;nbsp;спрабаваць высветліць, як асобнае ўздзеянне ЧіС на грамадства ўплывае на яго асабістыя інтарэсы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="xnrBB2Fq_RxJNupQK1go-1" vertex="1">
           <mxGeometry x="40" y="1240" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mNDuvsE3x9D3qr3CAPvf-4" value="Грамадзянін не стаў &quot;слухаць&quot;, што яму &quot;казалі&quot;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" vertex="1" parent="xnrBB2Fq_RxJNupQK1go-1">
+        <mxCell id="mNDuvsE3x9D3qr3CAPvf-4" value="Грамадзянін не стаў &quot;слухаць&quot;, што яму &quot;казалі&quot;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="xnrBB2Fq_RxJNupQK1go-1" vertex="1">
           <mxGeometry x="40" y="880" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="kJyxvsDuKLN6N7F3R-1t-3" target="sWhszSgmb0RcljNFikNW-1" edge="1">
@@ -2614,8 +2614,8 @@
         <mxCell id="4sducl9t49WLYDzldoge-25" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2960" y="6520" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-1" value="&quot;я заусёды з ЧіС&quot;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="5600" width="120" height="160" as="geometry" />
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-1" value="&quot;Не бывае такога, каб чыноўнікі/начальнікі былі неправы. Падтрымваю!&quot;&lt;br&gt;&lt;br&gt;Або &quot;я заусёды з тымі, хто здаецца мне мацнейшымі. А зараз ЧіС выглядаюць для мяне мацнейшымі за грамадства.&quot;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="5600" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2623,8 +2623,8 @@
             <mxPoint x="1380" y="5800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-3" value="&quot;прынцыповы пратэст&quot;&lt;br&gt;&lt;br&gt;або &quot;ратаўнік&quot; —&lt;br&gt;&quot;абарона іншых грамадзян ад дрэнных наступствазў&amp;nbsp; гэтага ўздзеяння ЧіС&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="5960" width="120" height="160" as="geometry" />
+        <mxCell id="13r2Nvp9Kn0BFzEVIfSK-3" value="&quot;Прынцыповы пратэст&quot; — &quot;я працягваю пратэставаць супраць ужо існуючых праблем у адносінах.&quot;&lt;br&gt;&lt;br&gt;Або &quot;ратаўнік ахвяр&quot; — &quot;я заўсёды бараню слабейшых&quot; — &quot;абарона іншых грамадзян ад дрэнных наступствазў гэтага ўздзеяння ЧіС.&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="5960" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2735,7 +2735,7 @@
             <mxPoint x="2150" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7HJYcvp0D3TOGis_o3fu-2" value="&lt;div align=&quot;center&quot;&gt;Каментар-разважанне&lt;br&gt;&lt;br&gt;&lt;/div&gt;Цытата з тлумачальнага слоўніка:&lt;br&gt;&lt;b&gt;ўлада&lt;/b&gt; — права і магчымасць распараджацца кім-небудзь, чым-небудзь, &lt;b&gt;права і магчымасць падпарадкоўваць сваёй волі&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;br&gt;Атрымваецца, што хто падпарадкоўвае сваёй волі, у таго і ўлада. І я пакуль не магу адказаць сам сабе на пытанне, ці дастаткова для валодання ўладай адной толькі рэакцыі на ўздзеянне на сябе.&lt;br&gt;&lt;br&gt;&lt;br&gt;Цытата з канстытуцыі Рэспублікі Беларусь:&lt;br&gt;Артыкул 3. &lt;b&gt;Адзінай крыніцай&lt;/b&gt; дзяржаўнай &lt;b&gt;улады&lt;/b&gt; і &lt;br&gt;носьбітам суверэнітэту ў Рэспубліцы Беларусь &lt;b&gt;з’яўляецца народ&lt;/b&gt;. Народ &lt;br&gt;ажыццяўляе сваю ўладу непасрэдна, праз прадстаўнічыя і іншыя органы ў формах і межах, вызначаных Канстытуцыяй.&lt;br&gt;&lt;br&gt;&lt;br&gt;У 2020 годзе на мітынгах у Беларусі шмат людзей крычалі: &quot;Мы тут улада!&quot;&lt;br&gt;Мне цікава — &quot;ў чым гэта выражаецца?&quot;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;rotation=0;arcSize=7;" parent="1" vertex="1">
+        <mxCell id="7HJYcvp0D3TOGis_o3fu-2" value="&lt;div align=&quot;center&quot;&gt;Каментар-разважанне&lt;br&gt;&lt;br&gt;&lt;/div&gt;Цытата з тлумачальнага слоўніка:&lt;br&gt;&lt;b&gt;ўлада&lt;/b&gt; — права і магчымасць распараджацца кім-небудзь, чым-небудзь, &lt;b&gt;права і магчымасць падпарадкоўваць сваёй волі&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;br&gt;Атрымваецца, што хто падпарадкоўвае сваёй волі, у таго і ўлада. І я пакуль не магу адказаць сам сабе на пытанне, ці дастаткова для валодання ўладай адной толькі рэакцыі на ўздзеянне на сябе.&lt;br&gt;&lt;br&gt;&lt;br&gt;Цытата з канстытуцыі Рэспублікі Беларусь:&lt;br&gt;Артыкул 3. &lt;b&gt;Адзінай крыніцай&lt;/b&gt; дзяржаўнай &lt;b&gt;улады&lt;/b&gt; і носьбітам суверэнітэту ў Рэспубліцы Беларусь &lt;b&gt;з’яўляецца народ&lt;/b&gt;. Народ ажыццяўляе сваю ўладу непасрэдна, праз прадстаўнічыя і іншыя органы ў формах і межах, вызначаных Канстытуцыяй.&lt;br&gt;&lt;br&gt;&lt;br&gt;У 2020 годзе на мітынгах у Беларусі шмат людзей крычалі: &quot;Мы тут улада!&quot; І я таксама крычаў.&lt;br&gt;А сёння мне цікава — &quot;ў чым гэта выражаецца?&quot;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;rotation=0;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="-280" y="920" width="560" height="440" as="geometry" />
         </mxCell>
         <mxCell id="7HJYcvp0D3TOGis_o3fu-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-5" target="7HJYcvp0D3TOGis_o3fu-2" edge="1">
@@ -2750,25 +2750,25 @@
             <mxPoint x="-280" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mNDuvsE3x9D3qr3CAPvf-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="zGS259PE60l4bMru1_S_-21" target="mNDuvsE3x9D3qr3CAPvf-1">
+        <mxCell id="mNDuvsE3x9D3qr3CAPvf-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="zGS259PE60l4bMru1_S_-21" target="mNDuvsE3x9D3qr3CAPvf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3170" y="1350" as="sourcePoint" />
             <mxPoint x="2970" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mNDuvsE3x9D3qr3CAPvf-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="mNDuvsE3x9D3qr3CAPvf-1" target="btv4xjchgonVZ7w9jkdx-1">
+        <mxCell id="mNDuvsE3x9D3qr3CAPvf-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="mNDuvsE3x9D3qr3CAPvf-1" target="btv4xjchgonVZ7w9jkdx-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2650" y="1330" as="sourcePoint" />
             <mxPoint x="2585" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mNDuvsE3x9D3qr3CAPvf-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="mNDuvsE3x9D3qr3CAPvf-4" target="btv4xjchgonVZ7w9jkdx-5">
+        <mxCell id="mNDuvsE3x9D3qr3CAPvf-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="mNDuvsE3x9D3qr3CAPvf-4" target="btv4xjchgonVZ7w9jkdx-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2650" y="4770" as="sourcePoint" />
             <mxPoint x="2585" y="4530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mNDuvsE3x9D3qr3CAPvf-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="xnrBB2Fq_RxJNupQK1go-14" target="mNDuvsE3x9D3qr3CAPvf-4">
+        <mxCell id="mNDuvsE3x9D3qr3CAPvf-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="xnrBB2Fq_RxJNupQK1go-14" target="mNDuvsE3x9D3qr3CAPvf-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3170" y="4850" as="sourcePoint" />
             <mxPoint x="2970" y="4770" as="targetPoint" />
