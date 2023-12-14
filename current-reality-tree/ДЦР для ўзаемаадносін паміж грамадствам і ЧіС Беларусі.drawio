@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="K-XM6gxq0zxjHz-gMM9i" modified="2023-12-14T14:40:16.282Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.8" type="device" pages="3">
+<mxfile host="app.diagrams.net" etag="5gM6f85_EDgbKtgmEQzc" modified="2023-12-14T14:51:10.392Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.8" type="device" pages="3">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="Уступ">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3124,6 +3124,44 @@
         </mxCell>
         <mxCell id="gIr87uA6KMi6UM9plRD9-1" value="…" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=60;" vertex="1" parent="1">
           <mxGeometry x="-650" y="1120" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wvWh9_RpUeVN9rCIfkWV-1" value="У склаўшыхся абставінах у грамадзяніна ўзнікае нейкае пажаданне/патрабаванне да ЧіС, якое ўзнікла па прычынах не выкліканых ўздзеяннем ЧіС на грамадства.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(У тым ліку патрабаванне ў грамадзяніна можа адсутнічаць. Буду лічыць, што гэта тое самае што патрабаванне ёсць, але яно &quot;пустое&quot;, &quot;0&quot;.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="920" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wvWh9_RpUeVN9rCIfkWV-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wvWh9_RpUeVN9rCIfkWV-1" target="lAl6IwTCLYnLzIhwObD8-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1520" y="1890" as="sourcePoint" />
+            <mxPoint x="-1510" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvWh9_RpUeVN9rCIfkWV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trFHjS8OtI2W3_3FPiBj-3" target="wvWh9_RpUeVN9rCIfkWV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-420" y="660" as="sourcePoint" />
+            <mxPoint x="10" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="600" />
+              <mxPoint x="-1360" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvWh9_RpUeVN9rCIfkWV-4" value="У склаўшыхся абставінах у грамадзяніна ўзнікае нейкае пажаданне/патрабаванне да ЧіС, якое ўзнікла як рэакцыя грамадзяніна на ўздзеянне ЧіС на грамадства.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(У тым ліку патрабаванне ў грамадзяніна можа адсутнічаць. Буду лічыць, што гэта тое самае што патрабаванне ёсць, але яно &quot;пустое&quot;, &quot;0&quot;.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="920" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wvWh9_RpUeVN9rCIfkWV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="trFHjS8OtI2W3_3FPiBj-3" target="wvWh9_RpUeVN9rCIfkWV-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="690" as="sourcePoint" />
+            <mxPoint x="10" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="600" />
+              <mxPoint x="1360" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wvWh9_RpUeVN9rCIfkWV-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wvWh9_RpUeVN9rCIfkWV-4" target="JhPQRlO-KKgyaNoFn7eW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="1076" as="sourcePoint" />
+            <mxPoint x="1210" y="1990" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
