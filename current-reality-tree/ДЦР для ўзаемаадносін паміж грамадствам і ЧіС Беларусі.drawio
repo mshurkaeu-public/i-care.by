@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="HteHOskvkPixYgXmktbo" modified="2023-12-29T17:27:33.966Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.15" type="device" pages="4">
+<mxfile host="app.diagrams.net" etag="ePLHyGAR6AIjgdLMs7ca" modified="2023-12-29T17:33:38.374Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.15" type="device" pages="4">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1404,7 +1404,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-13" value="&quot;ЧіС Робяць&quot; Частка №2.&lt;br&gt;Нейкія ўздзеяння ЧіС на грамадства, якія адлюстраваны ў правай частцы схемы. А тут яны для таго, каб было зразумела, што грамадзянін неяк на іх рэагуе." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;fontSize=16;fontStyle=0;glass=0;shadow=0;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="2085" y="1680" width="320" height="120" as="geometry" />
+          <mxGeometry x="2120" y="1680" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-13" target="WjF_KWa-nUk0AI6wJrLU-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3247,6 +3247,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3480" y="2630" as="sourcePoint" />
             <mxPoint x="-3345" y="2800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MkFDsAKqxZXtBMqR0RTq-1" value="Кожны грамадзянін Беларусі ўносіць свой уклад." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="1520" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MkFDsAKqxZXtBMqR0RTq-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="MkFDsAKqxZXtBMqR0RTq-1" source="gIr87uA6KMi6UM9plRD9-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-745" y="1610" as="sourcePoint" />
+            <mxPoint x="-1035" y="1204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
