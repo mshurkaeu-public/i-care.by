@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="QnQhv8tDXmSboWZi6D40" modified="2023-12-30T06:44:09.849Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.16" type="device" pages="4">
+<mxfile host="app.diagrams.net" etag="-Ewp-WSv1sceK-HKr46e" modified="2023-12-30T21:40:02.168Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.16" type="device" pages="4">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,7 +437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="7980" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="7980" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -522,17 +522,26 @@
         <mxCell id="1uukreD7585R6irRMM3L-2" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-680" y="1400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zGS259PE60l4bMru1_S_-14" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не ведае, што можна даведвацца пра ўздзеянне ЧіС на грамадства" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="4160" y="600" width="400" height="920" as="geometry" />
+        <mxCell id="zGS259PE60l4bMru1_S_-14" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму бацькі грамадзяніна нават мэтанакіравана не ўклалі яму ў галаву веды, што можна даведвацца пра ўздзеянне ЧіС на грамадства" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
+          <mxGeometry x="4200" y="600" width="400" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="zGS259PE60l4bMru1_S_-1" value="Ніхто ніколі не паведамляў грамадзяніну, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
+        <mxCell id="zGS259PE60l4bMru1_S_-1" value="Бацькі грамадзяніна самі не ведаюць, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zGS259PE60l4bMru1_S_-7" value="Грамадзянін &quot;слухаў&quot;, але не зразумеў, што яму паведамлялі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
-          <mxGeometry x="40" y="800" width="320" height="80" as="geometry" />
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-2" value="Бацькі грамадзяніна ведаюць, што можна даведвацца пра ўздзеянне ЧіС на грамадства, але не ведаюць, што гэтаму можна/патрэбна самастойна вучыць дзіцё." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" vertex="1" parent="zGS259PE60l4bMru1_S_-14">
+          <mxGeometry x="40" y="200" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mNDuvsE3x9D3qr3CAPvf-1" value="Грамадзянін нават не стаў &quot;слухаць&quot;, што яму паведамлялі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
+        <mxCell id="E6Pdcet48CIMthdxIpfv-12" value="Бацькі не ведаюць, што грамадзянін не ведае, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
+          <mxGeometry x="40" y="360" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-5" value="Бацькі грамадзяніна ведаюць, што можна даведвацца пра ўздзеянне ЧіС на грамадства, але не ўмеюць гэтаму самастойна вучыць дзіцё." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" vertex="1" parent="zGS259PE60l4bMru1_S_-14">
+          <mxGeometry x="40" y="480" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-7" value="Бацькі грамадзяніна ведаюць, што можна даведвацца пра ўздзеянне ЧіС на грамадства, ўмеюць гэтаму самастойна вучыць, але не могуць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" vertex="1" parent="zGS259PE60l4bMru1_S_-14">
           <mxGeometry x="40" y="640" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-9" value="Бацькі грамадзяніна ведаюць, што можна даведвацца пра ўздзеянне ЧіС на грамадства, ўмеюць гэтаму самастойна вучыць, могуць вучыць, але не жадаюць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" vertex="1" parent="zGS259PE60l4bMru1_S_-14">
+          <mxGeometry x="40" y="800" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-5" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не спрабуе высветліць, наколькі важнае яго патрабаванне да ЧіС для яго самога." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=cross-hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="-2440" y="4760" width="400" height="1960" as="geometry" />
@@ -1487,38 +1496,26 @@
             <mxPoint x="3190" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zGS259PE60l4bMru1_S_-5" value="Ніхто з бацькоў, настаўнікаў, сяброў, калег грамадзяніна не ведае, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="5240" y="360" width="320" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="zGS259PE60l4bMru1_S_-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zGS259PE60l4bMru1_S_-5" target="zGS259PE60l4bMru1_S_-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5250" y="500" as="sourcePoint" />
-            <mxPoint x="4030" y="1210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="4620" y="420" />
-              <mxPoint x="4620" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zGS259PE60l4bMru1_S_-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="TJLECN_oBxhWEtQTq3mC-1" target="zGS259PE60l4bMru1_S_-5" edge="1">
+        <mxCell id="zGS259PE60l4bMru1_S_-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="TJLECN_oBxhWEtQTq3mC-1" target="zGS259PE60l4bMru1_S_-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3430" y="1250" as="sourcePoint" />
             <mxPoint x="3270" y="970" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2500" y="1460" />
-              <mxPoint x="2500" y="320" />
-              <mxPoint x="5400" y="320" />
+              <mxPoint x="2440" y="2020" />
+              <mxPoint x="2440" y="320" />
+              <mxPoint x="4640" y="320" />
+              <mxPoint x="4640" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zGS259PE60l4bMru1_S_-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="zGS259PE60l4bMru1_S_-7" target="btv4xjchgonVZ7w9jkdx-1" edge="1">
+        <mxCell id="zGS259PE60l4bMru1_S_-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="zGS259PE60l4bMru1_S_-7" target="rITCZkD9RzHrx6Fa-15p-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4070" y="830" as="sourcePoint" />
             <mxPoint x="3950" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zGS259PE60l4bMru1_S_-15" value="Нехта з сацыяльнага асяродзя грамадзяніна ведае, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="5240" y="1200" width="320" height="120" as="geometry" />
+          <mxGeometry x="5840" y="1200" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zGS259PE60l4bMru1_S_-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="zGS259PE60l4bMru1_S_-15" target="zGS259PE60l4bMru1_S_-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1527,16 +1524,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zGS259PE60l4bMru1_S_-19" value="Ведаючы чалавек ніякім чынам &lt;u&gt;не&lt;/u&gt; паведамляе грамадзяніну, што можна даведвацца пра ўздзеянне ЧіС на грамадства. У тым ліку, &lt;u&gt;не&lt;/u&gt; дэманструе гэтага сваімі ўласнымі паводзінамі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="4720" y="961" width="320" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="zGS259PE60l4bMru1_S_-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="zGS259PE60l4bMru1_S_-19" target="zGS259PE60l4bMru1_S_-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4790" y="850" as="sourcePoint" />
-            <mxPoint x="4510" y="930" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="5240" y="480" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zGS259PE60l4bMru1_S_-21" value="Гэты чалавек нейкім чынам паведамляе грамадзяніну, што можна даведвацца пра ўздзеянне ЧіС на грамадства.&lt;br&gt;&lt;br&gt;(Напрыклад: кажа, піша кнігу, здымае кіно або дэманструе гэта сваімі ўласнымі паводзінамі.)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="4720" y="1360" width="320" height="160" as="geometry" />
+          <mxGeometry x="5120" y="1360" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zGS259PE60l4bMru1_S_-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="zGS259PE60l4bMru1_S_-15" target="zGS259PE60l4bMru1_S_-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1551,10 +1542,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zGS259PE60l4bMru1_S_-25" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4660" y="1410" width="60" height="30" as="geometry" />
+          <mxGeometry x="5060" y="1410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zGS259PE60l4bMru1_S_-26" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="5180" y="1230" width="60" height="30" as="geometry" />
+          <mxGeometry x="5780" y="1230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnrBB2Fq_RxJNupQK1go-1" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не ведае, што можна спрабаваць высветліць як асобнае ўздзеянне ЧіС на грамадства ўплывае на яго асабістыя інтарэсы." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="3040" y="4761" width="400" height="1400" as="geometry" />
@@ -1701,7 +1692,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BEr-12BcYO6opY1slGUl-3" value="Напрыклад, чалавек ведае, што гэта тэарэтычна магчыма, але сам не меў пазітыўнага досведу ў гэтым." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="5789" y="1149" width="320" height="81" as="geometry" />
+          <mxGeometry x="6360" y="639.5" width="320" height="81" as="geometry" />
         </mxCell>
         <mxCell id="BEr-12BcYO6opY1slGUl-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="E6Pdcet48CIMthdxIpfv-17" target="zGS259PE60l4bMru1_S_-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2710,19 +2701,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E6Pdcet48CIMthdxIpfv-11" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму чалавек, які ведае,&amp;nbsp;што можна даведвацца пра ўздзеянне ЧіС на грамадства, не паведамляе пра гэта грамадзяніну, які пра гэта не ведае." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="4665" y="520" width="400" height="640" as="geometry" />
-        </mxCell>
-        <mxCell id="E6Pdcet48CIMthdxIpfv-12" value="Чалавек не ведае, што грамадзянін не ведае, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="E6Pdcet48CIMthdxIpfv-11" vertex="1">
-          <mxGeometry x="575" y="80" width="320" height="80" as="geometry" />
+          <mxGeometry x="5960" y="120" width="400" height="440" as="geometry" />
         </mxCell>
         <mxCell id="E6Pdcet48CIMthdxIpfv-13" value="Чалавек не ўмее паведамляць пра тое,&amp;nbsp;што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="E6Pdcet48CIMthdxIpfv-11" vertex="1">
-          <mxGeometry x="575" y="200" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="120" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E6Pdcet48CIMthdxIpfv-14" value="Чалавек не можа паведаміць грамадзяніну пра тое,&amp;nbsp;што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="E6Pdcet48CIMthdxIpfv-11" vertex="1">
-          <mxGeometry x="575" y="320" width="320" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="E6Pdcet48CIMthdxIpfv-15" value="Чалавек не жадае паведаміць грамадзяніну пра тое,&amp;nbsp;што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="E6Pdcet48CIMthdxIpfv-11" vertex="1">
-          <mxGeometry x="575" y="479" width="320" height="121" as="geometry" />
+          <mxGeometry x="40" y="240" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="E6Pdcet48CIMthdxIpfv-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="BEr-12BcYO6opY1slGUl-3" target="E6Pdcet48CIMthdxIpfv-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2730,14 +2715,8 @@
             <mxPoint x="5565" y="811" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E6Pdcet48CIMthdxIpfv-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="E6Pdcet48CIMthdxIpfv-12" target="E6Pdcet48CIMthdxIpfv-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5230" y="571" as="sourcePoint" />
-            <mxPoint x="5070" y="491" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E6Pdcet48CIMthdxIpfv-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="5145" y="826" width="30" height="30" as="geometry" />
+          <mxGeometry x="5730" y="460" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E6Pdcet48CIMthdxIpfv-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="E6Pdcet48CIMthdxIpfv-13" target="E6Pdcet48CIMthdxIpfv-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2758,10 +2737,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E6Pdcet48CIMthdxIpfv-24" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="5040" y="961" width="80" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="E6Pdcet48CIMthdxIpfv-25" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4515" y="660" width="80" height="120" as="geometry" />
+          <mxGeometry x="5560" y="480" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="btv4xjchgonVZ7w9jkdx-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="4105" y="1145" width="30" height="30" as="geometry" />
@@ -2920,7 +2896,7 @@
             <mxPoint x="4530" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mNDuvsE3x9D3qr3CAPvf-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="mNDuvsE3x9D3qr3CAPvf-1" target="btv4xjchgonVZ7w9jkdx-1" edge="1">
+        <mxCell id="mNDuvsE3x9D3qr3CAPvf-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="mNDuvsE3x9D3qr3CAPvf-1" target="rITCZkD9RzHrx6Fa-15p-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4210" y="1450" as="sourcePoint" />
             <mxPoint x="4145" y="1170" as="targetPoint" />
@@ -2939,7 +2915,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-2" value="Павінны быць нейкія прычыны, чаму грамадзянін не стаў &quot;слухаць&quot;, што яму &quot;паведамлялі&quot;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="4720" y="1160" width="320" height="80" as="geometry" />
+          <mxGeometry x="5120" y="1240" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="Z9Lno9GwT2kxShbwIgkP-2" target="mNDuvsE3x9D3qr3CAPvf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2947,11 +2923,8 @@
             <mxPoint x="4530" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z9Lno9GwT2kxShbwIgkP-4" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="4520" y="1240" width="80" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-5" value="Напрыклад, ведаючы чалавек ніколі не размаўляў на гэтую тэму з грамадзянінам.&lt;br&gt;&lt;br&gt;І можна дадаць сюды ўвесь &quot;стандартны&quot; блок пра тое, чаму чалавек нечага не ведае." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="5760" y="560" width="320" height="160" as="geometry" />
+          <mxGeometry x="4760" y="760" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="Z9Lno9GwT2kxShbwIgkP-5" target="E6Pdcet48CIMthdxIpfv-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2960,7 +2933,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-7" value="Грамадзянін не шукаў вядомую іншым людзям інфармацыю на гэту тэму.&lt;br&gt;&lt;br&gt;Калі чалавек не ведае пра рэальнасць факт &lt;b&gt;A&lt;/b&gt;, то ён не заўважае адсутнасці сваіх ведаў пакуль не сутыкнецца з нейкай з&#39;явай, якую не можа растлумачыць. І таму ў яго няма нагоды спытаць пра факт &lt;b&gt;А&lt;/b&gt; ў іншых людзей. І нават калі чалавек заўважыў, што ён нечага не ведае, то ён, магчыма ўсё роўна не спытаецца. Таму што ўсё ведаць фізічна не магчыма і патрэбна выбіраць пра што даведвацца, а пра што не даведвацца." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="3722" y="1720" width="320" height="320" as="geometry" />
+          <mxGeometry x="3720" y="1720" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="Z9Lno9GwT2kxShbwIgkP-7" target="efOgcQIudSeZyejpRAUV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2969,7 +2942,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-9" value="Грамадзянін не шукаў вядомую іншым людзям інфармацыю на гэту тэму.&lt;br&gt;&lt;br&gt;Калі чалавек не ведае пра рэальнасць факт &lt;b&gt;A&lt;/b&gt;, то ён не заўважае адсутнасці сваіх ведаў пакуль не сутыкнецца з нейкай з&#39;явай, якую не можа растлумачыць. І таму ў яго няма нагоды спытаць пра факт &lt;b&gt;А&lt;/b&gt; ў іншых людзей. І нават калі чалавек заўважыў, што ён нечага не ведае, то ён, магчыма ўсё роўна не спытаецца. Таму што ўсё ведаць фізічна не магчыма і патрэбна выбіраць пра што даведвацца, а пра што не даведвацца." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="5760" y="760" width="320" height="320" as="geometry" />
+          <mxGeometry x="5240" y="680" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="Z9Lno9GwT2kxShbwIgkP-9" target="Z9Lno9GwT2kxShbwIgkP-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2978,27 +2951,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="5645" y="725" width="30" height="30" as="geometry" />
+          <mxGeometry x="4920" y="985" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="zGS259PE60l4bMru1_S_-15" target="Z9Lno9GwT2kxShbwIgkP-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5250" y="1270" as="sourcePoint" />
             <mxPoint x="5050" y="1031" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="5180" y="1260" />
-              <mxPoint x="5180" y="1180" />
-              <mxPoint x="5660" y="1180" />
-              <mxPoint x="5660" y="1100" />
-              <mxPoint x="5710" y="1100" />
-              <mxPoint x="5710" y="740" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-15" value="Павінны быць нейкія прычыны, чаму грамадзянін страціў веды." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3520" y="2560" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-13" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="5675" y="680" width="80" height="120" as="geometry" />
+          <mxGeometry x="4950" y="940" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="Z9Lno9GwT2kxShbwIgkP-11" target="E6Pdcet48CIMthdxIpfv-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3013,7 +2978,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-18" value="Павінны быць нейкія прычыны, чаму грамадзянін не зразумеў, што яму паведамлялі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="4800" y="1560" width="320" height="80" as="geometry" />
+          <mxGeometry x="5120" y="1560" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z9Lno9GwT2kxShbwIgkP-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#FF0000;" parent="1" source="Z9Lno9GwT2kxShbwIgkP-18" target="zGS259PE60l4bMru1_S_-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3315,7 +3280,7 @@
             <mxPoint x="3530" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="whuEWgKZieNsK8-fZPEl-7" value="Нават мэтанакіравана не ўклалі ў галаву грамадзяніна іншыя людзі з яго асяродзя (сябры, калегі і г.д.) веды пра тое, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="whuEWgKZieNsK8-fZPEl-7" value="Нават мэтанакіравана не ўклалі ў галаву грамадзяніна іншыя людзі з яго асяродзя (сябры, калегі, ?інфлюенсеры? і г.д.) веды пра тое, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3720" y="1560" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="whuEWgKZieNsK8-fZPEl-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="whuEWgKZieNsK8-fZPEl-7" target="efOgcQIudSeZyejpRAUV-9" edge="1">
@@ -3326,6 +3291,48 @@
         </mxCell>
         <mxCell id="whuEWgKZieNsK8-fZPEl-9" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3520" y="1400" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="rITCZkD9RzHrx6Fa-15p-2" target="btv4xjchgonVZ7w9jkdx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4210" y="730" as="sourcePoint" />
+            <mxPoint x="4145" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="E6Pdcet48CIMthdxIpfv-12" target="btv4xjchgonVZ7w9jkdx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4210" y="870" as="sourcePoint" />
+            <mxPoint x="4145" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6Pdcet48CIMthdxIpfv-15" value="Чалавек не жадае паведаміць грамадзяніну пра тое,&amp;nbsp;што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="5880" y="639.5" width="320" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="rITCZkD9RzHrx6Fa-15p-5" target="btv4xjchgonVZ7w9jkdx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4210" y="1010" as="sourcePoint" />
+            <mxPoint x="4145" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNDuvsE3x9D3qr3CAPvf-1" value="Грамадзянін нават не стаў &quot;слухаць&quot;, што яму паведамлялі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="4640" y="1240" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9Lno9GwT2kxShbwIgkP-4" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="4960" y="1240" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="rITCZkD9RzHrx6Fa-15p-7" target="btv4xjchgonVZ7w9jkdx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4210" y="1150" as="sourcePoint" />
+            <mxPoint x="4145" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zGS259PE60l4bMru1_S_-7" value="Грамадзянін &quot;слухаў&quot;, але не зразумеў, што яму паведамлялі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="4642" y="1400" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="rITCZkD9RzHrx6Fa-15p-9" target="btv4xjchgonVZ7w9jkdx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4250" y="1310" as="sourcePoint" />
+            <mxPoint x="4145" y="1170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
