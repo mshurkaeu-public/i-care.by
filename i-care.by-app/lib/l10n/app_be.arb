@@ -932,7 +932,7 @@
     "description": "The \"father\" sub-option for \"who is your the most important person in your life\" question."
   },
   "parentOption_mother": "маці",
-  "@parentOption_father": {
+  "@parentOption_mother": {
     "description": "The \"mother\" sub-option for \"who is your the most important person in your life\" question."
   },
   "pronounOptions_labels": "Вы абралі гэты стыль\nты абрала гэты стыль\nты абраў гэты стыль",
