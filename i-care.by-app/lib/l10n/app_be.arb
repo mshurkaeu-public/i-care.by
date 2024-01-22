@@ -354,6 +354,10 @@
   "@aboutMyGratitude_2024_01_21_02": {
     "description": "Text for 2024-01-21 Flutter community on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_01_21_03": "\n2024-01-21 каманда Material Flutter — 🛠️ стварыла новую версію пакета google_fonts 6.1.0 (2023-09-21) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_01_21_03": {
+    "description": "Text for 2024-01-21 Material Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_01_title": "\n\n2024-01\n",
   "@aboutMyGratitude_2024_01_title": {
     "description": "Title for 2024-01 list/text on the \"my gratitude\" tab on the \"About\" page."
