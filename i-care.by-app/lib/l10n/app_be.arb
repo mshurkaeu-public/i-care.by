@@ -1829,7 +1829,7 @@
     }
   },
   "youDidForYourSpouseOrPartner": "{preferredPronoun, select, Vy{Вы зрабілі} ty_zhanchyna{ты зрабіла} ty_muzhchyna{ты зрабіў} other{ты зрабіў/зрабіла}} для сваёго партнёра:",
-  "@youDidForYourGrandparent": {
+  "@youDidForYourSpouseOrPartner": {
     "description": "A label to be used before \"you did for your spouse or partner\" list.",
     "placeholders": {
       "preferredPronoun": {
