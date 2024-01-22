@@ -362,6 +362,10 @@
   "@aboutMyGratitude_2024_01_21_04": {
     "description": "Text for 2024-01-21 Flutter community on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_01_21_05": "\n2024-01-21 каманда Google дадатка \"ARB Editor\" для VS Code — 🛠️ стварыла дадатак версіі 0.0.12. Дадатак ў тым ліку знаходзіць памылкі ў *.arb файлах (Application Resource Bundle). Дзякуючы гэтаму дадатку, я паправіў 6 памылак у сваім arb файле.\n",
+  "@aboutMyGratitude_2024_01_21_05": {
+    "description": "Text for 2024-01-21 Google \"ARB Editor\" extension for VS Code team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_01_title": "\n\n2024-01\n",
   "@aboutMyGratitude_2024_01_title": {
     "description": "Title for 2024-01 list/text on the \"my gratitude\" tab on the \"About\" page."
