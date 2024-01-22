@@ -937,7 +937,7 @@
     "description": "The \"mother\" sub-option for \"who is your the most important person in your life\" question."
   },
   "pronounOptions_labels": "Вы абралі гэты стыль\nты абрала гэты стыль\nты абраў гэты стыль",
-  "@referenceToUserWithoutName": {
+  "@pronounOptions_labels": {
     "description": "New line delimited list of labels/examples of possible pronouns/styles of treatment for current language/locale. Shown in UI. Order and number of options must match list of values."
   },
   "pronounOptions_values": "Vy\nty_zhanchyna\nty_muzhchyna",
