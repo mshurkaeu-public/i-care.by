@@ -941,7 +941,7 @@
     "description": "New line delimited list of labels/examples of possible pronouns/styles of treatment for current language/locale. Shown in UI. Order and number of options must match list of values."
   },
   "pronounOptions_values": "Vy\nty_zhanchyna\nty_muzhchyna",
-  "@referenceToUserWithoutName": {
+  "@pronounOptions_values": {
     "description": "New line delimited list of values of possible pronouns/styles of treatment for current language/locale. Hidden from UI. Order and number of options must match list of labels. *Must use latin characters because of flutter l10n implementation*. These values are used in select expressions in other messages. To check flutter l10n source code visit https://github.com/flutter/flutter/blob/6205c110d64351610219d48b52a1a1b9e0140dcd/packages/flutter_tools/lib/src/localizations/message_parser.dart and ensure that ST.selectParts -> ST.selectPart -> ST.identifier -> alphanumeric -> RegExp(r'[a-zA-Z0-9|_]+')."
   },
   "questionAboutCurrentEmotionsAndFeelings": "Што {preferredPronoun, select, Vy{адчуваеце} other{адчуваеш}}, {userName}? Як {preferredPronoun, select, Vy{Вы} other{ты}}?",
