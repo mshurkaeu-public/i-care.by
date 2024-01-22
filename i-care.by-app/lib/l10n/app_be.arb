@@ -2013,7 +2013,7 @@
     }
   },
   "youWantedToDoForYourSpouseOrPartner": "{preferredPronoun, select, Vy{Вы жадалі} ty_zhanchyna{ты жадала} ty_muzhchyna{ты жадаў} other{ты жадаў/жадала}} зрабіць для сваёго партнёра:",
-  "@youWantedToDoForYourGrandparent": {
+  "@youWantedToDoForYourSpouseOrPartner": {
     "description": "A label to be used before \"you wanted to do for your spouse or partner\" list.",
     "placeholders": {
       "preferredPronoun": {
