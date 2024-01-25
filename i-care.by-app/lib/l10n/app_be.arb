@@ -486,6 +486,10 @@
   "@aboutMyGratitude_2024_01_21_05": {
     "description": "Text for 2024-01-21 Google \"ARB Editor\" extension for VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_01_25_01": "\n2024-01-25 01 🦸 — ✏️ паведаміў пра памылку друку ў ДЦР версіі 70.\n",
+  "@aboutMyGratitude_2024_01_25_01": {
+    "description": "Text for 2024-01-25 01 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_01_title": "\n\n2024-01\n",
   "@aboutMyGratitude_2024_01_title": {
     "description": "Title for 2024-01 list/text on the \"my gratitude\" tab on the \"About\" page."
