@@ -514,6 +514,10 @@
   "@aboutMyGratitude_2024_01_28_02": {
     "description": "Text for 2024-01-28 flutter.dev team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_01_28_03": "\n2024-01-28 03 🦸 — ☝️ прапанаваў сваю гіпотэзу аб каранёвай прычыне дыктатуры ЧіС у Беларусі. \"Іррацыйны страх\". Запісана тут — https://github.com/mshurkaeu-public/i-care.by/discussions/6.\n",
+  "@aboutMyGratitude_2024_01_28_03": {
+    "description": "Text for 2024-01-28 03 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_01_title": "\n\n2024-01\n",
   "@aboutMyGratitude_2024_01_title": {
     "description": "Title for 2024-01 list/text on the \"my gratitude\" tab on the \"About\" page."
