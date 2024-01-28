@@ -506,6 +506,10 @@
   "@aboutMyGratitude_2024_01_26_01": {
     "description": "Text for 2024-01-26 Flutter team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_01_28_01": "\n2024-01-28 каманда flutter.dev — 🛠️ стварыла новую версію пакета flutter_lints 3.0.1 (2023-11-03) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_01_28_01": {
+    "description": "Text for 2024-01-28 flutter.dev team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_01_title": "\n\n2024-01\n",
   "@aboutMyGratitude_2024_01_title": {
     "description": "Title for 2024-01 list/text on the \"my gratitude\" tab on the \"About\" page."
