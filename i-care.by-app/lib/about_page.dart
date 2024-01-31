@@ -997,12 +997,21 @@ class _TheWhy extends StatefulWidget {
 class _TheWhyState extends State<_TheWhy> {
   final TapGestureRecognizer _dictatorshipCrtTapRecognizer =
       TapGestureRecognizer();
+  final TapGestureRecognizer _dictatorshipRootCauseHypothesesTapRecognizer =
+      TapGestureRecognizer();
 
   static const String _dictatorshipCrtUrl =
       'https://viewer.diagrams.net/#Uhttps://raw.githubusercontent.com/mshurkaeu-public/i-care.by/main/current-reality-tree/ДЦР для ўзаемаадносін паміж грамадствам і ЧіС Беларусі.drawio';
 
+  static const String _dictatorshipRootCauseHypothesesUrl =
+      'https://github.com/mshurkaeu-public/i-care.by/discussions/categories/гіпотэзы-аб-каранёвай-прычыне-дыктатуры-ў-беларусі';
+
   void _launchDictatorshipCrtUrl() {
     launchUrl(Uri.parse(_dictatorshipCrtUrl));
+  }
+
+  void _launchDictatorshipRootCauseHypothesesUrl() {
+    launchUrl(Uri.parse(_dictatorshipRootCauseHypothesesUrl));
   }
 
   @override
@@ -1025,6 +1034,14 @@ class _TheWhyState extends State<_TheWhy> {
             recognizer: _dictatorshipCrtTapRecognizer,
           ),
         ),
+        MapEntry(
+          '\$dictatorship_root_cause_hypotheses_link',
+          TextSpan(
+            text: l10n.aboutTheWhy_dictatorship_root_cause_hypotheses_label,
+            style: linkStyle,
+            recognizer: _dictatorshipRootCauseHypothesesTapRecognizer,
+          ),
+        ),
       ],
     );
 
@@ -1043,6 +1060,7 @@ class _TheWhyState extends State<_TheWhy> {
   @override
   void dispose() {
     _dictatorshipCrtTapRecognizer.dispose();
+    _dictatorshipRootCauseHypothesesTapRecognizer.dispose();
 
     super.dispose();
   }
@@ -1052,5 +1070,7 @@ class _TheWhyState extends State<_TheWhy> {
     super.initState();
 
     _dictatorshipCrtTapRecognizer.onTap = _launchDictatorshipCrtUrl;
+    _dictatorshipRootCauseHypothesesTapRecognizer.onTap =
+        _launchDictatorshipRootCauseHypothesesUrl;
   }
 }
