@@ -995,13 +995,37 @@ class _TheWhy extends StatefulWidget {
 }
 
 class _TheWhyState extends State<_TheWhy> {
+  final TapGestureRecognizer _dictatorshipCrtTapRecognizer =
+      TapGestureRecognizer();
+
+  static const String _dictatorshipCrtUrl =
+      'https://viewer.diagrams.net/#Uhttps://raw.githubusercontent.com/mshurkaeu-public/i-care.by/main/current-reality-tree/ДЦР для ўзаемаадносін паміж грамадствам і ЧіС Беларусі.drawio';
+
+  void _launchDictatorshipCrtUrl() {
+    launchUrl(Uri.parse(_dictatorshipCrtUrl));
+  }
+
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
 
+    TextStyle linkStyle = const TextStyle(
+      color: Colors.blue,
+      decoration: TextDecoration.underline,
+    );
+
     List<InlineSpan> aboutTheWhy = TextUtils.buildSpansFromText(
       l10n.aboutTheWhyText,
-      [],
+      [
+        MapEntry(
+          '\$dictatorship_crt_link',
+          TextSpan(
+            text: l10n.aboutTheWhy_dictatorship_crt_label,
+            style: linkStyle,
+            recognizer: _dictatorshipCrtTapRecognizer,
+          ),
+        ),
+      ],
     );
 
     return ListView(
@@ -1014,5 +1038,19 @@ class _TheWhyState extends State<_TheWhy> {
         ),
       ],
     );
+  }
+
+  @override
+  void dispose() {
+    _dictatorshipCrtTapRecognizer.dispose();
+
+    super.dispose();
+  }
+
+  @override
+  void initState() {
+    super.initState();
+
+    _dictatorshipCrtTapRecognizer.onTap = _launchDictatorshipCrtUrl;
   }
 }
