@@ -989,7 +989,12 @@ class _SupportTheProject extends StatelessWidget {
   }
 }
 
-class _TheWhy extends StatelessWidget {
+class _TheWhy extends StatefulWidget {
+  @override
+  State<_TheWhy> createState() => _TheWhyState();
+}
+
+class _TheWhyState extends State<_TheWhy> {
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
