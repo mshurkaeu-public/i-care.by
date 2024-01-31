@@ -999,10 +999,19 @@ class _TheWhyState extends State<_TheWhy> {
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
 
+    List<InlineSpan> aboutTheWhy = TextUtils.buildSpansFromText(
+      l10n.aboutTheWhyText,
+      [],
+    );
+
     return ListView(
       padding: ScaffoldHelpers.defaultBodyPadding,
       children: [
-        Text(l10n.aboutTheWhyText),
+        Text.rich(
+          TextSpan(
+            children: aboutTheWhy,
+          ),
+        ),
       ],
     );
   }
