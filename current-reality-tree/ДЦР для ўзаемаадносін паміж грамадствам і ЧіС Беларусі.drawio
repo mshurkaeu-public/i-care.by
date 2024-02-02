@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="809RyFOHbvmmoxSi1PBD" modified="2024-02-02T19:13:37.979Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
+<mxfile host="app.diagrams.net" etag="Yu-DYlNOH6IBjoo9ZCOb" modified="2024-02-02T19:20:26.932Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -479,31 +479,31 @@
         <mxCell id="trFHjS8OtI2W3_3FPiBj-16" value="грамадзянін&lt;br&gt;&lt;b&gt;нічога не робіць&lt;/b&gt;&lt;br&gt;у сувязі з гэтым&lt;br&gt;уздзеяннем." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
           <mxGeometry x="1080" y="80" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="BEs8K-WkTOi9_ukTomgo-12" value="Гіпотэза №02: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што пераважная колькасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім уласным жыцці." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;" parent="1" vertex="1">
+        <mxCell id="BEs8K-WkTOi9_ukTomgo-12" value="Гіпотэза №02: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што пераважная колькасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім уласным жыцці." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="5320" y="7040" width="1040" height="1160" as="geometry" />
         </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-2" value="Пераважная большасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім жыцці.&lt;br&gt;&lt;br&gt;(&lt;br&gt;&lt;i&gt;Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падстве ананімнага апытання &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt;&lt;br&gt;&lt;/i&gt;- на падстве ўласных жыццёвых назіранняў)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="BEs8K-WkTOi9_ukTomgo-12" vertex="1">
-          <mxGeometry x="40" y="280" width="320" height="240" as="geometry" />
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-2" value="Пераважная большасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім жыцці.&lt;br&gt;&lt;br&gt;(&lt;br&gt;&lt;i&gt;Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падстве ананімнага апытання &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt;&lt;br&gt;&lt;/i&gt;- на падстве ўласных жыццёвых назіранняў)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="5360" y="7320" width="320" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-1" value="Пераважная большасць беларусаў катэгарычна не згодны з тым, што найважнейшы чалавек у жыцці чалавека — гэта ён сам/яна сама.&lt;br&gt;&lt;br&gt;&lt;i&gt;(Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падставе ананімнага апытання беларусаў пра найважнейшага чалавека ў іх жыцці &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt; ,&lt;br&gt;- на падставе публічнай &quot;размовы&quot; на гэтую тэму з Сяргеем Дубаўцом,&lt;br&gt;- на падставе некалькіх прыватных размоў з рознымі людзьмі з вышэйшай адукацыяй (у тым ліку, цытата — &quot;так может говорить и думать только конченый эгои&lt;/i&gt;&lt;i&gt;ст&quot;),&lt;br&gt;- на падставе размоў маіх сяброў з іх бацькамі.&lt;br&gt;&lt;br&gt;Як сказаў Дубавец: гэтая фармуліроўка — гэта формула эгацэнтрызму. А эгацэнтрызм — гэта адразу дрэнна.&lt;br&gt;&lt;br&gt;Чаму ён вырашыў, што гэта формула эгацэнтрызму і што такое эгацэнтрызм увогуле Дубавец адмовіўся абмеркаваць. Па нейкай прычыне мае пытанні былі праігнараваны.)&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="BEs8K-WkTOi9_ukTomgo-12" vertex="1">
-          <mxGeometry x="520" y="520" width="320" height="600" as="geometry" />
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-1" value="Пераважная большасць беларусаў катэгарычна не згодны з тым, што найважнейшы чалавек у жыцці чалавека — гэта ён сам/яна сама.&lt;br&gt;&lt;br&gt;&lt;i&gt;(Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падставе ананімнага апытання беларусаў пра найважнейшага чалавека ў іх жыцці &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt; ,&lt;br&gt;- на падставе публічнай &quot;размовы&quot; на гэтую тэму з Сяргеем Дубаўцом,&lt;br&gt;- на падставе некалькіх прыватных размоў з рознымі людзьмі з вышэйшай адукацыяй (у тым ліку, цытата — &quot;так может говорить и думать только конченый эгои&lt;/i&gt;&lt;i&gt;ст&quot;),&lt;br&gt;- на падставе размоў маіх сяброў з іх бацькамі.&lt;br&gt;&lt;br&gt;Як сказаў Дубавец: гэтая фармуліроўка — гэта формула эгацэнтрызму. А эгацэнтрызм — гэта адразу дрэнна.&lt;br&gt;&lt;br&gt;Чаму ён вырашыў, што гэта формула эгацэнтрызму і што такое эгацэнтрызм увогуле Дубавец адмовіўся абмеркаваць. Па нейкай прычыне мае пытанні былі праігнараваны.)&lt;/i&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="5840" y="7560" width="320" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="BEs8K-WkTOi9_ukTomgo-12" source="3fLgss1ITQnwHuJ1fyQ3-2" target="3fLgss1ITQnwHuJ1fyQ3-1" edge="1">
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-2" target="3fLgss1ITQnwHuJ1fyQ3-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="150" as="sourcePoint" />
-            <mxPoint x="-90" y="350" as="targetPoint" />
+            <mxPoint x="5390" y="7190" as="sourcePoint" />
+            <mxPoint x="5230" y="7390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;fillColor=default;" parent="BEs8K-WkTOi9_ukTomgo-12" vertex="1">
-          <mxGeometry x="865" y="265" width="30" height="30" as="geometry" />
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="6185" y="7305" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BEs8K-WkTOi9_ukTomgo-8" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="BEs8K-WkTOi9_ukTomgo-12" vertex="1">
-          <mxGeometry x="820" y="295" width="120" height="80" as="geometry" />
+        <mxCell id="BEs8K-WkTOi9_ukTomgo-8" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="6140" y="7335" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="BEs8K-WkTOi9_ukTomgo-12" source="3fLgss1ITQnwHuJ1fyQ3-1" target="3fLgss1ITQnwHuJ1fyQ3-16" edge="1">
+        <mxCell id="3fLgss1ITQnwHuJ1fyQ3-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3fLgss1ITQnwHuJ1fyQ3-1" target="3fLgss1ITQnwHuJ1fyQ3-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-369" y="639" as="sourcePoint" />
-            <mxPoint x="-529" y="639" as="targetPoint" />
+            <mxPoint x="4951" y="7679" as="sourcePoint" />
+            <mxPoint x="4791" y="7679" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GoDlm1b_GlB4gomtcci7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;glass=0;shadow=0;gradientColor=none;opacity=80;" parent="1" vertex="1">
