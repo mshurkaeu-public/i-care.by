@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="JBCulMhsOW-3BAkC7oc4" modified="2024-02-02T19:43:39.043Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
+<mxfile host="app.diagrams.net" etag="qT51dmI7qutChAFYJ34W" modified="2024-02-02T20:08:25.879Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,7 +457,9 @@
         <mxCell id="YF0XWQoRzKOnpNSZt35C-3" value="Гіпотэза №02: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што пераважная колькасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім уласным жыцці." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" vertex="1" parent="YF0XWQoRzKOnpNSZt35C-1">
           <mxGeometry x="5320" y="7040" width="1040" height="1160" as="geometry" />
         </mxCell>
-        <mxCell id="1" parent="0" />
+        <object label="ДЦР" id="1">
+          <mxCell parent="0" />
+        </object>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-16" value="Дарослыя людзі часам карыстаюцца безумоўным даверам дзіця і адсутнасцю ведаў у дзіця пра рэальнасць, каб &quot;лёгка вырашыць&quot; свае праблемы.&lt;br&gt;&lt;br&gt;Напрыклад, кажуць дзіцю, што Дзед Мароз не прынясе падарункаў, калі дзіцё не будзе паслухмяным.&lt;br&gt;&lt;br&gt;&quot;Лепяць з дзіця&quot; &quot;зручнага&quot; для сябе саміх чалавека." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="6680" y="7041" width="320" height="240" as="geometry" />
         </mxCell>
