@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="9HeCnvVxTjXJXK4Xovit" modified="2024-02-02T18:54:18.373Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
+<mxfile host="app.diagrams.net" etag="809RyFOHbvmmoxSi1PBD" modified="2024-02-02T19:13:37.979Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -480,7 +480,7 @@
           <mxGeometry x="1080" y="80" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BEs8K-WkTOi9_ukTomgo-12" value="Гіпотэза №02: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што пераважная колькасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім уласным жыцці." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="5320" y="7041" width="1040" height="1160" as="geometry" />
+          <mxGeometry x="5320" y="7040" width="1040" height="1160" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-2" value="Пераважная большасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім жыцці.&lt;br&gt;&lt;br&gt;(&lt;br&gt;&lt;i&gt;Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падстве ананімнага апытання &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/3&lt;/font&gt;&lt;br&gt;&lt;/i&gt;- на падстве ўласных жыццёвых назіранняў)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="BEs8K-WkTOi9_ukTomgo-12" vertex="1">
           <mxGeometry x="40" y="280" width="320" height="240" as="geometry" />
@@ -2310,7 +2310,7 @@
           <mxGeometry x="6120" y="10601" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GoDlm1b_GlB4gomtcci7-1" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="6000" y="7121" width="80" height="120" as="geometry" />
+          <mxGeometry x="6000" y="7120" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hAQigQGxuxCvUTN7VuZu-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="3025" y="6526" width="30" height="30" as="geometry" />
@@ -2600,7 +2600,7 @@
           <mxGeometry x="6600" y="10321" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RNDRSYDRFuZBWHNrruaz-5" value="Дарослы чалавек лічыць сябе не самым важным чалавекам у сваім уласным жыцці. &lt;u&gt;І не можа нават дапусціць думкі, што гэта не так&lt;/u&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fontColor=#FF0000;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="5680" y="7121" width="320" height="120" as="geometry" />
+          <mxGeometry x="5680" y="7120" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AzSIxJlkXMay5v1qxDUT-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="AzSIxJlkXMay5v1qxDUT-22" target="RNDRSYDRFuZBWHNrruaz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
