@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="qrjQ_8frMHE2DAssXyuZ" modified="2024-02-02T19:37:55.808Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
+<mxfile host="app.diagrams.net" etag="JBCulMhsOW-3BAkC7oc4" modified="2024-02-02T19:43:39.043Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
       <root>
         <mxCell id="0" />
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
-          <mxCell parent="0" />
+          <mxCell parent="0" visible="0" />
         </object>
         <mxCell id="YF0XWQoRzKOnpNSZt35C-3" value="Гіпотэза №02: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што пераважная колькасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім уласным жыцці." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" vertex="1" parent="YF0XWQoRzKOnpNSZt35C-1">
           <mxGeometry x="5320" y="7040" width="1040" height="1160" as="geometry" />
