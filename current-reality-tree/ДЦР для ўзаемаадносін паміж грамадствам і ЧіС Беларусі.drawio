@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" etag="Yu-DYlNOH6IBjoo9ZCOb" modified="2024-02-02T19:20:26.932Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
+<mxfile host="app.diagrams.net" etag="d-mB065c6MqPHLPx7WrQ" modified="2024-02-02T19:33:00.884Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
-    <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -451,6 +451,9 @@
     <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
+        <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
+          <mxCell parent="0" />
+        </object>
         <mxCell id="1" parent="0" />
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-16" value="Дарослыя людзі часам карыстаюцца безумоўным даверам дзіця і адсутнасцю ведаў у дзіця пра рэальнасць, каб &quot;лёгка вырашыць&quot; свае праблемы.&lt;br&gt;&lt;br&gt;Напрыклад, кажуць дзіцю, што Дзед Мароз не прынясе падарункаў, калі дзіцё не будзе паслухмяным.&lt;br&gt;&lt;br&gt;&quot;Лепяць з дзіця&quot; &quot;зручнага&quot; для сябе саміх чалавека." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="6680" y="7041" width="320" height="240" as="geometry" />
