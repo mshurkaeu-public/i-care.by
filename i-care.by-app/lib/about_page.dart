@@ -1001,7 +1001,7 @@ class _TheWhyState extends State<_TheWhy> {
       TapGestureRecognizer();
 
   static const String _dictatorshipCrtUrl =
-      'https://viewer.diagrams.net/#Uhttps://raw.githubusercontent.com/mshurkaeu-public/i-care.by/main/current-reality-tree/ДЦР для ўзаемаадносін паміж грамадствам і ЧіС Беларусі.drawio';
+      'https://viewer.diagrams.net/?layers=1#Uhttps://raw.githubusercontent.com/mshurkaeu-public/i-care.by/main/current-reality-tree/ДЦР для ўзаемаадносін паміж грамадствам і ЧіС Беларусі.drawio';
 
   static const String _dictatorshipRootCauseHypothesesUrl =
       'https://github.com/mshurkaeu-public/i-care.by/discussions/categories/гіпотэзы-аб-каранёвай-прычыне-дыктатуры-ў-беларусі';
