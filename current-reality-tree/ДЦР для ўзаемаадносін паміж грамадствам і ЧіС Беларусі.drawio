@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="N8WHdlqm9Hu6Yvad7RFa" modified="2024-02-03T17:06:06.777Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
+<mxfile host="app.diagrams.net" etag="-gXKrlG7RyaUphBKvsya" modified="2024-02-03T17:16:59.847Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3265,6 +3265,18 @@
         </mxCell>
         <mxCell id="KaPFAjRO9B8uVGCb-CFA-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1785" y="2405" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WjF_KWa-nUk0AI6wJrLU-1" target="KaPFAjRO9B8uVGCb-CFA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="1970" as="sourcePoint" />
+            <mxPoint x="1810" y="2415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WjF_KWa-nUk0AI6wJrLU-3" target="KaPFAjRO9B8uVGCb-CFA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="1970" as="sourcePoint" />
+            <mxPoint x="1810" y="2415" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
