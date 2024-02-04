@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="3vYNgZq1rGBw_eyoTHkw" modified="2024-02-04T05:45:47.313Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="4">
+<mxfile host="app.diagrams.net" etag="X3Xaj7zFQSFTUmZpj0vn" modified="2024-02-04T07:38:19.170Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="ag_OCnyFdfTCtAwq5Wvq-1" value="2024-02-04" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=5;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DxHuLPiopfpoI_i7pSDg-1" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Ніхто з людзей не ведае, як на самой справе ўладкаваны свет/прырода/рэальнасць. Але калі рэальнасць ўнутранне не супярэчлівая, то ёсць некаторы ўнутраны лад, які вызначае прычынна-выніковыя сувязі паміж з&#39;явамі. У тым ліку, у некаторых прычын могуць быць не дэтэрмінаваныя, а імавернасныя вынікі.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Мы можам спрабаваць здагадацца аб гэтых прычынна-выніковых сувязях, але, напэўна, ніколі не здолеем цалкам дакладна высветліць, ці абсалютна правільная наша здагадка/гіпотэза. Аднак, мы можам знайсці абвяржэнне для нашай гіпотэзы і такім чынам дакладна высветліць, што гэтая гіпотэза няправільная або недастаткова правільная.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Таму ўвага да крытыкі вельмі важная. І важна заўважаць, калі назіранні за жыццём не зусім супадаюць з мадэллю. Заўважаныя адхіленні ад чаканняў кажуць аб тым, что недзе памылка — або ў мадэлі або ў назіраннях.&lt;/font&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 10%;&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Азначэнні&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Далей буду скарочана называць чыноўнікаў і сілавікоў &lt;b&gt;ЧіС&lt;/b&gt;. А астатняе грамадства буду называць &lt;b&gt;аГрамадства&lt;/b&gt;.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;" vertex="1" parent="1">
+        <mxCell id="DxHuLPiopfpoI_i7pSDg-1" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Ніхто з людзей не ведае, як на самой справе ўладкаваны свет/прырода/рэальнасць. Але калі рэальнасць ўнутранне не супярэчлівая, то ёсць некаторы ўнутраны лад, які вызначае прычынна-выніковыя сувязі паміж з&#39;явамі. У тым ліку, у некаторых прычын могуць быць не дэтэрмінаваныя, а імавернасныя вынікі.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Мы можам спрабаваць здагадацца аб гэтых прычынна-выніковых сувязях, але, напэўна, ніколі не здолеем цалкам дакладна высветліць, ці абсалютна правільная наша здагадка/гіпотэза. Аднак, мы можам знайсці абвяржэнне для нашай гіпотэзы і такім чынам дакладна высветліць, што гэтая гіпотэза няправільная або недастаткова правільная.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Таму ўвага да крытыкі вельмі важная. І важна заўважаць, калі назіранні за жыццём не зусім супадаюць з мадэллю. Заўважаныя адхіленні ад чаканняў кажуць аб тым, что недзе памылка — або ў мадэлі або ў назіраннях.&lt;/font&gt;&lt;/p&gt;&lt;h1 style=&quot;line-height: 10%;&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Азначэнні&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Далей буду скарочана называць чыноўнікаў і сілавікоў &lt;b&gt;ЧіС&lt;/b&gt;. А астатняе грамадства буду называць &lt;b&gt;аГрамадства&lt;/b&gt;.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;" parent="1" vertex="1">
           <mxGeometry y="23" width="827" height="297" as="geometry" />
         </mxCell>
         <UserObject label="" tooltip="" id="x-wTn0b4A8iaDGU15ReG-1">
@@ -125,7 +125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
-    <mxGraphModel dx="1364" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,11 +146,11 @@
         <mxCell id="fW2wmk7JBmoNflcBN8dt-1" value="&lt;h1 align=&quot;left&quot; style=&quot;line-height: 70%;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Базавая гіпотэза 1. Гэтую тэму магчыма прыпаднесці так, каб падлетак 14 гадоў змог усё зразумець і знайсці памылкі ў маіх разважаннях.&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;Гіпотэза ў тым, что чалавеку дастаткова ўмець добра чытаць па-беларуску і валодаць базавымі навыкамі матэматычнай логікі, каб зразумець мае разважанні і заўважыць памылкі ў разважаннях. Магчыма, тэму патрэбна разбіць на &quot;кавалачкі&quot;, але там прынцыпова няма такога, што падлетак не можа зразумець." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry width="827" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="HM4rghfG53f5xWvAFt2h-1" value="&lt;h1 align=&quot;left&quot; style=&quot;line-height: 72%;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Базавая гіпотэза 5. &quot;&lt;font color=&quot;#ff0000&quot;&gt;Не&lt;/font&gt;магічная&quot;/адэкватная гіпотэза любога беларуса пра каранёвую прычыну дыктатуры ЧіС у Беларусі дапаўняе гіпотэзы іншых беларусаў і можа быць адлюстравана на ДЦР.&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;Усе беларусы жывуць у адной аб&#39;ектыўнай рэальнасці. Але гэтая рэальнасць мае шмат граняў. У кожнага беларуса свае унікальныя абставіны, унікальны жыццёвы досвед, унікальныя здольнасці і унікальныя недахопы. У выніку гэтага, кожны беларус можа бачыць нейкія грані рэальнасці, якія не заўважаюць іншыя. Але таксама можа і не заўважаць нейкія грані, якія бачыць нейкі іншы беларус.&lt;br&gt;&lt;br&gt;Такім чынам, мае сэнс збіраць гіпотэзы беларусаў пра каранёвую прычыну дыктатуры ў Беларусі і абмяркойваць іх, каб пабудаваць сумеснае, найбольш дакладнае разуменне з&#39;явы.&lt;br&gt;&lt;/div&gt;&lt;br&gt;Абмеркаванне і ўлік гіпотэз пра каранёвую прычыну вядзецца тут:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="HM4rghfG53f5xWvAFt2h-1" value="&lt;h1 align=&quot;left&quot; style=&quot;line-height: 72%;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Базавая гіпотэза 5. &quot;&lt;font color=&quot;#ff0000&quot;&gt;Не&lt;/font&gt;магічная&quot;/адэкватная гіпотэза любога беларуса пра каранёвую прычыну дыктатуры ЧіС у Беларусі дапаўняе гіпотэзы іншых беларусаў і можа быць адлюстравана на ДЦР.&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;Усе беларусы жывуць у адной аб&#39;ектыўнай рэальнасці. Але гэтая рэальнасць мае шмат граняў. У кожнага беларуса свае унікальныя абставіны, унікальны жыццёвы досвед, унікальныя здольнасці і унікальныя недахопы. У выніку гэтага, кожны беларус можа бачыць нейкія грані рэальнасці, якія не заўважаюць іншыя. Але таксама можа і не заўважаць нейкія грані, якія бачыць нейкі іншы беларус.&lt;br&gt;&lt;br&gt;Такім чынам, мае сэнс збіраць гіпотэзы беларусаў пра каранёвую прычыну дыктатуры ў Беларусі і абмяркойваць іх, каб пабудаваць сумеснае, найбольш дакладнае разуменне з&#39;явы.&lt;br&gt;&lt;/div&gt;&lt;br&gt;Абмеркаванне і ўлік гіпотэз пра каранёвую прычыну вядзецца тут:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="1240" width="827" height="320" as="geometry" />
         </mxCell>
         <UserObject label="https://github.com/mshurkaeu-public/i-care.by/discussions/categories/гіпотэзы-аб-каранёвай-прычыне-дыктатуры-ў-беларусі" link="https://github.com/mshurkaeu-public/i-care.by/discussions/categories/гіпотэзы-аб-каранёвай-прычыне-дыктатуры-ў-беларусі" linkTarget="_blank" id="HM4rghfG53f5xWvAFt2h-2">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=15;fontColor=#0000FF;fontStyle=4;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=15;fontColor=#0000FF;fontStyle=4;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry y="1540" width="827" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -424,7 +424,7 @@
             <mxGeometry x="-480" width="960" height="320" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span&gt;Спасылка на главу &quot;4. &lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Дрэва цяперашняй рэальнасці ўплыва асобнага грамадзяніна на стан адносін паміж грамадствам і&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt; ЧіС Беларусі&quot;&lt;/font&gt;" link="data:page/id,jb7ZAXrOw7EJT6aN6Qqk" id="u9H1TCJDUWDsqNKKyd_K-1">
+        <UserObject label="&lt;span&gt;Спасылка на главу &quot;5. &lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Дрэва цяперашняй рэальнасці ўплыва асобнага грамадзяніна на стан адносін паміж грамадствам і&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt; ЧіС Беларусі&quot;&lt;/font&gt;" link="data:page/id,jb7ZAXrOw7EJT6aN6Qqk" id="u9H1TCJDUWDsqNKKyd_K-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" parent="1" vertex="1">
             <mxGeometry x="-550" y="1880" width="1100" height="40" as="geometry" />
           </mxCell>
@@ -450,20 +450,28 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="4. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="15709" dy="4993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+  <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
+    <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
+    <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
           <mxCell parent="0" visible="0" />
         </object>
-        <mxCell id="YF0XWQoRzKOnpNSZt35C-3" value="Гіпотэза №02: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што пераважная колькасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім уласным жыцці." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" vertex="1" parent="YF0XWQoRzKOnpNSZt35C-1">
+        <mxCell id="YF0XWQoRzKOnpNSZt35C-3" value="Гіпотэза №02: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што пераважная колькасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім уласным жыцці." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" parent="YF0XWQoRzKOnpNSZt35C-1" vertex="1">
           <mxGeometry x="5720" y="7040" width="1040" height="1160" as="geometry" />
         </mxCell>
         <object label="Гіпотэза №01" id="YF0XWQoRzKOnpNSZt35C-4">
           <mxCell parent="0" visible="0" />
         </object>
-        <mxCell id="YF0XWQoRzKOnpNSZt35C-5" value="Гіпотэза №01: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што ў пераважнай колькасці беларусаў вывучаная бездапаможнасць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" vertex="1" parent="YF0XWQoRzKOnpNSZt35C-4">
+        <mxCell id="YF0XWQoRzKOnpNSZt35C-5" value="Гіпотэза №01: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што ў пераважнай колькасці беларусаў вывучаная бездапаможнасць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" parent="YF0XWQoRzKOnpNSZt35C-4" vertex="1">
           <mxGeometry x="3360" y="4080" width="560" height="200" as="geometry" />
         </mxCell>
         <object label="ДЦР" id="1">
@@ -3244,70 +3252,70 @@
             <mxPoint x="4545" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wvWh9_RpUeVN9rCIfkWV-4" target="KaPFAjRO9B8uVGCb-CFA-1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wvWh9_RpUeVN9rCIfkWV-4" target="KaPFAjRO9B8uVGCb-CFA-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1800" y="1960" as="sourcePoint" />
             <mxPoint x="1800" y="3160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2145" y="2405" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WjF_KWa-nUk0AI6wJrLU-1" target="KaPFAjRO9B8uVGCb-CFA-1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-1" target="KaPFAjRO9B8uVGCb-CFA-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1810" y="1970" as="sourcePoint" />
             <mxPoint x="1810" y="2415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WjF_KWa-nUk0AI6wJrLU-3" target="KaPFAjRO9B8uVGCb-CFA-1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-3" target="KaPFAjRO9B8uVGCb-CFA-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1810" y="1970" as="sourcePoint" />
             <mxPoint x="1810" y="2415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-24">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1980" y="2440" as="sourcePoint" />
             <mxPoint x="1810" y="3170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-26">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;dashed=1;dashPattern=12 12;" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1825" y="2430" as="sourcePoint" />
             <mxPoint x="1970" y="3310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-19">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;dashed=1;dashPattern=12 12;" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1825" y="2430" as="sourcePoint" />
             <mxPoint x="1970" y="7240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-8" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-8" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1960" y="8000" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-9" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-9" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1960" y="3240" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-21">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;dashed=1;dashPattern=12 12;" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1825" y="2430" as="sourcePoint" />
             <mxPoint x="1970" y="8070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-11" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-11" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1960" y="9360" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-41">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;dashed=1;dashPattern=12 12;" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1825" y="2430" as="sourcePoint" />
             <mxPoint x="1970" y="9430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-14" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-14" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1960" y="11240" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-15" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-15" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2130" y="2435" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
