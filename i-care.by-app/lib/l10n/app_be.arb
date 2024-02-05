@@ -569,8 +569,12 @@
   "@aboutMyGratitude_2024_02_04_01": {
     "description": "Text for 2024-02-04 01 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
-  "aboutMyGratitude_2024_02_04_02": "\n2024-02-04 Stephen R. Covey — 📕 выдаў кнігу \"The 7 Habits of Highly Effective People\" у 1989 годзе. Думаю, ідэя з той кнігі \"courage is not the absence of fear but the awareness that something else is more important\" дапамагла мне знайсці падыход да гіпотэзы №03 пры \"іррацыйны страх\".\n",
+  "aboutMyGratitude_2024_02_04_02": "\n2024-02-04 02 🦸 — 🎇 паўплываў на чалавека, дзякуючы якому, я пачаў чытаць кнігу Stephen R. Covey \"The 7 Habits of Highly Effective People\". Верагодна і на таго чалавека нехта паўплываў… Эфект матылька…\n",
   "@aboutMyGratitude_2024_02_04_02": {
+    "description": "Text for 2024-02-04 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2024_02_04_03": "\n2024-02-04 Stephen R. Covey — 📕 выдаў кнігу \"The 7 Habits of Highly Effective People\" у 1989 годзе. Думаю, ідэя з той кнігі \"courage is not the absence of fear but the awareness that something else is more important\" дапамагла мне знайсці падыход да гіпотэзы №03 пры \"іррацыйны страх\".\n",
+  "@aboutMyGratitude_2024_02_04_03": {
     "description": "Text for 2024-02-04 Stephen R. Covey on the \"my gratitude\" tab on the \"About\" page."
   },
   "aboutMyGratitude_2024_02_title": "\n\n2024-02\n",
