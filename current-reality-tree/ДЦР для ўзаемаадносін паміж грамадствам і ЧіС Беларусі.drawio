@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="IoV38DmXoWKoVM_qqdtf" modified="2024-02-06T20:26:35.445Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="aH29DWkvkufe5T1Vr4St" modified="2024-02-06T20:32:04.880Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -959,12 +959,6 @@
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-14" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1730" y="7360" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="M5mpbalIPrIZrsdFD9r1-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="M5mpbalIPrIZrsdFD9r1-3" target="o80giRriBsHeoGOEMKfS-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3110" y="2551" as="sourcePoint" />
-            <mxPoint x="2585" y="2401" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_Y3YXtQRD3ggY6TkbZ7i-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="_Y3YXtQRD3ggY6TkbZ7i-1" target="o80giRriBsHeoGOEMKfS-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2517,9 +2511,6 @@
         <mxCell id="JqqMSS8aNkaQGxuJM1Ga-1" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не можа даведацца пра дадзенае асобнае ўздзеянне ЧіС на грамадства" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="4480" y="2640" width="400" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="M5mpbalIPrIZrsdFD9r1-3" value="&lt;b&gt;ЧіС актыўна хаваюць інфармацыю пра&lt;/b&gt; дадзенае асобнае &lt;b&gt;ўздзеянне&lt;/b&gt; на грамадства. Прыклады:&lt;br&gt;- ЧіС не публікуюць інфармацыю, таму што яна &quot;для службовага выкарыстання&quot; або па іншай фармальнай прычыне;&lt;br&gt;- ЧіС знішчаюць незалежныя СМІ, якія могуць агучыць інфармацыю;&lt;br&gt;- ЧіС арыштоўваюць грамадзян, якія абмяркоўваюць інфармацыю;&lt;br&gt;- ...&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="JqqMSS8aNkaQGxuJM1Ga-1" vertex="1">
-          <mxGeometry x="40" y="80" width="320" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="_Y3YXtQRD3ggY6TkbZ7i-1" value="Грамадства не стварае інструменты для кантролю ЧіС. &lt;b&gt;Адсутнічаюць або недастаткова якасныя інструменты&lt;/b&gt;, якія дазваляюць грамадзяніну хутка і эфектыўна атрымваць інфармацыю пра кожнае асобнае ўздзеянне ЧіС на грамадства.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="JqqMSS8aNkaQGxuJM1Ga-1" vertex="1">
           <mxGeometry x="40" y="360" width="320" height="160" as="geometry" />
         </mxCell>
@@ -2902,12 +2893,6 @@
               <mxPoint x="6030" y="11541" />
               <mxPoint x="6030" y="10881" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M5mpbalIPrIZrsdFD9r1-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-5" target="M5mpbalIPrIZrsdFD9r1-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2610" y="2671" as="sourcePoint" />
-            <mxPoint x="3180" y="2231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mNDuvsE3x9D3qr3CAPvf-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="zGS259PE60l4bMru1_S_-21" target="mNDuvsE3x9D3qr3CAPvf-1" edge="1">
