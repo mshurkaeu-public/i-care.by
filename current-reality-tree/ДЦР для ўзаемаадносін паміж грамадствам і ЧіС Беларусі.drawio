@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="xV9YsDfiP5depgJeJK1e" modified="2024-02-06T09:37:35.687Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="CUZH9ic19KvrDsScRqHy" modified="2024-02-06T09:45:34.433Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1532,7 +1532,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-21" value="Для тых ЧіС, якія падтрымваюць дыктатуру ЧіС у Беларусі, можа выглядаць прывабным стварэнне розных перашкод для грамадзян. Каб у грамадзян не было рэсурсаў на аналіз уздзеяння ЧіС.&lt;br&gt;&lt;br&gt;Прыклады:&lt;br&gt;&lt;div&gt;- цяжкая нізкааплочваемая праца на дзяржпрадпрыемствах;&lt;/div&gt;&lt;div&gt;- лёгкадаступны алкаголь;&lt;/div&gt;&lt;div&gt;- вырашэнне кожнадзенных задач павінна быць складаным для грамадзяніна, каб забірала яго энергію і час;&lt;br&gt;- складанасці ў стварэнні і вядзенні бізнесу;&lt;br&gt;- размеркаванне пасля ВНУ;&lt;br&gt;- …&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;rotation=0;fillColor=none;fontColor=#FF0000;fontStyle=0;glass=0;shadow=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="3320" y="3040" width="480" height="280" as="geometry" />
+          <mxGeometry x="3320" y="3040" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-24" value="&lt;div&gt;Веды грамадзянін атрымвае або нейкім чынам ад іншых людзей або стварае веды самастойна.&lt;br&gt;&lt;br&gt;Веды ад іншых людзей грамадзянін можа атрымаць у наступных выпадках:&lt;/div&gt;&lt;div&gt;- калі іншыя людзі мэтанакіравана вучылі грамадзяніна гэтым ведам;&lt;br&gt;- калі грамадзянін самастойна папрасіў навучыць яго;&lt;br&gt;- калі грамадзянін выпадкова навучыўся ад іншых людзей.&lt;br&gt;&lt;br&gt;Грамадзянін можа&amp;nbsp;самастойна стварыць веды ў наступных выпадках:&lt;br&gt;- калі мэтанакіравана шукае тлумачэнне нейкай незразумелай з&#39;яве.&lt;br&gt;&lt;br&gt;Працэсс самастойнага стварэння ведаў, здаецца, з&#39;яўляецца даволі рэдкім выпадкам. У школе і ўніверсітэце гэтаму не вучаць (або вучаць, а я пра гэта не ведаю). Людзі, якія ствараюць новые веды, лічацца вучонымі. Але на самой справе, хутчэй за ўсё, кожны чалавек нечаму навучыўся самастойна ў сваім жыцці. Проста гэты працэс не свядомы і сістэмны, а, хутчэй, выпадковы і не заўважаны самім чалавекам.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;rotation=0;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="-3000" y="1280" width="400" height="530" as="geometry" />
@@ -3468,28 +3468,28 @@
             <mxPoint x="3250" y="3591" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9gVw7SnGrudRj7XGY8gr-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CkLIY3k917qbzqk4uZhb-14" target="WjF_KWa-nUk0AI6wJrLU-21">
+        <mxCell id="9gVw7SnGrudRj7XGY8gr-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="CkLIY3k917qbzqk4uZhb-14" target="WjF_KWa-nUk0AI6wJrLU-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4080" y="3520" as="sourcePoint" />
             <mxPoint x="4145" y="3799" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9gVw7SnGrudRj7XGY8gr-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ev4ZCz73ooBvB8r90dgF-18" target="WjF_KWa-nUk0AI6wJrLU-21">
+        <mxCell id="9gVw7SnGrudRj7XGY8gr-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ev4ZCz73ooBvB8r90dgF-18" target="WjF_KWa-nUk0AI6wJrLU-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4150" y="3280" as="sourcePoint" />
             <mxPoint x="4110" y="3790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9gVw7SnGrudRj7XGY8gr-3" value="Напрыклад: не мае патрэбных тэхнічных сродкаў, не мае энергіі, не мае часу, рукі звязаны..." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;rotation=0;fillColor=none;fontColor=#FF0000;fontStyle=0;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="3442" y="3840" width="280" height="120" as="geometry" />
+          <mxGeometry x="4000" y="3160" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9gVw7SnGrudRj7XGY8gr-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CkLIY3k917qbzqk4uZhb-14" target="9gVw7SnGrudRj7XGY8gr-3">
+        <mxCell id="9gVw7SnGrudRj7XGY8gr-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CkLIY3k917qbzqk4uZhb-14" target="9gVw7SnGrudRj7XGY8gr-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3930" y="3740" as="sourcePoint" />
             <mxPoint x="4139" y="3800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9gVw7SnGrudRj7XGY8gr-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ev4ZCz73ooBvB8r90dgF-18" target="9gVw7SnGrudRj7XGY8gr-3">
+        <mxCell id="9gVw7SnGrudRj7XGY8gr-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ev4ZCz73ooBvB8r90dgF-18" target="9gVw7SnGrudRj7XGY8gr-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4050" y="3650" as="sourcePoint" />
             <mxPoint x="4150" y="3810" as="targetPoint" />
