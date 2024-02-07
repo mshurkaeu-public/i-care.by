@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="5eYe-IJijiPWH7opooYD" modified="2024-02-07T07:56:12.426Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="o3gROP8lW7Fz4cMJtknC" modified="2024-02-07T08:03:10.313Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1493,7 +1493,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-5" value="ЧР.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="5535" y="3415" width="50" height="50" as="geometry" />
+          <mxGeometry x="4535" y="4855" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RNDRSYDRFuZBWHNrruaz-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="RNDRSYDRFuZBWHNrruaz-4" target="u8j-KaxE-SIpMTuqpm7c-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1517,12 +1517,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-17" value="&quot;ЧіС Робяць&quot; Частка №2." style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="5520" y="3320" width="120" height="40" as="geometry" />
+          <mxGeometry x="4520" y="4760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-17" target="WjF_KWa-nUk0AI6wJrLU-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5560" y="3231" as="sourcePoint" />
-            <mxPoint x="5280" y="3176" as="targetPoint" />
+            <mxPoint x="4560" y="4671" as="sourcePoint" />
+            <mxPoint x="4280" y="4616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-21" value="Для тых ЧіС, якія падтрымваюць дыктатуру ЧіС у Беларусі, можа выглядаць прывабным стварэнне розных тыпаў перашкод для грамадзян.&lt;br&gt;&lt;br&gt;К&lt;b&gt;аб не было часу і энергіі&lt;/b&gt; на аналіз уздзеяння ЧіС:&lt;br&gt;&lt;div&gt;- цяжкая нізкааплочваемая праца на дзяржпрадпрыемствах;&lt;/div&gt;&lt;div&gt;- лёгкадаступны алкаголь;&lt;/div&gt;&lt;div&gt;- вырашэнне кожнадзенных задач павінна быць складаным для грамадзяніна, каб забірала яго энергію і час;&lt;br&gt;- складанасці ў стварэнні і вядзенні бізнесу;&lt;br&gt;- размеркаванне пасля ВНУ;&lt;br&gt;- …&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Каб фарміравалася &quot;вывучаная бездапаможнасць&quot;&lt;/b&gt;:&lt;br&gt;- у грамадзяніна павінна не атрымвацца амаль усё, што ён спрабуе зрабіць праз ЧіС;&lt;br&gt;- …&lt;br&gt;&lt;br&gt;&lt;b&gt;Каб баяўся&lt;/b&gt; нават паспрабаваць, павінна быць шмат страху:&lt;br&gt;- дэманстратыўныя пакаранні грамадзян з вялізарнай жорсткасцю;&lt;br&gt;- …&lt;br&gt;&lt;br&gt;&lt;b&gt;Каб не было інфармацыі&lt;/b&gt; для аналізу:&lt;br&gt;- не публікуюць інфармацыю, таму што яна &quot;для службовага выкарыстання&quot; або па іншай фармальнай прычыне;&lt;br&gt;- знішчаюць незалежныя СМІ;&lt;br&gt;- арыштоўваюць грамадзян, якія абмяркоўваюць інфармацыю;&lt;br&gt;- …" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;rotation=0;fillColor=none;fontColor=#FF0000;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" parent="1" vertex="1">
