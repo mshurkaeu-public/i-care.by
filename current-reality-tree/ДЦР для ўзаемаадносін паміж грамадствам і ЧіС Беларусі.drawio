@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="LKzn9Ii3KqhMGOqeBDD8" modified="2024-02-07T19:24:30.350Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="XTZ8XUA8IAi7PljtCvIv" modified="2024-02-07T19:40:27.042Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,19 +540,19 @@
         <object label="ДЦР" id="1">
           <mxCell parent="0" />
         </object>
-        <mxCell id="Ev4ZCz73ooBvB8r90dgF-6" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не пазбаўляецца ад абмежавання, якое спыняе яго." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
+        <mxCell id="Ev4ZCz73ooBvB8r90dgF-6" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не пазбаўляецца ад перашкоды, якая спыняе яго." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="4400" y="4360" width="400" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="Ev4ZCz73ooBvB8r90dgF-7" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна пазбаўляцца ад абмежаванняў." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Ev4ZCz73ooBvB8r90dgF-6" vertex="1">
+        <mxCell id="Ev4ZCz73ooBvB8r90dgF-7" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна пазбаўляцца ад перашкод." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Ev4ZCz73ooBvB8r90dgF-6" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ev4ZCz73ooBvB8r90dgF-11" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна пазбаўляцца ад абмежаванняў, але &lt;b&gt;не ўмее&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Ev4ZCz73ooBvB8r90dgF-6" vertex="1">
+        <mxCell id="Ev4ZCz73ooBvB8r90dgF-11" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна пазбаўляцца ад перашкод, але &lt;b&gt;не ўмее&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Ev4ZCz73ooBvB8r90dgF-6" vertex="1">
           <mxGeometry x="40" y="200" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ev4ZCz73ooBvB8r90dgF-12" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна пазбаўляцца ад абмежаванняў, умее гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Ev4ZCz73ooBvB8r90dgF-6" vertex="1">
+        <mxCell id="Ev4ZCz73ooBvB8r90dgF-12" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна пазбаўляцца ад перашкод, умее гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Ev4ZCz73ooBvB8r90dgF-6" vertex="1">
           <mxGeometry x="40" y="320" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ev4ZCz73ooBvB8r90dgF-13" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна пазбаўляцца ад абмежаванняў, умее гэта рабіць, можа гэта рабіць, але &lt;b&gt;не жадае&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Ev4ZCz73ooBvB8r90dgF-6" vertex="1">
+        <mxCell id="Ev4ZCz73ooBvB8r90dgF-13" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна пазбаўляцца ад перашкод, умее гэта рабіць, можа гэта рабіць, але &lt;b&gt;не жадае&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Ev4ZCz73ooBvB8r90dgF-6" vertex="1">
           <mxGeometry x="40" y="440" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-16" value="Дарослыя людзі часам карыстаюцца безумоўным даверам дзіця і адсутнасцю ведаў у дзіця пра рэальнасць, каб &quot;лёгка вырашыць&quot; свае праблемы.&lt;br&gt;&lt;br&gt;Напрыклад, кажуць дзіцю, што Дзед Мароз не прынясе падарункаў, калі дзіцё не будзе паслухмяным.&lt;br&gt;&lt;br&gt;&quot;Лепяць з дзіця&quot; &quot;зручнага&quot; для сябе саміх чалавека." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
@@ -3294,10 +3294,10 @@
         <mxCell id="KaPFAjRO9B8uVGCb-CFA-15" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2130" y="2515" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CkLIY3k917qbzqk4uZhb-14" value="Грамадзянін усведамляе, што сутыкнуўся з нейкім абмежаваннем, якое спыняе яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="CkLIY3k917qbzqk4uZhb-14" value="Грамадзянін усведамляе, што сутыкнуўся з нейкай перашкодай, якая спыняе яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3920" y="4240" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CkLIY3k917qbzqk4uZhb-15" value="Грамадзянін не пазбаўляецца ад абмежавання, якое спыняе яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="CkLIY3k917qbzqk4uZhb-15" value="Грамадзянін не пазбаўляецца ад перашкоды, якая спыняе яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="3920" y="4600" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CkLIY3k917qbzqk4uZhb-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
@@ -3324,10 +3324,10 @@
             <mxPoint x="3955" y="4321" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ev4ZCz73ooBvB8r90dgF-18" value="Грамадзянін не ўсведамляе, што сутыкнуўся з нейкім абмежаваннем, якое спыняе яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="Ev4ZCz73ooBvB8r90dgF-18" value="Грамадзянін не ўсведамляе, што сутыкнуўся з нейкай перашкодай, якая спыняе яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3920" y="3520" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ev4ZCz73ooBvB8r90dgF-19" value="Грамадзянін не прымае дастатковых мер, каб упэўніцца, што абмежаванні, якія спыняюць яго, адсутнічаюць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="Ev4ZCz73ooBvB8r90dgF-19" value="Грамадзянін не прымае дастатковых мер, каб упэўніцца, што перашкоды, якія спыняюць яго, адсутнічаюць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="3920" y="3880" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ev4ZCz73ooBvB8r90dgF-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="Ev4ZCz73ooBvB8r90dgF-7" target="CkLIY3k917qbzqk4uZhb-15" edge="1">
@@ -3390,7 +3390,7 @@
             <mxPoint x="3879" y="3280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eu5MgZHu0a9uYHg2PsV--22" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не прымае дастатковых мер, каб упэўніцца, што абмежаванні, якія спыняюць яго, адсутнічаюць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
+        <mxCell id="eu5MgZHu0a9uYHg2PsV--22" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не прымае дастатковых мер, каб упэўніцца, што перашкоды, якія спыняюць яго, адсутнічаюць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="4400" y="3640" width="400" height="560" as="geometry" />
         </mxCell>
         <mxCell id="eu5MgZHu0a9uYHg2PsV--23" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна прыняць дастаткова мер." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="eu5MgZHu0a9uYHg2PsV--22" vertex="1">
