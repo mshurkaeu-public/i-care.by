@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="JnmT5cpLh9be5HxH_g_d" modified="2024-02-07T08:13:59.896Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="MLpBDeRDd0wy_c7MW-nl" modified="2024-02-07T09:05:39.965Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1033,13 +1033,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PuyFMVJUlaGO4NqQOxUn-1" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін можа лічыць, што ён нічога не можа зрабіць у дадзеным выпадку." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="3440" y="4640" width="400" height="440" as="geometry" />
+          <mxGeometry x="3440" y="4760" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="RKpNLnjRRikUdjr9KZIu-1" value="&quot;Ментальны блок&quot; &quot;я ведаю, што нічога не змагу змяніць&quot;. &quot;Вывучаная бездапаможнасць&quot;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="PuyFMVJUlaGO4NqQOxUn-1" vertex="1">
-          <mxGeometry x="40" y="320" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="200" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xnrBB2Fq_RxJNupQK1go-24" value="Грамадзянін не можа пераадолець страх пакарання з боку грамадства за сваё дзеянне." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="PuyFMVJUlaGO4NqQOxUn-1" vertex="1">
-          <mxGeometry x="40" y="200" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="giLwI4b5n_qfCpBWF8nA-1" value="&lt;div&gt;Сітуацыя, калі грамадзянін лічыць, што дадзенае асобнае ўздзеянне ЧіС на грамадства ніяк не ўплывае на яго асабістыя інтарэсы, мне здаецца, з&#39;яўляецца памылкай гэтага грамадзяніна. Магчыма, прыняты закон не ўплывае непасрэдна на грамадзяніна. Але калі закон уплывае хаця б на некага ў краіне, то гэта азначае, што на грамадзяніна паўплываюць эфекты другога, трэцяга або наступных парадкаў.&lt;br&gt;&lt;br&gt;Дадаткова: а што калі грамадзянін неўважлівы да сваіх уласных межаў?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;rotation=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="2840" y="8880" width="440" height="240" as="geometry" />
