@@ -625,6 +625,10 @@
   "@aboutMyGratitude_2024_02_29_05": {
     "description": "Text for 2024-02-29 Sergey Vaninsky on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_02_29_06": "\n2024-02-29 каманды кампаній JGraph Ltd і draw.io AG — 🛠️ стварылі версію 24.0.0 вэб-сайта https://draw.io, якім я карыстаюсь, каб маляваць дрэва цяперашняй рэальнасці для высвятлення каранёвай прычыны дыктатуры ў Беларусі.\n",
+  "@aboutMyGratitude_2024_02_29_06": {
+    "description": "Text for 2024-02-29 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_02_title": "\n\n2024-02\n",
   "@aboutMyGratitude_2024_02_title": {
     "description": "Title for 2024-02 list/text on the \"my gratitude\" tab on the \"About\" page."
