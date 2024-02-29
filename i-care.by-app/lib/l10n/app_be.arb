@@ -605,6 +605,14 @@
   "@aboutMyGratitude_2024_02_29_01": {
     "description": "Text for 2024-02-29 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_02_29_02": "\n2024-02-29 каманда Flutter — 🛠️ стварыла Flutter версіі 3.19.2 (2024-02-28), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_02_29_02": {
+    "description": "Text for 2024-02-29 Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2024_02_29_03": "\n2024-02-29 каманда Dart — 🛠️ стварыла новую версію пакета path 1.9.0 (2023-12-05), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_02_29_03": {
+    "description": "Text for 2024-02-29 Dart team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_02_title": "\n\n2024-02\n",
   "@aboutMyGratitude_2024_02_title": {
     "description": "Title for 2024-02 list/text on the \"my gratitude\" tab on the \"About\" page."
