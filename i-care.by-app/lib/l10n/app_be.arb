@@ -617,6 +617,10 @@
   "@aboutMyGratitude_2024_02_29_04": {
     "description": "Text for 2024-02-29 flutter.dev team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_02_29_05": "\n2024-02-29 Сяргей Ванінскі — ☝️ прапанаваў сваю гіпотэзу аб каранёвай прычыне дыктатуры ЧіС у Беларусі. \"Долгий советский опыт и чужие войны, проходившие на нашей территории\". Запісана тут — https://github.com/mshurkaeu-public/i-care.by/discussions/16.\n",
+  "@aboutMyGratitude_2024_02_29_05": {
+    "description": "Text for 2024-02-29 Sergey Vaninsky on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_02_title": "\n\n2024-02\n",
   "@aboutMyGratitude_2024_02_title": {
     "description": "Title for 2024-02 list/text on the \"my gratitude\" tab on the \"About\" page."
