@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="h6nF3r-jg2afkTW0SXFk" modified="2024-04-03T17:11:31.113Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.2.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="Kp9_Oz_RHAcyflvuGVpb" modified="2024-04-03T18:00:40.892Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.2.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3059,7 +3059,7 @@
         <mxCell id="efOgcQIudSeZyejpRAUV-2" value="Калі чалавек нараджаецца, то ён зусім нічога не ведае пра тое, як уладкаваны свет/рэальнасць. &lt;font color=&quot;#808080&quot;&gt;(базавая гіпотэза 3)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=#0000FF;rotation=0;fillColor=default;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="3640" y="480" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="efOgcQIudSeZyejpRAUV-4" value="Згодна з базавай гіпотэзай 4, каб грамадзянін не ведаў, што можна даведвацца пра ўздзеянне ЧіС на грамадства неабходна выкананне ўсіх прычын з гэтага слупка" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
+        <mxCell id="efOgcQIudSeZyejpRAUV-4" value="Згодна з базавай гіпотэзай 4, каб жывы грамадзянін, які ў прытомнасці, не ведаў, што можна даведвацца пра ўздзеянне ЧіС на грамадства неабходна выкананне ўсіх прычын з гэтага слупка" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="3600" y="600" width="400" height="1800" as="geometry" />
         </mxCell>
         <mxCell id="efOgcQIudSeZyejpRAUV-5" value="Веды пра тое, што можна даведвацца пра ўздзеянне ЧіС на грамадства не былі &quot;ўшыты&quot; ў гены грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
