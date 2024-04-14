@@ -737,6 +737,10 @@
   "@aboutMyGratitude_2024_04_14_02": {
     "description": "Text for 2024-04-14 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_04_14_03": "\n2024-04-14 Анастасия — ☝️ прапанавала сваю гіпотэзу аб каранёвай прычыне дыктатуры ЧіС у Беларусі. \"Eё взращивает сам народ\". Запісана тут — https://github.com/mshurkaeu-public/i-care.by/discussions/27.\n",
+  "@aboutMyGratitude_2024_04_14_03": {
+    "description": "Text for 2024-04-14 Анастасия on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_04_title": "\n\n2024-04\n",
   "@aboutMyGratitude_2024_04_title": {
     "description": "Title for 2024-04 list/text on the \"my gratitude\" tab on the \"About\" page."
