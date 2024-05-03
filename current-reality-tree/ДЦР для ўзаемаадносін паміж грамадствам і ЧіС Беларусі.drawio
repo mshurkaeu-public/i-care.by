@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="EYA55SkjkjTysQc5ll18" modified="2024-05-03T16:00:56.948Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="KLnKrl1aOXJ_S59PxJRj" modified="2024-05-03T16:11:57.695Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3473,10 +3473,10 @@
             <mxPoint x="3574.0000000004275" y="4100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9gVw7SnGrudRj7XGY8gr-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="0vqqIDfPm7rMvMw0exrb-3" target="WjF_KWa-nUk0AI6wJrLU-21" edge="1">
+        <mxCell id="9gVw7SnGrudRj7XGY8gr-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=0;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-21" target="9nEFf0kavLy-WNETYD56-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4309" y="3280" as="sourcePoint" />
-            <mxPoint x="3879" y="3280" as="targetPoint" />
+            <mxPoint x="3560" y="4100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eu5MgZHu0a9uYHg2PsV--22" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не прымае дастатковых мер, каб упэўніцца, што перашкоды, якія спыняюць яго, адсутнічаюць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
