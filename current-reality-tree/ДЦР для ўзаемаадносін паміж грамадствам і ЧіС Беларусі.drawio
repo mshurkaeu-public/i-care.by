@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="LEaarCZl0IRZGMIcLIwy" modified="2024-05-03T14:38:46.944Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="pPyQRBOLrf2VIGMDA7bU" modified="2024-05-03T14:50:10.296Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3557,7 +3557,7 @@
             <mxPoint x="5140" y="4480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="34e7RA6KefHYZEXXCMD1-11" value="У &quot;капілку фактаў&quot; грамадзяніна кладзецца інфармацыя, што ў яго не атрымалася." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="34e7RA6KefHYZEXXCMD1-11" value="У &quot;базу ведаў&quot; грамадзяніна кладзецца інфармацыя, што ў яго не атрымалася пазбавіцца ад перашкоды." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="4640" y="4280" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="34e7RA6KefHYZEXXCMD1-12" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
