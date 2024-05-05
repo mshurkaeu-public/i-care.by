@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="UC5kOPrUvqLuJwk60CJ_" modified="2024-05-05T12:40:10.541Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="Zhw0AXHreIwmVU5Yl_Z8" modified="2024-05-05T12:47:08.227Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3374,7 +3374,7 @@
         <mxCell id="0vqqIDfPm7rMvMw0exrb-3" value="Усе магчымыя тыпы ўсведамлення грамадзянінам наяўнасці перашкоды, якая спыняе яго." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="4240" y="3720" width="400" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="Ev4ZCz73ooBvB8r90dgF-18" value="Грамадзянін не ўсведамляе, што сутыкнуўся з нейкай перашкодай, якая спыняе яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="0vqqIDfPm7rMvMw0exrb-3" vertex="1">
+        <mxCell id="Ev4ZCz73ooBvB8r90dgF-18" value="Грамадзянін не ўсведамляе, што сутыкнуўся з нейкай перашкодай, якая спыняе яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="0vqqIDfPm7rMvMw0exrb-3" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0vqqIDfPm7rMvMw0exrb-5" value="Тое што перашкода існуе, а грамадзянін не ўсведамляе, што сутыкнуўся з ёй, азначае, што грамадзянін не ўсведамляе нейкую частку рэальнасці." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="0vqqIDfPm7rMvMw0exrb-3" vertex="1">
