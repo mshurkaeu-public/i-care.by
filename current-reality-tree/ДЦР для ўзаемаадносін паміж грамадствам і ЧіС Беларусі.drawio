@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="VX8CD4Ad0uzAtQMKnXSh" modified="2024-05-06T07:46:50.398Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="pzUCRG_BvEy0ggrAItvO" modified="2024-05-06T07:58:10.565Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3752,6 +3752,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4290" y="4690" as="sourcePoint" />
             <mxPoint x="4105" y="4870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtWALPR_QNtkMw_p7kNT-8" value="Грамадзянін вырашае сабраць больш інфармацыі, каб зрабіць свой выбар." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="4840" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HtWALPR_QNtkMw_p7kNT-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HtWALPR_QNtkMw_p7kNT-3" target="HtWALPR_QNtkMw_p7kNT-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5050" y="4810" as="sourcePoint" />
+            <mxPoint x="5450" y="4570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
