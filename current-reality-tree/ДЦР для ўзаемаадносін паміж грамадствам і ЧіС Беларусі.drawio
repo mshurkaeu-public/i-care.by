@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="0EthiuXqdSr-K8duxGhp" modified="2024-05-07T19:03:14.430Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="mBgsHJoKsRvitRya43vY" modified="2024-05-07T19:35:12.464Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3788,6 +3788,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5810" y="4490" as="sourcePoint" />
             <mxPoint x="5290" y="4410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5480" y="4200" />
+              <mxPoint x="5480" y="4100" />
+              <mxPoint x="5040" y="4100" />
+              <mxPoint x="5040" y="4820" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o6J99wCgtp8LyrG-D7Kd-8" value="Наконт гэтага выбара ў мяне ўзнікае аналогія з сітуацыяй, калі чалавек сутыкаецца з нечым новым/невядомым. Там магчымы (&lt;font color=&quot;#ff0000&quot;&gt;? толькі ?&lt;/font&gt;) 4 вынікі:&lt;br&gt;1. Атакуй.&lt;br&gt;2. Уцякай.&lt;br&gt;3. Вывучай.&lt;br&gt;4. Параліч. (&quot;аперацыйная сістэма завісла&quot;)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
