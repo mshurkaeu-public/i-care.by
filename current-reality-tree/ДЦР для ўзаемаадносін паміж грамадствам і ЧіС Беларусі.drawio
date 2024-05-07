@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="hAMixrs7mnHS1hkKw_e1" modified="2024-05-07T18:49:08.812Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="0EthiuXqdSr-K8duxGhp" modified="2024-05-07T19:03:14.430Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3800,7 +3800,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o6J99wCgtp8LyrG-D7Kd-10" value="Я выкарыстоўваю тут азначэнне &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;, каб падкрэсліць тое, што працэс пантэнцыйна ітерацыйны. Не абавязкова, але можа быць. Таксама звяртаю ўвагу, што ўяўляемая перашкода &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; можа не супадаць з&amp;nbsp;ўяўляемай перашкодай &lt;b&gt;B&lt;sub&gt;2&lt;/sub&gt;&lt;/b&gt;, … якая можа не супадаць з&amp;nbsp;ўяўляемай перашкодай &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;. І некаторыя з іх, ці нават усе, могуць не супадаць з рэальнай перашкодай &lt;b&gt;A&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5320" y="4920" width="480" height="120" as="geometry" />
+          <mxGeometry x="5320" y="4960" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="o6J99wCgtp8LyrG-D7Kd-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6J99wCgtp8LyrG-D7Kd-10" target="HtWALPR_QNtkMw_p7kNT-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
