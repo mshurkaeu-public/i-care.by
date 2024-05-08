@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="yypUSygGEAcxfSsXAkr0" modified="2024-05-08T08:54:19.150Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="eehCT7nnQtz7k-f8xH_B" modified="2024-05-08T09:04:09.880Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3654,15 +3654,6 @@
         </mxCell>
         <mxCell id="0vqqIDfPm7rMvMw0exrb-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="6305" y="5085" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0vqqIDfPm7rMvMw0exrb-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0vqqIDfPm7rMvMw0exrb-7" target="DRyQWL-BYj0j9HK5H5N2-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4355" y="4570" as="sourcePoint" />
-            <mxPoint x="4330" y="4570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9nEFf0kavLy-WNETYD56-1" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="5740" y="4560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9nEFf0kavLy-WNETYD56-3" value="Грамадзянін не пазбаўляецца ад адной ці болей перашкод з набора перашкод &lt;b&gt;A&lt;/b&gt;, якія блакуюць яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="3600" y="4400" width="320" height="80" as="geometry" />
