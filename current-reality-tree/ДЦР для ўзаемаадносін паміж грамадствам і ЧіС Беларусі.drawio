@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="15dhxemg-eYlpJ2Om8dO" modified="2024-05-08T09:15:34.471Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="R4ZbWQ0mfbfyCOoSgbFf" modified="2024-05-08T09:20:58.594Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3533,7 +3533,7 @@
             <mxPoint x="4495" y="4560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="34e7RA6KefHYZEXXCMD1-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HtWALPR_QNtkMw_p7kNT-3" target="DRyQWL-BYj0j9HK5H5N2-1" edge="1">
+        <mxCell id="34e7RA6KefHYZEXXCMD1-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HtWALPR_QNtkMw_p7kNT-3" target="DRyQWL-BYj0j9HK5H5N2-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4960" y="4840" as="sourcePoint" />
             <mxPoint x="4740" y="4520" as="targetPoint" />
