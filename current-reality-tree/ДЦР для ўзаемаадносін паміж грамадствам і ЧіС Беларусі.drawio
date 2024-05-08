@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="oLaDGpS5i27-vbhfQEj2" modified="2024-05-08T08:32:56.488Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="y1Bf8z8jdSPPanpVMNUo" modified="2024-05-08T08:42:39.657Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3751,7 +3751,7 @@
         <mxCell id="3YK6mLSudX0Pv2gEbJLH-3" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="4600" y="4620" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HtWALPR_QNtkMw_p7kNT-3" value="Адбываецца нейкі ўнутраны працэс, у выніку якога грамадзянін працягвае далей (у кантэксце ўяўляемай перашкоды &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;) адным з наступных спосабаў." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="HtWALPR_QNtkMw_p7kNT-3" value="Адбываецца нейкі ўнутраны працэс, у выніку якога грамадзянін працягвае далей (у кантэксце набора ўяўляемых перашкод &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;) адным з наступных спосабаў." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="5360" y="4760" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HtWALPR_QNtkMw_p7kNT-4" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
