@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="HsjL4X6OghBjxD7Szbcr" modified="2024-05-09T12:44:20.355Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="G7PWMsGXA9FzfmjqHjlk" modified="2024-05-09T12:48:46.811Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3565,26 +3565,6 @@
         </mxCell>
         <mxCell id="34e7RA6KefHYZEXXCMD1-13" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="6460" y="5130" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="34e7RA6KefHYZEXXCMD1-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="34e7RA6KefHYZEXXCMD1-11" target="Ev4ZCz73ooBvB8r90dgF-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5650" y="4890" as="sourcePoint" />
-            <mxPoint x="5750" y="4470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="6920" y="4200" />
-              <mxPoint x="6920" y="5160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="34e7RA6KefHYZEXXCMD1-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="34e7RA6KefHYZEXXCMD1-11" target="Ev4ZCz73ooBvB8r90dgF-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5450" y="4330" as="sourcePoint" />
-            <mxPoint x="5970" y="4890" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="7000" y="4200" />
-              <mxPoint x="7000" y="5280" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="X6rx839UVBMUgUzUHavr-4" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя прычыны чаму грамадзянін не ўсведамляе нейкую частку рэальнасці." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="4800" y="3560" width="400" height="560" as="geometry" />
