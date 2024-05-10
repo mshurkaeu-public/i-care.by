@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="_k4WZMQO8DozIcL222sv" modified="2024-05-10T20:17:38.413Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="a6YmNYsy6TjjyZGbgIG7" modified="2024-05-10T20:27:15.069Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -618,7 +618,7 @@
           <mxGeometry x="5280" y="4840" width="1360" height="720" as="geometry" />
         </mxCell>
         <mxCell id="YF0XWQoRzKOnpNSZt35C-5" value="Гіпотэза №01: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што ў пераважнай колькасці беларусаў вывучаная бездапаможнасць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" parent="NrQX0OwDYXjqOdOMFsva-7" vertex="1">
-          <mxGeometry y="400" width="1360" height="320" as="geometry" />
+          <mxGeometry y="400" width="960" height="320" as="geometry" />
         </mxCell>
         <mxCell id="34e7RA6KefHYZEXXCMD1-23" value="Вывучаная бездапаможнасць — гэта калі чалавек нават і не спрабуе пазбавіцца ад перашкоды, якая яго спыняе, і не спрабуе сабраць больш інфармацыі пра гэтую перашкоду, хаця рэсурсы для гэтага ў чалавека ёсць. А не спрабуе таму што ў чалавека ўжо ёсць жыццёвы досвед, які, быццам бы, загадзя сведчыць, што ў чалавека няма ніякага ўплыву на сітуацыю." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;rotation=0;fontColor=default;" parent="YF0XWQoRzKOnpNSZt35C-5" vertex="1">
           <mxGeometry x="40" y="120" width="400" height="160" as="geometry" />
@@ -630,7 +630,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NrQX0OwDYXjqOdOMFsva-3" value="" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" parent="NrQX0OwDYXjqOdOMFsva-7" vertex="1">
-          <mxGeometry x="960" width="400" height="400" as="geometry" />
+          <mxGeometry x="960" width="400" height="720" as="geometry" />
         </mxCell>
         <object label="ДЦР" id="1">
           <mxCell parent="0" />
@@ -3765,16 +3765,16 @@
             <mxPoint x="6130" y="4730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c3oQFzIX2yJtnYeHpBwy-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="c3oQFzIX2yJtnYeHpBwy-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="4225" y="5145" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c3oQFzIX2yJtnYeHpBwy-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="c3oQFzIX2yJtnYeHpBwy-2" target="CkLIY3k917qbzqk4uZhb-16">
+        <mxCell id="c3oQFzIX2yJtnYeHpBwy-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="c3oQFzIX2yJtnYeHpBwy-2" target="CkLIY3k917qbzqk4uZhb-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4075" y="4870" as="sourcePoint" />
             <mxPoint x="3930" y="4450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c3oQFzIX2yJtnYeHpBwy-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="3fRGDfD9JJKMKbeLGBdq-1" target="c3oQFzIX2yJtnYeHpBwy-2">
+        <mxCell id="c3oQFzIX2yJtnYeHpBwy-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3fRGDfD9JJKMKbeLGBdq-1" target="c3oQFzIX2yJtnYeHpBwy-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5810" y="5330" as="sourcePoint" />
             <mxPoint x="4265" y="5170" as="targetPoint" />
