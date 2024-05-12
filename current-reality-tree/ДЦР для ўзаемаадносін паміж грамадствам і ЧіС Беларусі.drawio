@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="3YmZjyO86u1nGjV7ZT3n" modified="2024-05-12T14:21:13.619Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.4.0" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="YV3JQOvT1nj__ykBrFCy" modified="2024-05-12T14:26:44.804Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.4.0" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3841,6 +3841,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5330" y="4810" as="sourcePoint" />
             <mxPoint x="5170" y="4570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5240" y="4860" />
+              <mxPoint x="5240" y="4560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="k4Nqixr7GYxrwTfz5wfH-12" value="Веды грамадзяніна і разуменне існуючай сітуацыі грамадзянінам таксама з&#39;яўляюцца часткай рэальнасці." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
