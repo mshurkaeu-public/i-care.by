@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="IhykdyWV7W7g751XTinE" modified="2024-05-16T15:00:37.448Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.2" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="Yh2D7hiTjemXuM2hztIp" modified="2024-05-16T15:15:31.094Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.2" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3701,10 +3701,10 @@
             <mxPoint x="6410" y="4490" as="sourcePoint" />
             <mxPoint x="5890" y="4410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4280" y="4580" />
+              <mxPoint x="4280" y="4520" />
               <mxPoint x="4280" y="4160" />
-              <mxPoint x="6620" y="4160" />
-              <mxPoint x="6620" y="4940" />
+              <mxPoint x="6680" y="4160" />
+              <mxPoint x="6680" y="4940" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3902,7 +3902,7 @@
           <mxGeometry x="5145" y="4545" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HL2ijEynJ6xwsD7sjHqX-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="4325" y="4565" width="30" height="30" as="geometry" />
+          <mxGeometry x="4325" y="4505" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HL2ijEynJ6xwsD7sjHqX-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="34e7RA6KefHYZEXXCMD1-11" target="HL2ijEynJ6xwsD7sjHqX-11">
           <mxGeometry relative="1" as="geometry">
@@ -3917,7 +3917,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HL2ijEynJ6xwsD7sjHqX-14" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4355" y="4520" width="80" height="120" as="geometry" />
+          <mxGeometry x="4355" y="4460" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HL2ijEynJ6xwsD7sjHqX-15" value="Нейкім чынам абнаўляецца ўяўленне грамадзяніна аб рэальнасці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="4520" y="4480" width="320" height="80" as="geometry" />
