@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="oUpo7WtrmPCwT_9_FiSu" modified="2024-05-16T20:18:36.598Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.2" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="v9Hz4HokE9cVU9j8c28M" modified="2024-05-16T20:32:04.291Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.2" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3427,6 +3427,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3854" y="3870" as="sourcePoint" />
             <mxPoint x="3574.0000000004275" y="4100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4000" y="4925" />
+              <mxPoint x="4000" y="4440" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9gVw7SnGrudRj7XGY8gr-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=0;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-21" target="9nEFf0kavLy-WNETYD56-5" edge="1">
