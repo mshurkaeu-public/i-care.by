@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="1rgkPAKrXyVt5KwLqYTb" modified="2024-05-16T19:08:53.522Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.2" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="ONttctPqTtS6hcEs3FRC" modified="2024-05-16T19:21:17.071Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.2" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3380,15 +3380,6 @@
         <mxCell id="CkLIY3k917qbzqk4uZhb-14" value="Грамадзянін усведамляе, што сутыкнуўся з наборам нейкіх перашкод, якія блакуюць яго. І ўяўляе гэты набор як &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="0vqqIDfPm7rMvMw0exrb-3" vertex="1">
           <mxGeometry x="40" y="1000" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aApYGewBmsv3_qILmE3r-5" value="Паколькі грамадзянін усведамляе, што сутыкнуўся з нейкімі перашкодамі, то ён неяк уяўляе сабе гэтыя перашкоды. Уяўленне можа быць вельмі выразным, а можа быць вельмі туманным. Пры гэтым уяўленне грамадзяніна аб тых перашкодах не абавязкова супадае з рэальнасцю. Каб падкрэсліць гэты аспект, пазначу набор перашкод, які ўяўляе грамадзянін у пачатку працэса, як &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;. Іншая літара &lt;b&gt;В&lt;/b&gt; будзе падрэсліваць &quot;неабавязкова супадае з &lt;b&gt;A&lt;/b&gt;&quot;. А індэкс &lt;b&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; азначае, што гэта ўяўленне грамадзяніна аб рэальнасці на першай ітэрацыі працэса.&lt;br&gt;&lt;br&gt;Прыклад &quot;на пальцах&quot; для тлумачэння: чалавек не можа адбуксаваць чужую машыну. Машына амерыканская са стаяначным тормазам, які націскаецца левай нагой. Тормаз націснуты (гэта набор &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; з адной рэальнай перашкоды). Чалавек заглядае ў кабіну і бачыць, што звыклага ручнога тормаза няма. Здагадка чалавека — аўтамабіль зламаўся, заблакаваліся тармазныя калодкі (гэта набор уяўляемых перашкод &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;)." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="0vqqIDfPm7rMvMw0exrb-3" vertex="1">
-          <mxGeometry x="40" y="400" width="320" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="aApYGewBmsv3_qILmE3r-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="0vqqIDfPm7rMvMw0exrb-3" source="aApYGewBmsv3_qILmE3r-5" target="CkLIY3k917qbzqk4uZhb-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="920" as="sourcePoint" />
-            <mxPoint x="220" y="890" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CkLIY3k917qbzqk4uZhb-15" value="&lt;div&gt;&quot;Параліч&quot;. (Ні &quot;атакуй&quot;, ні &quot;пазбягай&quot;, ні &quot;вывучай&quot;.) Грамадзянін не робіць нічога, што можа змяніць сітуацыю, дзякуючы яго ўдзелу.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="5800" y="5280" width="320" height="120" as="geometry" />
         </mxCell>
@@ -3962,6 +3953,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4530" y="4410" as="sourcePoint" />
             <mxPoint x="4365" y="4590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aApYGewBmsv3_qILmE3r-5" value="Паколькі грамадзянін усведамляе, што сутыкнуўся з нейкімі перашкодамі, то ён неяк уяўляе сабе гэтыя перашкоды. Уяўленне можа быць вельмі выразным, а можа быць вельмі туманным. Пры гэтым уяўленне грамадзяніна аб тых перашкодах не абавязкова супадае з рэальнасцю. Каб падкрэсліць гэты аспект, пазначу набор перашкод, які ўяўляе грамадзянін у пачатку працэса, як &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;. Іншая літара &lt;b&gt;В&lt;/b&gt; будзе падрэсліваць &quot;неабавязкова супадае з &lt;b&gt;A&lt;/b&gt;&quot;. А індэкс &lt;b&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; азначае, што гэта ўяўленне грамадзяніна аб рэальнасці на першай ітэрацыі працэса.&lt;br&gt;&lt;br&gt;Прыклад &quot;на пальцах&quot; для тлумачэння: чалавек не можа адбуксаваць чужую машыну. Машына амерыканская са стаяначным тормазам, які націскаецца левай нагой. Тормаз націснуты (гэта набор &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; з адной рэальнай перашкоды). Чалавек заглядае ў кабіну і бачыць, што звыклага ручнога тормаза няма. Здагадка чалавека — аўтамабіль зламаўся, заблакаваліся тармазныя калодкі (гэта набор уяўляемых перашкод &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;)." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="7440" y="4040" width="320" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="aApYGewBmsv3_qILmE3r-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aApYGewBmsv3_qILmE3r-5" target="CkLIY3k917qbzqk4uZhb-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7090" y="3840" as="sourcePoint" />
+            <mxPoint x="7180" y="3810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
