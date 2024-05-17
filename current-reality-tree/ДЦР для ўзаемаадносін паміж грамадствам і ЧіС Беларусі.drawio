@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="IJtbq-FxL7wRQ_wkSk7c" modified="2024-05-17T19:43:23.552Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.4" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="3tXkB3jgZ2HfqtHBNoil" modified="2024-05-17T20:00:45.497Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.4" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -614,11 +614,11 @@
         <object label="Гіпотэза №01" id="YF0XWQoRzKOnpNSZt35C-4">
           <mxCell parent="0" visible="0" />
         </object>
-        <mxCell id="NrQX0OwDYXjqOdOMFsva-7" value="" style="group" parent="YF0XWQoRzKOnpNSZt35C-4" vertex="1" connectable="0">
-          <mxGeometry x="5280" y="3920" width="1840" height="720" as="geometry" />
+        <mxCell id="NrQX0OwDYXjqOdOMFsva-7" value="" style="group;recursiveResize=0;" parent="YF0XWQoRzKOnpNSZt35C-4" vertex="1" connectable="0">
+          <mxGeometry x="5760" y="3920" width="1360" height="720" as="geometry" />
         </mxCell>
         <mxCell id="YF0XWQoRzKOnpNSZt35C-5" value="Гіпотэза №01: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што ў пераважнай колькасці беларусаў вывучаная бездапаможнасць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" parent="NrQX0OwDYXjqOdOMFsva-7" vertex="1">
-          <mxGeometry y="400" width="1440" height="320" as="geometry" />
+          <mxGeometry y="400" width="960" height="320" as="geometry" />
         </mxCell>
         <mxCell id="34e7RA6KefHYZEXXCMD1-23" value="Вывучаная бездапаможнасць — гэта калі чалавек нават і не спрабуе пазбавіцца ад перашкоды, якая яго спыняе, і не спрабуе сабраць больш інфармацыі пра гэтую перашкоду, хаця рэсурсы для гэтага ў чалавека ёсць. А не спрабуе таму што ў чалавека ўжо ёсць жыццёвы досвед, які, быццам бы, загадзя сведчыць, што ў чалавека няма ніякага ўплыву на сітуацыю." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;rotation=0;fontColor=default;" parent="YF0XWQoRzKOnpNSZt35C-5" vertex="1">
           <mxGeometry x="40" y="120" width="400" height="160" as="geometry" />
@@ -630,7 +630,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NrQX0OwDYXjqOdOMFsva-3" value="" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" parent="NrQX0OwDYXjqOdOMFsva-7" vertex="1">
-          <mxGeometry x="1440" width="400" height="720" as="geometry" />
+          <mxGeometry x="960" width="400" height="720" as="geometry" />
         </mxCell>
         <object label="ДЦР" id="1">
           <mxCell parent="0" />
@@ -3381,7 +3381,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CkLIY3k917qbzqk4uZhb-15" value="&lt;div&gt;&quot;Параліч&quot;. (Ні &quot;атакуй&quot;, ні &quot;пазбягай&quot;, ні &quot;вывучай&quot;.) Грамадзянін жадае дасягнуць сваёй зыходнай мэты і &lt;b&gt;&lt;u&gt;не&lt;/u&gt;&lt;/b&gt; спрабуе змяніць рэальнасць для гэтага.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="5800" y="4360" width="320" height="120" as="geometry" />
+          <mxGeometry x="6280" y="4360" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CkLIY3k917qbzqk4uZhb-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="4065" y="3925" width="30" height="30" as="geometry" />
