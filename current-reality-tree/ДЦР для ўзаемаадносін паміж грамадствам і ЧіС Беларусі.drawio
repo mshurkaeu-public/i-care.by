@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="ka4hhDZHKhJW_04HAsol" modified="2024-05-17T19:38:48.049Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.4" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="IJtbq-FxL7wRQ_wkSk7c" modified="2024-05-17T19:43:23.552Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.4" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3380,7 +3380,7 @@
             <mxPoint x="220" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CkLIY3k917qbzqk4uZhb-15" value="&lt;div&gt;&quot;Параліч&quot;. (Ні &quot;атакуй&quot;, ні &quot;пазбягай&quot;, ні &quot;вывучай&quot;.) Грамадзянін не робіць нічога, што можа змяніць сітуацыю, дзякуючы яго ўдзелу.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="CkLIY3k917qbzqk4uZhb-15" value="&lt;div&gt;&quot;Параліч&quot;. (Ні &quot;атакуй&quot;, ні &quot;пазбягай&quot;, ні &quot;вывучай&quot;.) Грамадзянін жадае дасягнуць сваёй зыходнай мэты і &lt;b&gt;&lt;u&gt;не&lt;/u&gt;&lt;/b&gt; спрабуе змяніць рэальнасць для гэтага.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="5800" y="4360" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CkLIY3k917qbzqk4uZhb-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
@@ -3972,7 +3972,7 @@
             <mxPoint x="4365" y="3670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FGi2ZpbzsCYzHjcK8di4-1" value="Грамадзянін жадае дасягнуць сваёй зыходнай мэты і спрабуе змяніць рэальнасць для гэтага." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="FGi2ZpbzsCYzHjcK8di4-1" value="Грамадзянін жадае дасягнуць сваёй зыходнай мэты і спрабуе змяніць рэальнасць для гэтага." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="6280" y="3640" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
