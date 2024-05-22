@@ -1156,6 +1156,24 @@ class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
   final MultiSplitViewController _multiSplitViewController =
       MultiSplitViewController();
 
+  Widget _multiSplitViewBuilder(BuildContext context, Area area) {
+    if (area.index == 0) {
+      return Padding(
+        padding: (widget.axis == Axis.horizontal)
+            ? const EdgeInsets.only(right: 9)
+            : const EdgeInsets.only(bottom: 9),
+        child: widget.firstArea,
+      );
+    } else {
+      return Padding(
+        padding: (widget.axis == Axis.horizontal)
+            ? const EdgeInsets.only(left: 9)
+            : const EdgeInsets.only(top: 9),
+        child: widget.secondArea,
+      );
+    }
+  }
+
   void _onDividerDoubleTap(int dividerIndex) {
     _restoreDefaultColumnsWeights();
   }
@@ -1163,7 +1181,10 @@ class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
   void _restoreDefaultColumnsWeights() {
     _multiSplitViewController.areas = [
       Area(
-        weight: widget.initialFirstAreaWeight,
+        flex: widget.initialFirstAreaWeight,
+      ),
+      Area(
+        flex: (1 - widget.initialFirstAreaWeight),
       ),
     ];
   }
@@ -1184,20 +1205,7 @@ class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
         axis: widget.axis,
         controller: _multiSplitViewController,
         onDividerDoubleTap: _onDividerDoubleTap,
-        children: [
-          Padding(
-            padding: (widget.axis == Axis.horizontal)
-                ? const EdgeInsets.only(right: 9)
-                : const EdgeInsets.only(bottom: 9),
-            child: widget.firstArea,
-          ),
-          Padding(
-            padding: (widget.axis == Axis.horizontal)
-                ? const EdgeInsets.only(left: 9)
-                : const EdgeInsets.only(top: 9),
-            child: widget.secondArea,
-          ),
-        ],
+        builder: _multiSplitViewBuilder,
       ),
     );
   }
