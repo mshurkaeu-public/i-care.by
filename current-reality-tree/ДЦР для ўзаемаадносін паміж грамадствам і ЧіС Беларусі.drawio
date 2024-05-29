@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="y-Y6vsZsYbM6QmbBPd6T" modified="2024-05-29T11:37:44.509Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.9" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="KVuDMRPjOXO9yeVl88IY" modified="2024-05-29T12:03:16.949Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.9" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4143,7 +4143,7 @@
             <mxPoint x="7410" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoFinrV3nIF7SRB2cIw-11" value="&quot;База ведаў&quot; грамадзяніна, жыццёвы досвед." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="MPoFinrV3nIF7SRB2cIw-11" value="Інфармацыйны стан грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="7240" y="3840" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MPoFinrV3nIF7SRB2cIw-12" value="Уяўленне грамадзяніна аб рэальнасці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
@@ -4219,6 +4219,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8490" y="2930" as="sourcePoint" />
             <mxPoint x="8490" y="3010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j8n5TMFzTu400BrqlXF8-3" value="Веды, успаміны грамадзяніна, якія ён атрымаў усімі магчымамі спосабамі, за ўсё сваё папярэдняе жыццё да цяперашняга моманта." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=#FF0000;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7680" y="3839" width="320" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="j8n5TMFzTu400BrqlXF8-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="j8n5TMFzTu400BrqlXF8-3" target="MPoFinrV3nIF7SRB2cIw-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6930" y="3890" as="sourcePoint" />
+            <mxPoint x="6930" y="3970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
