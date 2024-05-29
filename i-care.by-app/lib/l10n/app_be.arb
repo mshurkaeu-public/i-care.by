@@ -829,6 +829,10 @@
   "@aboutMyGratitude_2024_05_28_01": {
     "description": "Text for 2024-05-28 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_05_29_01": "\n2024-05-29 каманда Flutter — 🛠️ стварыла Flutter версіі 3.22.1 (2024-05-22), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_05_29_01": {
+    "description": "Text for 2024-05-29 Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_05_title": "\n\n2024-05\n",
   "@aboutMyGratitude_2024_05_title": {
     "description": "Title for 2024-05 list/text on the \"my gratitude\" tab on the \"About\" page."
