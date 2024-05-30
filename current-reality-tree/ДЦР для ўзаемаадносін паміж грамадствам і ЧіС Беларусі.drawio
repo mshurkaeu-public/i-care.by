@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="0t8t4DXV9pLSsaskeN1J" modified="2024-05-30T13:08:33.154Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.10" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="CHWbaDpPzZJI23AKyVDN" modified="2024-05-30T13:21:48.886Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.10" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4095,7 +4095,7 @@
             <mxPoint x="7090" y="4030" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7620" y="3080" />
-              <mxPoint x="7620" y="3760" />
+              <mxPoint x="7620" y="3560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4144,7 +4144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-6" value="Унутраныя &lt;u&gt;абставіны&lt;/u&gt; грамадзяніна" style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=dashed;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;startSize=20;arcSize=15;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7200" y="3560" width="400" height="640" as="geometry" />
+          <mxGeometry x="7200" y="3360" width="400" height="640" as="geometry" />
         </mxCell>
         <mxCell id="j8n5TMFzTu400BrqlXF8-5" value="Фізічны стан грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-6" vertex="1">
           <mxGeometry x="40" y="40" width="320" height="80" as="geometry" />
@@ -4167,7 +4167,7 @@
             <mxPoint x="7610" y="3410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7630" y="3080" />
-              <mxPoint x="7630" y="3880" />
+              <mxPoint x="7630" y="3680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4177,7 +4177,7 @@
             <mxPoint x="7610" y="3530" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7640" y="3080" />
-              <mxPoint x="7640" y="4000" />
+              <mxPoint x="7640" y="3800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4187,7 +4187,7 @@
             <mxPoint x="7610" y="3650" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7650" y="3080" />
-              <mxPoint x="7650" y="4120" />
+              <mxPoint x="7650" y="3920" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4228,7 +4228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j8n5TMFzTu400BrqlXF8-3" value="Веды, успаміны грамадзяніна, якія ён атрымаў усімі магчымамі спосабамі, за ўсё сваё папярэдняе жыццё да цяперашняга моманта." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=#FF0000;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="7680" y="3839" width="320" height="81" as="geometry" />
+          <mxGeometry x="7680" y="3640" width="320" height="81" as="geometry" />
         </mxCell>
         <mxCell id="j8n5TMFzTu400BrqlXF8-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="j8n5TMFzTu400BrqlXF8-3" target="MPoFinrV3nIF7SRB2cIw-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4242,7 +4242,7 @@
             <mxPoint x="7570" y="3770" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7610" y="3080" />
-              <mxPoint x="7610" y="3640" />
+              <mxPoint x="7610" y="3440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4253,7 +4253,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j8n5TMFzTu400BrqlXF8-8" value="&lt;div&gt;Уяўленне грамадзяніна аб &lt;u&gt;усёй&lt;/u&gt; рэальнасці. У тым ліку, яго ўяўленні:&lt;/div&gt;&lt;div&gt;• аб сваім фізічным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім эмацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім інфармацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• і наогул аб самім існаванні працэса прыняцця рашэння!&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=#FF0000;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="7680" y="3960" width="320" height="200" as="geometry" />
+          <mxGeometry x="7680" y="3760" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="j8n5TMFzTu400BrqlXF8-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="j8n5TMFzTu400BrqlXF8-8" target="MPoFinrV3nIF7SRB2cIw-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4262,7 +4262,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-9" value="Знешнія абставіны грамадзяніна." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;arcSize=15;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;gradientColor=none;swimlaneLine=0;" vertex="1" parent="1">
-          <mxGeometry x="7200" y="4240" width="400" height="640" as="geometry" />
+          <mxGeometry x="7200" y="4040" width="400" height="640" as="geometry" />
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-1" value="Унутраныя і знешнія абставіны іншых людзей, з якімі грамадзянін кантактуе." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" vertex="1" parent="w0RshDjsbmjo_j19ezAq-9">
           <mxGeometry x="40" y="40" width="320" height="80" as="geometry" />
@@ -4280,7 +4280,7 @@
           <mxGeometry x="40" y="520" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-2" value="&quot;Кантактуе&quot; тут азначае любы напрамак кантакта. Калі грамадзянін глядзіць тэлевізар, а там дыктар нешта расказвае, то гэта кантакт з дыктарам і з тымі, хто падрыхтаваў словы для дыктара." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=#FF0000;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7680" y="4240" width="320" height="120" as="geometry" />
+          <mxGeometry x="7680" y="4079" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0RshDjsbmjo_j19ezAq-2" target="w0RshDjsbmjo_j19ezAq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4300,12 +4300,12 @@
             <mxPoint x="7570" y="4130" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7660" y="3080" />
-              <mxPoint x="7660" y="4320" />
+              <mxPoint x="7660" y="4120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-7" value="Можна называць гэты спіс &quot;Унутраны стан грамадзяніна&quot;. Але мне здаецца, што калі выкарыстоўваць менавіта слова &quot;&lt;u&gt;абставіны&lt;/u&gt;&quot;, то гэта падкрэслівае розніцу паміж грамадзянінам і яго станам, падкрэслівае, што гэта тое, на што грамадзянін &lt;u&gt;можа ўплываць&lt;/u&gt;. (&quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; мой фізічны стан.&lt;/i&gt;&quot;, &quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; мае эмоцыі.&lt;/i&gt;&quot;, &quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; інфармацыя, якая ў мяне ў галаве.&lt;/i&gt;&quot;, &quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; маё ўяўленне аб рэальнасці.&lt;/i&gt;&quot;, &quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; маё жаданне.&lt;/i&gt;&quot;)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7240" y="3240" width="320" height="241" as="geometry" />
+          <mxGeometry x="7200" y="3120" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0RshDjsbmjo_j19ezAq-7" target="w0RshDjsbmjo_j19ezAq-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4343,7 +4343,7 @@
             <mxPoint x="7570" y="4330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7670" y="3080" />
-              <mxPoint x="7670" y="4440" />
+              <mxPoint x="7670" y="4240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4353,7 +4353,7 @@
             <mxPoint x="7570" y="4450" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7680" y="3080" />
-              <mxPoint x="7680" y="4560" />
+              <mxPoint x="7680" y="4360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4363,7 +4363,7 @@
             <mxPoint x="7570" y="4570" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7690" y="3080" />
-              <mxPoint x="7690" y="4680" />
+              <mxPoint x="7690" y="4480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4373,7 +4373,7 @@
             <mxPoint x="7570" y="4690" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7700" y="3080" />
-              <mxPoint x="7700" y="4800" />
+              <mxPoint x="7700" y="4600" />
             </Array>
           </mxGeometry>
         </mxCell>
