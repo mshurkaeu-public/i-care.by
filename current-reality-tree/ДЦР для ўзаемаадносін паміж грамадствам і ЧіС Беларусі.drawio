@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="2VCA08IOudvabjC72dZd" modified="2024-05-30T08:26:36.005Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.10" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="boDyEDHXSgj3sHM47wl4" modified="2024-05-30T08:44:24.846Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.10" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4261,8 +4261,11 @@
             <mxPoint x="7570" y="3910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0RshDjsbmjo_j19ezAq-1" value="Унутраны стан іншых людзей, з якімі грамадзянін кантактуе." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="7240" y="4240" width="320" height="80" as="geometry" />
+        <mxCell id="w0RshDjsbmjo_j19ezAq-9" value="Знешнія абставіны грамадзяніна." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;arcSize=15;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;gradientColor=none;swimlaneLine=0;" vertex="1" parent="1">
+          <mxGeometry x="7200" y="4240" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w0RshDjsbmjo_j19ezAq-1" value="Унутраны стан іншых людзей, з якімі грамадзянін кантактуе." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" vertex="1" parent="w0RshDjsbmjo_j19ezAq-9">
+          <mxGeometry x="40" y="40" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-2" value="&quot;Кантактуе&quot; тут азначае любы напрамак кантакта. Калі грамадзянін глядзіць тэлевізар, а там дыктар нешта расказвае, то гэта кантакт з дыктарам і з тымі, хто падрыхтаваў словы для дыктара." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=#FF0000;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="7680" y="4240" width="320" height="120" as="geometry" />
@@ -4285,7 +4288,7 @@
             <mxPoint x="7570" y="4130" as="targetPoint" />
             <Array as="points">
               <mxPoint x="7660" y="3080" />
-              <mxPoint x="7660" y="4280" />
+              <mxPoint x="7660" y="4320" />
             </Array>
           </mxGeometry>
         </mxCell>
