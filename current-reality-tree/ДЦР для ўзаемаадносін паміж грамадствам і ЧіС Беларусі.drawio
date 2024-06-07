@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="kHG-i3TtvpPzFYpj2gkl" modified="2024-06-07T20:35:06.438Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.5.2" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="b79uCLPOoN9r6e6kaui4" modified="2024-06-07T21:18:25.816Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.5.2" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -724,8 +724,8 @@
         <mxCell id="hYxCh7mmWvaN55Y2kegG-20" value="&lt;b&gt;Чалавек не ведае&lt;/b&gt;, што можна/патрэбна казаць грамадзяніну, які не ведае пра існаванне сваіх ўласных межаў, пра існаванне ўласных межаў." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="653N9guY6KzKqRdlZXlQ-1" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WbGDOdR-wIxGMsY7HyMC-7" value="Чалавек не жадае расказаць грамадзяніну пра тое, што ў кожнага існуюць свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="653N9guY6KzKqRdlZXlQ-1" vertex="1">
-          <mxGeometry x="40" y="240" width="320" height="80" as="geometry" />
+        <mxCell id="WbGDOdR-wIxGMsY7HyMC-7" value="&lt;b&gt;Чалавек&lt;/b&gt; ведае, што можна/патрэбна казаць грамадзяніну, які не ведае пра існаванне сваіх ўласных межаў, пра існаванне ўласных межаў, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="653N9guY6KzKqRdlZXlQ-1" vertex="1">
+          <mxGeometry x="40" y="240" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WbGDOdR-wIxGMsY7HyMC-6" value="Чалавек не можа расказаць грамадзяніну пра тое, што ў кожнага існуюць свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="653N9guY6KzKqRdlZXlQ-1" vertex="1">
           <mxGeometry x="40" y="400" width="320" height="80" as="geometry" />
@@ -742,7 +742,7 @@
         <mxCell id="GqCztHtrmR59RFTge0s9-1" value="&lt;b&gt;Бацькі грамадзяніна не ведаюць&lt;/b&gt;, што можна/патрэбна мэтанакіравана ўкладаць у галаву грамадзяніна веды, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
           <mxGeometry x="40" y="120" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rITCZkD9RzHrx6Fa-15p-9" value="Бацькі грамадзяніна ведаюць, што можна даведвацца пра ўздзеянне ЧіС на грамадства, ўмеюць гэтаму самастойна вучыць, могуць вучыць, але не жадаюць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
+        <mxCell id="rITCZkD9RzHrx6Fa-15p-9" value="&lt;b&gt;Бацькі грамадзяніна&lt;/b&gt; ведаюць, што можна/патрэбна мэтанакіравана ўкладаць у галаву грамадзяніна веды, што можна даведвацца пра ўздзеянне ЧіС на грамадства, але &lt;b&gt;не жадаюць&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
           <mxGeometry x="40" y="480" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rITCZkD9RzHrx6Fa-15p-7" value="Бацькі грамадзяніна ведаюць, што можна даведвацца пра ўздзеянне ЧіС на грамадства, ўмеюць гэтаму самастойна вучыць, але не могуць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="zGS259PE60l4bMru1_S_-14" vertex="1">
@@ -754,7 +754,7 @@
         <mxCell id="8KlCnt_39-ksAiERNVki-8" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна спрабаваць высветліць, наколькі важнае яго патрабаванне да ЧіС для яго самога." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="8KlCnt_39-ksAiERNVki-5" vertex="1">
           <mxGeometry x="40" y="120" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j5JjeeWauFz4Uhg9E__5-1" value="Грамадзянін &lt;b&gt;не жадае спрабаваць высветліць&lt;/b&gt;, як дадзенае асобнае яго патрабаванне да ЧіС ўплывае на яго асабістыя інтарэсы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="8KlCnt_39-ksAiERNVki-5" vertex="1">
+        <mxCell id="j5JjeeWauFz4Uhg9E__5-1" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна спрабаваць высветліць, наколькі важнае яго патрабаванне да ЧіС для яго самога, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="8KlCnt_39-ksAiERNVki-5" vertex="1">
           <mxGeometry x="40" y="880" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-6" value="Грамадзянін &lt;b&gt;не можа паспрабаваць высветліць&lt;/b&gt;,&amp;nbsp;наколькі важнае яго патрабаванне да ЧіС для яго самога." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="8KlCnt_39-ksAiERNVki-5" vertex="1">
@@ -825,7 +825,7 @@
         <mxCell id="sWhszSgmb0RcljNFikNW-1" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна спрабаваць высветліць, як асобнае ўздзеянне ЧіС на грамадства ўплывае на яго асабістыя інтарэсы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="BJcEn0zL77pIYxWyM-6r-1" vertex="1">
           <mxGeometry x="40" y="120" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZGO1qrQpXi79sG8c-zsR-1" value="Грамадзянін &lt;b&gt;не жадае спрабаваць высветліць&lt;/b&gt;, як дадзенае асобнае ўздзеянне ЧіС на грамадства ўплывае на яго асабістыя інтарэсы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="BJcEn0zL77pIYxWyM-6r-1" vertex="1">
+        <mxCell id="ZGO1qrQpXi79sG8c-zsR-1" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна спрабаваць высветліць, як асобнае ўздзеянне ЧіС на грамадства ўплывае на яго асабістыя інтарэсы, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="BJcEn0zL77pIYxWyM-6r-1" vertex="1">
           <mxGeometry x="40" y="1480" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Z-fySZ9CyFiNbup-F0ZK-2" value="Грамадзянін &lt;b&gt;не можа паспрабаваць высветліць&lt;/b&gt;, як асобнае ўздзеянне ЧіС на грамадства ўплывае на яго асабістыя інтарэсы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="BJcEn0zL77pIYxWyM-6r-1" vertex="1">
@@ -839,7 +839,7 @@
         <mxCell id="TJLECN_oBxhWEtQTq3mC-1" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна даведвацца пра дадзенае асобнае ўздзеянне ЧіС на грамадства.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="JhPQRlO-KKgyaNoFn7eW-7" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="H2adwTTagYGTjLZC20fY-1" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна даведвацца пра ўздзеянне ЧіС на грамадства, умее гэта рабіць, можа гэта рабіць, але &lt;b&gt;не жадае даведвацца&lt;/b&gt; пра ўздзеянне ЧіС на грамадства.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="JhPQRlO-KKgyaNoFn7eW-7" vertex="1">
+        <mxCell id="H2adwTTagYGTjLZC20fY-1" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна даведвацца пра дадзенае асобнае ўздзеянне ЧіС на грамадства, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="JhPQRlO-KKgyaNoFn7eW-7" vertex="1">
           <mxGeometry x="40" y="880" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o80giRriBsHeoGOEMKfS-1" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна даведвацца пра ўздзеянне ЧіС на грамадства, умее гэта рабіць, але&lt;b&gt; не можа&lt;/b&gt; гэта рабіць.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="JhPQRlO-KKgyaNoFn7eW-7" vertex="1">
@@ -1113,9 +1113,9 @@
         <mxCell id="1UCaaAMTz-ETulmOOAEi-1" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна бараніць свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="frgXua91Wq7E8KbrAR8E-1" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна бараніць свае ўласныя межы, умее гэта рабіць, можа гэта рабіць, але &lt;b&gt;не жадае&lt;/b&gt; бараніць свае ўласныя межы." id="1UCaaAMTz-ETulmOOAEi-4">
+        <UserObject label="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна бараніць свае ўласныя межы, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." id="1UCaaAMTz-ETulmOOAEi-4">
           <mxCell style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="frgXua91Wq7E8KbrAR8E-1" vertex="1">
-            <mxGeometry x="40" y="1360" width="320" height="120" as="geometry" />
+            <mxGeometry x="40" y="1360" width="320" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="1UCaaAMTz-ETulmOOAEi-3" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна бараніць свае ўласныя межы, умее гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="frgXua91Wq7E8KbrAR8E-1" vertex="1">
@@ -1358,7 +1358,7 @@
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-4" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна даведвацца пра свае патрабаванні да ЧіС.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="u8j-KaxE-SIpMTuqpm7c-1" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="u8j-KaxE-SIpMTuqpm7c-7" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна даведвацца пра свае патрабаванні да ЧіС, ўмее гэта рабіць, можа гэта рабіць, але &lt;b&gt;не жадае ведаць&lt;/b&gt; пра свае патрабаванні да ЧіС.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="u8j-KaxE-SIpMTuqpm7c-1" vertex="1">
+        <mxCell id="u8j-KaxE-SIpMTuqpm7c-7" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна даведвацца пра свае патрабаванні да ЧіС, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="u8j-KaxE-SIpMTuqpm7c-1" vertex="1">
           <mxGeometry x="40" y="1240" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-6" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна даведвацца пра свае патрабаванні да ЧіС, ўмее гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць. " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="u8j-KaxE-SIpMTuqpm7c-1" vertex="1">
@@ -2391,8 +2391,8 @@
         <mxCell id="khyRWcK5IgjRKIxvOn3C-3" value="&lt;b&gt;Чалавек не ведае&lt;/b&gt;, што можна/патрэбна казаць грамадзяніну, які не ведае, што можна бараніць свае ўласныя межы, пра тое, што можна бараніць уласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="khyRWcK5IgjRKIxvOn3C-2" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="khyRWcK5IgjRKIxvOn3C-6" value="Чалавек не жадае расказаць грамадзяніну пра тое, што можна бараніць свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="khyRWcK5IgjRKIxvOn3C-2" vertex="1">
-          <mxGeometry x="40" y="240" width="320" height="80" as="geometry" />
+        <mxCell id="khyRWcK5IgjRKIxvOn3C-6" value="&lt;b&gt;Чалавек&lt;/b&gt; ведае, што можна/патрэбна казаць грамадзяніну, які не &lt;br/&gt;ведае, што можна бараніць свае ўласныя межы, пра тое, што можна бараніць&lt;br/&gt; уласныя межы, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="khyRWcK5IgjRKIxvOn3C-2" vertex="1">
+          <mxGeometry x="40" y="240" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="khyRWcK5IgjRKIxvOn3C-5" value="Чалавек не можа расказаць грамадзяніну пра тое, што можна бараніць свае ўласныя межы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="khyRWcK5IgjRKIxvOn3C-2" vertex="1">
           <mxGeometry x="40" y="440" width="320" height="80" as="geometry" />
@@ -2630,8 +2630,8 @@
         <mxCell id="E6Pdcet48CIMthdxIpfv-2" value="&lt;b&gt;Чалавек не ведае&lt;/b&gt;, што можна/патрэбна казаць грамадзяніну, які не ведае, што можна спрабаваць высветліць, як асобнае ўздзеянне ЧіС на грамадства ўплывае на асабістыя інтарэсы грамадзяніна, пра гэта." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="E6Pdcet48CIMthdxIpfv-1" vertex="1">
           <mxGeometry x="40" y="120" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="E6Pdcet48CIMthdxIpfv-5" value="Чалавек не жадае расказаць грамадзяніну пра тое, што можна спрабаваць высветліць, як асобнае ўздзеянне ЧіС на грамадства ўплывае на асабістыя інтарэсы грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="E6Pdcet48CIMthdxIpfv-1" vertex="1">
-          <mxGeometry x="40" y="280" width="320" height="120" as="geometry" />
+        <mxCell id="E6Pdcet48CIMthdxIpfv-5" value="&lt;b&gt;Чалавек&lt;/b&gt; ведае, што можна/патрэбна казаць грамадзяніну, які не &lt;br/&gt;ведае, што можна спрабаваць высветліць, як асобнае ўздзеянне ЧіС на &lt;br/&gt;грамадства ўплывае на асабістыя інтарэсы грамадзяніна, пра гэта, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="E6Pdcet48CIMthdxIpfv-1" vertex="1">
+          <mxGeometry x="40" y="280" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="E6Pdcet48CIMthdxIpfv-4" value="Чалавек не можа расказаць грамадзяніну пра тое, што можна спрабаваць высветліць, як асобнае ўздзеянне ЧіС на грамадства ўплывае на асабістыя інтарэсы грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="E6Pdcet48CIMthdxIpfv-1" vertex="1">
           <mxGeometry x="40" y="440" width="320" height="120" as="geometry" />
@@ -3317,8 +3317,8 @@
         <mxCell id="eu5MgZHu0a9uYHg2PsV--23" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна прыняць дастатковыя меры, каб упэўніцца, што перашкоды, якія спыняюць яго адсутнічаюць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="eu5MgZHu0a9uYHg2PsV--22" vertex="1">
           <mxGeometry x="80" y="80" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eu5MgZHu0a9uYHg2PsV--26" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна&amp;nbsp;прыняць дастаткова мер, умее гэта рабіць, можа гэта рабіць, але &lt;b&gt;не жадае&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="eu5MgZHu0a9uYHg2PsV--22" vertex="1">
-          <mxGeometry x="80" y="240" width="320" height="80" as="geometry" />
+        <mxCell id="eu5MgZHu0a9uYHg2PsV--26" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна прыняць дастатковыя меры, каб упэўніцца, што перашкоды, якія спыняюць яго адсутнічаюць, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="eu5MgZHu0a9uYHg2PsV--22" vertex="1">
+          <mxGeometry x="80" y="240" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eu5MgZHu0a9uYHg2PsV--25" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна&amp;nbsp;прыняць дастаткова мер, умее гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="eu5MgZHu0a9uYHg2PsV--22" vertex="1">
           <mxGeometry x="80" y="440" width="320" height="80" as="geometry" />
@@ -3365,7 +3365,7 @@
         <mxCell id="X6rx839UVBMUgUzUHavr-5" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна ўсведамляць нейкую частку рэальнасці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="X6rx839UVBMUgUzUHavr-4" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X6rx839UVBMUgUzUHavr-8" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна ўсведамляць гэтую частку рэальнасці, умее гэта рабіць, можа гэта рабіць, але &lt;b&gt;не жадае&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="X6rx839UVBMUgUzUHavr-4" vertex="1">
+        <mxCell id="X6rx839UVBMUgUzUHavr-8" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна ўсведамляць нейкую частку рэальнасці, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="X6rx839UVBMUgUzUHavr-4" vertex="1">
           <mxGeometry x="40" y="201" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X6rx839UVBMUgUzUHavr-7" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна ўсведамляць гэтую частку рэальнасці, умее гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="X6rx839UVBMUgUzUHavr-4" vertex="1">
