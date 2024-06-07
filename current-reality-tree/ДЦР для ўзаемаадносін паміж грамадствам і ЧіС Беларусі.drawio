@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="GlOQ9N8fNmpcYvdr0NDf" modified="2024-06-07T21:41:51.264Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.5.2" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="WiSSh_ojFdwOG1j2oVXv" modified="2024-06-07T21:48:20.816Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.5.2" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3315,13 +3315,13 @@
           <mxGeometry x="8320" y="4960" width="400" height="560" as="geometry" />
         </mxCell>
         <mxCell id="eu5MgZHu0a9uYHg2PsV--23" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна прыняць дастатковыя меры, каб упэўніцца, што перашкоды, якія спыняюць яго адсутнічаюць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="eu5MgZHu0a9uYHg2PsV--22" vertex="1">
-          <mxGeometry x="80" y="80" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eu5MgZHu0a9uYHg2PsV--26" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна прыняць дастатковыя меры, каб упэўніцца, што перашкоды, якія спыняюць яго адсутнічаюць, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="eu5MgZHu0a9uYHg2PsV--22" vertex="1">
-          <mxGeometry x="80" y="240" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="240" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eu5MgZHu0a9uYHg2PsV--25" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна прыняць дастатковыя меры, каб упэўніцца, што перашкоды, якія спыняюць яго адсутнічаюць, жадае гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="eu5MgZHu0a9uYHg2PsV--22" vertex="1">
-          <mxGeometry x="80" y="400" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="400" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eu5MgZHu0a9uYHg2PsV--27" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="eu5MgZHu0a9uYHg2PsV--23" target="Ev4ZCz73ooBvB8r90dgF-19" edge="1">
           <mxGeometry relative="1" as="geometry">
