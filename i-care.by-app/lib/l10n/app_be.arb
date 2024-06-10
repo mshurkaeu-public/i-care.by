@@ -873,6 +873,10 @@
   "@aboutMyGratitude_2024_06_10_01": {
     "description": "Text for 2024-06-10 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_06_10_02": "\n2024-06-10 каманда flutter.dev — 🛠️ стварыла новую версію пакета url_launcher 6.3.0 (2024-06-03) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_06_10_02": {
+    "description": "Text for 2024-06-10 flutter.dev team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_06_title": "\n\n2024-06\n",
   "@aboutMyGratitude_2024_06_title": {
     "description": "Title for 2024-06 list/text on the \"my gratitude\" tab on the \"About\" page."
