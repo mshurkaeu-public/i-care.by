@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" etag="LZ-nhiCJ5JaKaICNc3IP" modified="2024-06-10T19:49:48.482Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.5.2" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="MRpZgk3yGxwC7zs4VyeR" modified="2024-06-12T11:14:01.755Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.3" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-10" id="0">
+        <object label="" modifiedDate="2024-06-12" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-10" id="0">
+        <object label="" modifiedDate="2024-06-12" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3845" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-10" id="0">
+        <object label="" modifiedDate="2024-06-12" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-10" id="0">
+        <object label="" modifiedDate="2024-06-12" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-10" id="0">
+        <object label="" modifiedDate="2024-06-12" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -3566,7 +3566,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3fRGDfD9JJKMKbeLGBdq-1" value="Страта прытомнасці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="5800" y="4040" width="320" height="80" as="geometry" />
+          <mxGeometry x="6280" y="3960" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3fRGDfD9JJKMKbeLGBdq-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HtWALPR_QNtkMw_p7kNT-3" target="3fRGDfD9JJKMKbeLGBdq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3939,7 +3939,7 @@
         <mxCell id="MPoFinrV3nIF7SRB2cIw-14" value="Моц жадання грамадзяніна дасягнуць сваёй зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-6" vertex="1">
           <mxGeometry x="40" y="520" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TbDCpCCCuwwb2ol7l7sh-2" value="Іншыя (невядомыя мне) унутраныя абставіны грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" vertex="1" parent="w0RshDjsbmjo_j19ezAq-6">
+        <mxCell id="TbDCpCCCuwwb2ol7l7sh-2" value="Іншыя (невядомыя мне) унутраныя абставіны грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-6" vertex="1">
           <mxGeometry x="40" y="640" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MPoFinrV3nIF7SRB2cIw-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="MPoFinrV3nIF7SRB2cIw-1" target="MPoFinrV3nIF7SRB2cIw-11" edge="1">
@@ -4056,7 +4056,7 @@
         <mxCell id="w0RshDjsbmjo_j19ezAq-13" value="Экалогія." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-9" vertex="1">
           <mxGeometry x="40" y="520" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TbDCpCCCuwwb2ol7l7sh-5" value="Іншыя (невядомыя мне) знешнія абставіны грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" vertex="1" parent="w0RshDjsbmjo_j19ezAq-9">
+        <mxCell id="TbDCpCCCuwwb2ol7l7sh-5" value="Іншыя (невядомыя мне) знешнія абставіны грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-9" vertex="1">
           <mxGeometry x="40" y="640" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-2" value="&quot;Кантактуе&quot; тут азначае любы напрамак кантакта. Калі грамадзянін глядзіць тэлевізар, а там дыктар нешта расказвае, то гэта кантакт з дыктарам і з тымі, хто падрыхтаваў словы для дыктара." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=#FF0000;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
@@ -4190,7 +4190,7 @@
         <mxCell id="GqCztHtrmR59RFTge0s9-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="5185" y="1365" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbDCpCCCuwwb2ol7l7sh-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="MPoFinrV3nIF7SRB2cIw-1" target="TbDCpCCCuwwb2ol7l7sh-2">
+        <mxCell id="TbDCpCCCuwwb2ol7l7sh-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="MPoFinrV3nIF7SRB2cIw-1" target="TbDCpCCCuwwb2ol7l7sh-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7625" y="2970" as="sourcePoint" />
             <mxPoint x="7610" y="3810" as="targetPoint" />
@@ -4200,19 +4200,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbDCpCCCuwwb2ol7l7sh-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="TbDCpCCCuwwb2ol7l7sh-2" target="HtWALPR_QNtkMw_p7kNT-3">
+        <mxCell id="TbDCpCCCuwwb2ol7l7sh-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="TbDCpCCCuwwb2ol7l7sh-2" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7290" y="3810" as="sourcePoint" />
             <mxPoint x="7090" y="4030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbDCpCCCuwwb2ol7l7sh-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="TbDCpCCCuwwb2ol7l7sh-5" target="HtWALPR_QNtkMw_p7kNT-3">
+        <mxCell id="TbDCpCCCuwwb2ol7l7sh-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="TbDCpCCCuwwb2ol7l7sh-5" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7290" y="4610" as="sourcePoint" />
             <mxPoint x="7090" y="4030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbDCpCCCuwwb2ol7l7sh-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="MPoFinrV3nIF7SRB2cIw-1" target="TbDCpCCCuwwb2ol7l7sh-5">
+        <mxCell id="TbDCpCCCuwwb2ol7l7sh-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="MPoFinrV3nIF7SRB2cIw-1" target="TbDCpCCCuwwb2ol7l7sh-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7625" y="2970" as="sourcePoint" />
             <mxPoint x="7610" y="4610" as="targetPoint" />
