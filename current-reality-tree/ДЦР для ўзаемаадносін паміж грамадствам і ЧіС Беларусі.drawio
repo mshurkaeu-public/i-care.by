@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="y51Kb01PFL9zlnv5mRpW" modified="2024-06-12T12:16:24.975Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.3" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="4XASqC1AgoDp23tMLz73" modified="2024-06-12T12:55:22.218Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.3" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3570,7 +3570,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3fRGDfD9JJKMKbeLGBdq-1" value="Страта прытомнасці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="6640" y="3960" width="320" height="80" as="geometry" />
+          <mxGeometry x="6640" y="4120" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3fRGDfD9JJKMKbeLGBdq-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HtWALPR_QNtkMw_p7kNT-3" target="3fRGDfD9JJKMKbeLGBdq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3845,7 +3845,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tIB9mdBcqpkxc4-SlzAK-1" value="&quot;Ігнаруй&quot;. Грамадзянін паўтарае ізноў папярэдняе дзеянне такім самым чынам." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="6640" y="3840" width="320" height="80" as="geometry" />
+          <mxGeometry x="6640" y="4000" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tIB9mdBcqpkxc4-SlzAK-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HtWALPR_QNtkMw_p7kNT-3" target="tIB9mdBcqpkxc4-SlzAK-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3866,7 +3866,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tIB9mdBcqpkxc4-SlzAK-5" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="6580" y="3850" width="60" height="30" as="geometry" />
+          <mxGeometry x="6580" y="4010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MPoFinrV3nIF7SRB2cIw-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="7945" y="2945" width="30" height="30" as="geometry" />
@@ -4227,7 +4227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-d6yNQPP96MUew8ecvZW-1" value="Смерць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="6640" y="4080" width="320" height="80" as="geometry" />
+          <mxGeometry x="6640" y="4240" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-d6yNQPP96MUew8ecvZW-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HtWALPR_QNtkMw_p7kNT-3" target="-d6yNQPP96MUew8ecvZW-1">
           <mxGeometry relative="1" as="geometry">
