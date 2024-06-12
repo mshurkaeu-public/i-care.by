@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="ZN1Mbvsk4y_Ix_BYHeIG" modified="2024-06-12T14:35:25.272Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.3" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="R8bZLdAbaZrxQWJSnNxM" modified="2024-06-12T14:48:28.808Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.3" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3814,9 +3814,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cASfB4CwLse9m9XZElSL-9" value="Ні &quot;атакуй&quot;, ні &quot;пазбягай&quot;, ні &quot;вывучай&quot;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="6160" y="4560" width="320" height="80" as="geometry" />
+          <mxGeometry x="6160" y="4320" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cASfB4CwLse9m9XZElSL-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cASfB4CwLse9m9XZElSL-9" target="CkLIY3k917qbzqk4uZhb-15" edge="1">
+        <mxCell id="cASfB4CwLse9m9XZElSL-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cASfB4CwLse9m9XZElSL-9" target="CkLIY3k917qbzqk4uZhb-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6680" y="4560" as="sourcePoint" />
             <mxPoint x="6680" y="4480" as="targetPoint" />
