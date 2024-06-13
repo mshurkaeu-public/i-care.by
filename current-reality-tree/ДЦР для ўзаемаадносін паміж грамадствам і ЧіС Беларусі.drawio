@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="o3C5mpMyKeNIH5LHYDyP" modified="2024-06-13T11:08:37.276Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="ex8_qFGVAkMlVCnG8OGO" modified="2024-06-13T11:21:20.965Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3557,8 +3557,8 @@
             <mxPoint x="5890" y="3490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6J99wCgtp8LyrG-D7Kd-8" value="Наконт гэтага спіса магчымых вынікаў у мяне ўзнікае аналогія з сітуацыяй, калі чалавек сутыкаецца з нечым новым/невядомым. І гэта мае сэнс. На кожнай ітэрацыі ў рэальнасці абавязкова прысутнічае новая інфармацыя (у параўнанні з папярэднім станам рэальнасці). Спіс таго што можа змяняцца прыведзены на схеме.&lt;br&gt;&lt;br&gt;Пры сустрэчы з нечым новым/невядомым магчыма (&lt;font color=&quot;#ff0000&quot;&gt;? толькі ?&lt;/font&gt;) 5 вынікаў:&lt;br&gt;&lt;br&gt;1. Атакуй. (напэўна, &quot;спрабуй знішчыць перашкоду&quot;)&lt;br&gt;2. Пазбягай. (напэўна, &quot;спрабуй абыйсці перашкоду&quot;)&lt;br&gt;3. Вывучай. (напэўна, &quot;спрабуй сабраць больш інфармацыі&quot;)&lt;br&gt;4. Ігнаруй. (напэўна, &quot;працягвай далей папярэдняе дзеянне&quot;)&lt;br&gt;5. &quot;Збой сістэмы&quot;:&lt;br&gt;&amp;nbsp; 5.1 Параліч. Не выбрана нічога з вышэй названага.&lt;div&gt;&amp;nbsp; 5.2 Страта прытомнасці. &quot;Цяжкі сістэмны збой&quot;. &quot;Аперацыйная сістэма вылецела&quot;.&lt;br&gt;&amp;nbsp; 5.3 Смерць. &quot;Апаратнае забеспячэнне знічтожана&quot;.&lt;br&gt;&lt;br&gt;Але тут я маю справу з наборамі перашкод. Да асобных перашкод могуць быць прыкладзены розныя падыходы. Таму мае сэнс падзяліць на дзве катэгорыі:&lt;br&gt;1. Чалавек &quot;яшчэ суб&#39;ект&quot; у адносінах з наборам перашкод? Яшчэ спрабуе хоць нешта зрабіць?&lt;br&gt;2. Ці ўжо &quot;стаў аб&#39;ектам&quot;? Ужо нічога не спрабуе зрабіць?&lt;br&gt;Напрыклад, у вядомым эксперыменце з сабакамі, сабакі з &quot;вывучанай бездапаможнасцю&quot; проста клаліся на падлогу і скуголілі, чакаючы ўдар токам. Хаця фізічна яны маглі збегчы.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="7160" y="4160" width="400" height="680" as="geometry" />
+        <mxCell id="o6J99wCgtp8LyrG-D7Kd-8" value="Наконт гэтага спіса магчымых вынікаў у мяне ўзнікае аналогія з сітуацыяй, калі чалавек сутыкаецца з нечым новым/невядомым. І гэта мае сэнс. На кожнай ітэрацыі ў рэальнасці абавязкова прысутнічае новая інфармацыя (у параўнанні з папярэднім станам рэальнасці). Спіс таго што можа змяняцца прыведзены на схеме.&lt;br&gt;&lt;br&gt;Пры сустрэчы з нечым новым/невядомым магчыма (&lt;font color=&quot;#ff0000&quot;&gt;? толькі ?&lt;/font&gt;) 5 вынікаў:&lt;br&gt;&lt;br&gt;1. Атакуй. (напэўна, &quot;спрабуй знішчыць перашкоду&quot;)&lt;br&gt;2. Пазбягай. (напэўна, &quot;спрабуй абыйсці перашкоду&quot;)&lt;br&gt;3. Вывучай. (напэўна, &quot;спрабуй сабраць больш інфармацыі&quot;)&lt;br&gt;4. Ігнаруй. (напэўна, &quot;працягвай далей папярэдняе дзеянне&quot;)&lt;br&gt;5. &quot;Збой сістэмы&quot;:&lt;br&gt;&amp;nbsp; 5.1 Параліч. Не выбрана нічога з вышэй названага.&lt;div&gt;&amp;nbsp; 5.2 Страта прытомнасці. &quot;Цяжкі сістэмны збой&quot;. &quot;Аперацыйная сістэма вылецела&quot;.&lt;br&gt;&amp;nbsp; 5.3 Смерць. &quot;Апаратнае забеспячэнне знічтожана&quot;.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="7160" y="4160" width="400" height="440" as="geometry" />
         </mxCell>
         <mxCell id="o6J99wCgtp8LyrG-D7Kd-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="o6J99wCgtp8LyrG-D7Kd-8" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4311,6 +4311,15 @@
         </mxCell>
         <mxCell id="u6YuKmyZ7m1dQE2V3r3c-9" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="6520" y="4380" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u6YuKmyZ7m1dQE2V3r3c-10" value="Тут я маю справу з наборамі перашкод. Да асобных перашкод могуць быць прыкладзены розныя падыходы. Таму мае сэнс падзяліць на дзве катэгорыі:&lt;br&gt;1. Чалавек &quot;яшчэ суб&#39;ект&quot; у адносінах з наборам перашкод? Яшчэ спрабуе хоць нешта зрабіць?&lt;br&gt;2. Ці ўжо &quot;стаў аб&#39;ектам&quot;? Ужо нічога не спрабуе зрабіць?&lt;br&gt;Напрыклад, у вядомым эксперыменце з сабакамі, сабакі з &quot;вывучанай бездапаможнасцю&quot; проста клаліся на падлогу і скуголілі, чакаючы ўдар токам. Хаця фізічна яны маглі збегчы." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6160" y="3240" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="u6YuKmyZ7m1dQE2V3r3c-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6YuKmyZ7m1dQE2V3r3c-10" target="-d6yNQPP96MUew8ecvZW-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6130" y="3450" as="sourcePoint" />
+            <mxPoint x="6200" y="3220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
