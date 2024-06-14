@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="BxotT2Oa05sRcDcLVoFU" modified="2024-06-14T17:01:17.035Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="3xmmljWspPWRaKQKPX4g" modified="2024-06-14T17:06:13.389Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3246,7 +3246,7 @@
         <mxCell id="-d6yNQPP96MUew8ecvZW-11" value="Усе магчымыя варыянты: спрабаваць ці не спрабаваць." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=dashed;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;arcSize=15;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;gradientColor=none;swimlaneLine=0;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="6160" y="4200" width="400" height="1400" as="geometry" />
         </mxCell>
-        <mxCell id="FGi2ZpbzsCYzHjcK8di4-1" value="Грамадзянін жадае дасягнуць сваёй зыходнай мэты і спрабуе змяніць рэальнасць для гэтага." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="-d6yNQPP96MUew8ecvZW-11" vertex="1">
+        <mxCell id="FGi2ZpbzsCYzHjcK8di4-1" value="Грамадзянін жадае дасягнуць сваёй зыходнай мэты і спрабуе змяніць рэальнасць для гэтага." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="-d6yNQPP96MUew8ecvZW-11" vertex="1">
           <mxGeometry x="40" y="40" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cASfB4CwLse9m9XZElSL-9" value="Ні &quot;атакуй&quot;, ні &quot;пазбягай&quot;, ні &quot;вывучай&quot;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="-d6yNQPP96MUew8ecvZW-11" vertex="1">
