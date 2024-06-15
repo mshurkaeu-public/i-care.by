@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="_SPZp2eMhafd-7s9eCRd" modified="2024-06-15T13:48:46.390Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="DTT0c0k_8ExGtWyIqUN5" modified="2024-06-15T13:52:20.027Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4393,7 +4393,7 @@
           <mxGeometry x="3585" y="3385" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5vgIEFZy793G284SUvIg-12" value="У рэальнасці ёсць набор перашкод &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;, якія блакуюць грамадзяніна на шляху да яго мэты." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3602" y="3480" width="318" height="80" as="geometry" />
+          <mxGeometry x="3600" y="3480" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5vgIEFZy793G284SUvIg-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5vgIEFZy793G284SUvIg-12" target="5vgIEFZy793G284SUvIg-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4412,7 +4412,7 @@
           <mxGeometry x="4225" y="3625" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5vgIEFZy793G284SUvIg-16" value="Грамадзянін уяўляе набор перашкод, якія блакуюць яго, як &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4240" y="3720" width="318" height="80" as="geometry" />
+          <mxGeometry x="4240" y="3720" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5vgIEFZy793G284SUvIg-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5vgIEFZy793G284SUvIg-16" target="5vgIEFZy793G284SUvIg-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4430,7 +4430,7 @@
           <mxGeometry x="4385" y="3865" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5vgIEFZy793G284SUvIg-21" value="Мэта грамадзяніна ўсё яшчэ не дасягнута, а рэальнасць змяняецца нейкім чынам." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4280" y="3960" width="318" height="80" as="geometry" />
+          <mxGeometry x="4280" y="3960" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5vgIEFZy793G284SUvIg-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5vgIEFZy793G284SUvIg-21" target="5vgIEFZy793G284SUvIg-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4478,7 +4478,7 @@
           <mxGeometry x="3585" y="3145" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LW-TTzPB-iBc_Rl2AQSx-3" value="&lt;div&gt;&quot;Пазбягай&quot;. Грамадзянін больш не жадае дасягнуць сваёй зыходнай мэты.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3602" y="3240" width="318" height="80" as="geometry" />
+          <mxGeometry x="3600" y="3240" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LW-TTzPB-iBc_Rl2AQSx-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LW-TTzPB-iBc_Rl2AQSx-3" target="LW-TTzPB-iBc_Rl2AQSx-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
