@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="13UsmMonAAlNHj4HmcWO" modified="2024-06-15T13:06:43.669Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="Q1TxL8iCNnYXCLFgu4y_" modified="2024-06-15T13:20:39.826Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.4" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4364,7 +4364,7 @@
             <mxPoint x="2805" y="3390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vgIEFZy793G284SUvIg-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cASfB4CwLse9m9XZElSL-11" target="5vgIEFZy793G284SUvIg-3" edge="1">
+        <mxCell id="5vgIEFZy793G284SUvIg-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LW-TTzPB-iBc_Rl2AQSx-1" target="5vgIEFZy793G284SUvIg-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6562" y="3070" as="sourcePoint" />
             <mxPoint x="3440" y="3200" as="targetPoint" />
@@ -4466,6 +4466,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6690" y="4210" as="sourcePoint" />
             <mxPoint x="6870" y="4240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LW-TTzPB-iBc_Rl2AQSx-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cASfB4CwLse9m9XZElSL-11" target="LW-TTzPB-iBc_Rl2AQSx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6720" y="3160" as="sourcePoint" />
+            <mxPoint x="3455" y="3080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LW-TTzPB-iBc_Rl2AQSx-1" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="3585" y="3145" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LW-TTzPB-iBc_Rl2AQSx-3" value="&lt;div&gt;&quot;Пазбягай&quot;. Грамадзянін больш не жадае дасягнуць сваёй зыходнай мэты.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3602" y="3240" width="318" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LW-TTzPB-iBc_Rl2AQSx-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LW-TTzPB-iBc_Rl2AQSx-3" target="LW-TTzPB-iBc_Rl2AQSx-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4548" y="3510" as="sourcePoint" />
+            <mxPoint x="3673" y="3180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
