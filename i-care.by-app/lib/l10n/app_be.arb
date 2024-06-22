@@ -901,6 +901,10 @@
   "@aboutMyGratitude_2024_06_22_01": {
     "description": "Text for 2024-06-22 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_06_22_02": "\n2024-06-22 Carlos Eduardo Leite de Andrade — 🛠️ стварыў версію 3.2.1 пакета multi_split_view (2024-06-18), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_06_22_02": {
+    "description": "Text for 2024-06-22 Carlos Eduardo Leite de Andrade on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_06_title": "\n\n2024-06\n",
   "@aboutMyGratitude_2024_06_title": {
     "description": "Title for 2024-06 list/text on the \"my gratitude\" tab on the \"About\" page."
