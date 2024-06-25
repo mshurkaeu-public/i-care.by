@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" etag="bf7AwvqnmKeu5za1qgGW" modified="2024-06-24T20:42:59.143Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.2" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="Ljzpu5U0hpDO_Btwixxw" modified="2024-06-25T13:14:21.058Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.2" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-24" id="0">
+        <object label="" modifiedDate="2024-06-25" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-24" id="0">
+        <object label="" modifiedDate="2024-06-25" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3845" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-24" id="0">
+        <object label="" modifiedDate="2024-06-25" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-24" id="0">
+        <object label="" modifiedDate="2024-06-25" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-06-24" id="0">
+        <object label="" modifiedDate="2024-06-25" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -3409,7 +3409,7 @@
             <mxPoint x="8690" y="7090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9nEFf0kavLy-WNETYD56-3" value="Грамадзянін не пазбаўляецца ад адной ці болей перашкод з набора перашкод &lt;b&gt;A&lt;/b&gt;, якія блакуюць яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="9nEFf0kavLy-WNETYD56-3" value="Грамадзянін не пазбаўляецца ад адной ці болей перашкод з набора перашкод &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;, якія блакуюць яго." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="3600" y="5440" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9nEFf0kavLy-WNETYD56-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="9nEFf0kavLy-WNETYD56-3" target="RKpNLnjRRikUdjr9KZIu-4" edge="1">
@@ -4471,46 +4471,46 @@
             <mxPoint x="6625" y="6150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cASfB4CwLse9m9XZElSL-2" target="Iv9Ri6-5YscL8iWF2wej-15">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cASfB4CwLse9m9XZElSL-2" target="Iv9Ri6-5YscL8iWF2wej-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7490" y="6700" as="sourcePoint" />
             <mxPoint x="6745" y="6210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-5" value="Грамадзянін не спрабуе змяніць рэальнасць." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-5" value="Грамадзянін не спрабуе змяніць рэальнасць." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="4240" y="5800" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iv9Ri6-5YscL8iWF2wej-5" target="Iv9Ri6-5YscL8iWF2wej-7">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Iv9Ri6-5YscL8iWF2wej-5" target="Iv9Ri6-5YscL8iWF2wej-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5362" y="5975" as="sourcePoint" />
             <mxPoint x="4487" y="5645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="c3oQFzIX2yJtnYeHpBwy-2" target="Iv9Ri6-5YscL8iWF2wej-7">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="c3oQFzIX2yJtnYeHpBwy-2" target="Iv9Ri6-5YscL8iWF2wej-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="4388" y="5320" as="sourcePoint" />
             <mxPoint x="4095" y="4680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-7" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-7" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="4225" y="5705" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-13" value="Згодна з базавай гіпотэзай 2, усе магчымыя прычыны чаму жывы і ў прытомнасці грамадзянін, які жадае дасягнуць сваёй зыходнай мэты, не спрабуе змяніць рэальнасць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" vertex="1" parent="1">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-13" value="Згодна з базавай гіпотэзай 2, усе магчымыя прычыны чаму жывы і ў прытомнасці грамадзянін, які жадае дасягнуць сваёй зыходнай мэты, не спрабуе змяніць рэальнасць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="6720" y="6400" width="400" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-14" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна спрабаваць змяніць рэальнасць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="Iv9Ri6-5YscL8iWF2wej-13">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-14" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна спрабаваць змяніць рэальнасць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-15" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна спрабаваць змяніць рэальнасць, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="Iv9Ri6-5YscL8iWF2wej-13">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-15" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна спрабаваць змяніць рэальнасць, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
           <mxGeometry x="40" y="240" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-16" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна спрабаваць змяніць рэальнасць, жадае гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" vertex="1" parent="Iv9Ri6-5YscL8iWF2wej-13">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-16" value="&lt;b&gt;Грамадзянін&lt;/b&gt; ведае, што можна/патрэбна спрабаваць змяніць рэальнасць, жадае гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
           <mxGeometry x="40" y="400" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-17" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-17" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="7265" y="6825" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="Iv9Ri6-5YscL8iWF2wej-17" target="Iv9Ri6-5YscL8iWF2wej-16">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="Iv9Ri6-5YscL8iWF2wej-17" target="Iv9Ri6-5YscL8iWF2wej-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6300" y="6940" as="sourcePoint" />
             <mxPoint x="6610" y="6930" as="targetPoint" />
