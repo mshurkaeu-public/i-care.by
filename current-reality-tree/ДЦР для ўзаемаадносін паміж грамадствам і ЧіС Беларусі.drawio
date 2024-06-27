@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="82Ltoh26nXe4WkhrN3oI" modified="2024-06-27T12:13:28.300Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.3" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="d0DwTfOYqvSjO_WvQO61" modified="2024-06-27T14:24:37.126Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.3" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4597,7 +4597,7 @@
             <mxPoint x="7170" y="6310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="csvu6jw4DddK7MNwCCW7-1" value="У грамадзяніна ёсць адчуванне выгады для сябе ад дасягнення зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="csvu6jw4DddK7MNwCCW7-1" value="У грамадзяніна ёсць адчуванне патэнцыйнай выгады для сябе ад дасягнення зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="7400" y="6920" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csvu6jw4DddK7MNwCCW7-2" value="У грамадзяніна ёсць адчуванне патэнцыйнай шкоды для сябе ад спробы змяніць рэальнасць у накірунку да зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
