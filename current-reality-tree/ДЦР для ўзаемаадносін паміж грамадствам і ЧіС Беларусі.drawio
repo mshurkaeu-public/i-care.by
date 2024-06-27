@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="ccRneUVumOZVyfhpdpu7" modified="2024-06-27T10:58:57.118Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.3" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="ATNFAGaKMvoXCJjl5bbJ" modified="2024-06-27T11:09:15.582Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.3" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3770,7 +3770,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cASfB4CwLse9m9XZElSL-2" value="Грамадзянін вырашыў, што не можа пераадолець нейкія перашкоды з набора ўяўляемых перашкод &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="7880" y="7120" width="320" height="80" as="geometry" />
+          <mxGeometry x="7880" y="7160" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cASfB4CwLse9m9XZElSL-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="CkLIY3k917qbzqk4uZhb-15" target="c3oQFzIX2yJtnYeHpBwy-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3779,7 +3779,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cASfB4CwLse9m9XZElSL-7" value="&lt;b&gt;Важная заўвага&lt;/b&gt;: грамадзянін пераканаў сам сябе ў тым, што не можа пераадолець тыя перашкоды. Калі сярод рэальных перашкод ёсць законы прыроды, то такая сітуацыя апісана на схеме асобна. А калі перашкод у выглядзе законаў прыроды няма, то гэта азначае, што рэальныя перашкоды могуць быць вырашаны за нейкі канчатковы час і з выкарыстаннем нейкай канчатковай колькасці энергіі." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="7880" y="7280" width="320" height="240" as="geometry" />
+          <mxGeometry x="7880" y="7320" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="cASfB4CwLse9m9XZElSL-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cASfB4CwLse9m9XZElSL-7" target="cASfB4CwLse9m9XZElSL-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4499,19 +4499,19 @@
           <mxGeometry x="4225" y="5705" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iv9Ri6-5YscL8iWF2wej-13" value="Згодна з базавай гіпотэзай 2, усе магчымыя прычыны чаму жывы і ў прытомнасці грамадзянін (які жадае дасягнуць сваёй зыходнай мэты) не спрабуе змяніць рэальнасць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=dashed;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="6800" y="6240" width="400" height="1080" as="geometry" />
+          <mxGeometry x="6800" y="6240" width="400" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="Iv9Ri6-5YscL8iWF2wej-14" value="&lt;b&gt;Грамадзянін&lt;/b&gt; (які жадае дасягнуць сваёй зыходнай мэты&lt;b&gt;) не ведае&lt;/b&gt;, што можна/патрэбна спрабаваць змяніць рэальнасць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iv9Ri6-5YscL8iWF2wej-15" value="&lt;b&gt;Грамадзянін&lt;/b&gt; (які жадае дасягнуць сваёй зыходнай мэты) ведае, што можна/патрэбна спрабаваць змяніць рэальнасць, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
-          <mxGeometry x="40" y="720" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="760" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iv9Ri6-5YscL8iWF2wej-16" value="&lt;b&gt;Грамадзянін&lt;/b&gt; (які жадае дасягнуць сваёй зыходнай мэты) ведае, што можна/патрэбна спрабаваць змяніць рэальнасць, жадае гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
-          <mxGeometry x="40" y="920" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="960" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6e08RF3CYaiDwe95YWkr-1" value="Адсутнасць жадання — гэта адсутнасць адчування выгады для сябе. Выгады ў шырокім сэнсе: фінансавай, эмацыйнай, сацыяльнай і г.д. Характэрнае пытанне чалавека пры адсутнасці жадання, — &quot;А навошта яно мне патрэбна?!&quot;&lt;br&gt;&lt;br&gt;&lt;div&gt;То бок, грамадзянін не бачыць дастатковай выгады для сябе ад сваёй патэнцыйнай спробы змяніць рэальнасць. А яшчэ і пры тым, што спроба змяніць рэальнасць — гэта гарантаваныя страты нейкіх рэсурсаў. Напрыклад, могуць быць страты энергіі, грошаў, часу, здароўя, свабоды, маёмасці, адносін і г.д.&lt;br&gt;&lt;br&gt;Думаю, навуковец атрымвае эмацыйнае задавальненне ад самаго працэсу вывучэння рэальнасці. А ў выпадку знаходкі рашэння нейкай складанай праблемы задавальнення яшчэ &quot;ў 1000 разоў&quot; больш чым проста пры вывучэнні.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
-          <mxGeometry x="40" y="240" width="320" height="440" as="geometry" />
+          <mxGeometry x="40" y="280" width="320" height="440" as="geometry" />
         </mxCell>
         <mxCell id="6e08RF3CYaiDwe95YWkr-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Iv9Ri6-5YscL8iWF2wej-13" source="6e08RF3CYaiDwe95YWkr-1" target="Iv9Ri6-5YscL8iWF2wej-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4520,7 +4520,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Iv9Ri6-5YscL8iWF2wej-17" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="7345" y="7205" width="30" height="30" as="geometry" />
+          <mxGeometry x="7345" y="7245" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Iv9Ri6-5YscL8iWF2wej-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="Iv9Ri6-5YscL8iWF2wej-17" target="Iv9Ri6-5YscL8iWF2wej-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4547,7 +4547,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zg_CABVNKZQC_973Vwa1-5" value="У грамадзяніна ёсць адчуванне, што патэнцыйная шкода для яго ад спробы змяніць рэальнасць (у накірунку да зыходнай мэты) больш значная чым патэнцыйная выгада ад гэтай спробы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="7400" y="7120" width="320" height="120" as="geometry" />
+          <mxGeometry x="7400" y="7160" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Zg_CABVNKZQC_973Vwa1-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Zg_CABVNKZQC_973Vwa1-5" target="Iv9Ri6-5YscL8iWF2wej-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4598,10 +4598,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="csvu6jw4DddK7MNwCCW7-1" value="У грамадзяніна ёсць адчуванне выгады для сябе ад дасягнення зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="7400" y="6840" width="320" height="80" as="geometry" />
+          <mxGeometry x="7400" y="6880" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="csvu6jw4DddK7MNwCCW7-2" value="У грамадзяніна ёсць адчуванне патэнцыйнай шкоды для сябе ад спробы змяніць рэальнасць у накірунку да зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="7400" y="6960" width="320" height="120" as="geometry" />
+          <mxGeometry x="7400" y="7000" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="csvu6jw4DddK7MNwCCW7-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="csvu6jw4DddK7MNwCCW7-2" target="Iv9Ri6-5YscL8iWF2wej-15">
           <mxGeometry relative="1" as="geometry">
