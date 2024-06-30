@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="paB5JdJ2KrNmYlBYKvaK" modified="2024-06-30T13:34:46.078Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.4" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="8ZxsKlGj5JZ5ya4EL7zb" modified="2024-06-30T13:40:49.842Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.4" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -642,7 +642,7 @@
           <mxCell parent="0" visible="0" />
         </object>
         <mxCell id="YF0XWQoRzKOnpNSZt35C-5" value="Гіпотэза №01: каранёвая прычына дыктатуры ЧіС у Беларусі ў тым, што ў пераважнай колькасці беларусаў вывучаная бездапаможнасць." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#FF0000;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=auto;glass=0;shadow=0;swimlaneFillColor=#FF0000;spacing=2;swimlaneLine=0;fontColor=default;opacity=20;flipH=1;container=0;" parent="YF0XWQoRzKOnpNSZt35C-4" vertex="1">
-          <mxGeometry x="7840" y="7160" width="720" height="440" as="geometry" />
+          <mxGeometry x="7880" y="7160" width="720" height="440" as="geometry" />
         </mxCell>
         <mxCell id="34e7RA6KefHYZEXXCMD1-23" value="Вывучаная бездапаможнасць — гэта калі чалавек нават і не спрабуе змяніць рэальнасць:&lt;br&gt;• ні спрабуе пазбавіцца ад перашкоды, якая яго спыняе;&lt;br&gt;• ні спрабуе абыйсці яе;&lt;br&gt;• ні спрабуе сабраць больш інфармацыі пра гэтую перашкоду.&lt;br&gt;Хаця рэсурсы для нечага з гэтага ў чалавека ёсць. А не спрабуе таму што ў чалавека ўжо ёсць жыццёвы досвед, які, быццам бы, загадзя сведчыць, што ў чалавека няма ніякага ўплыву на сітуацыю." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;rotation=0;fontColor=default;" parent="YF0XWQoRzKOnpNSZt35C-5" vertex="1">
           <mxGeometry x="400" y="80" width="280" height="320" as="geometry" />
@@ -3764,7 +3764,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cASfB4CwLse9m9XZElSL-2" value="На выснове свайго папярэдняга досведу грамадзянін верыць, што любыя спробы змяніць рэальнасць будуць рабіць яму толькі горш." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="7880" y="7440" width="320" height="120" as="geometry" />
+          <mxGeometry x="7920" y="7440" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cASfB4CwLse9m9XZElSL-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="CkLIY3k917qbzqk4uZhb-15" target="c3oQFzIX2yJtnYeHpBwy-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4607,7 +4607,7 @@
           <mxGeometry x="7160" y="7040" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="csvu6jw4DddK7MNwCCW7-6" value="Склаўшаяся сітуацыя выглядае для грамадзяніна падобнай на сітуацыю, у якой ён быў раней, ці назіраў іншага чалавека ў падобнай сітуацыі." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="7880" y="7280" width="320" height="120" as="geometry" />
+          <mxGeometry x="7920" y="7280" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="csvu6jw4DddK7MNwCCW7-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="csvu6jw4DddK7MNwCCW7-6" target="Zg_CABVNKZQC_973Vwa1-5" edge="1">
           <mxGeometry relative="1" as="geometry">
