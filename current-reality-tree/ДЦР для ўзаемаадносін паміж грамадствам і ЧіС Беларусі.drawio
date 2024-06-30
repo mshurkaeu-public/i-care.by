@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="xB2ZU6qyZHExwo_3S0F2" modified="2024-06-30T12:57:17.702Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.4" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="6eQhVEnT9ILSO6Ki0zRi" modified="2024-06-30T13:01:59.230Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.4" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4486,7 +4486,7 @@
         <mxCell id="Iv9Ri6-5YscL8iWF2wej-14" value="&lt;b&gt;Грамадзянін&lt;/b&gt; (які жадае дасягнуць сваёй зыходнай мэты&lt;b&gt;) не ведае&lt;/b&gt;, што можна/патрэбна спрабаваць змяніць рэальнасць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Iv9Ri6-5YscL8iWF2wej-15" value="&lt;b&gt;Грамадзянін&lt;/b&gt; (які жадае дасягнуць сваёй зыходнай мэты) ведае, што можна/патрэбна спрабаваць змяніць рэальнасць, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
+        <mxCell id="Iv9Ri6-5YscL8iWF2wej-15" value="&lt;b&gt;Грамадзянін&lt;/b&gt; (які жадае дасягнуць сваёй зыходнай мэты) ведае, што можна/патрэбна спрабаваць змяніць рэальнасць, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
           <mxGeometry x="40" y="800" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Iv9Ri6-5YscL8iWF2wej-16" value="&lt;b&gt;Грамадзянін&lt;/b&gt; (які жадае дасягнуць сваёй зыходнай мэты) ведае, што можна/патрэбна спрабаваць змяніць рэальнасць, жадае гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="Iv9Ri6-5YscL8iWF2wej-13" vertex="1">
