@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="AZ7FIRiF0TJFCQLvLqPC" modified="2024-06-30T13:15:03.127Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.4" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="w4wRCH98YE506v_tLTGn" modified="2024-06-30T13:27:21.377Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.6.4" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4534,7 +4534,7 @@
         <mxCell id="csvu6jw4DddK7MNwCCW7-1" value="У грамадзяніна ёсць адчуванне патэнцыйнай выгады для сябе ад дасягнення зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="ZyTAt2VtFQ74LP9XS2Cz-5" vertex="1">
           <mxGeometry x="40" y="120" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="csvu6jw4DddK7MNwCCW7-2" value="У грамадзяніна ёсць адчуванне патэнцыйнай шкоды для сябе ад спробы змяніць рэальнасць у накірунку да зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="ZyTAt2VtFQ74LP9XS2Cz-5" vertex="1">
+        <mxCell id="csvu6jw4DddK7MNwCCW7-2" value="У грамадзяніна ёсць адчуванне патэнцыйнай шкоды для сябе ад любой спробы (якую грамадзянін уяўляе сабе) змяніць рэальнасць у накірунку да зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="ZyTAt2VtFQ74LP9XS2Cz-5" vertex="1">
           <mxGeometry x="40" y="240" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Zg_CABVNKZQC_973Vwa1-5" value="У грамадзяніна ёсць адчуванне, што патэнцыйная шкода для яго ад спробы змяніць рэальнасць (у накірунку да зыходнай мэты) больш значная чым патэнцыйная выгада ад гэтай спробы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="ZyTAt2VtFQ74LP9XS2Cz-5" vertex="1">
