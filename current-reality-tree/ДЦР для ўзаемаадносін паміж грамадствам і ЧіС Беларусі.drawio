@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="8b2B379qFHZm0NKy9dpU" modified="2024-07-15T08:43:43.284Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.6.5" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="rEeZcn5jH25B85xP8Epf" modified="2024-07-15T10:08:54.251Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.6.5" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -627,7 +627,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="8565" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <object label="" modifiedDate="2024-07-15" id="0">
           <mxCell />
@@ -3772,7 +3772,7 @@
             <mxPoint x="4305" y="5330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cASfB4CwLse9m9XZElSL-11" value="&lt;div&gt;&quot;Пазбягай&quot;. Грамадзянін больш не жадае дасягнуць сваёй зыходнай мэты.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="cASfB4CwLse9m9XZElSL-11" value="&lt;div&gt;&quot;Пазбягай&quot;. Грамадзянін больш не жадае выканаць дзеянне &lt;i&gt;D&lt;/i&gt;.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="6800" y="3120" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cASfB4CwLse9m9XZElSL-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HtWALPR_QNtkMw_p7kNT-3" target="cASfB4CwLse9m9XZElSL-11" edge="1">
@@ -4417,7 +4417,7 @@
         <mxCell id="LW-TTzPB-iBc_Rl2AQSx-1" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="3585" y="3145" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LW-TTzPB-iBc_Rl2AQSx-3" value="&lt;div&gt;&quot;Пазбягай&quot;. Грамадзянін больш не жадае дасягнуць сваёй зыходнай мэты.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="LW-TTzPB-iBc_Rl2AQSx-3" value="&lt;div&gt;&quot;Пазбягай&quot;. Грамадзянін больш не жадае выканаць дзеянне &lt;i&gt;D&lt;/i&gt;.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="3600" y="3240" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LW-TTzPB-iBc_Rl2AQSx-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LW-TTzPB-iBc_Rl2AQSx-3" target="LW-TTzPB-iBc_Rl2AQSx-1" edge="1">
