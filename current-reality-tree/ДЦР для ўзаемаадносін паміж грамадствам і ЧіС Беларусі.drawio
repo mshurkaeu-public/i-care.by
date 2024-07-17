@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="r0b3ESU0McAW2JMcsVMz" modified="2024-07-17T08:01:58.345Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.0" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="X8cVfVjyesbctJMA5ngy" modified="2024-07-17T08:15:13.453Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.0" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4731,7 +4731,7 @@
         <mxCell id="rCBf9kzvDXsQXzaGdKOb-10" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="10820" y="8530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rCBf9kzvDXsQXzaGdKOb-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rCBf9kzvDXsQXzaGdKOb-8" target="3YK6mLSudX0Pv2gEbJLH-1" edge="1">
+        <mxCell id="rCBf9kzvDXsQXzaGdKOb-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rCBf9kzvDXsQXzaGdKOb-8" target="dYK0j04YIGh792t1d0iJ-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10530" y="7890" as="sourcePoint" />
             <mxPoint x="10320" y="3533" as="targetPoint" />
@@ -4745,6 +4745,24 @@
         </mxCell>
         <mxCell id="dYK0j04YIGh792t1d0iJ-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="9825" y="3625" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYK0j04YIGh792t1d0iJ-4" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="9905" y="4025" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYK0j04YIGh792t1d0iJ-5" value="Грамадзянін разумее, што сігналы з рэальнасці сведчаць аб наяўнасці перашкод для выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9920" y="3880" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dYK0j04YIGh792t1d0iJ-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dYK0j04YIGh792t1d0iJ-5" target="dYK0j04YIGh792t1d0iJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="11438" y="4138" as="sourcePoint" />
+            <mxPoint x="10563" y="3808" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYK0j04YIGh792t1d0iJ-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="dYK0j04YIGh792t1d0iJ-4" target="dYK0j04YIGh792t1d0iJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9930" y="3490" as="sourcePoint" />
+            <mxPoint x="9865" y="3650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
