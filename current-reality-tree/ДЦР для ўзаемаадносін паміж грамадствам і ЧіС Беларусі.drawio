@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="w6cRN1-Y8Fs-YbIaY3FV" modified="2024-07-18T12:45:28.595Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="Fz1PNcxmA3EBJkMbcMUM" modified="2024-07-18T12:48:36.390Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4834,6 +4834,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8758" y="4090" as="sourcePoint" />
             <mxPoint x="7815" y="3650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nt8J4jhp-TLxjSKYSjI-4" value="У грамадзяніна не атрымалася выканаць дзеянне &lt;i&gt;D&lt;/i&gt;, а рэальнасць змяняецца нейкім чынам." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7800" y="3960" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3nt8J4jhp-TLxjSKYSjI-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3nt8J4jhp-TLxjSKYSjI-4" target="MPoFinrV3nIF7SRB2cIw-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8800" y="4380" as="sourcePoint" />
+            <mxPoint x="7905" y="3880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
