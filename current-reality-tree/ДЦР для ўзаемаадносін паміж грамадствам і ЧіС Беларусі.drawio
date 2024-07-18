@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="DNKG-QbK5lBIuGygcwTz" modified="2024-07-18T09:40:36.845Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.1" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="LKAJaJS0tMNCaQiNTk_k" modified="2024-07-18T10:04:08.283Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.1" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3213,10 +3213,10 @@
         <mxCell id="0vqqIDfPm7rMvMw0exrb-3" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя тыпы ўсведамлення грамадзянінам наяўнасці перашкод, якія блакуюць яму выкананне дзеяння &lt;i&gt;D&lt;/i&gt;." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="9360" y="3520" width="400" height="5200" as="geometry" />
         </mxCell>
-        <mxCell id="CkLIY3k917qbzqk4uZhb-14" value="Грамадзянін усведамляе, што існуюць перашкоды, якія блакуюць яму выкананне дзеяння &lt;i&gt;D&lt;/i&gt;. І ўяўляе гэты набор як &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="0vqqIDfPm7rMvMw0exrb-3" vertex="1">
+        <mxCell id="CkLIY3k917qbzqk4uZhb-14" value="Грамадзянін усведамляе, што існуюць перашкоды, якія блакуюць яму выкананне дзеяння &lt;i&gt;D&lt;/i&gt;. І ўяўляе гэты набор як &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="0vqqIDfPm7rMvMw0exrb-3" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aApYGewBmsv3_qILmE3r-5" value="Паколькі грамадзянін усведамляе, што сутыкнуўся з нейкімі перашкодамі, то ён неяк уяўляе сабе гэтыя перашкоды. Уяўленне можа быць вельмі выразным, а можа быць вельмі туманным. Пры гэтым уяўленне грамадзяніна аб тых перашкодах не абавязкова супадае з рэальнасцю. Каб падкрэсліць гэты аспект, пазначу набор перашкод, які ўяўляе грамадзянін у пачатку працэса, як &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;. Іншая літара &lt;b&gt;В&lt;/b&gt; будзе падрэсліваць &quot;неабавязкова супадае з &lt;b&gt;A&lt;/b&gt;&quot;. А індэкс &lt;b&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; азначае, што гэта ўяўленне грамадзяніна аб рэальнасці на першай ітэрацыі працэса.&lt;br&gt;&lt;br&gt;Прыклад &quot;на пальцах&quot; для тлумачэння: беларус не можа адбуксаваць чужую машыну. Машына амерыканская са стаяначным тормазам, які націскаецца левай нагой. Тормаз націснуты (гэта набор &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; з адной рэальнай перашкоды). Беларус заглядае ў кабіну і бачыць, што звыклага ручнога тормаза няма. Здагадка беларуса — аўтамабіль зламаўся, заблакаваліся тармазныя калодкі (гэта набор уяўляемых перашкод &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;)." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="0vqqIDfPm7rMvMw0exrb-3" vertex="1">
+        <mxCell id="aApYGewBmsv3_qILmE3r-5" value="Паколькі грамадзянін усведамляе, што сутыкнуўся з нейкімі перашкодамі, то ён неяк уяўляе сабе гэтыя перашкоды. Уяўленне можа быць вельмі выразным, а можа быць вельмі туманным. Пры гэтым уяўленне грамадзяніна аб тых перашкодах не абавязкова супадае з рэальнасцю. Каб падкрэсліць гэты аспект, пазначу набор перашкод, які ўяўляе грамадзянін у пачатку працэса, як &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;. Іншая літара &lt;b&gt;В&lt;/b&gt; будзе падрэсліваць &quot;неабавязкова супадае з &lt;b&gt;A&lt;/b&gt;&quot;. А індэкс &lt;b&gt;&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt; азначае, што гэта ўяўленне грамадзяніна аб рэальнасці на ітэрацыі нумар n працэса.&lt;br&gt;&lt;br&gt;Прыклад &quot;на пальцах&quot; для тлумачэння: беларус не можа адбуксаваць чужую машыну. Машына амерыканская са стаяначным тормазам, які націскаецца левай нагой. Тормаз націснуты (гэта набор &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; з адной рэальнай перашкоды). Беларус заглядае ў кабіну і бачыць, што звыклага ручнога тормаза няма. Здагадка беларуса — аўтамабіль зламаўся, заблакаваліся тармазныя калодкі (гэта набор уяўляемых перашкод &lt;b&gt;B&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;)." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="0vqqIDfPm7rMvMw0exrb-3" vertex="1">
           <mxGeometry x="40" y="240" width="320" height="560" as="geometry" />
         </mxCell>
         <mxCell id="aApYGewBmsv3_qILmE3r-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="0vqqIDfPm7rMvMw0exrb-3" source="aApYGewBmsv3_qILmE3r-5" target="CkLIY3k917qbzqk4uZhb-14" edge="1">
@@ -3428,7 +3428,7 @@
         <mxCell id="thXADoAYUwCWLkbUZyFA-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="9905" y="6125" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="thXADoAYUwCWLkbUZyFA-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="9nEFf0kavLy-WNETYD56-5" target="dYK0j04YIGh792t1d0iJ-13" edge="1">
+        <mxCell id="thXADoAYUwCWLkbUZyFA-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="MPoFinrV3nIF7SRB2cIw-6" target="dYK0j04YIGh792t1d0iJ-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6010" y="5210" as="sourcePoint" />
             <mxPoint x="10255" y="6140" as="targetPoint" />
@@ -3470,7 +3470,7 @@
         <mxCell id="HtWALPR_QNtkMw_p7kNT-4" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="7219" y="5110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HtWALPR_QNtkMw_p7kNT-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="MPoFinrV3nIF7SRB2cIw-3" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
+        <mxCell id="HtWALPR_QNtkMw_p7kNT-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3nt8J4jhp-TLxjSKYSjI-1" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5090" y="4810" as="sourcePoint" />
             <mxPoint x="7660" y="5060" as="targetPoint" />
@@ -3784,26 +3784,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoFinrV3nIF7SRB2cIw-3" value="Грамадзянін уяўляе набор перашкод, якія блакуюць яму выкананне дзеяння &lt;i&gt;D&lt;/i&gt;, як &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="7800" y="3600" width="320" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MPoFinrV3nIF7SRB2cIw-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="MPoFinrV3nIF7SRB2cIw-1" target="MPoFinrV3nIF7SRB2cIw-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="8225" y="3930" as="sourcePoint" />
-            <mxPoint x="7650" y="4790" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="8180" y="3880" />
-              <mxPoint x="8180" y="3640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MPoFinrV3nIF7SRB2cIw-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="CkLIY3k917qbzqk4uZhb-14" target="MPoFinrV3nIF7SRB2cIw-3" edge="1">
+        <mxCell id="MPoFinrV3nIF7SRB2cIw-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="CkLIY3k917qbzqk4uZhb-14" target="3nt8J4jhp-TLxjSKYSjI-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8225" y="4210" as="sourcePoint" />
             <mxPoint x="8130" y="4090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoFinrV3nIF7SRB2cIw-6" value="У рэальнасці ёсць набор перашкод &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;, якія блакуюць грамадзяніна ад выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
+        <mxCell id="MPoFinrV3nIF7SRB2cIw-6" value="У рэальнасці існуе набор перашкод &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;, якія блакуюць грамадзяніна ад выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="10400" y="3360" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MPoFinrV3nIF7SRB2cIw-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="9nEFf0kavLy-WNETYD56-5" target="MPoFinrV3nIF7SRB2cIw-6" edge="1">
@@ -3818,7 +3805,7 @@
             <mxPoint x="8130" y="3810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MPoFinrV3nIF7SRB2cIw-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="o6J99wCgtp8LyrG-D7Kd-10" target="MPoFinrV3nIF7SRB2cIw-3" edge="1">
+        <mxCell id="MPoFinrV3nIF7SRB2cIw-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="o6J99wCgtp8LyrG-D7Kd-10" target="CkLIY3k917qbzqk4uZhb-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="7730" y="3590" as="sourcePoint" />
             <mxPoint x="7970" y="3450" as="targetPoint" />
@@ -4303,7 +4290,7 @@
             <mxPoint x="3610" y="3320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vgIEFZy793G284SUvIg-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="MPoFinrV3nIF7SRB2cIw-3" target="5vgIEFZy793G284SUvIg-14" edge="1">
+        <mxCell id="5vgIEFZy793G284SUvIg-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3nt8J4jhp-TLxjSKYSjI-1" target="5vgIEFZy793G284SUvIg-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7720" y="3640" as="sourcePoint" />
             <mxPoint x="4095" y="4680" as="targetPoint" />
@@ -4664,13 +4651,13 @@
             <mxPoint x="3310" y="4615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6rx839UVBMUgUzUHavr-5" value="Грамадзяніну &lt;u&gt; не&lt;/u&gt; паступаюць сігналы з рэальнасці, якія сведчаць аб існаванні перашкод з набору &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="X6rx839UVBMUgUzUHavr-5" value="Грамадзяніну &lt;u&gt; не&lt;/u&gt; паступаюць сігналы з рэальнасці, якія сведчаць аб існаванні перашкод з набору &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="9920" y="8520" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X6rx839UVBMUgUzUHavr-8" value="Грамадзянін не разумее, што сігналы з рэальнасці сведчаць аб наяўнасці перашкод для выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="9920" y="8680" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fDZHpiJfJA3F92S8XXPu-1" value="Грамадзяніну паступаюць сігналы з рэальнасці, якія сведчаць аб існаванні перашкод з набору &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="fDZHpiJfJA3F92S8XXPu-1" value="Грамадзяніну паступаюць сігналы з рэальнасці, якія сведчаць аб існаванні перашкод з набору &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="10880" y="8520" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fDZHpiJfJA3F92S8XXPu-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="fDZHpiJfJA3F92S8XXPu-1" target="X6rx839UVBMUgUzUHavr-8" edge="1">
@@ -4700,7 +4687,7 @@
             <mxPoint x="9210" y="8730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rCBf9kzvDXsQXzaGdKOb-6" value="Хаця б адна з набора рэальных перашкод &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt; з&#39;яўляецца &quot;ўнутранай&quot; і грамадзянін не ўсведамляе яе як перашкоду." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="rCBf9kzvDXsQXzaGdKOb-6" value="Хаця б адна з набора рэальных перашкод &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt; з&#39;яўляецца &quot;ўнутранай&quot; і грамадзянін не ўсведамляе яе як перашкоду." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="9400" y="8840" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rCBf9kzvDXsQXzaGdKOb-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rCBf9kzvDXsQXzaGdKOb-2" target="fDZHpiJfJA3F92S8XXPu-1" edge="1">
@@ -4763,7 +4750,7 @@
         <mxCell id="dYK0j04YIGh792t1d0iJ-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="10225" y="6125" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dYK0j04YIGh792t1d0iJ-10" value="У рэальнасці існуе набор перашкод &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;, якія блакуюць грамадзяніна ад выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="dYK0j04YIGh792t1d0iJ-10" value="У рэальнасці існуе набор перашкод &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;, якія блакуюць грамадзяніна ад выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="10240" y="6200" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dYK0j04YIGh792t1d0iJ-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dYK0j04YIGh792t1d0iJ-10" target="dYK0j04YIGh792t1d0iJ-13" edge="1">
@@ -4799,7 +4786,7 @@
         <mxCell id="dYK0j04YIGh792t1d0iJ-18" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="8865" y="8185" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dYK0j04YIGh792t1d0iJ-19" value="У рэальнасці існуе набор перашкод &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;, якія блакуюць грамадзяніна ад выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="dYK0j04YIGh792t1d0iJ-19" value="У рэальнасці існуе набор перашкод &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;, якія блакуюць грамадзяніна ад выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="8880" y="8280" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dYK0j04YIGh792t1d0iJ-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dYK0j04YIGh792t1d0iJ-19" target="dYK0j04YIGh792t1d0iJ-18" edge="1">
@@ -4817,7 +4804,7 @@
         <mxCell id="dYK0j04YIGh792t1d0iJ-22" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="9905" y="8185" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dYK0j04YIGh792t1d0iJ-23" value="У рэальнасці існуе набор перашкод &lt;b&gt;A&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;, якія блакуюць грамадзяніна ад выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="dYK0j04YIGh792t1d0iJ-23" value="У рэальнасці існуе набор перашкод &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;, якія блакуюць грамадзяніна ад выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="9920" y="8280" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dYK0j04YIGh792t1d0iJ-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dYK0j04YIGh792t1d0iJ-23" target="dYK0j04YIGh792t1d0iJ-22" edge="1">
@@ -4830,6 +4817,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8875" y="8250" as="sourcePoint" />
             <mxPoint x="8730" y="8410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nt8J4jhp-TLxjSKYSjI-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="7785" y="3625" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3nt8J4jhp-TLxjSKYSjI-2" value="Грамадзянін уяўляе набор перашкод, якія блакуюць яму выкананне дзеяння &lt;i&gt;D&lt;/i&gt;, як &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7800" y="3720" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3nt8J4jhp-TLxjSKYSjI-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3nt8J4jhp-TLxjSKYSjI-2" target="3nt8J4jhp-TLxjSKYSjI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8758" y="4090" as="sourcePoint" />
+            <mxPoint x="7815" y="3650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
