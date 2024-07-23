@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" etag="DcNn-W-uSMnE4Whbmi1a" modified="2024-07-23T19:22:22.591Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.3" type="device" pages="5">
+<mxfile host="app.diagrams.net" etag="_DZelpmy1mi5HuMON9Mq" modified="2024-07-23T19:31:28.352Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.3" type="device" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4846,7 +4846,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F6xXZOu-XGeiPnFnPWMv-1" value="Рэальнасць змяняецца нейкім чынам у выніку спробы грамадзяніна выкананаць дзеянне &lt;i&gt;D&lt;/i&gt;.&lt;br&gt;&lt;br&gt;Веды грамадзяніна і разуменне існуючай сітуацыі грамадзянінам таксама з&#39;яўляюцца часткай рэальнасці." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="8520" y="8640" width="240" height="200" as="geometry" />
+          <mxGeometry x="8560" y="8600" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="F6xXZOu-XGeiPnFnPWMv-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="F6xXZOu-XGeiPnFnPWMv-1" target="F6xXZOu-XGeiPnFnPWMv-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
