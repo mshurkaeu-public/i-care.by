@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-07-24" id="0">
+        <object label="" modifiedDate="2024-07-25" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-07-24" id="0">
+        <object label="" modifiedDate="2024-07-25" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3845" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-07-24" id="0">
+        <object label="" modifiedDate="2024-07-25" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-07-24" id="0">
+        <object label="" modifiedDate="2024-07-25" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-07-24" id="0">
+        <object label="" modifiedDate="2024-07-25" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -3915,7 +3915,7 @@
             <mxPoint x="7610" y="5110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j8n5TMFzTu400BrqlXF8-8" value="&lt;div&gt;Уяўленне грамадзяніна аб &lt;u&gt;усёй&lt;/u&gt; рэальнасці. У тым ліку, яго ўяўленні:&lt;/div&gt;&lt;div&gt;• аб сваім фізічным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім эмацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім інфармацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• і наогул аб самім існаванні працэса прыняцця рашэння!&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=#FF0000;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="j8n5TMFzTu400BrqlXF8-8" value="&lt;div&gt;Уяўленне грамадзяніна аб &lt;u&gt;усёй&lt;/u&gt; рэальнасці. У тым ліку, яго ўяўленні:&lt;/div&gt;&lt;div&gt;• аб сваім фізічным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім эмацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім інфармацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• і наогул аб самім існаванні працэса прыняцця рашэння!&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="8280" y="4720" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="j8n5TMFzTu400BrqlXF8-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="MPoFinrV3nIF7SRB2cIw-12" edge="1">
@@ -4650,7 +4650,7 @@
             <mxPoint x="9865" y="9250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JEphh9nT4dt-QeBNB_l-1" value="Усе магчымыя варыянты: спрабаваць ці не спрабаваць." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=dashed;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" vertex="1" parent="1">
+        <mxCell id="8JEphh9nT4dt-QeBNB_l-1" value="Усе магчымыя варыянты: спрабаваць ці не спрабаваць." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=dashed;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="8320" y="9080" width="400" height="800" as="geometry" />
         </mxCell>
         <mxCell id="rCBf9kzvDXsQXzaGdKOb-1" value="Грамадзянін спрабуе выканаць дзеянне &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="8JEphh9nT4dt-QeBNB_l-1" vertex="1">
@@ -5070,19 +5070,19 @@
             <mxPoint x="7705" y="9310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JEphh9nT4dt-QeBNB_l-4" value="Павінны быць прычыны, чаму грамадзянін спрабуе выканаць дзеянне &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="8JEphh9nT4dt-QeBNB_l-4" value="Павінны быць прычыны, чаму грамадзянін спрабуе выканаць дзеянне &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="8880" y="9000" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8JEphh9nT4dt-QeBNB_l-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8JEphh9nT4dt-QeBNB_l-4" target="rCBf9kzvDXsQXzaGdKOb-1">
+        <mxCell id="8JEphh9nT4dt-QeBNB_l-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8JEphh9nT4dt-QeBNB_l-4" target="rCBf9kzvDXsQXzaGdKOb-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8845" y="8640" as="sourcePoint" />
             <mxPoint x="8695" y="8905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JEphh9nT4dt-QeBNB_l-6" value="На гэтым ДЦР мяне цікавяць галінкі пра тое, чаму людзі &quot;не ведаюць&quot;, &quot;не жадаюць&quot;, &quot;не робяць&quot;.&lt;br&gt;&lt;br&gt;Калі жыццё будзе ісці не па гэтых галінках, то, відавочна, яно будзе ісці па галінках&amp;nbsp;&quot;ведаюць&quot;, &quot;жадаюць&quot;, &quot;робяць&quot;.&lt;br&gt;&lt;br&gt;Пакуль што не бачу сэнсу для сябе разглядаць гэтую галінку глыбей." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="8JEphh9nT4dt-QeBNB_l-6" value="На гэтым ДЦР мяне цікавяць галінкі пра тое, чаму людзі &quot;не ведаюць&quot;, &quot;не жадаюць&quot;, &quot;не робяць&quot;.&lt;br&gt;&lt;br&gt;Калі жыццё будзе ісці не па гэтых галінках, то, відавочна, яно будзе ісці па галінках&amp;nbsp;&quot;ведаюць&quot;, &quot;жадаюць&quot;, &quot;робяць&quot;.&lt;br&gt;&lt;br&gt;Пакуль што не бачу сэнсу для сябе разглядаць гэтую галінку глыбей." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="8880" y="8720" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="8JEphh9nT4dt-QeBNB_l-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8JEphh9nT4dt-QeBNB_l-6" target="8JEphh9nT4dt-QeBNB_l-4">
+        <mxCell id="8JEphh9nT4dt-QeBNB_l-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8JEphh9nT4dt-QeBNB_l-6" target="8JEphh9nT4dt-QeBNB_l-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8865" y="8795" as="sourcePoint" />
             <mxPoint x="9045" y="8825" as="targetPoint" />
