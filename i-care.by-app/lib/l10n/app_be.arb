@@ -969,6 +969,10 @@
   "@aboutMyGratitude_2024_07_26_01": {
     "description": "Text for 2024-07-26 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_07_27_01": "\n2024-07-27 Carlos Eduardo Leite de Andrade — 🛠️ стварыў версію 3.3.0 пакета multi_split_view (2024-07-26), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_07_27_01": {
+    "description": "Text for 2024-07-27 Carlos Eduardo Leite de Andrade on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_07_title": "\n\n2024-07\n",
   "@aboutMyGratitude_2024_07_title": {
     "description": "Title for 2024-07 list/text on the \"my gratitude\" tab on the \"About\" page."
