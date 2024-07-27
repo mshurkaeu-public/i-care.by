@@ -5142,6 +5142,15 @@
             <mxPoint x="7385" y="7110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dxFXDM9TxDkO_2MUhwvc-3" value="Магчыма, гэта азначае, што грамадзянін не ўсведамляе, што адзіныя перашкоды, якія немагчыма знішчыць, — гэта законы прыроды.&lt;br&gt;Магчыма, гэта таксама азначае, што грамадзянін не ведае, што ніхто з людзей не ведае, як на самой справе ўладкавана рэальнасць, і таму верыць усяму, што яму кажуць/хлусяць пра рэальнасць іншыя людзі." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7800" y="6080" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dxFXDM9TxDkO_2MUhwvc-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dxFXDM9TxDkO_2MUhwvc-3" target="BWvP--xFdiFbOViLsY0I-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7945" y="6420" as="sourcePoint" />
+            <mxPoint x="8135" y="6290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
