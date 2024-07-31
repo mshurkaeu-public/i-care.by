@@ -38,7 +38,7 @@ dependencies:
   intl: any
   multi_split_view: ^3.4.0
   package_info_plus: ^8.0.1
-  path_provider: ^2.0.12
+  path_provider: ^2.1.4
   path: ^1.8.2
   photo_view: ^0.15.0
   url_launcher: ^6.3.0

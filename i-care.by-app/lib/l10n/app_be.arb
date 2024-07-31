@@ -985,6 +985,10 @@
   "@aboutMyGratitude_2024_07_31_02": {
     "description": "Text for 2024-07-31 Flutter community on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_07_31_03": "\n2024-07-31 каманда flutter.dev — 🛠️ стварыла новую версію пакета path_provider 2.1.4 (2024-07-30) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_07_31_03": {
+    "description": "Text for 2024-07-31 flutter.dev team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_07_title": "\n\n2024-07\n",
   "@aboutMyGratitude_2024_07_title": {
     "description": "Title for 2024-07 list/text on the \"my gratitude\" tab on the \"About\" page."
