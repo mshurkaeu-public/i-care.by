@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-04" id="0">
+        <object label="" modifiedDate="2024-08-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-04" id="0">
+        <object label="" modifiedDate="2024-08-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3845" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-04" id="0">
+        <object label="" modifiedDate="2024-08-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-04" id="0">
+        <object label="" modifiedDate="2024-08-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-04" id="0">
+        <object label="" modifiedDate="2024-08-05" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -4356,8 +4356,8 @@
             <mxPoint x="3673" y="3180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LW-TTzPB-iBc_Rl2AQSx-6" value="Грамадзянін не ўсведамляе, што існуе мінімум адна ўнутраная перашкода, якая &quot;стаіць&quot; паміж ім і выкананнем дзеяння &lt;i&gt;D&lt;/i&gt;, і не спрабуе выканаць дзеянне &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4080" y="10600" width="320" height="80" as="geometry" />
+        <mxCell id="LW-TTzPB-iBc_Rl2AQSx-6" value="Грамадзянін не ўсведамляе, што існуюць перашкоды, якія &quot;стаяць&quot; паміж ім і выкананнем дзеяння &lt;i&gt;D&lt;/i&gt;, (пры гэтым мінімум адна перашкода з&#39;яўляецца &quot;ўнутранай&quot;) і грамадзянін не спрабуе выканаць дзеянне &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4080" y="10600" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LW-TTzPB-iBc_Rl2AQSx-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LW-TTzPB-iBc_Rl2AQSx-6" target="LW-TTzPB-iBc_Rl2AQSx-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -5003,8 +5003,8 @@
         <mxCell id="LkW3DMks9PXvqtajtfYp-3" value="￬" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="3985" y="7545" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LkW3DMks9PXvqtajtfYp-5" value="Грамадзянін не ўсведамляе, што існуе мінімум адна ўнутраная перашкода, якая &quot;стаіць&quot; паміж ім і выкананнем дзеяння &lt;i&gt;D&lt;/i&gt;, і не спрабуе выканаць дзеянне &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4080" y="8000" width="320" height="80" as="geometry" />
+        <mxCell id="LkW3DMks9PXvqtajtfYp-5" value="Грамадзянін не ўсведамляе, што існуюць перашкоды, якія &quot;стаяць&quot; паміж ім і выкананнем дзеяння &lt;i&gt;D&lt;/i&gt;, (пры гэтым мінімум адна перашкода з&#39;яўляецца &quot;ўнутранай&quot;) і грамадзянін не спрабуе выканаць дзеянне &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4080" y="8000" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LkW3DMks9PXvqtajtfYp-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LkW3DMks9PXvqtajtfYp-5" target="LkW3DMks9PXvqtajtfYp-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
