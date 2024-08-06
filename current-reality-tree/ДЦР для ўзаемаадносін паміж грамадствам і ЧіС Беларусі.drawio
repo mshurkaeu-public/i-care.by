@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-05" id="0">
+        <object label="" modifiedDate="2024-08-06" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-05" id="0">
+        <object label="" modifiedDate="2024-08-06" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3845" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-05" id="0">
+        <object label="" modifiedDate="2024-08-06" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-05" id="0">
+        <object label="" modifiedDate="2024-08-06" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-05" id="0">
+        <object label="" modifiedDate="2024-08-06" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -5241,6 +5241,15 @@
         </mxCell>
         <mxCell id="5jZUPqR2DriYovCKaQBH-7" value="￬" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="4145" y="4825" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-1" value="Тэарэтычна, гэта спосаб папасці ў &quot;бясконцы цыкл&quot;. Напрыклад, калі стаяць перад дзвярыма і тягнуць іх на сябе пры тым, дзверы адчыняюцца ў адваротным напрамку, то так можна стаяць і цягнуць пакуль не памрэш. Думаю, з-за гэтага ў жывыя арганізмы &quot;ўбудавана&quot; абмежаванне на колькасць/працягласць спроб паўтарыць адно і тое ж дзеянне ў выпадках, калі не атрымваецца наблізіцца да мэты. І тады яшчэ важна, як жывы арганізм пазнае сваё набліжэнне да мэты. Напрыклад, атрыманне дадатковай інфармацыі пра перашкоду і пра сваё жаданне выканаць дзеянне &lt;i&gt;D&lt;/i&gt; не кожны чалавек можа палічыць набліжэннем да мэты." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7040" y="5280" width="320" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-1" target="tIB9mdBcqpkxc4-SlzAK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7560" y="4780" as="sourcePoint" />
+            <mxPoint x="7200" y="5500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
