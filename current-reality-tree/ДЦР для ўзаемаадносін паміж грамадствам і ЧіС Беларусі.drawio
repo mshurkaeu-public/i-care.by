@@ -5327,6 +5327,36 @@
             <mxPoint x="8770" y="9101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iWuIWHLo7qSUogTee789-9" value="Грамадзянін не разгледзеў/не паспрабаваў частку з мноства ўсіх магчымых варыянтаў змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;. " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="8200" y="9400" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuIWHLo7qSUogTee789-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iWuIWHLo7qSUogTee789-9" target="iWuIWHLo7qSUogTee789-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8210" y="9250" as="sourcePoint" />
+            <mxPoint x="7970" y="9290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWuIWHLo7qSUogTee789-11" value="Грамадзянін упэўнены, што ён ужо ведае дастаткова, каб быць упэўненым, што ён не можа змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;. " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="8200" y="9600" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuIWHLo7qSUogTee789-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iWuIWHLo7qSUogTee789-11" target="iWuIWHLo7qSUogTee789-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8210" y="9470" as="sourcePoint" />
+            <mxPoint x="7970" y="9290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWuIWHLo7qSUogTee789-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="8065" y="9545" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuIWHLo7qSUogTee789-14" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="8095" y="9500" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iWuIWHLo7qSUogTee789-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iWuIWHLo7qSUogTee789-13" target="XXZDfx6Mw5HaMJ77cK4u-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8210" y="9250" as="sourcePoint" />
+            <mxPoint x="7970" y="9290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
