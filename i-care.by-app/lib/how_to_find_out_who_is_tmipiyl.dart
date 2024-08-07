@@ -1,4 +1,4 @@
-import 'package:carousel_slider/carousel_slider.dart';
+import 'package:carousel_slider/carousel_slider.dart' as carousel_slider;
 import 'package:expandable_text/expandable_text.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
@@ -596,7 +596,7 @@ class _PlaceToTalkSelector extends StatefulWidget {
 }
 
 class _PlaceToTalkSelectorState extends State<_PlaceToTalkSelector> {
-  final CarouselController _controller = CarouselController();
+  final carousel_slider.CarouselController _controller = carousel_slider.CarouselController();
 
   void _toNextPlace() {
     _controller.nextPage();
@@ -697,10 +697,10 @@ class _PlaceToTalkSelectorState extends State<_PlaceToTalkSelector> {
 
     return Column(
       children: [
-        CarouselSlider(
+        carousel_slider.CarouselSlider(
           carouselController: _controller,
           items: widget.places,
-          options: CarouselOptions(
+          options: carousel_slider.CarouselOptions(
             aspectRatio: widget.aspectRatio,
             height: widget.height,
             viewportFraction: 1.0,
