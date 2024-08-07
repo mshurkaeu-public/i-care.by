@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.6" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-06" id="0">
+        <object label="" modifiedDate="2024-08-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-06" id="0">
+        <object label="" modifiedDate="2024-08-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3845" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-06" id="0">
+        <object label="" modifiedDate="2024-08-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-06" id="0">
+        <object label="" modifiedDate="2024-08-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-08-06" id="0">
+        <object label="" modifiedDate="2024-08-07" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -5242,61 +5242,64 @@
         <mxCell id="5jZUPqR2DriYovCKaQBH-7" value="￬" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="4145" y="4825" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-1" value="Тэарэтычна, гэта спосаб папасці ў &quot;бясконцы цыкл&quot;. Напрыклад, калі стаяць перад дзвярыма і тягнуць іх на сябе пры тым, дзверы адчыняюцца ў адваротным напрамку, то так можна стаяць і цягнуць пакуль не памрэш. Думаю, з-за гэтага ў жывыя арганізмы &quot;ўбудавана&quot; абмежаванне на колькасць/працягласць спроб паўтарыць адно і тое ж дзеянне ў выпадках, калі не атрымваецца наблізіцца да мэты. І тады яшчэ важна, як жывы арганізм пазнае сваё набліжэнне да мэты. Напрыклад, атрыманне дадатковай інфармацыі пра перашкоду і пра сваё жаданне выканаць дзеянне &lt;i&gt;D&lt;/i&gt; не кожны чалавек можа палічыць набліжэннем да мэты." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-1" value="Тэарэтычна, гэта спосаб папасці ў &quot;бясконцы цыкл&quot;. Напрыклад, калі стаяць перад дзвярыма і тягнуць іх на сябе пры тым, дзверы адчыняюцца ў адваротным напрамку, то так можна стаяць і цягнуць пакуль не памрэш. Думаю, з-за гэтага ў жывыя арганізмы &quot;ўбудавана&quot; абмежаванне на колькасць/працягласць спроб паўтарыць адно і тое ж дзеянне ў выпадках, калі не атрымваецца наблізіцца да мэты. І тады яшчэ важна, як жывы арганізм пазнае сваё набліжэнне да мэты. Напрыклад, атрыманне дадатковай інфармацыі пра перашкоду і пра сваё жаданне выканаць дзеянне &lt;i&gt;D&lt;/i&gt; не кожны чалавек можа палічыць набліжэннем да мэты." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="7040" y="5280" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-1" target="tIB9mdBcqpkxc4-SlzAK-1">
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-1" target="tIB9mdBcqpkxc4-SlzAK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="7560" y="4780" as="sourcePoint" />
             <mxPoint x="7200" y="5500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-3" value="У грамадзяніна ёсць упэўненасць, што ён &lt;b&gt;&lt;u&gt;не&lt;/u&gt;&lt;/b&gt; можа змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="7640" y="9240" width="320" height="80" as="geometry" />
+        <mxCell id="iWuIWHLo7qSUogTee789-2" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты стаўлення грамадзяніна да сваіх магчымасцяў змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" vertex="1" parent="1">
+          <mxGeometry x="7600" y="7560" width="400" height="1800" as="geometry" />
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-3" target="Iv9Ri6-5YscL8iWF2wej-15">
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-5" value="Грамадзянін дапускае думку, што ён можа змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="iWuIWHLo7qSUogTee789-2" vertex="1">
+          <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="iWuIWHLo7qSUogTee789-2" source="XXZDfx6Mw5HaMJ77cK4u-8" target="XXZDfx6Mw5HaMJ77cK4u-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2890" y="-305" as="sourcePoint" />
+            <mxPoint x="940" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-8" value="Іншымі словамі — няма ўпэўненасці, што ён не можа выканаць дзеянне &lt;i&gt;D&lt;/i&gt;. І магчыма, што ёсць ўпэўненасць, што можа. выканаць дзеянне &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="iWuIWHLo7qSUogTee789-2" vertex="1">
+          <mxGeometry x="40" y="240" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-3" value="У грамадзяніна ёсць упэўненасць, што ён &lt;b&gt;&lt;u&gt;не&lt;/u&gt;&lt;/b&gt; можа змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="iWuIWHLo7qSUogTee789-2" vertex="1">
+          <mxGeometry x="40" y="1680" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-3" target="Iv9Ri6-5YscL8iWF2wej-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7595" y="7330" as="sourcePoint" />
             <mxPoint x="7410" y="7650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-5" value="Грамадзянін дапускае думку, што ён можа змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="7640" y="7640" width="320" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-5" target="BtoyhY2bY0fzWby86ly3-10">
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-5" target="BtoyhY2bY0fzWby86ly3-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7595" y="7330" as="sourcePoint" />
             <mxPoint x="7410" y="7650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-5" target="BtoyhY2bY0fzWby86ly3-1">
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-5" target="BtoyhY2bY0fzWby86ly3-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8330" y="7690" as="sourcePoint" />
             <mxPoint x="7625" y="7330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-8" value="Іншымі словамі — няма ўпэўненасці, што ён не можа выканаць дзеянне &lt;i&gt;D&lt;/i&gt;. І магчыма, што ёсць ўпэўненасць, што можа. выканаць дзеянне &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="7640" y="7800" width="320" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-8" target="XXZDfx6Mw5HaMJ77cK4u-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10490" y="7255" as="sourcePoint" />
-            <mxPoint x="8540" y="7700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-10" value="Грамадзянін ведае, што ён разглядзеў абсалютна ўсе магчымыя варыянты паспрабаваць змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;, і кожны з гэтых варыянтаў патрабуе парушэння аднаго або некалькіх законаў прыроды&lt;i&gt;.&lt;/i&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-10" value="Грамадзянін ведае, што ён разглядзеў абсалютна ўсе магчымыя варыянты паспрабаваць змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;, і кожны з гэтых варыянтаў патрабуе парушэння аднаго або некалькіх законаў прыроды&lt;i&gt;.&lt;/i&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="8200" y="9240" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-10" target="XXZDfx6Mw5HaMJ77cK4u-3">
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-10" target="XXZDfx6Mw5HaMJ77cK4u-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="8150" y="9220" as="sourcePoint" />
             <mxPoint x="7950" y="9140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-12" value="Мне гэтая фармуліроўка нагадвае пра цытату, якую я пачуў у нейкай аўдыёкнізе. Інтэрнет падказвае, што выказванне належыць Канфуцыю:&lt;br&gt;&lt;i&gt;&quot;He who says he can and he who says he can&#39;t, are both usually right&quot;&lt;/i&gt;.&lt;br&gt;Confucius&lt;br&gt;&lt;br&gt;І як часта чалавек сапраўды абмежаваны законамі прыроды, а не &quot;ўсяго толькі&quot; сваім уласным бачаннем рэальнасці?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-12" value="Мне гэтая фармуліроўка нагадвае пра цытату, якую я пачуў у нейкай аўдыёкнізе. Інтэрнет падказвае, што выказванне належыць Канфуцыю:&lt;br&gt;&lt;i&gt;&quot;He who says he can and he who says he can&#39;t, are both usually right&quot;&lt;/i&gt;.&lt;br&gt;Confucius&lt;br&gt;&lt;br&gt;І як часта чалавек сапраўды абмежаваны законамі прыроды, а не &quot;ўсяго толькі&quot; сваім уласным бачаннем рэальнасці?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="8600" y="9240" width="560" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-12" target="XXZDfx6Mw5HaMJ77cK4u-10">
+        <mxCell id="XXZDfx6Mw5HaMJ77cK4u-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XXZDfx6Mw5HaMJ77cK4u-12" target="XXZDfx6Mw5HaMJ77cK4u-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10030" y="8730" as="sourcePoint" />
             <mxPoint x="8770" y="9140" as="targetPoint" />
