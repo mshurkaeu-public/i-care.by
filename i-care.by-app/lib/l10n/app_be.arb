@@ -1001,6 +1001,10 @@
   "@aboutMyGratitude_2024_08_07_01": {
     "description": "Text for 2024-08-07 Carlos Eduardo Leite de Andrade on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_08_09_01": "\n2024-08-09 каманда Microsoft VS Code — 🛠️ стварыла версію 1.92.1 VS Code, якім я карыстаюсь, каб пісаць код праграмы i-care.by на Flutter.\n",
+  "@aboutMyGratitude_2024_08_09_01": {
+    "description": "Text for 2024-08-09 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_08_title": "\n\n2024-08\n",
   "@aboutMyGratitude_2024_08_title": {
     "description": "Title for 2024-08 list/text on the \"my gratitude\" tab on the \"About\" page."
