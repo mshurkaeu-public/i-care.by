@@ -596,7 +596,8 @@ class _PlaceToTalkSelector extends StatefulWidget {
 }
 
 class _PlaceToTalkSelectorState extends State<_PlaceToTalkSelector> {
-  final carousel_slider.CarouselController _controller = carousel_slider.CarouselController();
+  final carousel_slider.CarouselSliderController _controller =
+      carousel_slider.CarouselSliderController();
 
   void _toNextPlace() {
     _controller.nextPage();
