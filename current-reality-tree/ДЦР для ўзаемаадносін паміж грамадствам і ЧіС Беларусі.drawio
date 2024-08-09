@@ -4439,7 +4439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZyTAt2VtFQ74LP9XS2Cz-5" value="Мінімальны (&lt;font color=&quot;#ff0000&quot;&gt;? мінімальны ?&lt;/font&gt;) неабходны спіс прычын для таго, каб грамадзянін жадаў выканаць дзеянне &lt;i&gt;D&lt;/i&gt;, ведаў, што патрэбна спрабаваць змяніць рэальнасць для гэтага і не жадаў спрабаваць змяніць рэальнасць." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="8160" y="7800" width="400" height="1120" as="geometry" />
+          <mxGeometry x="8160" y="7160" width="400" height="1760" as="geometry" />
         </mxCell>
         <mxCell id="iWuIWHLo7qSUogTee789-6" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="ZyTAt2VtFQ74LP9XS2Cz-5" vertex="1">
           <mxGeometry x="40" y="105" width="30" height="30" as="geometry" />
@@ -4454,10 +4454,10 @@
           <mxGeometry x="40" y="160" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zg_CABVNKZQC_973Vwa1-5" value="У грамадзяніна ёсць адчуванне, што патэнцыйная шкода для яго ад спробы змяніць рэальнасць (у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;) больш значная чым патэнцыйная выгада ад гэтай спробы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="ZyTAt2VtFQ74LP9XS2Cz-5" vertex="1">
-          <mxGeometry x="40" y="800" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="1440" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZyTAt2VtFQ74LP9XS2Cz-1" value="Грамадзянін не спрабуе сабраць больш інфармацыі пра гэтыя свае адчуванні, не спрабуе зразумець іх." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="ZyTAt2VtFQ74LP9XS2Cz-5" vertex="1">
-          <mxGeometry x="40" y="1000" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="1640" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ndWbNxUenqekhwGIHAPr-1" value="У грамадзяніна ёсць адчуванне патэнцыйнай шкоды для сябе ад нейкага этапа/этапаў працэса змены рэальнасці ў накірунку да выканання дзеяння D." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="ZyTAt2VtFQ74LP9XS2Cz-5" vertex="1">
           <mxGeometry x="40" y="600" width="320" height="120" as="geometry" />
@@ -4573,7 +4573,7 @@
             <mxPoint x="8520" y="7920" as="targetPoint" />
             <Array as="points">
               <mxPoint x="8690" y="7120" />
-              <mxPoint x="8690" y="7920" />
+              <mxPoint x="8690" y="7280" />
             </Array>
           </mxGeometry>
         </mxCell>
