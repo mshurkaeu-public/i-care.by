@@ -1013,6 +1013,10 @@
   "@aboutMyGratitude_2024_08_09_03": {
     "description": "Text for 2024-08-09 Flutter team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_08_10_01": "\n2024-08-10 супольнасць Flutter — 🛠️ стварыла новую версію пакета package_info_plus 8.0.2 (2024-08-09) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_08_10_01": {
+    "description": "Text for 2024-08-10 Flutter community on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_08_title": "\n\n2024-08\n",
   "@aboutMyGratitude_2024_08_title": {
     "description": "Title for 2024-08 list/text on the \"my gratitude\" tab on the \"About\" page."
