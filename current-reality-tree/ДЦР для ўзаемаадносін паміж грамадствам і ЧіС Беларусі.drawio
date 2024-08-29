@@ -2947,25 +2947,25 @@
         <mxCell id="efOgcQIudSeZyejpRAUV-2" value="Калі чалавек нараджаецца, то ён зусім нічога не ведае пра тое, як уладкаваны свет/рэальнасць. &lt;font color=&quot;#808080&quot;&gt;(базавая гіпотэза 3)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=#0000FF;rotation=0;fillColor=default;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="4800" y="480" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="efOgcQIudSeZyejpRAUV-4" value="Згодна з базавай гіпотэзай 4, каб жывы грамадзянін, які ў прытомнасці, не ведаў, што можна даведвацца пра ўздзеянне ЧіС на грамадства неабходна выкананне ўсіх прычын з гэтага слупка" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
+        <mxCell id="efOgcQIudSeZyejpRAUV-4" value="Згодна з базавай гіпотэзай 4, каб жывы грамадзянін, які ў прытомнасці, не ведаў, што можна/патрэбна самастойна ствараць веды пра дадзенае асобнае ўздзеянне ЧіС на грамадства, неабходна выкананне ўсіх прычын з гэтага слупка." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="4760" y="600" width="400" height="1800" as="geometry" />
         </mxCell>
-        <mxCell id="efOgcQIudSeZyejpRAUV-5" value="Веды пра тое, што можна даведвацца пра ўздзеянне ЧіС на грамадства не былі &quot;ўшыты&quot; ў гены грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
+        <mxCell id="efOgcQIudSeZyejpRAUV-5" value="Веды пра тое, што можна/патрэбна самастойна ствараць веды пра дадзенае асобнае ўздзеянне ЧіС на грамадства не былі &quot;ўшыты&quot; ў гены грамадзяніна." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="efOgcQIudSeZyejpRAUV-12" value="Грамадзянін нават выпадкова не даведаўся ад іншых людзей пра тое, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
+        <mxCell id="efOgcQIudSeZyejpRAUV-12" value="Грамадзянін нават выпадкова не даведаўся ад іншых людзей пра тое, што можна/патрэбна самастойна ствараць веды пра дадзенае асобнае ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
           <mxGeometry x="40" y="1480" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="efOgcQIudSeZyejpRAUV-9" value="Нават мэтанакіравана не ўклалі ў галаву грамадзяніна іншыя людзі веды пра тое, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
+        <mxCell id="efOgcQIudSeZyejpRAUV-9" value="Нават мэтанакіравана не ўклалі ў галаву грамадзяніна іншыя людзі веды пра тое, што можна/патрэбна самастойна ствараць веды пра дадзенае асобнае ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
           <mxGeometry x="40" y="880" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="efOgcQIudSeZyejpRAUV-11" value="Грамадзянін не шукаў сам веды сярод існуючых ведаў чалавецтва па тэме блізкай да таго, што можна даведвацца пра ўздзеянне ЧіС на грамадства. Або не знайшоў." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
+        <mxCell id="efOgcQIudSeZyejpRAUV-11" value="Грамадзянін не шукаў сам веды сярод існуючых ведаў чалавецтва па тэме блізкай да таго, што можна/патрэбна самастойна ствараць веды пра дадзенае асобнае ўздзеянне ЧіС на грамадства. Або не знайшоў." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
           <mxGeometry x="40" y="1320" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kJyxvsDuKLN6N7F3R-1t-1" value="Грамадзянін не&amp;nbsp;стварыў самастойна веды, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
+        <mxCell id="kJyxvsDuKLN6N7F3R-1t-1" value="Грамадзянін не&amp;nbsp;стварыў самастойна веды, што можна/патрэбна самастойна ствараць веды пра дадзенае асобнае ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
           <mxGeometry x="40" y="1640" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rNXYfpuofsU5n6CFVkDR-1" value="Грамадзянін нават неўсвядомлена не скапіраваў паводзіны іншых людзей, каб ведаць, што можна даведвацца пра ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
+        <mxCell id="rNXYfpuofsU5n6CFVkDR-1" value="Грамадзянін нават неўсвядомлена не скапіраваў паводзіны іншых людзей, каб ведаць, што можна/патрэбна самастойна ствараць веды пра дадзенае асобнае ўздзеянне ЧіС на грамадства." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="efOgcQIudSeZyejpRAUV-4" vertex="1">
           <mxGeometry x="40" y="400" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="efOgcQIudSeZyejpRAUV-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="efOgcQIudSeZyejpRAUV-2" target="efOgcQIudSeZyejpRAUV-6" edge="1">
@@ -3004,8 +3004,8 @@
             <mxPoint x="4625" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="efOgcQIudSeZyejpRAUV-15" value="Грамадзянін ведаў пра тое, што можна даведвацца пра ўздзеянне ЧіС на грамадства, але страціў гэтыя веды." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="4600" y="2640" width="320" height="80" as="geometry" />
+        <mxCell id="efOgcQIudSeZyejpRAUV-15" value="Грамадзянін ведаў пра тое, што можна/патрэбна самастойна ствараць веды пра дадзенае асобнае ўздзеянне ЧіС на грамадства, але страціў гэтыя веды." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="4600" y="2600" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="efOgcQIudSeZyejpRAUV-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="efOgcQIudSeZyejpRAUV-6" target="TJLECN_oBxhWEtQTq3mC-1" edge="1">
           <mxGeometry relative="1" as="geometry">
