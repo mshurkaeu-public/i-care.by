@@ -5572,6 +5572,24 @@
         <mxCell id="0oiwPrrRBJo3z6ebtTe8-12" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="9680" y="9460" width="80" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="VFs0BiY8bg0suHyMcKni-1" value="Гэта тое самае, што грамадзянін абсалютна ўпэўнены, што ён ужо ведае дастаткова, каб не дапускаць магчымасці таго, што існуе частка рэальнасці, пра якую ён не ведае і веды аб якой дапамаглі б яму змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9360" y="10480" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VFs0BiY8bg0suHyMcKni-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFs0BiY8bg0suHyMcKni-1" target="iWuIWHLo7qSUogTee789-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="11190" y="9971" as="sourcePoint" />
+            <mxPoint x="9520" y="10720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3S8D8ImWsW7NJZx5ma0G-1" value="Гэта тое самае, што грамадзянін абсалютна не дапускае магчымасці таго, што існуе частка рэальнасці, пра якую ён не ведае і веды аб якой дапамаглі б яму змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="8800" y="10000" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3S8D8ImWsW7NJZx5ma0G-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3S8D8ImWsW7NJZx5ma0G-1" target="XXZDfx6Mw5HaMJ77cK4u-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10630" y="9491" as="sourcePoint" />
+            <mxPoint x="8950" y="9890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
