@@ -5726,6 +5726,15 @@
         <mxCell id="qaNCXwbkGVqdiMA6LIKX-24" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="10185" y="11425" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3dHqjCJmRoSQpxOP2cQP-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3dHqjCJmRoSQpxOP2cQP-3" target="3dHqjCJmRoSQpxOP2cQP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9820" y="9491" as="sourcePoint" />
+            <mxPoint x="10050" y="9200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3dHqjCJmRoSQpxOP2cQP-3" value="На гэтым ДЦР мяне цікавяць галінкі пра тое, чаму людзі &quot;не ведаюць&quot;, &quot;не жадаюць&quot;, &quot;не робяць&quot;.&lt;br&gt;&lt;br&gt;Калі жыццё будзе ісці не па гэтых галінках, то, відавочна, яно будзе ісці па галінках&amp;nbsp;&quot;ведаюць&quot;, &quot;жадаюць&quot;, &quot;робяць&quot;.&lt;br&gt;&lt;br&gt;Пакуль што не бачу сэнсу для сябе разглядаць гэтыя галінкі глыбей." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9920" y="9320" width="320" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
