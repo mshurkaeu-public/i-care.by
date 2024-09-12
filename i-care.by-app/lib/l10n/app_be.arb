@@ -1061,6 +1061,10 @@
   "@aboutMyGratitude_2024_09_11_01": {
     "description": "Text for 2024-09-11 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_09_12_01": "\n2024-09-12 каманды кампаній JGraph Ltd і draw.io AG — 🛠️ стварылі версію 24.7.13 вэб-сайта https://app.diagrams.net, якім я карыстаюсь, каб маляваць дрэва цяперашняй рэальнасці для высвятлення каранёвай прычыны дыктатуры ў Беларусі.\n",
+  "@aboutMyGratitude_2024_09_12_01": {
+    "description": "Text for 2024-09-12 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_09_title": "\n\n2024-09\n",
   "@aboutMyGratitude_2024_09_title": {
     "description": "Title for 2024-09 list/text on the \"my gratitude\" tab on the \"About\" page."
