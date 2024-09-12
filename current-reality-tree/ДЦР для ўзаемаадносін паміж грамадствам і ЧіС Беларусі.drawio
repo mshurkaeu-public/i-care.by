@@ -4883,7 +4883,7 @@
           <mxGeometry x="9745" y="13985" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6xXZOu-XGeiPnFnPWMv-31" value="У грамадзяніна не атрымалася выканаць дзеянне &lt;i&gt;D&lt;/i&gt;, а рэальнасць змяняецца нейкім чынам." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="8600" y="14080" width="320" height="80" as="geometry" />
+          <mxGeometry x="9640" y="14080" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F6xXZOu-XGeiPnFnPWMv-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F6xXZOu-XGeiPnFnPWMv-31" target="F6xXZOu-XGeiPnFnPWMv-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
