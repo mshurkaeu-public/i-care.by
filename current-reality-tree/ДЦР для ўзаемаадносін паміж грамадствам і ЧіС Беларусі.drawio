@@ -5852,8 +5852,8 @@
             <mxPoint x="8660" y="11090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="47UezlOzmaUOvhZgI9E0-24" value="Павінны быць нейкія прычыны, каб грамадзянін, які не мае ніякага меркавання наконт сваіх магчымасцяў змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt; і жадае выканаць дзеянне &lt;i&gt;D&lt;/i&gt;, не жадаў пры гэтым спрабаваць змяніць рэальнасць у накірунку да выканання дзеяння &lt;i&gt;D&lt;/i&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="8800" y="14240" width="320" height="160" as="geometry" />
+        <mxCell id="47UezlOzmaUOvhZgI9E0-24" value="Уяўляемыя вынікі выканання дзеяння &lt;i&gt;D&lt;/i&gt; &quot;адштурхаюць&quot; грамадзяніна ад жадання наблізіцца да выканання дзеяння &lt;i&gt;D&lt;/i&gt; мацней чым жаданне выканаць дзеянне D &quot;прыцягвае&quot;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="8800" y="14280" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b6d-Bjq4RTIjbi2CyNVc-2" value="Параліч." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="8200" y="2560" width="320" height="80" as="geometry" />
