@@ -5690,9 +5690,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qaNCXwbkGVqdiMA6LIKX-22" value="Гэта абавязковае патрабаванне.&lt;br&gt;&lt;br&gt;Інакш атрымаецца, што грамадзянін спрабуе змяніць рэальнасць. А тады ён не можа знаходзіцца ў гэтай частцы схемы/мапы рэальнасці.&lt;br&gt;&lt;br&gt;Таксама, спроба сабраць больш інфармацыі пра ўласны працэс прыняцця рашэння аўтаматычна азначае няяўнае дапушчэнне, што нешта невядома і што абсалютнай упэўненасці насамрэч няма." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="9920" y="13120" width="400" height="200" as="geometry" />
+          <mxGeometry x="10000" y="12640" width="400" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="qaNCXwbkGVqdiMA6LIKX-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qaNCXwbkGVqdiMA6LIKX-22" target="qaNCXwbkGVqdiMA6LIKX-17" edge="1">
+        <mxCell id="qaNCXwbkGVqdiMA6LIKX-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qaNCXwbkGVqdiMA6LIKX-22" target="qaNCXwbkGVqdiMA6LIKX-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10570" y="13035" as="sourcePoint" />
             <mxPoint x="10135" y="13060" as="targetPoint" />
