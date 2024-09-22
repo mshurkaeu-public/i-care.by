@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.14" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-19" id="0">
+        <object label="" modifiedDate="2024-09-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-19" id="0">
+        <object label="" modifiedDate="2024-09-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3845" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-19" id="0">
+        <object label="" modifiedDate="2024-09-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-19" id="0">
+        <object label="" modifiedDate="2024-09-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-19" id="0">
+        <object label="" modifiedDate="2024-09-22" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -3500,8 +3500,8 @@
             <mxPoint x="7290" y="4570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6J99wCgtp8LyrG-D7Kd-8" value="Наконт гэтага спіса магчымых вынікаў у мяне ўзнікае аналогія з сітуацыяй, калі чалавек сутыкаецца з нечым новым/невядомым. І гэта мае сэнс. На кожнай ітэрацыі ў рэальнасці абавязкова прысутнічае новая інфармацыя (у параўнанні з папярэднім станам рэальнасці). Спіс таго што можа змяняцца прыведзены на схеме побач.&lt;br&gt;&lt;br&gt;А пры сустрэчы з нечым новым/невядомым магчыма (&lt;font color=&quot;#ff0000&quot;&gt;? толькі ?&lt;/font&gt;) 5 вынікаў:&lt;br&gt;&lt;br&gt;1. Атакуй. (напэўна, &quot;спрабуй знішчыць перашкоду&quot; або &quot;спрабуй абыйсці перашкоду&quot;)&lt;br&gt;&lt;br&gt;2. Пазбягай. (напэўна, &quot;спрабуй абыйсці перашкоду&quot; або &quot;пакінь жадаць&quot; або &quot;чакай, можа само знікне&quot;)&lt;br&gt;&lt;br&gt;3. Вывучай. (напэўна, &quot;спрабуй сабраць больш інфармацыі пра перашкоду&quot; або &quot;спрабуй сабраць больш інфармацыі пра сваё жаданне&quot; або &quot;спрабуй сабраць больш інфармацыі пра свой працэс прыняцця рашэнняў і што на яго ўплывае&quot;)&lt;br&gt;&lt;br&gt;4. Ігнаруй. (напэўна, &quot;працягвай далей папярэдняе дзеянне быццам бы нічога і не змянілася&quot;)&lt;br&gt;&lt;br&gt;5. &quot;Збой сістэмы&quot;:&lt;br&gt;&amp;nbsp; 5.1 Параліч. Не выбрана нічога з вышэй названага.&lt;div&gt;&amp;nbsp; 5.2 Страта прытомнасці. &quot;Цяжкі сістэмны збой&quot;. &quot;Аперацыйная сістэма вылецела&quot;.&lt;br&gt;&amp;nbsp; 5.3 Смерць. &quot;Апаратнае забеспячэнне знічтожана&quot;.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="8640" y="6560" width="400" height="600" as="geometry" />
+        <mxCell id="o6J99wCgtp8LyrG-D7Kd-8" value="Наконт гэтага спіса магчымых вынікаў у мяне ўзнікае аналогія з сітуацыяй, калі чалавек сутыкаецца з нечым новым/невядомым. І гэта мае сэнс. На кожнай ітэрацыі ў рэальнасці абавязкова прысутнічае новая інфармацыя (у параўнанні з папярэднім станам рэальнасці). Спіс таго што можа змяняцца прыведзены на схеме побач.&lt;br&gt;&lt;br&gt;А пры сустрэчы з нечым новым/невядомым магчыма (&lt;font color=&quot;#ff0000&quot;&gt;? толькі ?&lt;/font&gt;) 5 вынікаў:&lt;br&gt;&lt;br&gt;1. Атакуй. (напэўна, &quot;спрабуй знішчыць перашкоду&quot; або &quot;спрабуй абыйсці перашкоду&quot;)&lt;br&gt;&lt;br&gt;2. Пазбягай. (напэўна, &quot;спрабуй абыйсці перашкоду&quot; або &quot;пакінь жадаць&quot; або &quot;чакай, можа самастойна ўзнікнуць больш спрыяльныя абставіны&quot;)&lt;br&gt;&lt;br&gt;3. Вывучай. (напэўна, &quot;спрабуй сабраць больш інфармацыі пра перашкоду&quot; або &quot;спрабуй сабраць больш інфармацыі пра сваё жаданне&quot; або &quot;спрабуй сабраць больш інфармацыі пра свой працэс прыняцця рашэнняў і што на яго ўплывае&quot;)&lt;br&gt;&lt;br&gt;4. Ігнаруй. (напэўна, &quot;працягвай далей папярэдняе дзеянне быццам бы нічога і не змянілася&quot;)&lt;br&gt;&lt;br&gt;5. &quot;Збой сістэмы&quot;:&lt;br&gt;&amp;nbsp; 5.1 Параліч. Не выбрана нічога з вышэй названага.&lt;div&gt;&amp;nbsp; 5.2 Страта прытомнасці. &quot;Цяжкі сістэмны збой&quot;. &quot;Аперацыйная сістэма вылецела&quot;.&lt;br&gt;&amp;nbsp; 5.3 Смерць. &quot;Апаратнае забеспячэнне знічтожана&quot;.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="8640" y="6560" width="400" height="640" as="geometry" />
         </mxCell>
         <mxCell id="o6J99wCgtp8LyrG-D7Kd-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="o6J99wCgtp8LyrG-D7Kd-8" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -5942,40 +5942,40 @@
             <mxPoint x="8840" y="14630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cXkyFbwLFu6uwWv1CSi-1" value="Згодна з базавай гіпотэзай 2, усе магчымыя прычыны чаму жывы і ў прытомнасці грамадзянін не спрабуе сабраць больш інфармацыі пра свой уласны працэс прыняцця рашэння і выбара варыянта далейшых дзеянняў." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" vertex="1" parent="1">
+        <mxCell id="2cXkyFbwLFu6uwWv1CSi-1" value="Згодна з базавай гіпотэзай 2, усе магчымыя прычыны чаму жывы і ў прытомнасці грамадзянін не спрабуе сабраць больш інфармацыі пра свой уласны працэс прыняцця рашэння і выбара варыянта далейшых дзеянняў." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="11680" y="10160" width="400" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="2cXkyFbwLFu6uwWv1CSi-2" value="Грамадзянін &lt;b&gt;не ведае&lt;/b&gt;, што можна/патрэбна спрабаваць сабраць больш інфармацыі пра свой уласны працэс прыняцця рашэння і выбара варыянта далейшых дзеянняў." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="2cXkyFbwLFu6uwWv1CSi-1">
+        <mxCell id="2cXkyFbwLFu6uwWv1CSi-2" value="Грамадзянін &lt;b&gt;не ведае&lt;/b&gt;, што можна/патрэбна спрабаваць сабраць больш інфармацыі пра свой уласны працэс прыняцця рашэння і выбара варыянта далейшых дзеянняў." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="2cXkyFbwLFu6uwWv1CSi-1" vertex="1">
           <mxGeometry x="40" y="81" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2cXkyFbwLFu6uwWv1CSi-3" value="Грамадзянін ведае, што можна/патрэбна спрабаваць сабраць больш інфармацыі пра свой уласны працэс прыняцця рашэння і выбара варыянта далейшых дзеянняў, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" vertex="1" parent="2cXkyFbwLFu6uwWv1CSi-1">
+        <mxCell id="2cXkyFbwLFu6uwWv1CSi-3" value="Грамадзянін ведае, што можна/патрэбна спрабаваць сабраць больш інфармацыі пра свой уласны працэс прыняцця рашэння і выбара варыянта далейшых дзеянняў, але &lt;b&gt;не жадае&lt;/b&gt; гэта рабіць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="2cXkyFbwLFu6uwWv1CSi-1" vertex="1">
           <mxGeometry x="40" y="280" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2cXkyFbwLFu6uwWv1CSi-4" value="Грамадзянін ведае, што можна/патрэбна спрабаваць сабраць больш інфармацыі пра свой уласны працэс прыняцця рашэння і выбара варыянта далейшых дзеянняў, жадае гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" vertex="1" parent="2cXkyFbwLFu6uwWv1CSi-1">
+        <mxCell id="2cXkyFbwLFu6uwWv1CSi-4" value="Грамадзянін ведае, што можна/патрэбна спрабаваць сабраць больш інфармацыі пра свой уласны працэс прыняцця рашэння і выбара варыянта далейшых дзеянняў, жадае гэта рабіць, але &lt;b&gt;не можа&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="2cXkyFbwLFu6uwWv1CSi-1" vertex="1">
           <mxGeometry x="40" y="480" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2cXkyFbwLFu6uwWv1CSi-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2cXkyFbwLFu6uwWv1CSi-2" target="GzLxldtcCoBzBcEFoExZ-21">
+        <mxCell id="2cXkyFbwLFu6uwWv1CSi-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2cXkyFbwLFu6uwWv1CSi-2" target="GzLxldtcCoBzBcEFoExZ-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11690" y="10640" as="sourcePoint" />
             <mxPoint x="11450" y="10940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cXkyFbwLFu6uwWv1CSi-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2cXkyFbwLFu6uwWv1CSi-3" target="GzLxldtcCoBzBcEFoExZ-21">
+        <mxCell id="2cXkyFbwLFu6uwWv1CSi-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2cXkyFbwLFu6uwWv1CSi-3" target="GzLxldtcCoBzBcEFoExZ-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11730" y="10311" as="sourcePoint" />
             <mxPoint x="11530" y="10510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cXkyFbwLFu6uwWv1CSi-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2cXkyFbwLFu6uwWv1CSi-4" target="GzLxldtcCoBzBcEFoExZ-21">
+        <mxCell id="2cXkyFbwLFu6uwWv1CSi-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2cXkyFbwLFu6uwWv1CSi-4" target="GzLxldtcCoBzBcEFoExZ-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11730" y="10510" as="sourcePoint" />
             <mxPoint x="11530" y="10510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2cXkyFbwLFu6uwWv1CSi-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="2cXkyFbwLFu6uwWv1CSi-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="12225" y="10685" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2cXkyFbwLFu6uwWv1CSi-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="2cXkyFbwLFu6uwWv1CSi-9" target="2cXkyFbwLFu6uwWv1CSi-4">
+        <mxCell id="2cXkyFbwLFu6uwWv1CSi-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="2cXkyFbwLFu6uwWv1CSi-9" target="2cXkyFbwLFu6uwWv1CSi-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11240" y="5675" as="sourcePoint" />
             <mxPoint x="12020" y="10615" as="targetPoint" />
