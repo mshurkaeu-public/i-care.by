@@ -1093,6 +1093,10 @@
   "@aboutMyGratitude_2024_09_25_02": {
     "description": "Text for 2024-09-25 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_09_28_01": "\n2024-09-28 каманда Flutter — 🛠️ стварыла версію 5.0.0 пакета flutter_lints (2024-09-25), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_09_28_01": {
+    "description": "Text for 2024-09-28 Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_09_title": "\n\n2024-09\n",
   "@aboutMyGratitude_2024_09_title": {
     "description": "Title for 2024-09 list/text on the \"my gratitude\" tab on the \"About\" page."
