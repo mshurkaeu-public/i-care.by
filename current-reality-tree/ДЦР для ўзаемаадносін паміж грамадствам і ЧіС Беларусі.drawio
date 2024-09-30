@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-25" id="0">
+        <object label="" modifiedDate="2024-09-30" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-25" id="0">
+        <object label="" modifiedDate="2024-09-30" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3845" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-25" id="0">
+        <object label="" modifiedDate="2024-09-30" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-25" id="0">
+        <object label="" modifiedDate="2024-09-30" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -627,9 +627,9 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="7980" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="7984" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-09-25" id="0">
+        <object label="" modifiedDate="2024-09-30" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -5993,13 +5993,13 @@
         <mxCell id="aILQ13o9oLch1TuVBBEI-1" value="Практыка паказала, што гэта апісанне прычын не заўсёды задавальняе людзей. Некаторыя людзі пачынаюць разважаць на тэму &quot;а чалавек можа выдумляць сам сабе неіснуючыя перашкоды. Напрыклад, для таго, каб апраўдаць сваё ўласнае бяздзеянне&quot;. Я думаю, што тыя людзі заўважалі нешта падобнае ў рэальным жыцці. Заўважалі, што часам чалавек выдумляе прычыны для таго, каб патлумачыць сабе самому і іншым, што ён &quot;не можа&quot; нешта зрабіць.&lt;br&gt;&lt;br&gt;Думаю, у такім выпадку існуе перашкода выгляду &quot;чалавек дрэнна разумее свае ўласныя жаданні, мэты, матывы&quot;. І такім чынам, яго дрэннае рауменне з&#39;яўляецца адной з рэальных перешкод з набора &lt;b&gt;A&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="4720" y="7360" width="440" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="aILQ13o9oLch1TuVBBEI-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aILQ13o9oLch1TuVBBEI-1" target="X3o8avCtnRFdM7BxQUYu-2" edge="1">
+        <mxCell id="aILQ13o9oLch1TuVBBEI-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aILQ13o9oLch1TuVBBEI-1" target="X3o8avCtnRFdM7BxQUYu-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5665" y="7581" as="sourcePoint" />
             <mxPoint x="4700" y="7425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aILQ13o9oLch1TuVBBEI-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aILQ13o9oLch1TuVBBEI-1" target="X3o8avCtnRFdM7BxQUYu-5" edge="1">
+        <mxCell id="aILQ13o9oLch1TuVBBEI-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aILQ13o9oLch1TuVBBEI-1" target="X3o8avCtnRFdM7BxQUYu-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4850" y="7510" as="sourcePoint" />
             <mxPoint x="4770" y="7290" as="targetPoint" />
