@@ -3470,7 +3470,7 @@
         <mxCell id="HtWALPR_QNtkMw_p7kNT-4" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="8619" y="6390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HtWALPR_QNtkMw_p7kNT-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3nt8J4jhp-TLxjSKYSjI-1" target="MPoFinrV3nIF7SRB2cIw-12" edge="1">
+        <mxCell id="HtWALPR_QNtkMw_p7kNT-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3nt8J4jhp-TLxjSKYSjI-1" target="938xoWufMqxBetgQ3scD-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6490" y="4810" as="sourcePoint" />
             <mxPoint x="9060" y="5060" as="targetPoint" />
@@ -6012,6 +6012,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8660" y="5410" as="sourcePoint" />
             <mxPoint x="8300" y="5830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="938xoWufMqxBetgQ3scD-3" value="Чалавек усведамляе, што існуюць перашкоды, якія &quot;стаяць&quot; паміж ім і выкананнем дзеяння &lt;i&gt;D&lt;/i&gt;. І ўяўляе набор гэтых перашкод як &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9720" y="6160" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="938xoWufMqxBetgQ3scD-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="938xoWufMqxBetgQ3scD-3" target="938xoWufMqxBetgQ3scD-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10683" y="6515" as="sourcePoint" />
+            <mxPoint x="9740" y="6075" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="938xoWufMqxBetgQ3scD-6" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="9705" y="6065" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="938xoWufMqxBetgQ3scD-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="938xoWufMqxBetgQ3scD-6" target="MPoFinrV3nIF7SRB2cIw-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9210" y="6330" as="sourcePoint" />
+            <mxPoint x="9010" y="6430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
