@@ -3762,7 +3762,7 @@
             <mxPoint x="9050" y="5110" as="targetPoint" />
             <Array as="points">
               <mxPoint x="9560" y="3880" />
-              <mxPoint x="9560" y="5640" />
+              <mxPoint x="9560" y="5240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3800,7 +3800,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-6" value="Унутраныя &lt;u&gt;абставіны&lt;/u&gt; чалавека." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=dashed;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;startSize=20;arcSize=15;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="9160" y="5440" width="400" height="960" as="geometry" />
+          <mxGeometry x="9160" y="5040" width="400" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="j8n5TMFzTu400BrqlXF8-5" value="Фізічны стан чалавека." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-6" vertex="1">
           <mxGeometry x="40" y="40" width="320" height="80" as="geometry" />
@@ -3820,14 +3820,23 @@
         <mxCell id="MPoFinrV3nIF7SRB2cIw-11" value="Інфармацыйны стан чалавека." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-6" vertex="1">
           <mxGeometry x="40" y="480" width="320" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j8n5TMFzTu400BrqlXF8-8" value="&lt;div&gt;Уяўленне чалавека аб &lt;u&gt;усёй&lt;/u&gt; рэальнасці. У тым ліку, яго ўяўленні:&lt;/div&gt;&lt;div&gt;• аб сваім фізічным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім эмацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім інфармацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• і наогул аб самім існаванні працэса прыняцця рашэння!&lt;br&gt;&lt;br&gt;Уяўленне чалавека аб наяўнасці перашкод &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt; таксама з&#39;яўляецца часткай гэтага ўяўлення чалавека аб рэальнасці.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="w0RshDjsbmjo_j19ezAq-6" vertex="1">
+          <mxGeometry x="40" y="640" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j8n5TMFzTu400BrqlXF8-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="w0RshDjsbmjo_j19ezAq-6" target="MPoFinrV3nIF7SRB2cIw-12" edge="1" source="j8n5TMFzTu400BrqlXF8-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.5" y="910" as="sourcePoint" />
+            <mxPoint x="199.5" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MPoFinrV3nIF7SRB2cIw-12" value="Уяўленне чалавека аб рэальнасці." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-6" vertex="1">
-          <mxGeometry x="40" y="600" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="1000" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MPoFinrV3nIF7SRB2cIw-14" value="Моц жадання чалавека дасягнуць сваёй зыходнай мэты." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-6" vertex="1">
-          <mxGeometry x="40" y="720" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="1120" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TbDCpCCCuwwb2ol7l7sh-2" value="Іншыя (невядомыя мне) унутраныя абставіны чалавека." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="w0RshDjsbmjo_j19ezAq-6" vertex="1">
-          <mxGeometry x="40" y="840" width="320" height="80" as="geometry" />
+          <mxGeometry x="40" y="1240" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MPoFinrV3nIF7SRB2cIw-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="MPoFinrV3nIF7SRB2cIw-1" target="MPoFinrV3nIF7SRB2cIw-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3835,7 +3844,7 @@
             <mxPoint x="9570" y="4490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="9570" y="3880" />
-              <mxPoint x="9570" y="5960" />
+              <mxPoint x="9570" y="5560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3907,15 +3916,6 @@
             <mxPoint x="9010" y="5110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j8n5TMFzTu400BrqlXF8-8" value="&lt;div&gt;Уяўленне чалавека аб &lt;u&gt;усёй&lt;/u&gt; рэальнасці. У тым ліку, яго ўяўленні:&lt;/div&gt;&lt;div&gt;• аб сваім фізічным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім эмацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• аб сваім інфармацыйным стане і яго ўплыве на працэс прыняцця рашэння;&lt;br&gt;• і наогул аб самім існаванні працэса прыняцця рашэння!&lt;br&gt;&lt;br&gt;Уяўленне чалавека аб наяўнасці перашкод &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt; таксама з&#39;яўляецца часткай гэтага ўяўлення чалавека аб рэальнасці.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="9680" y="5920" width="320" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="j8n5TMFzTu400BrqlXF8-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="MPoFinrV3nIF7SRB2cIw-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="9680" y="6140" as="sourcePoint" />
-            <mxPoint x="9530" y="6270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-9" value="Знешнія абставіны чалавека." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;arcSize=15;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;gradientColor=none;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="9160" y="6440" width="400" height="760" as="geometry" />
         </mxCell>
@@ -3963,7 +3963,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-7" value="Можна называць гэты спіс &quot;Унутраны стан чалавека&quot;. Але мне здаецца, што калі выкарыстоўваць менавіта слова &quot;&lt;u&gt;абставіны&lt;/u&gt;&quot;, то гэта падкрэслівае розніцу паміж чалавекам і яго станам, падкрэслівае, што гэта тое, на што чалавек &lt;u&gt;можа ўплываць&lt;/u&gt;. (&quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; мой фізічны стан.&lt;/i&gt;&quot;, &quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; мае эмоцыі.&lt;/i&gt;&quot;, &quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; інфармацыя, якая ў мяне ў галаве.&lt;/i&gt;&quot;, &quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; маё ўяўленне аб рэальнасці.&lt;/i&gt;&quot;, &quot;&lt;i&gt;Я — гэта &lt;u&gt;не&lt;/u&gt; маё жаданне.&lt;/i&gt;&quot;)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="9160" y="5160" width="360" height="200" as="geometry" />
+          <mxGeometry x="9160" y="4760" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="w0RshDjsbmjo_j19ezAq-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w0RshDjsbmjo_j19ezAq-7" target="w0RshDjsbmjo_j19ezAq-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
