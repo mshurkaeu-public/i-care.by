@@ -3470,7 +3470,7 @@
         <mxCell id="HtWALPR_QNtkMw_p7kNT-4" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="8619" y="6390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HtWALPR_QNtkMw_p7kNT-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3nt8J4jhp-TLxjSKYSjI-1" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
+        <mxCell id="HtWALPR_QNtkMw_p7kNT-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="3nt8J4jhp-TLxjSKYSjI-1" target="MPoFinrV3nIF7SRB2cIw-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="6490" y="4810" as="sourcePoint" />
             <mxPoint x="9060" y="5060" as="targetPoint" />
@@ -4769,15 +4769,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nt8J4jhp-TLxjSKYSjI-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="9185" y="3645" width="30" height="30" as="geometry" />
+          <mxGeometry x="9825" y="3645" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3nt8J4jhp-TLxjSKYSjI-2" value="Чалавек усведамляе, што існуюць перашкоды, якія &quot;стаяць&quot; паміж ім і выкананнем дзеяння &lt;i&gt;D&lt;/i&gt;. І ўяўляе набор гэтых перашкод як &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="9200" y="3720" width="320" height="80" as="geometry" />
+          <mxGeometry x="9840" y="3720" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3nt8J4jhp-TLxjSKYSjI-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3nt8J4jhp-TLxjSKYSjI-2" target="3nt8J4jhp-TLxjSKYSjI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10158" y="4090" as="sourcePoint" />
-            <mxPoint x="9215" y="3650" as="targetPoint" />
+            <mxPoint x="10798" y="4090" as="sourcePoint" />
+            <mxPoint x="9855" y="3650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nt8J4jhp-TLxjSKYSjI-4" value="У чалавека не атрымалася выканаць дзеянне &lt;i&gt;D&lt;/i&gt;, а рэальнасць змяняецца нейкім чынам." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
