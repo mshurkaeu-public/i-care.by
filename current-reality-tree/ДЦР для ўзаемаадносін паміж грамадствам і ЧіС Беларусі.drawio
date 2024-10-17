@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-16" id="0">
+        <object label="" modifiedDate="2024-10-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-16" id="0">
+        <object label="" modifiedDate="2024-10-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3845" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-16" id="0">
+        <object label="" modifiedDate="2024-10-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -471,7 +471,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-16" id="0">
+        <object label="" modifiedDate="2024-10-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7984" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-16" id="0">
+        <object label="" modifiedDate="2024-10-17" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -3465,10 +3465,10 @@
           <mxGeometry x="12960" y="3600" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="938xoWufMqxBetgQ3scD-11" value="&lt;div align=&quot;left&quot;&gt;Адбываюцца паралельныя ўнутраныя працэсы чалавека. Іх сутнасць я пакуль не ведаю. Але я ведаю, што яны адбываюцца пад уплывам усіх унутраных і знешніх абставін. І я магу апісаць усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя вынікі ў кантэксце жадання выканаць дзеянне &lt;i&gt;D&lt;/i&gt; і выбара варыянта далейшых дзеянняў у адносінах да перашкод &lt;b&gt;B&lt;sub&gt;n&lt;/sub&gt;&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Наконт гэтага спіса магчымых вынікаў у мяне ўзнікае аналогія з сітуацыяй, калі чалавек сутыкаецца з нечым новым/невядомым. І гэта мае сэнс. На кожнай ітэрацыі ў рэальнасці абавязкова прысутнічае новая інфармацыя (у параўнанні з папярэднім станам рэальнасці). Спіс таго што можа змяняцца прыведзены на схеме побач.&lt;br&gt;&lt;br&gt;А пры сустрэчы з нечым новым/невядомым магчыма (&lt;font color=&quot;#ff0000&quot;&gt;? толькі ?&lt;/font&gt;) 5 вынікаў:&lt;br&gt;&lt;br&gt;1. Атакуй. (напэўна, &quot;спрабуй знішчыць перашкоду&quot; або &quot;спрабуй абыйсці перашкоду&quot;)&lt;br&gt;&lt;br&gt;2. Пазбягай. (напэўна, &quot;спрабуй абыйсці перашкоду&quot; або &quot;пакінь жадаць&quot; або &quot;чакай, можа самастойна ўзнікнуць больш спрыяльныя абставіны&quot;)&lt;br&gt;&lt;br&gt;3. Вывучай. (напэўна, &quot;спрабуй зразумець лепей перашкоду&quot; або &quot;спрабуй зразумець лепей сваё жаданне&quot; або &quot;спрабуй зразумець лепей свой працэс прыняцця рашэнняў і што на яго ўплывае&quot;)&lt;br&gt;&lt;br&gt;4. Ігнаруй. (напэўна, &quot;працягвай далей папярэдняе дзеянне быццам бы нічога і не змянілася&quot;)&lt;br&gt;&lt;br&gt;5. &quot;Збой сістэмы&quot;:&lt;br&gt;&amp;nbsp; 5.1 Параліч. Не выбрана нічога з вышэй названага.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; 5.2 Страта прытомнасці. &quot;Цяжкі сістэмны збой&quot;. &quot;Аперацыйная сістэма вылецела&quot;.&lt;br&gt;&amp;nbsp; 5.3 Смерць. &quot;Апаратнае забеспячэнне знічтожана&quot;.&lt;br&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=0;fillColor=none;fillStyle=auto;rounded=1;shadow=0;glass=0;strokeColor=#B3B3B3;align=left;verticalAlign=top;spacing=2;arcSize=15;swimlaneFillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;gradientColor=none;startSize=23;collapsible=0;" parent="1" vertex="1">
-          <mxGeometry x="8680" y="4720" width="1040" height="1800" as="geometry" />
+          <mxGeometry x="8680" y="5520" width="1040" height="1680" as="geometry" />
         </mxCell>
         <mxCell id="HtWALPR_QNtkMw_p7kNT-3" value="Унутраны працэс прыняцця рашэння і выбара варыянта далейшых дзеянняў." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
-          <mxGeometry x="40" y="1640" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="840" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-1" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты наяўнасці &quot;збоя сістэмы&quot; пад уплывам усіх унутраных і знешніх абставін." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=dashed;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;arcSize=15;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;gradientColor=none;swimlaneLine=0;" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
           <mxGeometry x="600" y="440" width="400" height="320" as="geometry" />
@@ -3481,12 +3481,8 @@
         </mxCell>
         <mxCell id="938xoWufMqxBetgQ3scD-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="938xoWufMqxBetgQ3scD-11" source="W1VkSI5E7IU8Ixn2m0KO-7" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="330" as="sourcePoint" />
-            <mxPoint x="1000" y="620" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="410" y="680" />
-              <mxPoint x="410" y="1700" />
-            </Array>
+            <mxPoint x="840" y="-470" as="sourcePoint" />
+            <mxPoint x="1000" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-8" value="←" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
@@ -3508,10 +3504,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-19" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
-          <mxGeometry x="360" y="1640" width="80" height="120" as="geometry" />
+          <mxGeometry x="360" y="840" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-1" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты ці трапіла &quot;важная для чалавека інфармацыя&quot; ў нервовую сістэму чалавека (праз яго органы пачуццяў або ў выніку апрацоўкі раней атрыманай інфармацыі)." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=dashed;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;arcSize=15;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;gradientColor=none;swimlaneLine=0;" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
-          <mxGeometry x="600" y="1240" width="400" height="320" as="geometry" />
+          <mxGeometry x="600" y="1320" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-2" value="&quot;Важная для чалавека інфармацыя&quot; трапіла ў нервовую сістэму чалавека." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="eROx6pfW6gL9LDQ261Rz-1" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
@@ -3521,60 +3517,60 @@
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="938xoWufMqxBetgQ3scD-11" source="eROx6pfW6gL9LDQ261Rz-2" target="eROx6pfW6gL9LDQ261Rz-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="690" as="sourcePoint" />
-            <mxPoint x="370" y="1310" as="targetPoint" />
+            <mxPoint x="570" y="770" as="sourcePoint" />
+            <mxPoint x="370" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="938xoWufMqxBetgQ3scD-11" source="eROx6pfW6gL9LDQ261Rz-3" target="eROx6pfW6gL9LDQ261Rz-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="970" as="sourcePoint" />
-            <mxPoint x="370" y="1310" as="targetPoint" />
+            <mxPoint x="570" y="1050" as="sourcePoint" />
+            <mxPoint x="370" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
-          <mxGeometry x="485" y="1405" width="30" height="30" as="geometry" />
+          <mxGeometry x="485" y="1485" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="938xoWufMqxBetgQ3scD-11" source="eROx6pfW6gL9LDQ261Rz-13" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="970" as="sourcePoint" />
-            <mxPoint x="525" y="1030" as="targetPoint" />
+            <mxPoint x="570" y="170" as="sourcePoint" />
+            <mxPoint x="525" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZNOKuU8unlQvLbpIoq5R-1" value="Я пакуль што выкарыстоўваю тут назву/апісанне &quot;важная для чалавека інфармацыя&quot;. Магчыма, з часам здолею падабраць больш падыходзячую назву/апісанне. Я жадаю спаслацца тут на такую інфармацыю, якую сам чалавек палічыў бы важнай для свайго працэса прыняцця рашэння. На дадзены момант крытэрам бачыцца такі:&lt;br&gt;калі так атрымаецца, што такая інфармацыя трапіла ў нервовую сістэму чалавека, а чалавек гэтую інфармацыю не апрацаваў і/або не выкарыстаў пры прыняцці свайго далейшага рашэння, то пры далейшым усведамленні гэтага факта чалавек схопіцца за галаву і сам скажа, — &quot;які жаль, што &lt;b&gt;&lt;u&gt;я праігнараваў&lt;/u&gt;&lt;/b&gt; гэтую інфармацыю!&quot;. То бок, чалавек сам назаве гэта здарэнне &lt;b&gt;&lt;u&gt;ігнараваннем рэальнасці&lt;/u&gt;&lt;/b&gt;." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
-          <mxGeometry x="600" y="840" width="400" height="320" as="geometry" />
+          <mxGeometry x="600" y="920" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ZNOKuU8unlQvLbpIoq5R-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="938xoWufMqxBetgQ3scD-11" source="ZNOKuU8unlQvLbpIoq5R-1" target="eROx6pfW6gL9LDQ261Rz-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1008" y="1137.5" as="sourcePoint" />
-            <mxPoint x="65" y="760" as="targetPoint" />
+            <mxPoint x="1008" y="1217.5" as="sourcePoint" />
+            <mxPoint x="65" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8tepmhHIPg_GrO9gVIpb-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
-          <mxGeometry x="465" y="1205" width="30" height="30" as="geometry" />
+          <mxGeometry x="465" y="1165" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8tepmhHIPg_GrO9gVIpb-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="938xoWufMqxBetgQ3scD-11" source="8tepmhHIPg_GrO9gVIpb-3" target="8tepmhHIPg_GrO9gVIpb-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485" y="1240" as="sourcePoint" />
-            <mxPoint x="440" y="1300" as="targetPoint" />
+            <mxPoint x="485" y="1200" as="sourcePoint" />
+            <mxPoint x="440" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8tepmhHIPg_GrO9gVIpb-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="938xoWufMqxBetgQ3scD-11" source="8tepmhHIPg_GrO9gVIpb-3" target="8tepmhHIPg_GrO9gVIpb-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="1210" as="sourcePoint" />
-            <mxPoint x="370" y="1170" as="targetPoint" />
+            <mxPoint x="475" y="1170" as="sourcePoint" />
+            <mxPoint x="370" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8tepmhHIPg_GrO9gVIpb-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="938xoWufMqxBetgQ3scD-11" source="eROx6pfW6gL9LDQ261Rz-2" target="8tepmhHIPg_GrO9gVIpb-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="1230" as="sourcePoint" />
-            <mxPoint x="370" y="1170" as="targetPoint" />
+            <mxPoint x="475" y="430" as="sourcePoint" />
+            <mxPoint x="370" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8tepmhHIPg_GrO9gVIpb-7" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
-          <mxGeometry x="405" y="1190" width="60" height="30" as="geometry" />
+          <mxGeometry x="405" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8tepmhHIPg_GrO9gVIpb-8" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты выкарыстання/ігнаравання &quot;важнай для чалавека інфармацыя&quot;, якая трапіла ў нервовую сістэму чалавека." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=dashed;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;arcSize=15;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;gradientColor=none;swimlaneLine=0;startSize=23;" parent="938xoWufMqxBetgQ3scD-11" vertex="1">
-          <mxGeometry x="40" y="1040" width="400" height="320" as="geometry" />
+          <mxGeometry x="40" y="1000" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="8tepmhHIPg_GrO9gVIpb-1" value="Чалавек выкарыстоўвае гэтую &quot;важную для сябе інфармацыя&quot; ў працэсе прыняцця рашэння. " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="8tepmhHIPg_GrO9gVIpb-8" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
@@ -6136,10 +6132,10 @@
           <mxGeometry x="9865" y="6225" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-12" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="8645" y="5250" width="60" height="30" as="geometry" />
+          <mxGeometry x="8645" y="6050" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="9785" y="5325" width="30" height="30" as="geometry" />
+          <mxGeometry x="9785" y="6125" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="938xoWufMqxBetgQ3scD-9" target="W1VkSI5E7IU8Ixn2m0KO-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -6149,18 +6145,18 @@
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W1VkSI5E7IU8Ixn2m0KO-13" target="W1VkSI5E7IU8Ixn2m0KO-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9675" y="6130" as="sourcePoint" />
-            <mxPoint x="9585" y="6210" as="targetPoint" />
+            <mxPoint x="9675" y="6930" as="sourcePoint" />
+            <mxPoint x="9585" y="7010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W1VkSI5E7IU8Ixn2m0KO-13" target="W1VkSI5E7IU8Ixn2m0KO-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9555" y="6210" as="sourcePoint" />
-            <mxPoint x="9450" y="6170" as="targetPoint" />
+            <mxPoint x="9555" y="7010" as="sourcePoint" />
+            <mxPoint x="9450" y="6970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-17" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="9725" y="5310" width="60" height="30" as="geometry" />
+          <mxGeometry x="9725" y="6110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W1VkSI5E7IU8Ixn2m0KO-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="938xoWufMqxBetgQ3scD-9" target="HtWALPR_QNtkMw_p7kNT-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -6173,22 +6169,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="9785" y="6125" width="30" height="30" as="geometry" />
+          <mxGeometry x="9785" y="7005" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eROx6pfW6gL9LDQ261Rz-4" target="eROx6pfW6gL9LDQ261Rz-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9695" y="6510" as="sourcePoint" />
-            <mxPoint x="9580" y="6460" as="targetPoint" />
+            <mxPoint x="9695" y="7390" as="sourcePoint" />
+            <mxPoint x="9580" y="7340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eROx6pfW6gL9LDQ261Rz-4" target="eROx6pfW6gL9LDQ261Rz-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9575" y="6590" as="sourcePoint" />
-            <mxPoint x="9580" y="6580" as="targetPoint" />
+            <mxPoint x="9575" y="7470" as="sourcePoint" />
+            <mxPoint x="9580" y="7460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-7" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="9725" y="6110" width="60" height="30" as="geometry" />
+          <mxGeometry x="9725" y="6990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eROx6pfW6gL9LDQ261Rz-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="938xoWufMqxBetgQ3scD-9" target="eROx6pfW6gL9LDQ261Rz-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -6201,8 +6197,8 @@
             <mxPoint x="9250" y="6090" as="sourcePoint" />
             <mxPoint x="9050" y="6430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="8560" y="6080" />
-              <mxPoint x="8560" y="6420" />
+              <mxPoint x="8640" y="6960" />
+              <mxPoint x="8640" y="6420" />
             </Array>
           </mxGeometry>
         </mxCell>
