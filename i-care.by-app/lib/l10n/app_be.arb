@@ -1137,6 +1137,10 @@
   "@aboutMyGratitude_2024_10_26_01": {
     "description": "Text for 2024-10-26 Flutter team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_10_26_02": "\n2024-10-26 Carlos Eduardo Leite de Andrade — 🛠️ стварыў версію 3.6.0 пакета multi_split_view (2024-10-25), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2024_10_26_02": {
+    "description": "Text for 2024-10-26 Carlos Eduardo Leite de Andrade on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_10_title": "\n\n2024-10\n",
   "@aboutMyGratitude_2024_10_title": {
     "description": "Title for 2024-10 list/text on the \"my gratitude\" tab on the \"About\" page."
