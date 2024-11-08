@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-31" id="0">
+        <object label="" modifiedDate="2024-11-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-31" id="0">
+        <object label="" modifiedDate="2024-11-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-31" id="0">
+        <object label="" modifiedDate="2024-11-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -462,47 +462,56 @@
             <mxPoint x="1710" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWTEFIfY56FK9UY6SFCN-1" value="Усе &quot;трэція сілы&quot;, якія ўздзейнічаюць на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="rWTEFIfY56FK9UY6SFCN-1" value="Усе &quot;трэція сілы&quot;, якія ўздзейнічаюць на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-2200" y="440" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rWTEFIfY56FK9UY6SFCN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWTEFIfY56FK9UY6SFCN-1" target="pH6i_DQoBayqS64Z1WDT-40">
+        <mxCell id="rWTEFIfY56FK9UY6SFCN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rWTEFIfY56FK9UY6SFCN-1" target="pH6i_DQoBayqS64Z1WDT-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1830" y="370" as="sourcePoint" />
             <mxPoint x="-770" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWTEFIfY56FK9UY6SFCN-3" value="Гэта абсалютна любыя &quot;трэція сілы&quot;. Прыродныя з&#39;явы, уздзеянне груп грамадзян іншых краін, іншапланецяне… Што заўгодна." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="rWTEFIfY56FK9UY6SFCN-3" value="Гэта абсалютна любыя &quot;трэція сілы&quot;. Прыродныя з&#39;явы, уздзеянне груп грамадзян іншых краін, іншапланецяне… Што заўгодна." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="-2200" y="240" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rWTEFIfY56FK9UY6SFCN-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rWTEFIfY56FK9UY6SFCN-1" source="rWTEFIfY56FK9UY6SFCN-3">
+        <mxCell id="rWTEFIfY56FK9UY6SFCN-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rWTEFIfY56FK9UY6SFCN-3" target="rWTEFIfY56FK9UY6SFCN-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1720" y="-80" as="sourcePoint" />
             <mxPoint x="-1940" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWTEFIfY56FK9UY6SFCN-5" value="Усе &quot;трэція сілы&quot;, якія ўздзейнічаюць на ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="rWTEFIfY56FK9UY6SFCN-5" value="Усе &quot;трэція сілы&quot;, якія ўздзейнічаюць на ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1880" y="440" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rWTEFIfY56FK9UY6SFCN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWTEFIfY56FK9UY6SFCN-5" target="TeYbLZwB-wBGcTWmNWJ6-2">
+        <mxCell id="rWTEFIfY56FK9UY6SFCN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rWTEFIfY56FK9UY6SFCN-5" target="TeYbLZwB-wBGcTWmNWJ6-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2250" y="370" as="sourcePoint" />
             <mxPoint x="2220" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWTEFIfY56FK9UY6SFCN-7" value="Гэта абсалютна любыя &quot;трэція сілы&quot;. Прыродныя з&#39;явы, уздзеянне груп грамадзян іншых краін, іншапланецяне… Што заўгодна." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="rWTEFIfY56FK9UY6SFCN-7" value="Гэта абсалютна любыя &quot;трэція сілы&quot;. Прыродныя з&#39;явы, уздзеянне груп грамадзян іншых краін, іншапланецяне… Што заўгодна." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="1880" y="240" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rWTEFIfY56FK9UY6SFCN-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rWTEFIfY56FK9UY6SFCN-7" target="rWTEFIfY56FK9UY6SFCN-5">
+        <mxCell id="rWTEFIfY56FK9UY6SFCN-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rWTEFIfY56FK9UY6SFCN-7" target="rWTEFIfY56FK9UY6SFCN-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2360" y="-80" as="sourcePoint" />
             <mxPoint x="2140" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oqvDlGzrzNW3poTlDAJ9-1" value="i" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="oqvDlGzrzNW3poTlDAJ9-1" value="i" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1920" y="640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oqvDlGzrzNW3poTlDAJ9-2" value="i" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="oqvDlGzrzNW3poTlDAJ9-2" value="i" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1800" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tewj7MuoRf1pupccvJya-1" value="&quot;Трэція сілы&quot; — гэта абсалютна любыя сілы па за межамі грамадства і ЧіС. Грамадства і ЧіС гэта два бакі. Таму ўсе астатнія сілы&amp;nbsp;— &quot;трэція&quot;. Прыродныя з&#39;явы, уздзеянне груп грамадзян іншых краін, іншапланецяне… Што заўгодна." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tewj7MuoRf1pupccvJya-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="tewj7MuoRf1pupccvJya-1" target="pH6i_DQoBayqS64Z1WDT-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="65" as="sourcePoint" />
+            <mxPoint x="500" y="585" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -510,7 +519,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-31" id="0">
+        <object label="" modifiedDate="2024-11-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -668,7 +677,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7984" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-10-31" id="0">
+        <object label="" modifiedDate="2024-11-08" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
