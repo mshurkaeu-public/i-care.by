@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-17" id="0">
+        <object label="" modifiedDate="2024-11-18" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-17" id="0">
+        <object label="" modifiedDate="2024-11-18" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-17" id="0">
+        <object label="" modifiedDate="2024-11-18" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -193,7 +193,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pH6i_DQoBayqS64Z1WDT-14" value="ЧіС неяк уздзейнічаюць на грамадства.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А грамадства потым неяк рэагуе на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="720" width="360" height="120" as="geometry" />
+          <mxGeometry x="440" y="720" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pH6i_DQoBayqS64Z1WDT-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pH6i_DQoBayqS64Z1WDT-19" target="pH6i_DQoBayqS64Z1WDT-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -202,7 +202,7 @@
           <mxGeometry x="-760" y="720" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pH6i_DQoBayqS64Z1WDT-22" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="560" y="840" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="840" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pH6i_DQoBayqS64Z1WDT-23" value="Тое, як грамадства ўздзейнічае на ЧіС, нейкім чынам складаецца з таго, як уздзейнічаюць на ЧіС асобныя грамадзяне.&lt;br&gt;&lt;br&gt;Проста некалькі прыкладаў уздзеяння грамадзяніна на ЧіС:&lt;br&gt;• грамадзянін вітае/не вітае ЧіС у публічным месцы;&lt;br&gt;• грамадзянін плаціць/не плаціць падаткі;&lt;br&gt;• грамадзянін збірае/не збірае грошы на падарункі ЧіС;&lt;br&gt;• грамадзянін пагаджаецца/не пагаджаецца жыць і выконваць волю ЧіС;&lt;br&gt;• мільёны іншых варыянтаў уздзеяння на ЧіС.&lt;br&gt;&lt;br&gt;І адпаведнае апісанне для агульнага выпадка будзе:&lt;br&gt;тое, як група A уздзейнічае на групу B, нейкім чынам складаецца з таго, як уздзейнічаюць на групу B асобныя ўдзельнікі групы A." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="680" width="560" height="280" as="geometry" />
@@ -414,10 +414,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TeYbLZwB-wBGcTWmNWJ6-21" value="…" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=60;" parent="1" vertex="1">
-          <mxGeometry x="590" y="920" width="60" height="40" as="geometry" />
+          <mxGeometry x="565" y="920" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TeYbLZwB-wBGcTWmNWJ6-22" value="Тое, як ЧіС уздзейнічаюць на грамадства, нейкім чынам складаецца з таго, як уздзейнічаюць на грамадства асобныя чыноўнікі і сілавікі.&lt;br&gt;&lt;br&gt;У снежні 2023 года мне было цяжка ўявіць, каб нехта з ЧіС уплываў на грамадства такім чынам, які відавочна супярэчыў бы загадам яго фармальнага начальніка.&lt;br&gt;&lt;br&gt;Але ў кастрычніку 2024 года мне расказалі гісторыю, як КДБ-шнік выдаляў са смартфона затрыманага чалавека частку матэрыялаў, за якія па фармальных законах таго часу можна было б дадаць тэрміну пакарання чалавеку. Не ведаю праўдзівая тая гісторыя ці не. І нават калі праўдзівая, то якія матывы былі ў таго КДБ-шніка. 🤷" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="880" y="720" width="560" height="240" as="geometry" />
+          <mxGeometry x="840" y="720" width="560" height="240" as="geometry" />
         </mxCell>
         <mxCell id="TeYbLZwB-wBGcTWmNWJ6-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TeYbLZwB-wBGcTWmNWJ6-22" target="pH6i_DQoBayqS64Z1WDT-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -522,61 +522,61 @@
             <mxPoint x="-880" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-1" value="&lt;font&gt;Усе аспекты жыцця грамадзяніна ў кожны момант можна падзяліць на:&lt;br&gt; &lt;br&gt;1. тыя аспекты жыцця, дзе грамадзянін мае патрабаванні/пажаданні да ЧіС. Патрабаванні/пажаданні могуць быць:&lt;br&gt;• або пажаданне/патрабаванне пакінуць усё так, як яно ёсць у дадзены момант;&lt;br&gt;&lt;/font&gt;&lt;font&gt;• або пажаданне/патрабаванне нешта змяніць.&lt;br&gt;&lt;br&gt;2. усе астатнія аспекты жыцця грамадзяніна. Але гэтыя аспекты ўсё роўна неяк уплываюць на ЧіС. У тым ліку, &quot;ніяк не ўплываюць&quot;. Таму што ўплыў з сілай 0 — таксама ўплыў.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-1" value="&lt;font&gt;Усе аспекты жыцця грамадзяніна ў кожны момант можна падзяліць на:&lt;br&gt; &lt;br&gt;1. тыя аспекты жыцця, дзе грамадзянін мае патрабаванні/пажаданні да ЧіС. Патрабаванні/пажаданні могуць быць:&lt;br&gt;• або пажаданне/патрабаванне пакінуць усё так, як яно ёсць у дадзены момант;&lt;br&gt;&lt;/font&gt;&lt;font&gt;• або пажаданне/патрабаванне нешта змяніць.&lt;br&gt;&lt;br&gt;2. усе астатнія аспекты жыцця грамадзяніна. Але гэтыя аспекты ўсё роўна неяк уплываюць на ЧіС. У тым ліку, &quot;ніяк не ўплываюць&quot;. Таму што ўплыў з сілай 0 — таксама ўплыў.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-2240" y="880" width="280" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QN_oKHhXCERk98Db_lOU-1" target="pH6i_DQoBayqS64Z1WDT-40">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="QN_oKHhXCERk98Db_lOU-1" target="pH6i_DQoBayqS64Z1WDT-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2030" y="1050" as="sourcePoint" />
             <mxPoint x="-1940" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mSM4D_C4ydw1oC0QbPQQ-1" target="SJ82pJdJ0-q6v4cpA7WF-8">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mSM4D_C4ydw1oC0QbPQQ-1" target="SJ82pJdJ0-q6v4cpA7WF-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1290" y="1730" as="sourcePoint" />
             <mxPoint x="-1610" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-6" value="Усе астатнія аспекты жыцця грамадзяніна 1, у якіх адсутнічаюць патрабаванні да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-6" value="Усе астатнія аспекты жыцця грамадзяніна 1, у якіх адсутнічаюць патрабаванні да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-1640" y="1200" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QN_oKHhXCERk98Db_lOU-6" target="SJ82pJdJ0-q6v4cpA7WF-5">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QN_oKHhXCERk98Db_lOU-6" target="SJ82pJdJ0-q6v4cpA7WF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1310" y="1090" as="sourcePoint" />
             <mxPoint x="-1150" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pH6i_DQoBayqS64Z1WDT-40" target="QN_oKHhXCERk98Db_lOU-6">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pH6i_DQoBayqS64Z1WDT-40" target="QN_oKHhXCERk98Db_lOU-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1850" y="890" as="sourcePoint" />
             <mxPoint x="-1630" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-9" value="&lt;div align=&quot;left&quot;&gt;Усе астатнія аспекты жыцця грамадзяніна 2, у якіх адсутнічаюць патрабаванні да ЧіС у дадзены момант.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-9" value="&lt;div align=&quot;left&quot;&gt;Усе астатнія аспекты жыцця грамадзяніна 2, у якіх адсутнічаюць патрабаванні да ЧіС у дадзены момант.&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-1640" y="1520" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QN_oKHhXCERk98Db_lOU-9" target="SJ82pJdJ0-q6v4cpA7WF-6">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QN_oKHhXCERk98Db_lOU-9" target="SJ82pJdJ0-q6v4cpA7WF-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1310" y="1250" as="sourcePoint" />
             <mxPoint x="-1150" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pH6i_DQoBayqS64Z1WDT-40" target="QN_oKHhXCERk98Db_lOU-9">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pH6i_DQoBayqS64Z1WDT-40" target="QN_oKHhXCERk98Db_lOU-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1850" y="890" as="sourcePoint" />
             <mxPoint x="-1630" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-12" value="Усе астатнія аспекты жыцця грамадзяніна N, у якіх адсутнічаюць патрабаванні да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-12" value="Усе астатнія аспекты жыцця грамадзяніна N, у якіх адсутнічаюць патрабаванні да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-1640" y="2000" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QN_oKHhXCERk98Db_lOU-12" target="SJ82pJdJ0-q6v4cpA7WF-7">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QN_oKHhXCERk98Db_lOU-12" target="SJ82pJdJ0-q6v4cpA7WF-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1310" y="1890" as="sourcePoint" />
             <mxPoint x="-1150" y="1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QN_oKHhXCERk98Db_lOU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pH6i_DQoBayqS64Z1WDT-40" target="QN_oKHhXCERk98Db_lOU-12">
+        <mxCell id="QN_oKHhXCERk98Db_lOU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pH6i_DQoBayqS64Z1WDT-40" target="QN_oKHhXCERk98Db_lOU-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1850" y="850" as="sourcePoint" />
             <mxPoint x="-1630" y="1890" as="targetPoint" />
@@ -588,7 +588,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-17" id="0">
+        <object label="" modifiedDate="2024-11-18" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -746,7 +746,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="7984" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-17" id="0">
+        <object label="" modifiedDate="2024-11-18" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
