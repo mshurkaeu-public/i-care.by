@@ -795,7 +795,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
-    <mxGraphModel dx="7984" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <object label="" modifiedDate="2024-11-18" id="0">
           <mxCell />
@@ -820,7 +820,7 @@
         </object>
         <object label="%modifiedDate%&lt;br&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Мікалай Шуркаеў&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" placeholders="1" id="xAtRAorKsc6ZhEMcq4vw-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontSize=14;fontStyle=1;spacingLeft=5;" parent="1" vertex="1">
-            <mxGeometry x="-6616" width="160" height="40" as="geometry" />
+            <mxGeometry x="-7443" width="160" height="40" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-16" value="Дарослыя людзі часам карыстаюцца безумоўным даверам дзіця і адсутнасцю ведаў у дзіця пра рэальнасць, каб &quot;лёгка вырашыць&quot; свае праблемы.&lt;br&gt;&lt;br&gt;Напрыклад, кажуць дзіцю, што Дзед Мароз не прынясе падарункаў, калі дзіцё не будзе паслухмяным.&lt;br&gt;&lt;br&gt;&quot;Лепяць з дзіця&quot; &quot;зручнага&quot; для сябе саміх чалавека." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
@@ -875,7 +875,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GoDlm1b_GlB4gomtcci7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;glass=0;shadow=0;gradientColor=none;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="-6200" y="8380" width="4360" height="3800" as="geometry" />
+          <mxGeometry x="-6480" y="8380" width="4360" height="3800" as="geometry" />
         </mxCell>
         <mxCell id="GoDlm1b_GlB4gomtcci7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=none;glass=0;shadow=0;gradientColor=none;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="2670" y="21900" width="4360" height="3800" as="geometry" />
@@ -911,7 +911,7 @@
           <mxGeometry x="40" y="640" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-5" value="Згодна з базавай гіпотэзай 2, усе магчымыя прычыны чаму жывы і ў прытомнасці грамадзянін не спрабуе высветліць, наколькі важнае яго патрабаванне да ЧіС для яго самога." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=cross-hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="-2440" y="5040" width="400" height="1960" as="geometry" />
+          <mxGeometry x="-2720" y="5040" width="400" height="1960" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-8" value="&lt;b&gt;Грамадзянін не ведае&lt;/b&gt;, што можна/патрэбна спрабаваць высветліць, наколькі важнае яго патрабаванне да ЧіС для яго самога." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="8KlCnt_39-ksAiERNVki-5" vertex="1">
           <mxGeometry x="40" y="120" width="320" height="120" as="geometry" />
@@ -923,7 +923,7 @@
           <mxGeometry x="40" y="1080" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lAl6IwTCLYnLzIhwObD8-4" value="У гэтым слупку ўсе&amp;nbsp;(&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты стаўлення грамадзяніна да свайго ўласнага патрабавання да ЧіС." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="-1560" y="2880" width="400" height="8240" as="geometry" />
+          <mxGeometry x="-1840" y="2880" width="400" height="8240" as="geometry" />
         </mxCell>
         <mxCell id="hciFa1by5LvJK5wFZR8x-1" value="Грамадзянін &lt;b&gt;не ведае, што&lt;/b&gt; ў яго магло б быць нейкае патрабаванне да ЧіС у склаўшыхся абставінах." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="lAl6IwTCLYnLzIhwObD8-4" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
@@ -1144,44 +1144,44 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-6" value="грамадзянін &lt;u&gt;спрабуе&lt;/u&gt; высветліць, як выкананне яго патрабавання да ЧіС паўплывае на яго асабістыя інтарэсы." style="text;html=1;strokeColor=#666666;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-1800" y="7440" width="200" height="120" as="geometry" />
+          <mxGeometry x="-2080" y="7440" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="j5JjeeWauFz4Uhg9E__5-5" target="kJyxvsDuKLN6N7F3R-1t-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1740" y="5100" as="sourcePoint" />
-            <mxPoint x="-1580" y="5170" as="targetPoint" />
+            <mxPoint x="-2020" y="5100" as="sourcePoint" />
+            <mxPoint x="-1860" y="5170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1880" y="6980" />
-              <mxPoint x="-1880" y="7500" />
+              <mxPoint x="-2160" y="6980" />
+              <mxPoint x="-2160" y="7500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;strokeColor=#001DBC;dashPattern=12 12;" parent="1" source="j5JjeeWauFz4Uhg9E__5-6" target="utNHYfiI1P-ElOVeHikR-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1420" y="4650" as="sourcePoint" />
-            <mxPoint x="-1345" y="4455" as="targetPoint" />
+            <mxPoint x="-1700" y="4650" as="sourcePoint" />
+            <mxPoint x="-1625" y="4455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;strokeColor=#001DBC;dashPattern=12 12;" parent="1" source="j5JjeeWauFz4Uhg9E__5-6" target="utNHYfiI1P-ElOVeHikR-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1450" y="4785" as="sourcePoint" />
-            <mxPoint x="-1380" y="4985" as="targetPoint" />
+            <mxPoint x="-1730" y="4785" as="sourcePoint" />
+            <mxPoint x="-1660" y="4985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u4h5CCwdaAVt-h-GZreR-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;strokeColor=#001DBC;dashPattern=12 12;" parent="1" source="j5JjeeWauFz4Uhg9E__5-6" target="u4h5CCwdaAVt-h-GZreR-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1420" y="4650" as="sourcePoint" />
-            <mxPoint x="-1345" y="4855" as="targetPoint" />
+            <mxPoint x="-1700" y="4650" as="sourcePoint" />
+            <mxPoint x="-1625" y="4855" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;dashed=1;strokeColor=#001DBC;dashPattern=12 12;" parent="1" source="j5JjeeWauFz4Uhg9E__5-6" target="j5JjeeWauFz4Uhg9E__5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1940" y="5195" as="sourcePoint" />
-            <mxPoint x="-1870" y="4880" as="targetPoint" />
+            <mxPoint x="-2220" y="5195" as="sourcePoint" />
+            <mxPoint x="-2150" y="4880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1700" y="7680" />
-              <mxPoint x="-2640" y="7680" />
-              <mxPoint x="-2640" y="5980" />
+              <mxPoint x="-1980" y="7680" />
+              <mxPoint x="-2920" y="7680" />
+              <mxPoint x="-2920" y="5980" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1198,13 +1198,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-9" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1200" y="10990" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1480" y="10990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-10" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1200" y="8110" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1480" y="8110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-14" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1730" y="7560" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2010" y="7560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oJMkLnUFn6p0UKAqhTH_-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="TJLECN_oBxhWEtQTq3mC-1" target="kJyxvsDuKLN6N7F3R-1t-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1449,21 +1449,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-9" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1580" y="6950" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1860" y="6950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-1" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1200" y="7750" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1480" y="7750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-2" value="грамадзянін &lt;u&gt;не&lt;/u&gt; спрабуе высветліць, як выкананне яго патрабавання да ЧіС паўплывае на яго асабістыя інтарэсы." style="text;html=1;strokeColor=#666666;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-1800" y="6440" width="200" height="120" as="geometry" />
+          <mxGeometry x="-2080" y="6440" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="j5JjeeWauFz4Uhg9E__5-5" target="kJyxvsDuKLN6N7F3R-1t-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1530" y="5710" as="sourcePoint" />
-            <mxPoint x="-1710" y="6010" as="targetPoint" />
+            <mxPoint x="-1810" y="5710" as="sourcePoint" />
+            <mxPoint x="-1990" y="6010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1880" y="6980" />
-              <mxPoint x="-1880" y="6500" />
+              <mxPoint x="-2160" y="6980" />
+              <mxPoint x="-2160" y="6500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1487,24 +1487,24 @@
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="j5JjeeWauFz4Uhg9E__5-1" target="kJyxvsDuKLN6N7F3R-1t-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1530" y="5710" as="sourcePoint" />
-            <mxPoint x="-1710" y="5410" as="targetPoint" />
+            <mxPoint x="-1810" y="5710" as="sourcePoint" />
+            <mxPoint x="-1990" y="5410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="8KlCnt_39-ksAiERNVki-6" target="kJyxvsDuKLN6N7F3R-1t-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2080" y="5820" as="sourcePoint" />
-            <mxPoint x="-1810" y="5350" as="targetPoint" />
+            <mxPoint x="-2360" y="5820" as="sourcePoint" />
+            <mxPoint x="-2090" y="5350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8KlCnt_39-ksAiERNVki-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="8KlCnt_39-ksAiERNVki-8" target="kJyxvsDuKLN6N7F3R-1t-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1970" y="4890" as="sourcePoint" />
-            <mxPoint x="-1810" y="4910" as="targetPoint" />
+            <mxPoint x="-2250" y="4890" as="sourcePoint" />
+            <mxPoint x="-2090" y="4910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-1" value="Згодна з базавай гіпотэзай 2, усе магчымыя прычыны чаму жывы і ў прытомнасці грамадзянін не ведае, што ў яго магло б быць нейкае патрабаванне да ЧіС" style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=zigzag-line;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="-2440" y="1600" width="400" height="2640" as="geometry">
+          <mxGeometry x="-2720" y="1600" width="400" height="2640" as="geometry">
             <mxRectangle x="-1280" y="1480" width="900" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1519,59 +1519,59 @@
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-2" target="u8j-KaxE-SIpMTuqpm7c-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1840" y="1460" as="sourcePoint" />
-            <mxPoint x="-1680" y="1660" as="targetPoint" />
+            <mxPoint x="-2120" y="1460" as="sourcePoint" />
+            <mxPoint x="-1960" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-3" target="u8j-KaxE-SIpMTuqpm7c-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1850" y="2110" as="sourcePoint" />
-            <mxPoint x="-1690" y="2310" as="targetPoint" />
+            <mxPoint x="-2130" y="2110" as="sourcePoint" />
+            <mxPoint x="-1970" y="2310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-4" target="kJyxvsDuKLN6N7F3R-1t-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1860" y="1480" as="sourcePoint" />
-            <mxPoint x="-1700" y="1680" as="targetPoint" />
+            <mxPoint x="-2140" y="1480" as="sourcePoint" />
+            <mxPoint x="-1980" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-6" target="kJyxvsDuKLN6N7F3R-1t-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1870" y="2130" as="sourcePoint" />
-            <mxPoint x="-1710" y="2330" as="targetPoint" />
+            <mxPoint x="-2150" y="2130" as="sourcePoint" />
+            <mxPoint x="-1990" y="2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-7" target="kJyxvsDuKLN6N7F3R-1t-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1970" y="2770" as="sourcePoint" />
-            <mxPoint x="-1530" y="2490" as="targetPoint" />
+            <mxPoint x="-2250" y="2770" as="sourcePoint" />
+            <mxPoint x="-1810" y="2490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-14" value="грамадзянін &lt;u&gt;не&lt;/u&gt; бароніць свае ўласныя межы" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;fillColor=#f5f5f5;strokeColor=#BFBFBF;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-1120" y="10680" width="160" height="120" as="geometry" />
+          <mxGeometry x="-1400" y="10680" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="utNHYfiI1P-ElOVeHikR-2" target="u8j-KaxE-SIpMTuqpm7c-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-680" y="6750" as="sourcePoint" />
-            <mxPoint x="-840" y="6450" as="targetPoint" />
+            <mxPoint x="-960" y="6750" as="sourcePoint" />
+            <mxPoint x="-1120" y="6450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-18" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-1895" y="10925" width="30" height="30" as="geometry" />
+          <mxGeometry x="-2175" y="10925" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-18" target="u8j-KaxE-SIpMTuqpm7c-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1210" y="6790" as="sourcePoint" />
-            <mxPoint x="-1050" y="6490" as="targetPoint" />
+            <mxPoint x="-1490" y="6790" as="sourcePoint" />
+            <mxPoint x="-1330" y="6490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-20" value="грамадзянін &lt;u&gt;бароніць&lt;/u&gt; свае ўласныя межы" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;rotation=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="10680" width="160" height="120" as="geometry" />
+          <mxGeometry x="-1160" y="10680" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="utNHYfiI1P-ElOVeHikR-2" target="u8j-KaxE-SIpMTuqpm7c-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-960" y="6820" as="sourcePoint" />
-            <mxPoint x="-800" y="6520" as="targetPoint" />
+            <mxPoint x="-1240" y="6820" as="sourcePoint" />
+            <mxPoint x="-1080" y="6520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-23" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
@@ -1590,30 +1590,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-25" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-2535" y="5965" width="30" height="30" as="geometry" />
+          <mxGeometry x="-2815" y="5965" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-25" target="j5JjeeWauFz4Uhg9E__5-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2395" y="6247" as="sourcePoint" />
-            <mxPoint x="-2625" y="5977" as="targetPoint" />
+            <mxPoint x="-2675" y="6247" as="sourcePoint" />
+            <mxPoint x="-2905" y="5977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-2" value="&quot;прынцыпова дамагуся свайго&quot;&lt;br&gt;&lt;br&gt;або &quot;ратаўнік&quot; —&lt;br&gt;&quot;грамадзянін упэўнены, што ён вырашае праблему нейкіх іншых грамадзян&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="7840" width="120" height="160" as="geometry" />
+          <mxGeometry x="-960" y="7840" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-390" y="6570" as="sourcePoint" />
-            <mxPoint x="-1010" y="7680" as="targetPoint" />
+            <mxPoint x="-550" y="6570" as="sourcePoint" />
+            <mxPoint x="-1170" y="7680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-5" value="&quot;прыемная нагода для ўзаемадзеяння&quot;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="7560" width="120" height="160" as="geometry" />
+          <mxGeometry x="-960" y="7560" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="8W4iyF8bD5PTs7V5SWev-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-740" y="6395" as="sourcePoint" />
-            <mxPoint x="-970" y="7480" as="targetPoint" />
+            <mxPoint x="-900" y="6395" as="sourcePoint" />
+            <mxPoint x="-1130" y="7480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-1" value="ЧР.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
@@ -1667,12 +1667,12 @@
           <mxGeometry x="13880" y="3840" width="800" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-24" value="&lt;div&gt;Веды грамадзянін атрымвае або нейкім чынам ад іншых людзей або стварае веды самастойна.&lt;br&gt;&lt;br&gt;Веды ад іншых людзей грамадзянін можа атрымаць у наступных выпадках:&lt;/div&gt;&lt;div&gt;- калі іншыя людзі мэтанакіравана вучылі грамадзяніна гэтым ведам;&lt;br&gt;- калі грамадзянін самастойна папрасіў навучыць яго;&lt;br&gt;- калі грамадзянін выпадкова навучыўся ад іншых людзей.&lt;br&gt;&lt;br&gt;Грамадзянін можа&amp;nbsp;самастойна стварыць веды ў наступных выпадках:&lt;br&gt;- калі мэтанакіравана шукае тлумачэнне нейкай незразумелай з&#39;яве.&lt;br&gt;&lt;br&gt;Працэсс самастойнага стварэння ведаў, здаецца, з&#39;яўляецца даволі рэдкім выпадкам. У школе і ўніверсітэце гэтаму не вучаць (або вучаць, а я пра гэта не ведаю). Людзі, якія ствараюць новые веды, лічацца вучонымі. Але на самой справе, хутчэй за ўсё, кожны чалавек нечаму навучыўся самастойна ў сваім жыцці. Проста гэты працэс не свядомы і сістэмны, а, хутчэй, выпадковы і не заўважаны самім чалавекам.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;strokeColor=default;fontStyle=0;glass=0;shadow=0;dashed=1;rotation=0;arcSize=6;" parent="1" vertex="1">
-          <mxGeometry x="-3000" y="1480" width="400" height="530" as="geometry" />
+          <mxGeometry x="-3280" y="1480" width="400" height="530" as="geometry" />
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="u8j-KaxE-SIpMTuqpm7c-4" target="WjF_KWa-nUk0AI6wJrLU-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3010" y="1985" as="sourcePoint" />
-            <mxPoint x="-2540" y="1895" as="targetPoint" />
+            <mxPoint x="-3290" y="1985" as="sourcePoint" />
+            <mxPoint x="-2820" y="1895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JhPQRlO-KKgyaNoFn7eW-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="JhPQRlO-KKgyaNoFn7eW-11" target="u8j-KaxE-SIpMTuqpm7c-23" edge="1">
@@ -1682,33 +1682,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-2" value="Грамадства &lt;b&gt;актыўна перашкаджае грамадзяніну&lt;/b&gt; разбірацца ў сваіх уласных пажаданнях. Прыклады таго, што &quot;кажа грамадства&quot;:&lt;br&gt;- надаваць значную увагу сваім пажаданням гэта брыдка;&lt;br&gt;- патрэбна рабіць тое, што сказалі старэйшыя, а не задаваць дурныя пытанні;&lt;br&gt;-&amp;nbsp;у цябе бульбачка на патэльні ёсць, мяса на патэльні ёсць, то чаго ж ты лезеш у палітыку;&lt;br&gt;- ...&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-3160" y="2680" width="320" height="280" as="geometry" />
+          <mxGeometry x="-3440" y="2680" width="320" height="280" as="geometry" />
         </mxCell>
         <mxCell id="u8j-KaxE-SIpMTuqpm7c-3" value="ЧіС не будуе інструменты неабходныя для таго, каб грамадзяне заўважалі свае пажаданні.&lt;b&gt; Адсутнічаюць або недастаткова якасныя інструменты&lt;/b&gt;, якія дазваляюць грамадзяніну хутка заўважаць свае патрабаванні да ЧіС.&lt;br&gt; " style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-3160" y="3120" width="320" height="160" as="geometry" />
+          <mxGeometry x="-3440" y="3120" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8W4iyF8bD5PTs7V5SWev-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-6" target="u8j-KaxE-SIpMTuqpm7c-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-890" y="2510" as="sourcePoint" />
-            <mxPoint x="-980" y="2315" as="targetPoint" />
+            <mxPoint x="-1170" y="2510" as="sourcePoint" />
+            <mxPoint x="-1260" y="2315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-6" value="ЧР.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-3385" y="3055" width="50" height="50" as="geometry" />
+          <mxGeometry x="-3665" y="3055" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-26" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-3495" y="4785" width="30" height="30" as="geometry" />
+          <mxGeometry x="-3775" y="4785" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-27" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="WjF_KWa-nUk0AI6wJrLU-26" target="u8j-KaxE-SIpMTuqpm7c-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2810" y="2850" as="sourcePoint" />
-            <mxPoint x="-2290" y="2690" as="targetPoint" />
+            <mxPoint x="-3090" y="2850" as="sourcePoint" />
+            <mxPoint x="-2570" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WjF_KWa-nUk0AI6wJrLU-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-9" target="8KlCnt_39-ksAiERNVki-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3505" y="4810" as="sourcePoint" />
-            <mxPoint x="-2290" y="4170" as="targetPoint" />
+            <mxPoint x="-3785" y="4810" as="sourcePoint" />
+            <mxPoint x="-2570" y="4170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zGS259PE60l4bMru1_S_-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="zGS259PE60l4bMru1_S_-1" target="GqCztHtrmR59RFTge0s9-1" edge="1">
@@ -2280,58 +2280,58 @@
           <mxGeometry x="380" y="23760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-16" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-860" y="10800" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1140" y="10800" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-19" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3240" y="20040" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-20" value="Павінны быць нейкія прычыны, чаму грамадзянін спрабуе высветліць, наколькі важнае яго патрабаванне да ЧіС для яго самога. Але, магчыма, для дадзенага аналізу гэтыя прычыны не істотны." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-2400" y="7440" width="320" height="120" as="geometry" />
+          <mxGeometry x="-2680" y="7440" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="kJyxvsDuKLN6N7F3R-1t-20" target="j5JjeeWauFz4Uhg9E__5-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2410" y="7200" as="sourcePoint" />
-            <mxPoint x="-2690" y="7200" as="targetPoint" />
+            <mxPoint x="-2690" y="7200" as="sourcePoint" />
+            <mxPoint x="-2970" y="7200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-9" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2640" y="20960" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-18" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1880" y="7440" width="80" height="120" as="geometry" />
+          <mxGeometry x="-2160" y="7440" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-1935" y="6005" width="30" height="30" as="geometry" />
+          <mxGeometry x="-2215" y="6005" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="kJyxvsDuKLN6N7F3R-1t-24" target="8KlCnt_39-ksAiERNVki-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2090" y="6520" as="sourcePoint" />
-            <mxPoint x="-1945" y="6010" as="targetPoint" />
+            <mxPoint x="-2370" y="6520" as="sourcePoint" />
+            <mxPoint x="-2225" y="6010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBK7Ra9HZSw37TrRRF0v-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kJyxvsDuKLN6N7F3R-1t-23" target="u8j-KaxE-SIpMTuqpm7c-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-23" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-2480" y="5920" width="80" height="120" as="geometry" />
+          <mxGeometry x="-2760" y="5920" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-26" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1880" y="6440" width="80" height="120" as="geometry" />
+          <mxGeometry x="-2160" y="6440" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-1935" y="3005" width="30" height="30" as="geometry" />
+          <mxGeometry x="-2215" y="3005" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kJyxvsDuKLN6N7F3R-1t-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="kJyxvsDuKLN6N7F3R-1t-27" target="hciFa1by5LvJK5wFZR8x-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2090" y="2330" as="sourcePoint" />
-            <mxPoint x="-1945" y="2510" as="targetPoint" />
+            <mxPoint x="-2370" y="2330" as="sourcePoint" />
+            <mxPoint x="-2225" y="2510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4sducl9t49WLYDzldoge-5" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2380" y="19990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4sducl9t49WLYDzldoge-8" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1600" y="6470" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1880" y="6470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4sducl9t49WLYDzldoge-13" value="У гэтым слупку ўсе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя страхі наступстваў высвятлення таго, як дадзеная асобная з&#39;ява ўплывае на асабістыя інтарэсы грамадзяніна." style="swimlane;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fillColor=#E6E6E6;strokeColor=#B3B3B3;fontStyle=0;rounded=1;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="4000" y="19480" width="400" height="360" as="geometry" />
@@ -2578,7 +2578,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="khyRWcK5IgjRKIxvOn3C-13" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1105" y="10800" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1385" y="10800" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="khyRWcK5IgjRKIxvOn3C-15" value="Чалавек сам стварыў такія веды для сябе, дзякуючы ўласнаму досведу і дзякуючы ўласнай унутранай працы. І таму лічыць, што адзіны спосаб атрымаць такія веды — самастойна зразумець гэта. Не верыць у тое, што гэта можна растлумачыць." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="5520" y="23920" width="320" height="160" as="geometry" />
@@ -2871,25 +2871,25 @@
           <mxGeometry x="3800" y="20360" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-5" value="&quot;прыемная нагода для ўзаемадзеяння&quot;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="-1720" y="6240" width="120" height="160" as="geometry" />
+          <mxGeometry x="-2000" y="6240" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1670" y="6130" as="sourcePoint" />
-            <mxPoint x="-1390" y="6440" as="targetPoint" />
+            <mxPoint x="-1950" y="6130" as="sourcePoint" />
+            <mxPoint x="-1620" y="6450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-7" value="&quot;прынцыпова дамагуся свайго&quot;&lt;br&gt;&lt;br&gt;або &quot;ратаўнік&quot; —&lt;br&gt;&quot;грамадзянін упэўнены, што ён вырашае праблему нейкіх іншых грамадзян&quot;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="-1720" y="6600" width="120" height="160" as="geometry" />
+          <mxGeometry x="-2000" y="6600" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="13r2Nvp9Kn0BFzEVIfSK-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1440" y="6330" as="sourcePoint" />
-            <mxPoint x="-1390" y="6460" as="targetPoint" />
+            <mxPoint x="-1720" y="6330" as="sourcePoint" />
+            <mxPoint x="-1650" y="6480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;strokeColor=#0000CC;fontColor=#0000CC;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-2655" y="6165" width="30" height="30" as="geometry" />
+          <mxGeometry x="-2935" y="6165" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="13r2Nvp9Kn0BFzEVIfSK-10" value="Калі чалавек нараджаецца, то ён не мае падстаў лічыць, што нехта будзе даваць яму несапраўдную інфармацыю." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="7960" y="20000" width="320" height="80" as="geometry" />
@@ -3037,18 +3037,18 @@
           <mxGeometry x="-630" y="1560" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wvWh9_RpUeVN9rCIfkWV-1" value="У склаўшыхся абставінах у грамадзяніна можа ўзнікнуць нейкае пажаданне/патрабаванне да ЧіС, якое ўзнікла па прычынах не выкліканых ўздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-1560" y="1920" width="400" height="120" as="geometry" />
+          <mxGeometry x="-1840" y="1920" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wvWh9_RpUeVN9rCIfkWV-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wvWh9_RpUeVN9rCIfkWV-1" target="lAl6IwTCLYnLzIhwObD8-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1520" y="2330" as="sourcePoint" />
-            <mxPoint x="-1510" y="2830" as="targetPoint" />
+            <mxPoint x="-1800" y="2330" as="sourcePoint" />
+            <mxPoint x="-1790" y="2830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wvWh9_RpUeVN9rCIfkWV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1A97xfqU8RugEwtwURiV-1" target="wvWh9_RpUeVN9rCIfkWV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1360" y="1200" as="sourcePoint" />
-            <mxPoint x="10" y="1210" as="targetPoint" />
+            <mxPoint x="-1640" y="1200" as="sourcePoint" />
+            <mxPoint x="-270" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wvWh9_RpUeVN9rCIfkWV-4" value="У склаўшыхся абставінах ЧіС робяць нейкае асобнае ўздзеянне на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
@@ -3065,16 +3065,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4uzJudIr6IMK6JVlOW2x-1" value="Грамадзянін ставіцца да свайго ўласнага патрабавання адным і толькі адным чынам са слупка ніжэй." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="-1720" y="2680" width="280" height="120" as="geometry" />
+          <mxGeometry x="-2000" y="2680" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0OPCPuZs19JULQw4yUoj-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="4uzJudIr6IMK6JVlOW2x-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1360" y="2800" as="sourcePoint" />
-            <mxPoint x="-1650" y="2394" as="targetPoint" />
+            <mxPoint x="-1640" y="2800" as="sourcePoint" />
+            <mxPoint x="-1930" y="2394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1A97xfqU8RugEwtwURiV-1" value="Нешта адбылася ў жыцці грамадзяніна. Гэта не выклікана непасрэдна ўздзеяннем ЧіС на грамадства.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;Прыклады: ўздзеянне аГрамадства, прыродная з&#39;ява, проста нейкае здарэнне ў жыцці грамадзяніна, проста прайшоў нейкі час і г.д.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-1560" y="1360" width="400" height="160" as="geometry" />
+          <mxGeometry x="-1840" y="1360" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KL6WY7N4iK7VwbQ_gDBE-1" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-30" y="955" width="60" height="30" as="geometry" />
@@ -3202,12 +3202,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LLTcDyjC8tf5jD2wqaGq-5" value="&quot;ЧіС Робяць&quot; Частка №1." style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;horizontal=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="-3520" y="3000" width="120" height="40" as="geometry" />
+          <mxGeometry x="-3800" y="3000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LLTcDyjC8tf5jD2wqaGq-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LLTcDyjC8tf5jD2wqaGq-5" target="WjF_KWa-nUk0AI6wJrLU-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3480" y="2910" as="sourcePoint" />
-            <mxPoint x="-3345" y="3080" as="targetPoint" />
+            <mxPoint x="-3760" y="2910" as="sourcePoint" />
+            <mxPoint x="-3625" y="3080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MkFDsAKqxZXtBMqR0RTq-1" value="Кожны грамадзянін Беларусі ўносіць свой уклад." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
@@ -6550,30 +6550,30 @@
             <mxPoint x="-380" y="1030" as="targetPoint" />
             <Array as="points">
               <mxPoint y="1000" />
-              <mxPoint x="-1360" y="1000" />
+              <mxPoint x="-1640" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="B4Vb4ssWsXtlDbEDd_uy-1" value="Усе &quot;трэція сілы&quot;, якія ўздзейнічаюць на грамадзяніна." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-1720" y="1120" width="320" height="80" as="geometry" />
+          <mxGeometry x="-2000" y="1120" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B4Vb4ssWsXtlDbEDd_uy-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B4Vb4ssWsXtlDbEDd_uy-1" target="1A97xfqU8RugEwtwURiV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1330" y="1010" as="sourcePoint" />
-            <mxPoint x="-1360" y="1360" as="targetPoint" />
+            <mxPoint x="-1610" y="1010" as="sourcePoint" />
+            <mxPoint x="-1640" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B4Vb4ssWsXtlDbEDd_uy-3" value="Гэта абсалютна любыя &quot;трэція сілы&quot;. Прыродныя з&#39;явы, уздзеянне груп грамадзян іншых краін, іншапланецяне… Што заўгодна." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" parent="1" vertex="1">
-          <mxGeometry x="-1720" y="960" width="320" height="80" as="geometry" />
+          <mxGeometry x="-2000" y="960" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B4Vb4ssWsXtlDbEDd_uy-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B4Vb4ssWsXtlDbEDd_uy-3" target="B4Vb4ssWsXtlDbEDd_uy-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1220" y="560" as="sourcePoint" />
-            <mxPoint x="-1440" y="1030" as="targetPoint" />
+            <mxPoint x="-1500" y="560" as="sourcePoint" />
+            <mxPoint x="-1720" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B4Vb4ssWsXtlDbEDd_uy-5" value="i" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1420" y="1280" width="120" height="80" as="geometry" />
+          <mxGeometry x="-1700" y="1280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2goDyolmrWtc5NWQ9WSm-1" value="Усе &quot;трэція сілы&quot;, якія ўздзейнічаюць на ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="600" y="1120" width="320" height="80" as="geometry" />
