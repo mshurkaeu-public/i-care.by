@@ -3010,10 +3010,10 @@
           <mxGeometry x="-160" y="1640" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="prqSNZy7mLNe6MNW40LL-1" value="Грамадзянін неяк ўздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла па прычынах не выкліканых ўздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="1920" width="360" height="120" as="geometry" />
+          <mxGeometry x="-800" y="1920" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="prqSNZy7mLNe6MNW40LL-2" value="Грамадзянін неяк ўздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла як рэакцыя грамадзяніна на ўздзеянне ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1920" width="360" height="120" as="geometry" />
+          <mxGeometry x="560" y="1920" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="prqSNZy7mLNe6MNW40LL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.347;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KfWrbtr1FMmFQfiqjiQP-1" target="trFHjS8OtI2W3_3FPiBj-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -6600,7 +6600,7 @@
           <mxGeometry x="8660" y="6370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d9ed2R7lmkVjTA7QcAkW-1" value="Грамадзянін неяк ўздзейнічае на ЧіС праз усе астатнія аспекты свайго жыцця, у якіх адсутнічаюць патрабаванні да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="1920" width="360" height="120" as="geometry" />
+          <mxGeometry x="-1200" y="1920" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="d9ed2R7lmkVjTA7QcAkW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1A97xfqU8RugEwtwURiV-1" target="d9ed2R7lmkVjTA7QcAkW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
