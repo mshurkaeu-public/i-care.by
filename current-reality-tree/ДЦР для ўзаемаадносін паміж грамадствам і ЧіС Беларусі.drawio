@@ -6599,7 +6599,7 @@
         <mxCell id="2goDyolmrWtc5NWQ9WSm-10" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="8660" y="6370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d9ed2R7lmkVjTA7QcAkW-1" value="Грамадзянін неяк ўздзейнічае на ЧіС праз усе астатнія аспекты свайго жыцця, у якіх адсутнічаюць патрабаванні да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="d9ed2R7lmkVjTA7QcAkW-1" value="Грамадзянін неяк ўздзейнічае на ЧіС, пражываючы ўсе астатнія аспекты свайго жыцця, якія не датычацца яго патрабаванняў да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-1200" y="1920" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="d9ed2R7lmkVjTA7QcAkW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1A97xfqU8RugEwtwURiV-1" target="d9ed2R7lmkVjTA7QcAkW-1" edge="1">
