@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.6" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.8" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-20" id="0">
+        <object label="" modifiedDate="2024-11-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-20" id="0">
+        <object label="" modifiedDate="2024-11-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-20" id="0">
+        <object label="" modifiedDate="2024-11-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -639,7 +639,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-20" id="0">
+        <object label="" modifiedDate="2024-11-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -797,7 +797,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-20" id="0">
+        <object label="" modifiedDate="2024-11-22" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -6614,22 +6614,28 @@
             <mxPoint x="10" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3YGW2rDUU7iP923bcYd-1" value="Прыклады: ўздзеянне аГрамадства, прыродная з&#39;ява, проста нейкае здарэнне ў жыцці грамадзяніна, проста прайшоў нейкі час і г.д." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="r3YGW2rDUU7iP923bcYd-1" value="Прыклады: ўздзеянне аГрамадства, прыродная з&#39;ява, проста нейкае здарэнне ў жыцці грамадзяніна, проста прайшоў нейкі час і г.д." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="1360" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r3YGW2rDUU7iP923bcYd-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="1A97xfqU8RugEwtwURiV-1" source="r3YGW2rDUU7iP923bcYd-1">
+        <mxCell id="r3YGW2rDUU7iP923bcYd-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="r3YGW2rDUU7iP923bcYd-1" target="1A97xfqU8RugEwtwURiV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1350" y="1500" as="sourcePoint" />
             <mxPoint x="-1335" y="1084" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j3nmGyDnCy5_LDK0tS6N-1" value="Я не буду аналізаваць прычыны гэтай з&#39;явы на гэтым ДЦР. Бо калі там ёсць нешта важнае для пошука каранёвай прычыны цяперашняга стану адносін паміж грамадствам і ЧіС, то тады гэтае важнае будзе знойдзена пры аналізе ДЦР для чалавека з шэрагаў ЧіС.&lt;br&gt;&lt;br&gt;Аналагічна і на гэтым ДЦР: калі ў рэальнасці здараецца нейкае выкарыстанне ролі ЧіС без усялякага ўздзеяння на грамадства (🤔🤷), то калі гэта важны аспект шукаемай каранёвай прычыны, то тады ён ўжо ёсць або &quot;хаваецца&quot; недзе сярод прычын з&#39;явы &quot;уздзеянне грамадзяніна на ЧіС у сувязі з яго патрабаваннем да ЧіС, якое ўзнікла па прычынах &lt;u&gt;не выкліканых уздзеяннем ЧіС&lt;/u&gt; на грамадства&quot;. " style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="j3nmGyDnCy5_LDK0tS6N-1" value="Я не буду аналізаваць прычыны гэтай з&#39;явы на гэтым ДЦР. Бо калі там ёсць нешта важнае для пошука каранёвай прычыны цяперашняга стану адносін паміж грамадствам і ЧіС, то тады гэтае важнае будзе знойдзена пры аналізе ДЦР для чалавека з шэрагаў ЧіС.&lt;br&gt;&lt;br&gt;Аналагічна і на гэтым ДЦР: калі ў рэальнасці здараецца нейкае выкарыстанне ролі ЧіС без усялякага ўздзеяння на грамадства (🤔🤷), то калі гэта важны аспект шукаемай каранёвай прычыны, то тады ён ўжо ёсць або &quot;хаваецца&quot; недзе сярод прычын з&#39;явы &quot;уздзеянне грамадзяніна на ЧіС у сувязі з яго патрабаваннем да ЧіС, якое ўзнікла па прычынах &lt;u&gt;не выкліканых уздзеяннем ЧіС&lt;/u&gt; на грамадства&quot;. " style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="1520" width="400" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="j3nmGyDnCy5_LDK0tS6N-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j3nmGyDnCy5_LDK0tS6N-1" target="d9ed2R7lmkVjTA7QcAkW-1">
+        <mxCell id="j3nmGyDnCy5_LDK0tS6N-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j3nmGyDnCy5_LDK0tS6N-1" target="d9ed2R7lmkVjTA7QcAkW-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1125" y="1770" as="sourcePoint" />
             <mxPoint x="-1030" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dmlhFvvV3CZWPReMKh3l-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;fillColor=#d5e8d4;strokeColor=#00ff00;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="trFHjS8OtI2W3_3FPiBj-41" target="trFHjS8OtI2W3_3FPiBj-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="24120" as="sourcePoint" />
+            <mxPoint x="730" y="2410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
