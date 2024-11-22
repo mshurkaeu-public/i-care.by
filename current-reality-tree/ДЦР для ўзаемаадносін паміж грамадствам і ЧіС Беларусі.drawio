@@ -3006,13 +3006,13 @@
             <mxPoint x="5650" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KfWrbtr1FMmFQfiqjiQP-1" value="Грамадзянін неяк ўздзейнічае на ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
+        <mxCell id="KfWrbtr1FMmFQfiqjiQP-1" value="Грамадзянін неяк уздзейнічае на ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="1640" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="prqSNZy7mLNe6MNW40LL-1" value="Грамадзянін неяк ўздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла па прычынах не выкліканых ўздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
+        <mxCell id="prqSNZy7mLNe6MNW40LL-1" value="Грамадзянін неяк уздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла па прычынах не выкліканых уздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-800" y="1920" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="prqSNZy7mLNe6MNW40LL-2" value="Грамадзянін неяк ўздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла як рэакцыя грамадзяніна на ўздзеянне ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
+        <mxCell id="prqSNZy7mLNe6MNW40LL-2" value="Грамадзянін неяк уздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла як рэакцыя грамадзяніна на ўздзеянне ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1920" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="prqSNZy7mLNe6MNW40LL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.347;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KfWrbtr1FMmFQfiqjiQP-1" target="trFHjS8OtI2W3_3FPiBj-10" edge="1">
@@ -3036,7 +3036,7 @@
         <mxCell id="gIr87uA6KMi6UM9plRD9-1" value="…" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="-630" y="1560" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wvWh9_RpUeVN9rCIfkWV-1" value="У склаўшыхся абставінах у грамадзяніна можа ўзнікнуць нейкае пажаданне/патрабаванне да ЧіС, якое ўзнікла па прычынах не выкліканых ўздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
+        <mxCell id="wvWh9_RpUeVN9rCIfkWV-1" value="У склаўшыхся абставінах у грамадзяніна можа ўзнікнуць нейкае пажаданне/патрабаванне да ЧіС, якое ўзнікла па прычынах не выкліканых уздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-1840" y="2280" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wvWh9_RpUeVN9rCIfkWV-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wvWh9_RpUeVN9rCIfkWV-1" target="lAl6IwTCLYnLzIhwObD8-4" edge="1">
@@ -6599,7 +6599,7 @@
         <mxCell id="2goDyolmrWtc5NWQ9WSm-10" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="8660" y="6370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d9ed2R7lmkVjTA7QcAkW-1" value="Грамадзянін неяк ўздзейнічае на ЧіС, пражываючы ўсе астатнія аспекты свайго жыцця, якія не датычацца яго патрабаванняў да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="d9ed2R7lmkVjTA7QcAkW-1" value="Грамадзянін неяк уздзейнічае на ЧіС, пражываючы ўсе астатнія аспекты свайго жыцця, якія не датычацца яго патрабаванняў да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-1200" y="1920" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="d9ed2R7lmkVjTA7QcAkW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1A97xfqU8RugEwtwURiV-1" target="d9ed2R7lmkVjTA7QcAkW-1" edge="1">
