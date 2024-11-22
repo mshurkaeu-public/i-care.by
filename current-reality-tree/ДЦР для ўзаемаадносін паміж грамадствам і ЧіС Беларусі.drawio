@@ -1093,8 +1093,15 @@
         <mxCell id="trFHjS8OtI2W3_3FPiBj-3" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;Стан адносін паміж грамадствам і ЧіС з&#39;яўляецца заканамерным/лагічным вынікам паводзін абодвух бакоў і ўздзеяння на гэтыя бакі &quot;трэціх сіл&quot;.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-240" y="1080" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-5" target="trFHjS8OtI2W3_3FPiBj-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-5" target="trFHjS8OtI2W3_3FPiBj-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1560" />
+              <mxPoint x="400" y="1560" />
+              <mxPoint x="400" y="1270" />
+              <mxPoint y="1270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-5" value="ЧіС неяк уздзейнічаюць на грамадства.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А грамадства і ЧіС потым неяк рэагуюць на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1360" width="320" height="120" as="geometry" />
@@ -1117,7 +1124,7 @@
             <mxPoint x="685" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-10" target="trFHjS8OtI2W3_3FPiBj-3" edge="1">
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-10" target="trFHjS8OtI2W3_3FPiBj-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-10" value="Грамадства неяк уздзейнічае на ЧіС.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А ЧіС і грамадства потым неяк рэагуюць на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
@@ -6672,6 +6679,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="2490" as="sourcePoint" />
             <mxPoint x="970" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ft0tL4OXy8aIg3PYwrtG-1" value="Грамадства неяк уздзейнічае на грамадства.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А ЧіС і грамадства потым неяк рэагуюць на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1360" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ft0tL4OXy8aIg3PYwrtG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ft0tL4OXy8aIg3PYwrtG-1" target="trFHjS8OtI2W3_3FPiBj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-590" y="1370" as="sourcePoint" />
+            <mxPoint x="110" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7aNzyvcGGE15VZNW_yO-1" value="ЧіС неяк уздзейнічаюць на ЧіС.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А грамадства і ЧіС потым неяк рэагуюць на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1360" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P7aNzyvcGGE15VZNW_yO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7aNzyvcGGE15VZNW_yO-1" target="trFHjS8OtI2W3_3FPiBj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="1371" as="sourcePoint" />
+            <mxPoint y="1201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
