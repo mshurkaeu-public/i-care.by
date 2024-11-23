@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.8" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.9" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-22" id="0">
+        <object label="" modifiedDate="2024-11-23" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-22" id="0">
+        <object label="" modifiedDate="2024-11-23" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -171,7 +171,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-22" id="0">
+        <object label="" modifiedDate="2024-11-23" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -657,7 +657,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-22" id="0">
+        <object label="" modifiedDate="2024-11-23" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -815,7 +815,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-11-22" id="0">
+        <object label="" modifiedDate="2024-11-23" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -3034,11 +3034,17 @@
         <mxCell id="KfWrbtr1FMmFQfiqjiQP-1" value="Грамадзянін неяк уздзейнічае на ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="1640" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="prqSNZy7mLNe6MNW40LL-1" value="Грамадзянін неяк уздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла па прычынах не выкліканых уздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="1920" width="320" height="120" as="geometry" />
+        <mxCell id="hnyOjubbGfGceRsOCCtu-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя тыпы сітуацый, калі грамадзянін неяк уздзейнічае на ЧіС.&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=cross-hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1840" width="2160" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="prqSNZy7mLNe6MNW40LL-2" value="Грамадзянін неяк уздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла як рэакцыя грамадзяніна на ўздзеянне ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1920" width="320" height="120" as="geometry" />
+        <mxCell id="d9ed2R7lmkVjTA7QcAkW-1" value="Грамадзянін неяк уздзейнічае на ЧіС, пражываючы ўсе астатнія аспекты свайго жыцця, якія не датычацца яго патрабаванняў да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
+          <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="prqSNZy7mLNe6MNW40LL-1" value="Грамадзянін неяк уздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла па прычынах не выкліканых уздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
+          <mxGeometry x="440" y="80" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="prqSNZy7mLNe6MNW40LL-2" value="Грамадзянін неяк уздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла як рэакцыя грамадзяніна на ўздзеянне ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
+          <mxGeometry x="1800" y="80" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="prqSNZy7mLNe6MNW40LL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.347;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KfWrbtr1FMmFQfiqjiQP-1" target="trFHjS8OtI2W3_3FPiBj-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -6624,9 +6630,6 @@
         <mxCell id="2goDyolmrWtc5NWQ9WSm-10" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="8660" y="6370" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d9ed2R7lmkVjTA7QcAkW-1" value="Грамадзянін неяк уздзейнічае на ЧіС, пражываючы ўсе астатнія аспекты свайго жыцця, якія не датычацца яго патрабаванняў да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-1200" y="1920" width="320" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="d9ed2R7lmkVjTA7QcAkW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1A97xfqU8RugEwtwURiV-1" target="d9ed2R7lmkVjTA7QcAkW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1630" y="1530" as="sourcePoint" />
@@ -6657,43 +6660,43 @@
             <mxPoint x="-1030" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dmlhFvvV3CZWPReMKh3l-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;fillColor=#d5e8d4;strokeColor=#00ff00;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="trFHjS8OtI2W3_3FPiBj-41" target="trFHjS8OtI2W3_3FPiBj-35">
+        <mxCell id="dmlhFvvV3CZWPReMKh3l-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;fillColor=#d5e8d4;strokeColor=#00ff00;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-41" target="trFHjS8OtI2W3_3FPiBj-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1330" y="24120" as="sourcePoint" />
             <mxPoint x="730" y="2410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qD9OXLXM4uNtDVzHjzJt-1" value="Прыклад камбінацыі элементаў паводзін:&lt;br&gt;&lt;div&gt;грамадзянін звальняе на працы свайго падначаленага па &quot;палітычнаму спісу&quot;. То бок, падтрымвае ўздзеянне ЧіС. Але пры гэтым і супраціўляецца. Напрыклад, б&#39;е свайго ката ўвечары або носіць пратэстныя шкарпэткі дома. А можа, вострыць сякеру ці рыхтуе кулямёт. 🤷&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="qD9OXLXM4uNtDVzHjzJt-1" value="Прыклад камбінацыі элементаў паводзін:&lt;br&gt;&lt;div&gt;грамадзянін звальняе на працы свайго падначаленага па &quot;палітычнаму спісу&quot;. То бок, падтрымвае ўздзеянне ЧіС. Але пры гэтым і супраціўляецца. Напрыклад, б&#39;е свайго ката ўвечары або носіць пратэстныя шкарпэткі дома. А можа, вострыць сякеру ці рыхтуе кулямёт. 🤷&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="280" y="2520" width="360" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="qD9OXLXM4uNtDVzHjzJt-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="M2s-u5ifNbJ-EtP5Yrcn-1" source="qD9OXLXM4uNtDVzHjzJt-1">
+        <mxCell id="qD9OXLXM4uNtDVzHjzJt-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qD9OXLXM4uNtDVzHjzJt-1" target="M2s-u5ifNbJ-EtP5Yrcn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="2480" as="sourcePoint" />
             <mxPoint x="390" y="2194" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qD9OXLXM4uNtDVzHjzJt-4" value="Прыклад камбінацыі элементаў паводзін:&lt;br&gt;&lt;div&gt;грамадзянін плаціць падаткі, з якіх аплачваецца катаванне палітвязняў. То бок, падтрымвае магчымасць далейшага катавання. І нічога не робіць для таго, каб спыніць катаванне палітвязняў, якое ён катэгарычна не падтрымвае.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="qD9OXLXM4uNtDVzHjzJt-4" value="Прыклад камбінацыі элементаў паводзін:&lt;br&gt;&lt;div&gt;грамадзянін плаціць падаткі, з якіх аплачваецца катаванне палітвязняў. То бок, падтрымвае магчымасць далейшага катавання. І нічога не робіць для таго, каб спыніць катаванне палітвязняў, якое ён катэгарычна не падтрымвае.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="800" y="2520" width="360" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="qD9OXLXM4uNtDVzHjzJt-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qD9OXLXM4uNtDVzHjzJt-4" target="M2s-u5ifNbJ-EtP5Yrcn-1">
+        <mxCell id="qD9OXLXM4uNtDVzHjzJt-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qD9OXLXM4uNtDVzHjzJt-4" target="M2s-u5ifNbJ-EtP5Yrcn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="2490" as="sourcePoint" />
             <mxPoint x="970" y="2450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ft0tL4OXy8aIg3PYwrtG-1" value="Грамадства неяк уздзейнічае на грамадства.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А грамадства і ЧіС потым неяк рэагуюць на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+        <mxCell id="ft0tL4OXy8aIg3PYwrtG-1" value="Грамадства неяк уздзейнічае на грамадства.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А грамадства і ЧіС потым неяк рэагуюць на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="1360" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ft0tL4OXy8aIg3PYwrtG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ft0tL4OXy8aIg3PYwrtG-1" target="trFHjS8OtI2W3_3FPiBj-3">
+        <mxCell id="ft0tL4OXy8aIg3PYwrtG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ft0tL4OXy8aIg3PYwrtG-1" target="trFHjS8OtI2W3_3FPiBj-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-590" y="1370" as="sourcePoint" />
             <mxPoint x="110" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P7aNzyvcGGE15VZNW_yO-1" value="ЧіС неяк уздзейнічаюць на ЧіС.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А ЧіС і грамадства потым неяк рэагуюць на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" vertex="1" parent="1">
+        <mxCell id="P7aNzyvcGGE15VZNW_yO-1" value="ЧіС неяк уздзейнічаюць на ЧіС.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А ЧіС і грамадства потым неяк рэагуюць на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1360" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="P7aNzyvcGGE15VZNW_yO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7aNzyvcGGE15VZNW_yO-1" target="trFHjS8OtI2W3_3FPiBj-3">
+        <mxCell id="P7aNzyvcGGE15VZNW_yO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="P7aNzyvcGGE15VZNW_yO-1" target="trFHjS8OtI2W3_3FPiBj-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="1371" as="sourcePoint" />
             <mxPoint y="1201" as="targetPoint" />
