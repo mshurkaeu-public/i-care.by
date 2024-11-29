@@ -1480,7 +1480,7 @@
           <mxGeometry x="1960" y="20540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lAl6IwTCLYnLzIhwObD8-1" value="&lt;div&gt;Калі ёсць аспекты ў адносінах з ЧіС, якімі грамадзянін не задаволены, але ён ніякім чынам не выказвае&amp;nbsp;ЧіС сваё незадавальненне гэтымі аспектамі, то тады ЧіС атрымваюць няяўны сігнал ад грамадзяніна — &quot;са мной так можна&quot;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Грамадзянін у гэтых аспектах цалкам залежыць ад знешніх абставін і не з&#39;яўляецца суб&#39;ектам адносін у гэтых аспектах.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Знешнія абставіны могуць змяніцца і тады можа змяніцца сітуацыя для грамадзяніна і стан адносін паміж ім і ЧіС. Таксама можа змяніцца ўнутранная карціна свету грамадзяніна&amp;nbsp;(пад уплывам знешніх абставін) і прывесці да пераасэнсавання яго адносін з ЧіС.&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#F8E2E2;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="280" y="640" width="400" height="320" as="geometry" />
+          <mxGeometry x="280" y="560" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="lAl6IwTCLYnLzIhwObD8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF7A75;" parent="1" source="sQoAsM52LArwORoqdBcF-1" target="lAl6IwTCLYnLzIhwObD8-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1881,7 +1881,7 @@
           <mxGeometry x="4460" y="18830" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Usy42NvSzbBwnGGQ3jnm-1" value="&lt;div&gt;Калі ў адносінах грамадзяніна і ЧіС зусім няма аспектаў, якімі грамадзянін не задаволены, то грамадзянін нічога не будзе прадпрымаць, каб нешта змяніць.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Знешнія абставіны могуць змяніцца і тады можа змяніцца сітуацыя для грамадзяніна і стан адносін паміж ім і ЧіС. Таксама можа змяніцца ўнутранная карціна свету грамадзяніна (пад уплывам знешніх абставін) і прывесці да пераасэнсавання яго адносін з ЧіС.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="640" width="400" height="320" as="geometry" />
+          <mxGeometry x="-200" y="560" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Usy42NvSzbBwnGGQ3jnm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#858585;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sQoAsM52LArwORoqdBcF-1" target="Usy42NvSzbBwnGGQ3jnm-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1890,7 +1890,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BEr-12BcYO6opY1slGUl-1" value="Немагчымасць&amp;nbsp;змяніць значныя для сябе аспекты ва ўзаемаадносінах з ЧіС вядзе да стрэсу грамадзяніна. Гэты стрэс прыводзіць да вельмі розных праяў. Можа выліцца ў вымяшчэнне злосці на слабейшых. Можа прывесці да праблем з псіхікай або фізічным здароўем.&lt;br&gt;&lt;br&gt;Калі грамадзянін разумее прычыны свайго стрэсу, то немагчымасць змяніць значныя для сябе аспекты ва ўзаемаадносінах мірным шляхам можа прывесці або да &quot;сілавога вырашэння праблемы&quot; або да &quot;выхаду з адносін&quot;.&lt;br&gt;&lt;br&gt;&quot;Выхад з адносін&quot;, напэўна, азначае пакінуць краіну і пазбавіцца ад усіх сувязей з ёй." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="760" y="640" width="400" height="320" as="geometry" />
+          <mxGeometry x="760" y="560" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="BEr-12BcYO6opY1slGUl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="sQoAsM52LArwORoqdBcF-1" target="BEr-12BcYO6opY1slGUl-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3103,7 +3103,7 @@
           <mxGeometry x="-1800" y="1400" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KL6WY7N4iK7VwbQ_gDBE-1" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-30" y="995" width="60" height="30" as="geometry" />
+          <mxGeometry x="-30" y="915" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KL6WY7N4iK7VwbQ_gDBE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="trFHjS8OtI2W3_3FPiBj-19" target="KL6WY7N4iK7VwbQ_gDBE-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -6552,7 +6552,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sQoAsM52LArwORoqdBcF-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-15" y="1025" width="30" height="30" as="geometry" />
+          <mxGeometry x="-15" y="945" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQoAsM52LArwORoqdBcF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-3" target="sQoAsM52LArwORoqdBcF-1" edge="1">
           <mxGeometry relative="1" as="geometry">
