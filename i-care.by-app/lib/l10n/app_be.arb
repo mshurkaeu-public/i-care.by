@@ -1237,6 +1237,10 @@
   "@aboutMyGratitude_2024_12_05_01": {
     "description": "Text for 2024-12-05 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2024_12_05_02": "\n2024-12-05 02 🦸 — 🗯️ наша размова дапамагла мне зразумець, што сітуацыя, калі дзеянне адсутнічае, можа не ўспрымацца чалавекам, як асобны выпадак уздзеяння. Таму я стварыў яўнае тлумачэння для гэтага аспекта на ДЦР пра дыктатуру ў Беларусі.\n",
+  "@aboutMyGratitude_2024_12_05_02": {
+    "description": "Text for 2024-12-05 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2024_12_title": "\n\n2024-12\n",
   "@aboutMyGratitude_2024_12_title": {
     "description": "Title for 2024-12 list/text on the \"my gratitude\" tab on the \"About\" page."
