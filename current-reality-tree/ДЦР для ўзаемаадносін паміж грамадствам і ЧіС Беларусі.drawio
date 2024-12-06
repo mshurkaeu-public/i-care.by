@@ -1137,13 +1137,13 @@
           <mxGeometry x="440" y="1400" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hnyOjubbGfGceRsOCCtu-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя тыпы сітуацый, калі грамадзянін неяк уздзейнічае на ЧіС.&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=cross-hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="1880" width="1440" height="240" as="geometry" />
+          <mxGeometry x="-1240" y="1840" width="1440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="d9ed2R7lmkVjTA7QcAkW-1" value="Грамадзянін неяк уздзейнічае на ЧіС, пражываючы ўсе астатнія аспекты свайго жыцця, якія не датычацца яго патрабаванняў да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
-          <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
+          <mxGeometry x="40" y="40" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8CKO1yfrbb5XFP3JLmYJ-1" value="Грамадзянін неяк уздзейнічае на ЧіС, пражываючы тыя аспекты свайго жыцця, у якіх ён мае патрабаванні да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=default;" vertex="1" parent="hnyOjubbGfGceRsOCCtu-1">
-          <mxGeometry x="1080" y="80" width="320" height="120" as="geometry" />
+          <mxGeometry x="1080" y="40" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#00FF00;" parent="1" source="trFHjS8OtI2W3_3FPiBj-35" target="prqSNZy7mLNe6MNW40LL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3249,7 +3249,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MkFDsAKqxZXtBMqR0RTq-1" value="Кожны грамадзянін Беларусі робіць свой унёсак." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="-920" y="1640" width="200" height="80" as="geometry" />
+          <mxGeometry x="-880" y="1640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MkFDsAKqxZXtBMqR0RTq-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MkFDsAKqxZXtBMqR0RTq-1" target="gIr87uA6KMi6UM9plRD9-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -6659,7 +6659,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j3nmGyDnCy5_LDK0tS6N-1" value="Я не буду аналізаваць прычыны гэтай з&#39;явы на гэтым ДЦР. Бо калі там ёсць нешта важнае для пошука каранёвай прычыны цяперашняга стану адносін паміж грамадствам і ЧіС, то тады гэтае важнае будзе знойдзена пры аналізе ДЦР для чалавека з шэрагаў ЧіС.&lt;br&gt;&lt;br&gt;Аналагічна і на гэтым ДЦР: калі ў рэальнасці здараецца нейкае выкарыстанне ролі ЧіС без усялякага ўздзеяння на грамадства (🤔🤷), то калі гэта важны аспект шукаемай каранёвай прычыны, то тады ён ўжо ёсць або &quot;хаваецца&quot; недзе сярод прычын з&#39;явы &quot;уздзеянне грамадзяніна на ЧіС у сувязі з яго патрабаваннем да ЧіС, якое ўзнікла па прычынах &lt;u&gt;не выкліканых уздзеяннем ЧіС&lt;/u&gt; на грамадства&quot;. " style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="-1400" y="1560" width="400" height="320" as="geometry" />
+          <mxGeometry x="-1520" y="1560" width="560" height="240" as="geometry" />
         </mxCell>
         <mxCell id="j3nmGyDnCy5_LDK0tS6N-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="j3nmGyDnCy5_LDK0tS6N-1" target="d9ed2R7lmkVjTA7QcAkW-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
