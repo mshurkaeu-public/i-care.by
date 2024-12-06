@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.1" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-05" id="0">
+        <object label="" modifiedDate="2024-12-06" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-05" id="0">
+        <object label="" modifiedDate="2024-12-06" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-05" id="0">
+        <object label="" modifiedDate="2024-12-06" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -687,7 +687,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-05" id="0">
+        <object label="" modifiedDate="2024-12-06" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -845,7 +845,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-05" id="0">
+        <object label="" modifiedDate="2024-12-06" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -1148,16 +1148,16 @@
         <mxCell id="prqSNZy7mLNe6MNW40LL-2" value="Грамадзянін неяк уздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла як рэакцыя грамадзяніна на ўздзеянне ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
           <mxGeometry x="1800" y="80" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZchQ_m-2n1p1YdxePcHb-1" value="Магчыма сітуацыя, калі ў грамадзяніна ёсць адно і тое ж патрабаванне да ЧіС, выкліканае і ўздзеяннем ЧіС на грамадства і іншымі абставінамі грамадзяніна, якія не звязаны з уздзеяннем ЧіС на грамадства. Тады энергія грамадзяніна &quot;цячэ&quot; ў яго ўздзеянне на ЧіС праз два &quot;рэчышчы&quot;. І мы можам прайсці па гэтай схеме і высветліць чаму кожнае з &quot;рэчышч&quot; выглядае ў дадзенага чалавека менавіта так. То бок, у такой сітуацыі не патрэбна выбіраць &quot;адно з двух&quot;. Патрэбна ісці па абодвум &quot;рэчышчам&quot;, бо і тое і тое пераўтварае патрабаванне грамадзяніна ў яго ўздзеянне на ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="hnyOjubbGfGceRsOCCtu-1">
+        <mxCell id="ZchQ_m-2n1p1YdxePcHb-1" value="Магчыма сітуацыя, калі ў грамадзяніна ёсць адно і тое ж патрабаванне да ЧіС, выкліканае і ўздзеяннем ЧіС на грамадства і іншымі абставінамі грамадзяніна, якія не звязаны з уздзеяннем ЧіС на грамадства. Тады энергія грамадзяніна &quot;цячэ&quot; ў яго ўздзеянне на ЧіС праз два &quot;рэчышчы&quot;. І мы можам прайсці па гэтай схеме і высветліць чаму кожнае з &quot;рэчышч&quot; выглядае ў дадзенага чалавека менавіта так. То бок, у такой сітуацыі не патрэбна выбіраць &quot;адно з двух&quot;. Патрэбна ісці па абодвум &quot;рэчышчам&quot;, бо і тое і тое пераўтварае патрабаванне грамадзяніна ў яго ўздзеянне на ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
           <mxGeometry x="840" y="80" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZchQ_m-2n1p1YdxePcHb-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hnyOjubbGfGceRsOCCtu-1" source="ZchQ_m-2n1p1YdxePcHb-1" target="prqSNZy7mLNe6MNW40LL-1">
+        <mxCell id="ZchQ_m-2n1p1YdxePcHb-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="hnyOjubbGfGceRsOCCtu-1" source="ZchQ_m-2n1p1YdxePcHb-1" target="prqSNZy7mLNe6MNW40LL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1430" y="160" as="sourcePoint" />
             <mxPoint x="1510" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZchQ_m-2n1p1YdxePcHb-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hnyOjubbGfGceRsOCCtu-1" source="ZchQ_m-2n1p1YdxePcHb-1" target="prqSNZy7mLNe6MNW40LL-2">
+        <mxCell id="ZchQ_m-2n1p1YdxePcHb-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hnyOjubbGfGceRsOCCtu-1" source="ZchQ_m-2n1p1YdxePcHb-1" target="prqSNZy7mLNe6MNW40LL-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="150" as="sourcePoint" />
             <mxPoint x="770" y="150" as="targetPoint" />
@@ -3133,7 +3133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4uzJudIr6IMK6JVlOW2x-1" value="Грамадзянін ставіцца да свайго ўласнага патрабавання адным і толькі адным чынам са слупка ніжэй." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="-2000" y="2720" width="280" height="120" as="geometry" />
+          <mxGeometry x="-2000" y="2760" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0OPCPuZs19JULQw4yUoj-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="4uzJudIr6IMK6JVlOW2x-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
