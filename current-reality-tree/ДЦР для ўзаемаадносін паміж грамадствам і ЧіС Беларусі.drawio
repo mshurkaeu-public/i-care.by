@@ -875,7 +875,7 @@
           <mxGeometry x="7080" y="20000" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-2" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя тыпы ўздзеяння грамадзяніна на ЧіС ў сувязі са сваім пажаданнем/патрабаваннем да ЧіС, якое ўзнікла па прычынах не выкліканых ўздзеяннем ЧіС на грамадства.&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-1200" y="2240" width="1120" height="240" as="geometry" />
+          <mxGeometry x="-1200" y="2480" width="1120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-3" value="&lt;span&gt;грамадзянін &lt;b&gt;патрабуе&lt;/b&gt;&lt;/span&gt; ад ЧіС выканання свайго патрабавання" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;gradientDirection=west;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
           <mxGeometry x="920" y="80" width="160" height="120" as="geometry" />
@@ -887,7 +887,7 @@
           <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя элементы паводзін грамадзяніна ў адказ на дадзенае асобнае ўздзеянне ЧіС на грамадства.&lt;br&gt;Выніковыя паводзіны грамадзяніна з&#39;яўляюцца нейкай камбінацыяй такіх элементаў.&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="2240" width="1280" height="240" as="geometry" />
+          <mxGeometry x="80" y="2480" width="1280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-46" value="&lt;span&gt;грамадзянін&lt;br&gt;&lt;b&gt;супраціўляецца&lt;/b&gt;&lt;/span&gt;&lt;br&gt;гэтаму ўздзеянню" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
@@ -1137,19 +1137,19 @@
           <mxGeometry x="440" y="1400" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hnyOjubbGfGceRsOCCtu-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя тыпы сітуацый, калі грамадзянін неяк уздзейнічае на ЧіС.&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=cross-hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="1880" width="2160" height="240" as="geometry" />
+          <mxGeometry x="-1240" y="1880" width="2160" height="480" as="geometry" />
         </mxCell>
         <mxCell id="d9ed2R7lmkVjTA7QcAkW-1" value="Грамадзянін неяк уздзейнічае на ЧіС, пражываючы ўсе астатнія аспекты свайго жыцця, якія не датычацца яго патрабаванняў да ЧіС у дадзены момант." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="prqSNZy7mLNe6MNW40LL-1" value="Грамадзянін неяк уздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла па прычынах не выкліканых уздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
-          <mxGeometry x="440" y="80" width="320" height="120" as="geometry" />
+          <mxGeometry x="440" y="320" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="prqSNZy7mLNe6MNW40LL-2" value="Грамадзянін неяк уздзейнічае на ЧіС у сувязі са сваім&amp;nbsp;патрабаваннем да ЧіС, якое ўзнікла як рэакцыя грамадзяніна на ўздзеянне ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
-          <mxGeometry x="1800" y="80" width="320" height="120" as="geometry" />
+          <mxGeometry x="1800" y="320" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZchQ_m-2n1p1YdxePcHb-1" value="Магчыма сітуацыя, калі ў грамадзяніна ёсць адно і тое ж патрабаванне да ЧіС, выкліканае і ўздзеяннем ЧіС на грамадства і іншымі абставінамі грамадзяніна, якія не звязаны з уздзеяннем ЧіС на грамадства. Тады энергія грамадзяніна &quot;цячэ&quot; ў яго ўздзеянне на ЧіС праз два &quot;рэчышчы&quot;. І мы можам прайсці па гэтай схеме і высветліць чаму кожнае з &quot;рэчышч&quot; выглядае ў дадзенага чалавека менавіта так. То бок, у такой сітуацыі не патрэбна выбіраць &quot;адно з двух&quot;. Патрэбна ісці па абодвум &quot;рэчышчам&quot;, бо і тое і тое пераўтварае патрабаванне грамадзяніна ў яго ўздзеянне на ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="hnyOjubbGfGceRsOCCtu-1" vertex="1">
-          <mxGeometry x="840" y="80" width="880" height="120" as="geometry" />
+          <mxGeometry x="840" y="320" width="880" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZchQ_m-2n1p1YdxePcHb-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="hnyOjubbGfGceRsOCCtu-1" source="ZchQ_m-2n1p1YdxePcHb-1" target="prqSNZy7mLNe6MNW40LL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3105,7 +3105,7 @@
           <mxGeometry x="-630" y="1600" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wvWh9_RpUeVN9rCIfkWV-1" value="У склаўшыхся абставінах у грамадзяніна можа ўзнікнуць нейкае пажаданне/патрабаванне да ЧіС, якое ўзнікла па прычынах не выкліканых уздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-1840" y="2320" width="400" height="120" as="geometry" />
+          <mxGeometry x="-1840" y="2560" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wvWh9_RpUeVN9rCIfkWV-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wvWh9_RpUeVN9rCIfkWV-1" target="lAl6IwTCLYnLzIhwObD8-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -6704,21 +6704,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qD9OXLXM4uNtDVzHjzJt-1" value="Прыклад камбінацыі элементаў паводзін:&lt;br&gt;&lt;div&gt;грамадзянін звальняе на працы свайго падначаленага па &quot;палітычнаму спісу&quot;. То бок, падтрымвае ўздзеянне ЧіС. Але пры гэтым і супраціўляецца. Напрыклад, б&#39;е свайго ката ўвечары або носіць пратэстныя шкарпэткі дома. А можа, вострыць сякеру ці рыхтуе кулямёт. 🤷&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="280" y="2560" width="360" height="160" as="geometry" />
+          <mxGeometry x="280" y="2800" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qD9OXLXM4uNtDVzHjzJt-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qD9OXLXM4uNtDVzHjzJt-1" target="M2s-u5ifNbJ-EtP5Yrcn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="2520" as="sourcePoint" />
-            <mxPoint x="390" y="2234" as="targetPoint" />
+            <mxPoint x="280" y="2760" as="sourcePoint" />
+            <mxPoint x="390" y="2474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qD9OXLXM4uNtDVzHjzJt-4" value="Прыклад камбінацыі элементаў паводзін:&lt;br&gt;&lt;div&gt;грамадзянін плаціць падаткі, з якіх аплачваецца катаванне палітвязняў. То бок, падтрымвае магчымасць далейшага катавання. І нічога не робіць для таго, каб спыніць катаванне палітвязняў, якое ён катэгарычна не падтрымвае.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="800" y="2560" width="360" height="160" as="geometry" />
+          <mxGeometry x="800" y="2800" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qD9OXLXM4uNtDVzHjzJt-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qD9OXLXM4uNtDVzHjzJt-4" target="M2s-u5ifNbJ-EtP5Yrcn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="2530" as="sourcePoint" />
-            <mxPoint x="970" y="2490" as="targetPoint" />
+            <mxPoint x="850" y="2770" as="sourcePoint" />
+            <mxPoint x="970" y="2730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ft0tL4OXy8aIg3PYwrtG-1" value="Грамадства неяк уздзейнічае на грамадства.&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;(А грамадства і ЧіС потым неяк рэагуюць на гэтае ўздзеянне.)&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
