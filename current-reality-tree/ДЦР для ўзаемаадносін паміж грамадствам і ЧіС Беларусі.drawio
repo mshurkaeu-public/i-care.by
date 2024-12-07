@@ -3129,7 +3129,7 @@
           <mxGeometry x="-630" y="1600" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wvWh9_RpUeVN9rCIfkWV-1" value="У склаўшыхся абставінах у грамадзяніна можа ўзнікнуць нейкае пажаданне/патрабаванне да ЧіС, якое ўзнікла па прычынах не выкліканых уздзеяннем ЧіС на грамадства." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-2160" y="2560" width="400" height="120" as="geometry" />
+          <mxGeometry x="-2160" y="2200" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wvWh9_RpUeVN9rCIfkWV-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wvWh9_RpUeVN9rCIfkWV-1" target="lAl6IwTCLYnLzIhwObD8-4" edge="1">
           <mxGeometry relative="1" as="geometry">
