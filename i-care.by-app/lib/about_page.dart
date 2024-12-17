@@ -470,11 +470,13 @@ class _HistoryOfCreation extends StatelessWidget {
                         const ClipboardData(text: officialStatisticsUrl),
                       ).then(
                         (_) {
-                          ScaffoldMessenger.of(context).showSnackBar(
-                            SnackBar(
-                              content: Text(l10n.messageWhenCopied),
-                            ),
-                          );
+                          if (context.mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              SnackBar(
+                                content: Text(l10n.messageWhenCopied),
+                              ),
+                            );
+                          }
                         },
                       );
                     },
