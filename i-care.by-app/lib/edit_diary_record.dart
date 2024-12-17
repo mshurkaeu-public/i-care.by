@@ -28,7 +28,7 @@ WidgetSpan _buildHintForEmotion(
 ) {
   const double side = 4;
   BorderSide borderSide = BorderSide(
-    color: Theme.of(context).colorScheme.onSurface.withOpacity(0.4),
+    color: Theme.of(context).colorScheme.onSurface.withValues(alpha: 0.4),
     width: 1,
   );
 
