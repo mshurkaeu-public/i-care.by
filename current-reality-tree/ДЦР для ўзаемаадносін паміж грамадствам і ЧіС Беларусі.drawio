@@ -3419,7 +3419,7 @@
             <mxPoint x="1970" y="2775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-24" edge="1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2140" y="2560" as="sourcePoint" />
             <mxPoint x="1970" y="3290" as="targetPoint" />
@@ -6883,7 +6883,7 @@
         <mxCell id="m0C3pQuXgAReGaeX7E_y-2" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2450" y="3120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m0C3pQuXgAReGaeX7E_y-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;dashed=1;dashPattern=12 12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="m0C3pQuXgAReGaeX7E_y-1">
+        <mxCell id="m0C3pQuXgAReGaeX7E_y-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="m0C3pQuXgAReGaeX7E_y-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2330" y="2505" as="sourcePoint" />
             <mxPoint x="2130" y="3070" as="targetPoint" />
