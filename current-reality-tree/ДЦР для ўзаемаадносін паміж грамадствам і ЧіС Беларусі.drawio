@@ -6874,9 +6874,6 @@
             <mxPoint x="5070" y="3255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0C3pQuXgAReGaeX7E_y-1" value="Грамадзянін ведае, што дадзенае асобнае ўздзеянне ЧіС на грамадства адбылося." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="2320" y="4000" width="320" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="m0C3pQuXgAReGaeX7E_y-2" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2260" y="4010" width="60" height="30" as="geometry" />
         </mxCell>
@@ -6967,9 +6964,6 @@
             <mxPoint x="1000" y="2940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-24" value="Грамадзянін не ведае, што дадзенае асобнае ўздзеянне ЧіС на грамадства адбылося." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2320" y="3840" width="320" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="KaPFAjRO9B8uVGCb-CFA-9" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2640" y="3820" width="80" height="120" as="geometry" />
         </mxCell>
@@ -6978,6 +6972,15 @@
             <mxPoint x="2530" y="3450" as="sourcePoint" />
             <mxPoint x="2250" y="3430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-9" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты для грамадзяніна ведаць пра здарэнне дадзенага асобнага ўздзеяння ЧіС на грамадства." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="3760" width="400" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-24" value="Грамадзянін не ведае, што дадзенае асобнае ўздзеянне ЧіС на грамадства адбылося." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="ZnFKz9h1lJ7Z8DgdpqAQ-9" vertex="1">
+          <mxGeometry x="40" y="80" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0C3pQuXgAReGaeX7E_y-1" value="Грамадзянін ведае, што дадзенае асобнае ўздзеянне ЧіС на грамадства адбылося." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="ZnFKz9h1lJ7Z8DgdpqAQ-9" vertex="1">
+          <mxGeometry x="40" y="240" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
