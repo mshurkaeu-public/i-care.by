@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-24" id="0">
+        <object label="" modifiedDate="2024-12-26" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-24" id="0">
+        <object label="" modifiedDate="2024-12-26" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-24" id="0">
+        <object label="" modifiedDate="2024-12-26" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -687,7 +687,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-24" id="0">
+        <object label="" modifiedDate="2024-12-26" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -845,7 +845,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-24" id="0">
+        <object label="" modifiedDate="2024-12-26" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -6926,6 +6926,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6705" y="3175" as="sourcePoint" />
             <mxPoint x="6960" y="3555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEEz8YYax2rxew5Q13B6-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AEEz8YYax2rxew5Q13B6-2" target="M2s-u5ifNbJ-EtP5Yrcn-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="3043" as="sourcePoint" />
+            <mxPoint x="-210" y="2903" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEEz8YYax2rxew5Q13B6-2" value="Для таго каб ствараць як мага больш спрыяльныя ўмовы для існавання і развіцця дыктатуры ЧіС, грамадзянін павінен накіроўваць як мага большую частку сваёй энергіі праз &quot;зялёныя&quot; і &quot;шэрыя&quot; элементы сваіх паводзін.&lt;br&gt;&lt;br&gt;Калі праз &quot;зялёныя&quot; і &quot;шэрыя&quot; элементы паводзін праходзіць 100% энергіі ўсіх аГрамадзян, а праз &quot;чырвоныя&quot; элементы паводзін праходзіць нуль энергіі аГрамадзян, то гэта можна назваць &quot;абсалютнай дыктатурай ЧіС&quot;. У такім выпадку падпарадкаванне аГрамадзян волі ЧіС абсалютна не абмежавана воляй аГрамадзян." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="2840" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AEEz8YYax2rxew5Q13B6-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AEEz8YYax2rxew5Q13B6-2" target="M2s-u5ifNbJ-EtP5Yrcn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="2850" as="sourcePoint" />
+            <mxPoint x="-70" y="2770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
