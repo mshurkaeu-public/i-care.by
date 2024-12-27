@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-26" id="0">
+        <object label="" modifiedDate="2024-12-27" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-26" id="0">
+        <object label="" modifiedDate="2024-12-27" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-26" id="0">
+        <object label="" modifiedDate="2024-12-27" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -687,7 +687,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-26" id="0">
+        <object label="" modifiedDate="2024-12-27" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -845,7 +845,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2024-12-26" id="0">
+        <object label="" modifiedDate="2024-12-27" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -889,7 +889,7 @@
         <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя элементы паводзін грамадзяніна ў адказ на дадзенае асобнае ўздзеянне ЧіС на грамадства.&lt;br&gt;Выніковыя паводзіны грамадзяніна з&#39;яўляюцца нейкай камбінацыяй такіх элементаў.&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="2480" width="1520" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-46" value="&lt;span&gt;грамадзянін&lt;br&gt;&lt;b&gt;супраціўляецца&lt;/b&gt;&lt;/span&gt;&lt;br&gt;гэтаму ўздзеянню" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-46" value="Грамадзянін памяньшае магчымасць існавання гэтага ўздзеяння." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qD9OXLXM4uNtDVzHjzJt-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" source="qD9OXLXM4uNtDVzHjzJt-1" target="trFHjS8OtI2W3_3FPiBj-46" edge="1">
@@ -907,7 +907,7 @@
             <mxPoint x="330" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-35" value="&lt;span&gt;грамадзянін&lt;br&gt;&lt;b&gt;падтрымвае&lt;/b&gt;&lt;/span&gt;&lt;br&gt;гэтае ўздзеянне" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-35" value="Грамадзянін павялічвае магчымасць існавання гэтага ўздзеяння." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
           <mxGeometry x="680" y="80" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qD9OXLXM4uNtDVzHjzJt-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" source="qD9OXLXM4uNtDVzHjzJt-4" target="trFHjS8OtI2W3_3FPiBj-35" edge="1">
@@ -925,7 +925,7 @@
             <mxPoint x="890" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trFHjS8OtI2W3_3FPiBj-16" value="грамадзянін&lt;br&gt;&lt;b&gt;нічога не робіць&lt;/b&gt;&lt;br&gt;у сувязі з гэтым&lt;br&gt;уздзеяннем." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
+        <mxCell id="trFHjS8OtI2W3_3FPiBj-16" value="Грамадзянін не змяняе магчымасць існавання гэтага ўздзеяння." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
           <mxGeometry x="1320" y="80" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-2" value="Пераважная большасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім жыцці.&lt;br&gt;&lt;br&gt;(&lt;br&gt;&lt;i&gt;Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падстве ананімнага апытання &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/25&lt;/font&gt;&lt;br&gt;&lt;/i&gt;- на падстве ўласных жыццёвых назіранняў)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
@@ -1096,7 +1096,7 @@
             <mxRectangle x="-680" y="2000" width="690" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-7" value="Грамадзянін &lt;b&gt;не мае меркавання, як гэтае ўздзеянне ўплывае&lt;/b&gt; на яго асабістыя інтарэсы, таму што не ведае, што дадзенае асобнае ўздзеянне ЧіС на грамадства адбылося." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" vertex="1" parent="JhPQRlO-KKgyaNoFn7eW-1">
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-7" value="Грамадзянін &lt;b&gt;не мае меркавання, як гэтае ўздзеянне ўплывае&lt;/b&gt; на яго асабістыя інтарэсы, таму што не ведае, што дадзенае асобнае ўздзеянне ЧіС на грамадства адбылося." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="JhPQRlO-KKgyaNoFn7eW-1" vertex="1">
           <mxGeometry x="40" y="80" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-26" value="Грамадзянін ведае, што дадзенае асобнае ўздзеянне ЧіС на грамадства адбылося, але &lt;b&gt;не мае меркавання, як гэтае ўздзеянне ўплывае&lt;/b&gt; на яго асабістыя інтарэсы." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" parent="JhPQRlO-KKgyaNoFn7eW-1" vertex="1">
@@ -6922,43 +6922,43 @@
             <mxPoint x="7400" y="3555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEEz8YYax2rxew5Q13B6-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AEEz8YYax2rxew5Q13B6-2" target="M2s-u5ifNbJ-EtP5Yrcn-2">
+        <mxCell id="AEEz8YYax2rxew5Q13B6-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AEEz8YYax2rxew5Q13B6-2" target="M2s-u5ifNbJ-EtP5Yrcn-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="3043" as="sourcePoint" />
             <mxPoint x="-210" y="2903" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEEz8YYax2rxew5Q13B6-2" value="Для таго каб ствараць як мага больш спрыяльныя ўмовы для існавання і развіцця дыктатуры ЧіС, грамадзянін павінен накіроўваць як мага большую частку сваёй энергіі праз &quot;зялёныя&quot; і &quot;шэрыя&quot; элементы сваіх паводзін.&lt;br&gt;&lt;br&gt;Калі праз &quot;зялёныя&quot; і &quot;шэрыя&quot; элементы паводзін праходзіць 100% энергіі ўсіх аГрамадзян, а праз &quot;чырвоныя&quot; элементы паводзін праходзіць нуль энергіі аГрамадзян, то гэта можна назваць &quot;абсалютнай дыктатурай ЧіС&quot;. У такім выпадку падпарадкаванне аГрамадзян волі ЧіС абсалютна не абмежавана воляй аГрамадзян." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="AEEz8YYax2rxew5Q13B6-2" value="Для таго каб ствараць як мага больш спрыяльныя ўмовы для існавання і развіцця дыктатуры ЧіС, грамадзянін павінен накіроўваць як мага большую частку сваёй энергіі праз &quot;зялёныя&quot; і &quot;шэрыя&quot; элементы сваіх паводзін.&lt;br&gt;&lt;br&gt;Калі праз &quot;зялёныя&quot; і &quot;шэрыя&quot; элементы паводзін праходзіць 100% энергіі ўсіх аГрамадзян, а праз &quot;чырвоныя&quot; элементы паводзін праходзіць нуль энергіі аГрамадзян, то гэта можна назваць &quot;абсалютнай дыктатурай ЧіС&quot;. У такім выпадку падпарадкаванне аГрамадзян волі ЧіС абсалютна не абмежавана воляй аГрамадзян." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="-160" y="2840" width="320" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="AEEz8YYax2rxew5Q13B6-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AEEz8YYax2rxew5Q13B6-2" target="M2s-u5ifNbJ-EtP5Yrcn-1">
+        <mxCell id="AEEz8YYax2rxew5Q13B6-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AEEz8YYax2rxew5Q13B6-2" target="M2s-u5ifNbJ-EtP5Yrcn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="2850" as="sourcePoint" />
             <mxPoint x="-70" y="2770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-1" value="грамадзянін &lt;b&gt;нічога не робіць&lt;/b&gt; у сувязі з гэтым уздзеяннем." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="3280" width="160" height="80" as="geometry" />
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-1" value="Грамадзянін не змяняе магчымасць існавання гэтага ўздзеяння." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="3280" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-2" value="&lt;span&gt;грамадзянін &lt;b&gt;падтрымвае&lt;/b&gt;&lt;/span&gt; гэтае ўздзеянне" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1520" y="3440" width="160" height="80" as="geometry" />
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-2" value="&lt;span&gt;Грамадзянін павялічвае магчымасць&lt;/span&gt; існавання гэтага ўздзеяння." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1520" y="3440" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#858585;" edge="1" parent="1" source="ZnFKz9h1lJ7Z8DgdpqAQ-7" target="ZnFKz9h1lJ7Z8DgdpqAQ-1">
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#858585;" parent="1" source="ZnFKz9h1lJ7Z8DgdpqAQ-7" target="ZnFKz9h1lJ7Z8DgdpqAQ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="2890" as="sourcePoint" />
             <mxPoint x="1490" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;fillColor=#d5e8d4;strokeColor=#00ff00;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZnFKz9h1lJ7Z8DgdpqAQ-7" target="ZnFKz9h1lJ7Z8DgdpqAQ-2">
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;fillColor=#d5e8d4;strokeColor=#00ff00;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZnFKz9h1lJ7Z8DgdpqAQ-7" target="ZnFKz9h1lJ7Z8DgdpqAQ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="3010" as="sourcePoint" />
             <mxPoint x="850" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-5" value="&lt;span&gt;грамадзянін &lt;b&gt;супраціўляецца&lt;/b&gt;&lt;/span&gt; гэтаму ўздзеянню" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1520" y="3600" width="160" height="80" as="geometry" />
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-5" value="&lt;span&gt;Грамадзянін памяньшае магчымасць&lt;/span&gt; існавання гэтага ўздзеяння." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1520" y="3600" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;strokeColor=#ff0000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZnFKz9h1lJ7Z8DgdpqAQ-7" target="ZnFKz9h1lJ7Z8DgdpqAQ-5">
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=1;strokeColor=#ff0000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZnFKz9h1lJ7Z8DgdpqAQ-7" target="ZnFKz9h1lJ7Z8DgdpqAQ-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="3130" as="sourcePoint" />
             <mxPoint x="1000" y="2940" as="targetPoint" />
@@ -6967,13 +6967,13 @@
         <mxCell id="KaPFAjRO9B8uVGCb-CFA-9" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2680" y="3820" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="trFHjS8OtI2W3_3FPiBj-24" target="ZnFKz9h1lJ7Z8DgdpqAQ-7">
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="trFHjS8OtI2W3_3FPiBj-24" target="ZnFKz9h1lJ7Z8DgdpqAQ-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2530" y="3450" as="sourcePoint" />
             <mxPoint x="2250" y="3430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-9" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты для грамадзяніна ведаць пра здарэнне дадзенага асобнага ўздзеяння ЧіС на грамадства." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" vertex="1" parent="1">
+        <mxCell id="ZnFKz9h1lJ7Z8DgdpqAQ-9" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты для грамадзяніна ведаць пра здарэнне дадзенага асобнага ўздзеяння ЧіС на грамадства." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="2320" y="3760" width="400" height="360" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-24" value="Грамадзянін не ведае, што дадзенае асобнае ўздзеянне ЧіС на грамадства адбылося." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;fillColor=default;" parent="ZnFKz9h1lJ7Z8DgdpqAQ-9" vertex="1">
