@@ -878,19 +878,19 @@
           <mxGeometry x="-1600" y="2760" width="1520" height="360" as="geometry" />
         </mxCell>
         <mxCell id="hciFa1by5LvJK5wFZR8x-2" value="Грамадзянін не змяняе магчымасць існавання свайго ўяўлення аб больш прывабным будучым." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
-          <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
+          <mxGeometry x="40" y="80" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="j5JjeeWauFz4Uhg9E__5-15" value="Грамадзянін памяньшае магчымасць існавання свайго ўяўлення аб больш прывабным будучым." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;gradientColor=none;gradientDirection=west;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
-          <mxGeometry x="680" y="80" width="160" height="120" as="geometry" />
+          <mxGeometry x="680" y="80" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="utNHYfiI1P-ElOVeHikR-3" value="Грамадзянін павялічвае магчымасць існавання свайго ўяўлення аб больш прывабным будучым." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;gradientDirection=west;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
-          <mxGeometry x="1320" y="80" width="160" height="120" as="geometry" />
+          <mxGeometry x="1320" y="80" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя элементы паводзін грамадзяніна ў адказ на дадзенае асобнае ўздзеянне ЧіС на грамадства.&lt;br&gt;Выніковыя паводзіны грамадзяніна з&#39;яўляюцца нейкай камбінацыяй такіх элементаў.&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="2760" width="1520" height="360" as="geometry" />
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-46" value="Грамадзянін памяньшае магчымасць існавання гэтага ўздзеяння." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
-          <mxGeometry x="40" y="80" width="160" height="120" as="geometry" />
+          <mxGeometry x="40" y="80" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qD9OXLXM4uNtDVzHjzJt-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" source="qD9OXLXM4uNtDVzHjzJt-1" target="trFHjS8OtI2W3_3FPiBj-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -908,7 +908,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-35" value="Грамадзянін павялічвае магчымасць існавання гэтага ўздзеяння." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
-          <mxGeometry x="680" y="80" width="160" height="120" as="geometry" />
+          <mxGeometry x="680" y="80" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qD9OXLXM4uNtDVzHjzJt-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" source="qD9OXLXM4uNtDVzHjzJt-4" target="trFHjS8OtI2W3_3FPiBj-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -926,7 +926,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="trFHjS8OtI2W3_3FPiBj-16" value="Грамадзянін не змяняе магчымасць існавання гэтага ўздзеяння." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-1" vertex="1">
-          <mxGeometry x="1320" y="80" width="160" height="120" as="geometry" />
+          <mxGeometry x="1320" y="80" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="3fLgss1ITQnwHuJ1fyQ3-2" value="Пераважная большасць беларусаў не лічаць сябе найважнейшымі людзьмі ў сваім жыцці.&lt;br&gt;&lt;br&gt;(&lt;br&gt;&lt;i&gt;Гэта мая здагадка аб беларускім грамадстве&lt;br&gt;- на падстве ананімнага апытання &lt;font color=&quot;#0000ff&quot;&gt;https://t.me/icare_by/25&lt;/font&gt;&lt;br&gt;&lt;/i&gt;- на падстве ўласных жыццёвых назіранняў)" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="5920" y="21280" width="320" height="240" as="geometry" />
