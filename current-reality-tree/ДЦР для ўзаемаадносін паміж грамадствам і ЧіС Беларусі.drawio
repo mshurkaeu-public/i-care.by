@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.4" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.5" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-08" id="0">
+        <object label="" modifiedDate="2025-01-10" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-08" id="0">
+        <object label="" modifiedDate="2025-01-10" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-08" id="0">
+        <object label="" modifiedDate="2025-01-10" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -681,58 +681,76 @@
             <mxPoint x="210" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-1" value="Усе тыя аспекты жыцця ў грамадстве з наяўнасцю ЧіС, якія ствараюць абставіны для грамадзяніна." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-1" value="Усе тыя аспекты жыцця ў грамадстве з наяўнасцю ЧіС, якія ствараюць абставіны для грамадзяніна." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-1640" y="480" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PyjjiuFDxPd6kvhjh_p-1" target="pH6i_DQoBayqS64Z1WDT-40">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9PyjjiuFDxPd6kvhjh_p-1" target="pH6i_DQoBayqS64Z1WDT-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2070" y="570" as="sourcePoint" />
             <mxPoint x="-1870" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-3" value="Усе тыя аспекты жыцця ў грамадстве з наяўнасцю ЧіС, якія ствараюць абставіны для чалавека з групы ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-3" value="Усе тыя аспекты жыцця ў грамадстве з наяўнасцю ЧіС, якія ствараюць абставіны для чалавека з групы ЧіС." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1320" y="480" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PyjjiuFDxPd6kvhjh_p-3" target="TeYbLZwB-wBGcTWmNWJ6-2">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9PyjjiuFDxPd6kvhjh_p-3" target="TeYbLZwB-wBGcTWmNWJ6-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2090" y="570" as="sourcePoint" />
             <mxPoint x="1890" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-5" value="Усе іншыя аспекты жыцця грамадзяніна, якія ствараюць абставіны для гэтага грамадзяніна." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-5" value="Усе іншыя аспекты жыцця грамадзяніна, якія ствараюць абставіны для гэтага грамадзяніна." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-2040" y="480" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PyjjiuFDxPd6kvhjh_p-5" target="pH6i_DQoBayqS64Z1WDT-40">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9PyjjiuFDxPd6kvhjh_p-5" target="pH6i_DQoBayqS64Z1WDT-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2269" y="570" as="sourcePoint" />
             <mxPoint x="-1870" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-7" value="Гэтая група аспектаў патрэбна, каб апісаць тое, што непасрэдна не закранаецца або слаба закранаецца ў дадзены момант уздзеяннем грамадства і ЧіС а таксама &quot;трэцімі сіламі&quot;, а яно існуе і стварае нейкія абставіны для чалавека. Напрыклад, ДНК, ужо існуючы жыццёвы досвед, тое, што чалавек стварае самастойна (калі такое існуе)." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-7" value="Гэтая група аспектаў патрэбна, каб апісаць тое, што непасрэдна не закранаецца або слаба закранаецца ў дадзены момант уздзеяннем грамадства і ЧіС а таксама &quot;трэцімі сіламі&quot;, а яно існуе і стварае нейкія абставіны для чалавека. Напрыклад, ДНК, ужо існуючы жыццёвы досвед, тое, што чалавек стварае самастойна (калі такое існуе)." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="-2040" y="200" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PyjjiuFDxPd6kvhjh_p-7" target="9PyjjiuFDxPd6kvhjh_p-5">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9PyjjiuFDxPd6kvhjh_p-7" target="9PyjjiuFDxPd6kvhjh_p-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1469" y="-31" as="sourcePoint" />
             <mxPoint x="-2028" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-10" value="Усе іншыя аспекты жыцця чалавека з ЧіС, якія ствараюць абставіны для гэтага чалавека." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-10" value="Усе іншыя аспекты жыцця чалавека з ЧіС, якія ствараюць абставіны для гэтага чалавека." style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1720" y="480" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-11" value="Гэтая група аспектаў патрэбна, каб апісаць тое, што непасрэдна не закранаецца або слаба закранаецца ў дадзены момант уздзеяннем грамадства і ЧіС а таксама &quot;трэцімі сіламі&quot;, а яно існуе і стварае нейкія абставіны для чалавека. Напрыклад, ДНК, ужо існуючы жыццёвы досвед, тое, што чалавек стварае самастойна (калі такое існуе)." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-11" value="Гэтая група аспектаў патрэбна, каб апісаць тое, што непасрэдна не закранаецца або слаба закранаецца ў дадзены момант уздзеяннем грамадства і ЧіС а таксама &quot;трэцімі сіламі&quot;, а яно існуе і стварае нейкія абставіны для чалавека. Напрыклад, ДНК, ужо існуючы жыццёвы досвед, тое, што чалавек стварае самастойна (калі такое існуе)." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="1720" y="200" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PyjjiuFDxPd6kvhjh_p-11" target="9PyjjiuFDxPd6kvhjh_p-10">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9PyjjiuFDxPd6kvhjh_p-11" target="9PyjjiuFDxPd6kvhjh_p-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2131" y="-401" as="sourcePoint" />
             <mxPoint x="1572" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9PyjjiuFDxPd6kvhjh_p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9PyjjiuFDxPd6kvhjh_p-10" target="TeYbLZwB-wBGcTWmNWJ6-2">
+        <mxCell id="9PyjjiuFDxPd6kvhjh_p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9PyjjiuFDxPd6kvhjh_p-10" target="TeYbLZwB-wBGcTWmNWJ6-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1490" y="570" as="sourcePoint" />
             <mxPoint x="1890" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExV0328GEkrOiPZ0Fk5S-1" value="Заўвага: клопат аб слабых блізкіх, выхаванне дзяцей з&#39;яўляюцца аспектамі жыцця ў грамадстве." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExV0328GEkrOiPZ0Fk5S-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExV0328GEkrOiPZ0Fk5S-1" target="9PyjjiuFDxPd6kvhjh_p-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1099" y="-71" as="sourcePoint" />
+            <mxPoint x="-1510" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ExV0328GEkrOiPZ0Fk5S-3" value="Заўвага: клопат аб слабых блізкіх, выхаванне дзяцей з&#39;яўляюцца аспектамі жыцця ў грамадстве." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ExV0328GEkrOiPZ0Fk5S-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ExV0328GEkrOiPZ0Fk5S-3" target="9PyjjiuFDxPd6kvhjh_p-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2021" y="-71" as="sourcePoint" />
+            <mxPoint x="1560" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -741,7 +759,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-08" id="0">
+        <object label="" modifiedDate="2025-01-10" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -899,7 +917,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-08" id="0">
+        <object label="" modifiedDate="2025-01-10" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
