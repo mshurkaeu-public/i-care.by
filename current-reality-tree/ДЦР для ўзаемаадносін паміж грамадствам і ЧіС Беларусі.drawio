@@ -6708,8 +6708,8 @@
         <mxCell id="tElrO7AkirXMQkXSnzl--7" value="Усе іншыя аспекты жыцця грамадзяніна, якія ствараюць абставіны для гэтага грамадзяніна." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="tElrO7AkirXMQkXSnzl--5" vertex="1">
           <mxGeometry x="440" y="40" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tElrO7AkirXMQkXSnzl--8" value="Усе тыя аспекты жыцця ў грамадстве з наяўнасцю ЧіС, якія ствараюць абставіны для грамадзяніна." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="tElrO7AkirXMQkXSnzl--5" vertex="1">
-          <mxGeometry x="840" y="40" width="320" height="80" as="geometry" />
+        <mxCell id="tElrO7AkirXMQkXSnzl--8" value="Усе тыя аспекты жыцця ў грамадстве з наяўнасцю ЧіС, якія ствараюць абставіны для грамадзяніна. &lt;b&gt;Акрамя тых аспектаў, дзе непасрэдна ўздзеянне ЧіС на грамадства стварае абставіны для грамадзяніна.&lt;/b&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="tElrO7AkirXMQkXSnzl--5" vertex="1">
+          <mxGeometry x="840" y="40" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="B4Vb4ssWsXtlDbEDd_uy-1" value="Усе &quot;трэція сілы&quot;, якія ствараюць абставіны для грамадзяніна." style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="tElrO7AkirXMQkXSnzl--5" vertex="1">
           <mxGeometry x="40" y="40" width="320" height="80" as="geometry" />
@@ -6775,10 +6775,10 @@
             <mxPoint x="10" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3YGW2rDUU7iP923bcYd-1" value="Прыклады:&lt;br&gt;• yздзеянне аГрамадства;&lt;br&gt;• прыродная з&#39;ява;&lt;br&gt;• проста нейкае здарэнне ў жыцці грамадзяніна;&lt;br&gt;• проста прайшоў нейкі час;&lt;br&gt;• і г.д.&lt;br&gt;---&lt;br&gt;&lt;br&gt;А ўсё тое, што выклікана непасрэдным уздзеяннем ЧіС на грамадства, апісана ў правай частцы схемы." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
-          <mxGeometry x="-1880" y="1320" width="400" height="200" as="geometry" />
+        <mxCell id="r3YGW2rDUU7iP923bcYd-1" value="Усё тое, што выклікаецца непасрэдна ўздзеяннем ЧіС на грамадства, апісана ў правай частцы схемы." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="-1480" y="1160" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="r3YGW2rDUU7iP923bcYd-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="r3YGW2rDUU7iP923bcYd-1" target="1A97xfqU8RugEwtwURiV-1" edge="1">
+        <mxCell id="r3YGW2rDUU7iP923bcYd-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="r3YGW2rDUU7iP923bcYd-1" target="tElrO7AkirXMQkXSnzl--8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1830" y="1540" as="sourcePoint" />
             <mxPoint x="-1815" y="1124" as="targetPoint" />
