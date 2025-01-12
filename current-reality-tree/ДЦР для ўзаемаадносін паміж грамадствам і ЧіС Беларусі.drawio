@@ -6764,7 +6764,7 @@
             <mxPoint x="-1950" y="1570" as="sourcePoint" />
             <mxPoint x="-1440" y="1940" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2120" y="2360" />
+              <mxPoint x="-1800" y="2360" />
               <mxPoint x="-1240" y="2360" />
             </Array>
           </mxGeometry>
@@ -6860,13 +6860,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-5" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты грамадзяніну мець патрабаванне да ЧіС у склаўшыхся абставінах." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="-2720" y="2160" width="800" height="200" as="geometry" />
+          <mxGeometry x="-2720" y="2160" width="1120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-1" value="У грамадзяніна ўзнікае нейкае пажаданне/патрабаванне да ЧіС, якое ўяўляецца падтрымваючым здзяйсненне ўяўляемага больш прывабнага будучага." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="DYvX6vR9icD-8CRXjMKn-5" vertex="1">
           <mxGeometry x="40" y="40" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-2" value="У грамадзяніна не ўзнікае ніякага пажадання/патрабавання да ЧіС." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="DYvX6vR9icD-8CRXjMKn-5" vertex="1">
-          <mxGeometry x="440" y="40" width="320" height="120" as="geometry" />
+          <mxGeometry x="760" y="40" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-6" value="У грамадзяніна ўзнікае нейкае пажаданне/патрабаванне да ЧіС." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2440" y="2440" width="320" height="80" as="geometry" />
@@ -7146,8 +7146,8 @@
             <mxPoint x="-2110" y="2010" as="sourcePoint" />
             <mxPoint x="-1230" y="2010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2520" y="2400" />
-              <mxPoint x="-1240" y="2400" />
+              <mxPoint x="-2520" y="2520" />
+              <mxPoint x="-1240" y="2520" />
             </Array>
           </mxGeometry>
         </mxCell>
