@@ -7138,8 +7138,14 @@
             <mxPoint x="-2350" y="1555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nXg0idEVgzRUricIJ_qz-10" value="У грамадзяніна ўзнікае нейкае ўяўленне аб будучым, больш прывабным чым сітуацыя ў дадзены момант." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-2480" y="1680" width="320" height="120" as="geometry" />
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-3" value="Далейшыя дзеяння грамадзяніна абапіраюцца хаця б на адзін з гэтых арыенціраў." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" vertex="1" parent="1">
+          <mxGeometry x="-2520" y="1640" width="800" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nXg0idEVgzRUricIJ_qz-10" value="У грамадзяніна ўзнікае нейкае ўяўленне аб будучым, больш прывабным чым сітуацыя ў дадзены момант. &lt;span style=&quot;color: rgb(128, 128, 128);&quot;&gt;(А калі няма заўважнай арыентацыі на працэс, то можна назваць гэта &quot;арыентаванасцю чалавека на вынік&quot;.)&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=default;" parent="I13tzkOtrJxUUw6-0AF4-3" vertex="1">
+          <mxGeometry x="40" y="40" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-2" value="У грамадзяніна ўзнікае нейкае ўяўленне аб найбольш прывабных працэсах перахода у будучае. &lt;span style=&quot;color: rgb(128, 128, 128);&quot;&gt;(А калі няма заўважнай арыентацыі на будучы вынік, то можна назваць гэта &quot;арыентаванасцю чалавека на працэс&quot;.)&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=default;" vertex="1" parent="I13tzkOtrJxUUw6-0AF4-3">
+          <mxGeometry x="440" y="40" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nXg0idEVgzRUricIJ_qz-11" value="i" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2380" y="1600" width="120" height="80" as="geometry" />
@@ -7318,6 +7324,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2510" y="1290" as="sourcePoint" />
             <mxPoint x="-2110" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1A97xfqU8RugEwtwURiV-1" target="I13tzkOtrJxUUw6-0AF4-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2110" y="1570" as="sourcePoint" />
+            <mxPoint x="-2310" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
