@@ -1297,6 +1297,10 @@
   "@aboutMyGratitude_2025_01_16_01": {
     "description": "Text for 2025-01-16 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_01_16_02": "\n2025-01-16 каманда Flutter — 🛠️ стварыла Flutter версіі 3.27.2 (2025-01-13), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2025_01_16_02": {
+    "description": "Text for 2025-01-16 Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_01_title": "\n\n2025-01\n",
   "@aboutMyGratitude_2025_01_title": {
     "description": "Title for 2025-01 list/text on the \"my gratitude\" tab on the \"About\" page."
