@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.5" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.6" pages="5">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-12" id="0">
+        <object label="" modifiedDate="2025-01-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-12" id="0">
+        <object label="" modifiedDate="2025-01-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-12" id="0">
+        <object label="" modifiedDate="2025-01-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -765,7 +765,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-12" id="0">
+        <object label="" modifiedDate="2025-01-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -923,7 +923,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-12" id="0">
+        <object label="" modifiedDate="2025-01-16" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -955,13 +955,13 @@
         <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-2" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя элементы паводзін грамадзяніна ў адказ на сваё ўяўленне аб больш прывабным будучым праз патрабаванне да ЧіС, якое ўзнікла па прычынах не выкліканых ўздзеяннем ЧіС на грамадства.&lt;br&gt;Выніковыя паводзіны грамадзяніна з&#39;яўляюцца нейкай камбінацыяй такіх элементаў.&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-1600" y="2760" width="1520" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="hciFa1by5LvJK5wFZR8x-2" value="Грамадзянін не змяняе магчымасць існавання свайго ўяўлення аб больш прывабным будучым." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
+        <mxCell id="hciFa1by5LvJK5wFZR8x-2" value="Грамадзянін не змяняе магчымасць таго, каб ЧіС выканалі яго волю для дасягнення прывабных вынікаў ці працэсаў." style="text;html=1;strokeColor=#BFBFBF;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#333333;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="j5JjeeWauFz4Uhg9E__5-15" value="Грамадзянін памяньшае магчымасць існавання свайго ўяўлення аб больш прывабным будучым." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;gradientColor=none;gradientDirection=west;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
+        <mxCell id="j5JjeeWauFz4Uhg9E__5-15" value="Грамадзянін памяньшае магчымасць таго, каб ЧіС выканалі яго волю для дасягнення прывабных вынікаў ці працэсаў." style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;gradientColor=none;gradientDirection=west;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
           <mxGeometry x="680" y="80" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="utNHYfiI1P-ElOVeHikR-3" value="Грамадзянін павялічвае магчымасць існавання свайго ўяўлення аб больш прывабным будучым." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;gradientDirection=west;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
+        <mxCell id="utNHYfiI1P-ElOVeHikR-3" value="Грамадзянін павялічвае магчымасць таго, каб ЧіС выканалі яго волю для дасягнення прывабных вынікаў ці працэсаў." style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=0;gradientDirection=west;" parent="M2s-u5ifNbJ-EtP5Yrcn-2" vertex="1">
           <mxGeometry x="1320" y="80" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="M2s-u5ifNbJ-EtP5Yrcn-1" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;Гэта ўсе (&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;? усе ?&lt;/font&gt;) магчымыя элементы паводзін грамадзяніна ў адказ на дадзенае асобнае ўздзеянне ЧіС на грамадства.&lt;br&gt;Выніковыя паводзіны грамадзяніна з&#39;яўляюцца нейкай камбінацыяй такіх элементаў.&lt;br&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;swimlaneLine=0;fillColor=#E6E6E6;fontSize=14;verticalAlign=top;strokeColor=#B3B3B3;fontStyle=0;fillStyle=hatch;glass=0;shadow=0;swimlaneFillColor=#E6E6E6;spacing=2;flipH=1;" parent="1" vertex="1">
@@ -6764,8 +6764,8 @@
             <mxPoint x="-1950" y="1570" as="sourcePoint" />
             <mxPoint x="-1440" y="1940" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1800" y="2360" />
-              <mxPoint x="-1240" y="2360" />
+              <mxPoint x="-1800" y="2400" />
+              <mxPoint x="-1240" y="2400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6860,15 +6860,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-5" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя варыянты грамадзяніну мець патрабаванне да ЧіС у склаўшыхся абставінах." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
-          <mxGeometry x="-2720" y="2160" width="1120" height="200" as="geometry" />
+          <mxGeometry x="-2720" y="2160" width="1120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="DYvX6vR9icD-8CRXjMKn-1" value="У грамадзяніна ўзнікае нейкае пажаданне/патрабаванне да ЧіС, якое ўяўляецца падтрымваючым здзяйсненне ўяўляемага больш прывабнага будучага." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="DYvX6vR9icD-8CRXjMKn-5" vertex="1">
-          <mxGeometry x="40" y="40" width="320" height="120" as="geometry" />
+        <mxCell id="DYvX6vR9icD-8CRXjMKn-1" value="У грамадзяніна ўзнікае нейкае пажаданне/патрабаванне да ЧіС, якое ўяўляецца вядучым да прывабных вынікаў ці працэсаў. Іншымі словамі, у гэты момант грамадзянін сутыкаецца з неабходнасцю таго, каб ЧіС выканалі яго волю для дасягнення прывабных вынікаў ці працэсаў." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="DYvX6vR9icD-8CRXjMKn-5" vertex="1">
+          <mxGeometry x="40" y="40" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-2" value="У грамадзяніна не ўзнікае ніякага пажадання/патрабавання да ЧіС." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=#FF0000;" parent="DYvX6vR9icD-8CRXjMKn-5" vertex="1">
-          <mxGeometry x="760" y="40" width="320" height="120" as="geometry" />
+          <mxGeometry x="760" y="40" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="DYvX6vR9icD-8CRXjMKn-6" value="У грамадзяніна ўзнікае нейкае пажаданне/патрабаванне да ЧіС." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="DYvX6vR9icD-8CRXjMKn-6" value="Грамадзянін сутыкаецца з неабходнасцю таго, каб ЧіС выканалі яго волю для дасягнення прывабных вынікаў ці працэсаў." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2440" y="2440" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DYvX6vR9icD-8CRXjMKn-6" target="DYvX6vR9icD-8CRXjMKn-8" edge="1">
@@ -7132,13 +7132,13 @@
             <mxPoint x="-2390" y="1555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-3" value="Далейшыя дзеяння грамадзяніна абапіраюцца хаця б на адзін з гэтых арыенціраў." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" vertex="1" parent="1">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-3" value="Далейшыя дзеяння грамадзяніна абапіраюцца хаця б на адзін з гэтых арыенціраў." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=cross-hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="-2560" y="1680" width="800" height="200" as="geometry" />
         </mxCell>
         <mxCell id="nXg0idEVgzRUricIJ_qz-10" value="У грамадзяніна ўзнікае нейкае ўяўленне аб будучым, больш прывабным чым сітуацыя ў дадзены момант." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=default;" parent="I13tzkOtrJxUUw6-0AF4-3" vertex="1">
           <mxGeometry x="40" y="40" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-2" value="У грамадзяніна ўзнікае нейкае ўяўленне аб найбольш прывабных працэсах/спосабах перахода у будучае/выхаду з цяперашніх абставін." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=default;" vertex="1" parent="I13tzkOtrJxUUw6-0AF4-3">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-2" value="У грамадзяніна ўзнікае нейкае ўяўленне аб найбольш прывабных працэсах/спосабах перахода у будучае/выхаду з цяперашніх абставін." style="text;html=1;strokeColor=default;fillColor=default;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;flipH=1;fontColor=default;" parent="I13tzkOtrJxUUw6-0AF4-3" vertex="1">
           <mxGeometry x="440" y="40" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4briIe6S_PTGBB7sf8SV-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DYvX6vR9icD-8CRXjMKn-1" target="d9ed2R7lmkVjTA7QcAkW-1" edge="1">
@@ -7146,8 +7146,8 @@
             <mxPoint x="-2110" y="2010" as="sourcePoint" />
             <mxPoint x="-1230" y="2010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2520" y="2520" />
-              <mxPoint x="-1240" y="2520" />
+              <mxPoint x="-2520" y="2560" />
+              <mxPoint x="-1240" y="2560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -7299,43 +7299,52 @@
             <mxPoint x="-2110" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1A97xfqU8RugEwtwURiV-1" target="I13tzkOtrJxUUw6-0AF4-2">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1A97xfqU8RugEwtwURiV-1" target="I13tzkOtrJxUUw6-0AF4-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2150" y="1570" as="sourcePoint" />
             <mxPoint x="-2350" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-5" value="А калі няма заўважнай арыентацыі на будучы вынік, то можна назваць гэта &quot;арыентаванасцю чалавека на працэс&quot;.&lt;br&gt;&lt;br&gt;Думаю, што ў гэтую катэгорыю трапляе хуткае дзеянне ў адказ на моцную эмоцыю, якую грамадзянін адчуў у нейкіх абставінах. Напрыклад, нехта назваў грамадзяніна ідыётам — выбух гневу, бойка, арышт. У гэтым прыкладзе бойка — імгненна выбраны спосаб выхаду энергіі гневу &quot;шляхам найменшага супраціўлення&quot;, як разрад маланкі. Думаю, &quot;шлях найменшага супраціўлення&quot; падыходзіць пад апісанне &quot;найбольш прывабны спосаб выхаду з цяперашніх абставін&quot;." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-5" value="А калі няма заўважнай арыентацыі на будучы вынік, то можна назваць гэта &quot;арыентаванасцю чалавека на працэс&quot;.&lt;br&gt;&lt;br&gt;Думаю, што ў гэтую катэгорыю трапляе хуткае дзеянне ў адказ на моцную эмоцыю, якую грамадзянін адчуў у нейкіх абставінах. Напрыклад, нехта назваў грамадзяніна ідыётам — выбух гневу, бойка, арышт. У гэтым прыкладзе бойка — імгненна выбраны спосаб выхаду энергіі гневу &quot;шляхам найменшага супраціўлення&quot;, як разрад маланкі. Думаю, &quot;шлях найменшага супраціўлення&quot; падыходзіць пад апісанне &quot;найбольш прывабны спосаб выхаду з цяперашніх абставін&quot;." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="-1960" y="1400" width="480" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I13tzkOtrJxUUw6-0AF4-5" target="I13tzkOtrJxUUw6-0AF4-2">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="I13tzkOtrJxUUw6-0AF4-5" target="I13tzkOtrJxUUw6-0AF4-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2200" y="1910" as="sourcePoint" />
             <mxPoint x="-1930" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-7" value="А калі няма заўважнай арыентацыі на працэс, то можна назваць гэта &quot;арыентаванасцю чалавека на вынік&quot;." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-7" value="А калі няма заўважнай арыентацыі на працэс, то можна назваць гэта &quot;арыентаванасцю чалавека на вынік&quot;." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="-2600" y="1520" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I13tzkOtrJxUUw6-0AF4-7" target="nXg0idEVgzRUricIJ_qz-10">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="I13tzkOtrJxUUw6-0AF4-7" target="nXg0idEVgzRUricIJ_qz-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2950" y="1900" as="sourcePoint" />
             <mxPoint x="-2680" y="1580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#0000CC;strokeColor=#0000CC;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-2175" y="1985" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nXg0idEVgzRUricIJ_qz-10" target="I13tzkOtrJxUUw6-0AF4-9">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nXg0idEVgzRUricIJ_qz-10" target="I13tzkOtrJxUUw6-0AF4-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2110" y="1985" as="sourcePoint" />
             <mxPoint x="-2510" y="2090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I13tzkOtrJxUUw6-0AF4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I13tzkOtrJxUUw6-0AF4-2" target="I13tzkOtrJxUUw6-0AF4-9">
+        <mxCell id="I13tzkOtrJxUUw6-0AF4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I13tzkOtrJxUUw6-0AF4-2" target="I13tzkOtrJxUUw6-0AF4-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2310" y="1850" as="sourcePoint" />
             <mxPoint x="-2110" y="1955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UYlb_XnZ9-q2qlSjbhtu-3" value="Пажаданне/патрабаванне да ЧіС не можа выканацца інакш. Могуць змяніцца нейкія абставіны грамадзяніна, і, як вынік гэтага, пажаданне/патрабаванне можа знікнуць. Але існаваць, а потым выканацца пажаданне/патрабаванне да ЧіС можа &lt;u&gt;толькі&lt;/u&gt; праз выкананне ЧіС волі грамадзяніна. Гэта важны нюанс для далейшага аналізу. (Выкананне тэарэтычна магчыма праз &quot;чыстае падпарадкаванне&quot; або праз &quot;ўзаемавыгадную супрацу&quot;.)" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-3200" y="2200" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UYlb_XnZ9-q2qlSjbhtu-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UYlb_XnZ9-q2qlSjbhtu-3" target="DYvX6vR9icD-8CRXjMKn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3310" y="2580" as="sourcePoint" />
+            <mxPoint x="-2800" y="2400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
