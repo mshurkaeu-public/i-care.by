@@ -3490,7 +3490,7 @@
             <mxPoint x="2530" y="2775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KaPFAjRO9B8uVGCb-CFA-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="trFHjS8OtI2W3_3FPiBj-24" edge="1">
+        <mxCell id="KaPFAjRO9B8uVGCb-CFA-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="amg76jyvHcLyriArkF44-7" target="trFHjS8OtI2W3_3FPiBj-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2140" y="2560" as="sourcePoint" />
             <mxPoint x="1970" y="3290" as="targetPoint" />
@@ -3521,7 +3521,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KaPFAjRO9B8uVGCb-CFA-15" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="2850" y="2495" width="60" height="30" as="geometry" />
+          <mxGeometry x="2850" y="2975" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0vqqIDfPm7rMvMw0exrb-3" value="Усе (&lt;font color=&quot;#ff0000&quot;&gt;? усе ?&lt;/font&gt;) магчымыя тыпы ўсведамлення чалавекам наяўнасці перашкод, якія блакуюць яму выкананне дзеяння &lt;i&gt;D&lt;/i&gt;." style="swimlane;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;fillStyle=hatch;strokeColor=#B3B3B3;align=center;verticalAlign=top;spacing=2;swimlaneFillColor=#E6E6E6;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=0;fillColor=#E6E6E6;swimlaneLine=0;" parent="1" vertex="1">
           <mxGeometry x="14680" y="4560" width="400" height="13120" as="geometry" />
@@ -6878,22 +6878,22 @@
           <mxGeometry x="760" y="40" width="320" height="160" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-6" value="Грамадзянін сутыкаецца з неабходнасцю таго, каб ЧіС выканалі яго волю для дасягнення прывабных вынікаў." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2440" y="2440" width="320" height="80" as="geometry" />
+          <mxGeometry x="-2440" y="2920" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DYvX6vR9icD-8CRXjMKn-6" target="DYvX6vR9icD-8CRXjMKn-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1530" y="2646" as="sourcePoint" />
-            <mxPoint x="-2410" y="2236" as="targetPoint" />
+            <mxPoint x="-1530" y="3126" as="sourcePoint" />
+            <mxPoint x="-2410" y="2716" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-8" value="￬" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="-2535" y="2465" width="30" height="30" as="geometry" />
+          <mxGeometry x="-2535" y="2945" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-9" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2190" y="2015" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-10" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-2550" y="2495" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2550" y="2975" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYvX6vR9icD-8CRXjMKn-11" value="і" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2200" y="3840" width="80" height="120" as="geometry" />
@@ -7012,7 +7012,7 @@
         <mxCell id="m0C3pQuXgAReGaeX7E_y-2" value="або" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2300" y="4010" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m0C3pQuXgAReGaeX7E_y-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="m0C3pQuXgAReGaeX7E_y-1" edge="1">
+        <mxCell id="m0C3pQuXgAReGaeX7E_y-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="amg76jyvHcLyriArkF44-7" target="m0C3pQuXgAReGaeX7E_y-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2330" y="2505" as="sourcePoint" />
             <mxPoint x="2130" y="3070" as="targetPoint" />
@@ -7354,6 +7354,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3310" y="2580" as="sourcePoint" />
             <mxPoint x="-2800" y="2400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amg76jyvHcLyriArkF44-5" value="У склаўшыхся абставінах ЧіС робяць нейкае асобнае ўздзеянне на грамадства." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="2920" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="amg76jyvHcLyriArkF44-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="amg76jyvHcLyriArkF44-5" target="amg76jyvHcLyriArkF44-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3870" y="3126" as="sourcePoint" />
+            <mxPoint x="2990" y="2716" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amg76jyvHcLyriArkF44-7" value="￬" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="2865" y="2945" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="amg76jyvHcLyriArkF44-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KaPFAjRO9B8uVGCb-CFA-1" target="amg76jyvHcLyriArkF44-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2890" y="2330" as="sourcePoint" />
+            <mxPoint x="2900" y="2730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
