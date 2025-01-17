@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-16" id="0">
+        <object label="" modifiedDate="2025-01-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-16" id="0">
+        <object label="" modifiedDate="2025-01-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-16" id="0">
+        <object label="" modifiedDate="2025-01-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -765,7 +765,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-16" id="0">
+        <object label="" modifiedDate="2025-01-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -923,7 +923,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-01-16" id="0">
+        <object label="" modifiedDate="2025-01-17" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
@@ -7338,10 +7338,10 @@
             <mxPoint x="-2110" y="1955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UYlb_XnZ9-q2qlSjbhtu-3" value="Пажаданне/патрабаванне да ЧіС не можа выканацца інакш. Могуць змяніцца нейкія абставіны грамадзяніна, і, як вынік гэтага, пажаданне/патрабаванне можа знікнуць. Але існаваць, а потым выканацца пажаданне/патрабаванне да ЧіС можа &lt;u&gt;толькі&lt;/u&gt; праз выкананне ЧіС волі грамадзяніна. Гэта важны нюанс для далейшага аналізу. (Выкананне тэарэтычна магчыма праз &quot;чыстае падпарадкаванне&quot; або праз &quot;ўзаемавыгадную супрацу&quot;.)" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="-3200" y="2200" width="440" height="160" as="geometry" />
+        <mxCell id="UYlb_XnZ9-q2qlSjbhtu-3" value="Пажаданне/патрабаванне да ЧіС не можа выканацца інакш. Могуць змяніцца нейкія абставіны грамадзяніна, і, як вынік гэтага, пажаданне/патрабаванне можа знікнуць. Але існаваць, а потым выканацца пажаданне/патрабаванне да ЧіС можа &lt;u&gt;толькі&lt;/u&gt; праз выкананне ЧіС волі грамадзяніна. Гэта важны нюанс для далейшага аналізу. Выкананне тэарэтычна магчыма рознымі спосабамі. Напрыклад: выпадкова або праз &quot;чыстае падпарадкаванне&quot;, або праз свядомую &quot;ўзаемавыгадную супрацу&quot;." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;rotation=0;fontStyle=0;glass=0;shadow=0;dashed=1;arcSize=7;" parent="1" vertex="1">
+          <mxGeometry x="-3280" y="2200" width="520" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UYlb_XnZ9-q2qlSjbhtu-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UYlb_XnZ9-q2qlSjbhtu-3" target="DYvX6vR9icD-8CRXjMKn-1">
+        <mxCell id="UYlb_XnZ9-q2qlSjbhtu-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UYlb_XnZ9-q2qlSjbhtu-3" target="DYvX6vR9icD-8CRXjMKn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3310" y="2580" as="sourcePoint" />
             <mxPoint x="-2800" y="2400" as="targetPoint" />
