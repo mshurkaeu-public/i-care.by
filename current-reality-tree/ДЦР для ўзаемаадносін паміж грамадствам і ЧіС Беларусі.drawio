@@ -769,14 +769,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
-    <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" modifiedDate="2025-01-31" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
         <object label="%modifiedDate%&lt;br&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Мікалай Шуркаеў&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" placeholders="1" id="XTmyr9zYXc6A1J4KkF2K-1">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontSize=14;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontSize=14;fontStyle=1;spacingLeft=5;" parent="1" vertex="1">
             <mxGeometry width="160" height="40" as="geometry" />
           </mxCell>
         </object>
@@ -918,9 +918,14 @@
             <mxGeometry y="2160" width="827" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="&lt;div&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Гіпотэза №28&lt;/b&gt;: &lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;u style=&quot;font-size: 16px;&quot;&gt;каранёвая прычына дыктатуры ЧіС у Беларусі — сляпая вера ў словы, абяцаючыя вырашыць праблемы, ва ўмовах адчування ўласнага бяссілля.&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;" link="https://github.com/mshurkaeu-public/i-care.by/discussions/31" linkTarget="_blank" id="XlPmNKNs34RI13zznoPg-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry y="2240" width="827" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="&lt;span&gt;Спасылка на главу &quot;5. &lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Дрэва цяперашняй рэальнасці ўплыва асобнага грамадзяніна на стан адносін паміж грамадствам і&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt; ЧіС Беларусі&quot;&lt;/font&gt;" link="data:page/id,jb7ZAXrOw7EJT6aN6Qqk" id="rjFa4vYoZh8to81UFIMk-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" parent="1" vertex="1">
-            <mxGeometry y="2280" width="827" height="40" as="geometry" />
+            <mxGeometry y="2400" width="827" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

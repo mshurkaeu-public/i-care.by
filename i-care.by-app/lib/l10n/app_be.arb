@@ -1329,6 +1329,10 @@
   "@aboutMyGratitude_2025_01_30_02": {
     "description": "Text for 2025-01-30 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_01_31_01": "\n2025-01-31 🦸‍♀️ — ☝️ прапанавала сваю гіпотэзу аб каранёвай прычыне дыктатуры ЧіС у Беларусі. \"Сляпая вера ў словы, абяцаючыя вырашыць праблемы, ва ўмовах адчування ўласнага бяссілля\". Запісана тут — https://github.com/mshurkaeu-public/i-care.by/discussions/31.\n",
+  "@aboutMyGratitude_2025_01_31_01": {
+    "description": "Text for 2025-01-31 🦸‍♀️ on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_01_title": "\n\n2025-01\n",
   "@aboutMyGratitude_2025_01_title": {
     "description": "Title for 2025-01 list/text on the \"my gratitude\" tab on the \"About\" page."
