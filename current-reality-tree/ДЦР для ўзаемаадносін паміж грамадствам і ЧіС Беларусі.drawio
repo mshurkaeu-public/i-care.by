@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-02-04" id="0">
+        <object label="" modifiedDate="2025-02-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
         <mxCell id="whfIbgRUf7yxkzyEeNDG-1" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 1&lt;/span&gt;: У чытача (&lt;span style=&quot;color: rgb(128, 128, 128);&quot;&gt;або ў суразмоўцы/слухача/гледача&lt;/span&gt;) будзе больш шанцаў зразумець мае разважанні, калі ён будзе ведаць, на якой мове я пішу і якія значэнні слоў я выкарыстоўваю.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Я жадаю запісваць свае разважанні па-беларуску.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Далей у сваіх разважаннях я буду абапірацца (па магчымасці) на значэнні слоў беларускай мовы, якія апісаны ў тлумачальных слоўніках:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;b&gt;1&lt;/b&gt;. &quot;Тлумачальны слоўнік беларускай мовы&quot; (&lt;b&gt;ТСБМ&lt;/b&gt;). Выдадзены ў 5 тамах у 1977—1984 гадах &quot;галоўнай рэдакцыяй Беларускай Савецкай Энцыклапедыі&quot;. Больш за 105 тысяч слоў.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;b&gt;2&lt;/b&gt;. &quot;Тлумачальны слоўнік беларускай літаратурнай мовы&quot; (&lt;b&gt;ТСБЛМ&lt;/b&gt;). Выдадзены ў 2016 годзе &quot;Беларускай Энцыклапедыяй імя Петруся Броўкі&quot;. Больш за 65 тысяч слоў. (Там быў, фактычна, той самы выдаўца, што і для першага слоўніка. Але ўжо перайменаваны.)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="200" width="827" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ozFmGzLavYH6swTR7ImV-2" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 2&lt;/span&gt;: У абставінах спакойнай размовы любы чалавек, які кажа праўду пра свае думкі сабе і іншым, будзе пагаджацца з любым з маіх сцверджанняў без увядзення дадатковых удакладненняў, калі для гэтага сцверджання будуць &lt;u&gt;адначасова&lt;/u&gt; выконвацца наступныя ўмовы:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;1&lt;/b&gt;. Чалавек думае, што разумее маё сцвержданне. (неабходная ўмова)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;2&lt;/b&gt;. З пункту гледжання гэтага чалавека, у маім сцверджанні няма лагічных памылак. (неабходная ўмова)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;3&lt;/b&gt;. З пункту гледжання гэтага чалавека, у маім сцверджанні нічога істотнага не згублена ў параўнанні з рэальнасцю, як яе ўяўляе гэты чалавек. (неабходная ўмова)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;4&lt;/b&gt;. З пункту гледжання гэтага чалавека, у маім сцверджанні няма нічога залішняга, што можна выкінуць, а сутнасць сцверджання ад гэтага не зменіцца. (залежыць ад педантычнасці чалавека)&lt;br&gt;&lt;br&gt;Некалькі каментароў да сцверджання 2:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Пункт 3 не з&#39;яўляецца падмноствам пункта 2. Таму што &quot;згубленая частка рэальнасці&quot; можа, напрыклад, з&#39;яўляецца памылкай тыпу &quot;недакладныя пачатковыя дадзеныя&quot;, а не лагічнай памылкай далейшых разважанняў.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Чалавек, які хлусіць, можа хлусіць наконт свайго разумення ці неразумення майго сцверджання.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Чалавек, які хлусіць, можа хлусіць наконт сваёй згоды ці нязгоды з маім сцверджаннем і прычын для гэтага.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • З папярэдняга каментара вынікае, што калі чалавек пагаджаецца, то гэта не азначае аўтаматчына, што чалавек у гэты момант не хлусіць.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="ozFmGzLavYH6swTR7ImV-2" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 2&lt;/span&gt;: У абставінах спакойнай размовы любы чалавек, які кажа праўду пра свае думкі сабе самому і іншым, будзе пагаджацца з любым з маіх сцверджанняў без увядзення дадатковых удакладненняў, калі для гэтага сцверджання будуць &lt;u&gt;адначасова&lt;/u&gt; выконвацца наступныя ўмовы:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;1&lt;/b&gt;. Чалавек думае, што разумее маё сцвержданне. (неабходная ўмова)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;2&lt;/b&gt;. З пункту гледжання гэтага чалавека, у маім сцверджанні няма лагічных памылак. (неабходная ўмова)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;3&lt;/b&gt;. З пункту гледжання гэтага чалавека, у маім сцверджанні нічога істотнага не згублена ў параўнанні з рэальнасцю, як яе ўяўляе гэты чалавек. (неабходная ўмова)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;4&lt;/b&gt;. З пункту гледжання гэтага чалавека, у маім сцверджанні няма нічога залішняга, што можна выкінуць, а сутнасць сцверджання ад гэтага не зменіцца. (залежыць ад педантычнасці чалавека)&lt;br&gt;&lt;br&gt;Некалькі каментароў да сцверджання 2:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Пункт 3 не з&#39;яўляецца падмноствам пункта 2. Таму што &quot;згубленая частка рэальнасці&quot; можа, напрыклад, з&#39;яўляецца памылкай тыпу &quot;недакладныя пачатковыя дадзеныя&quot;, а не лагічнай памылкай далейшых разважанняў.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Чалавек, які хлусіць, можа хлусіць наконт свайго разумення ці неразумення майго сцверджання.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Чалавек, які хлусіць, можа хлусіць наконт сваёй згоды ці нязгоды з маім сцверджаннем і прычын для гэтага.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • З папярэдняга каментара вынікае, што калі чалавек пагаджаецца, то гэта не азначае аўтаматчына, што чалавек у гэты момант не хлусіць.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="440" width="827" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ozFmGzLavYH6swTR7ImV-1" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ніхто з людзей не ведае, як на самой справе ўладкаваны свет/прырода/рэальнасць. Але калі рэальнасць ўнутранне не супярэчлівая, то ёсць некаторы ўнутраны лад, які вызначае прычынна-выніковыя сувязі паміж з&#39;явамі. У тым ліку, у некаторых прычын могуць быць не дэтэрмінаваныя, а імавернасныя вынікі.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Мы можам спрабаваць здагадацца аб гэтых прычынна-выніковых сувязях, але, магчыма, ніколі не здолеем цалкам дакладна высветліць, ці абсалютна правільная наша здагадка/гіпотэза. Аднак, мы можам знайсці абвяржэнне для нашай гіпотэзы і такім чынам дакладна высветліць, што гэтая гіпотэза няправільная або недастаткова правільная.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Таму ўвага да крытыкі вельмі важная. І важна заўважаць, калі назіранні за жыццём не зусім супадаюць з мадэллю. Заўважаныя адхіленні ад чаканняў кажуць аб тым, что недзе памылка — або ў мадэлі або ў назіраннях.&lt;/div&gt;&lt;h1 align=&quot;center&quot; style=&quot;font-size: 18px;&quot;&gt;Азначэнні&lt;/h1&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Далей буду скарочана называць чыноўнікаў і сілавікоў &lt;b&gt;ЧіС&lt;/b&gt;. А астатняе грамадства буду называць &lt;b&gt;аГрамадства&lt;/b&gt;.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontSize=15;" parent="1" vertex="1">
@@ -140,7 +140,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="2. Базавыя гіпотэзы">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-02-04" id="0">
+        <object label="" modifiedDate="2025-02-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -180,7 +180,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="3. ДЦР-грамадства">
     <mxGraphModel dx="3849" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-02-04" id="0">
+        <object label="" modifiedDate="2025-02-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -771,7 +771,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="4. Гіпотэзы беларусаў">
     <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-02-04" id="0">
+        <object label="" modifiedDate="2025-02-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -934,7 +934,7 @@
   <diagram name="5. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8811" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-02-04" id="0">
+        <object label="" modifiedDate="2025-02-05" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
