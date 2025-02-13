@@ -1373,6 +1373,10 @@
   "@aboutMyGratitude_2025_02_12_01": {
     "description": "Text for 2025-02-12 Flutter team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_02_13_01": "\n2025-02-13 каманда Dart — 🛠️ стварыла новую версію пакета web 1.1.0 (2024-09-24), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2025_02_13_01": {
+    "description": "Text for 2025-02-13 Dart team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_02_title": "\n\n2025-02\n",
   "@aboutMyGratitude_2025_02_title": {
     "description": "Title for 2025-02 list/text on the \"my gratitude\" tab on the \"About\" page."

@@ -1,6 +1,5 @@
-// ignore: avoid_web_libraries_in_flutter
-import 'dart:html';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:web/web.dart';
 
 import 'diary_platform_interface.dart' show DiaryBase;
 
@@ -10,7 +9,7 @@ class Diary extends DiaryBase {
   @override
   Future<void> moveExistingStorage(String newLocation) async {
     String? oldData = _localStorage[storagePath];
-    _localStorage.remove(storagePath);
+    _localStorage.removeItem(storagePath);
 
     if (oldData != null) {
       _localStorage[newLocation] = oldData;
