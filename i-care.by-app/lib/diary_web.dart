@@ -9,7 +9,8 @@ class Diary extends DiaryBase {
 
   @override
   Future<void> moveExistingStorage(String newLocation) async {
-    String? oldData = _localStorage.remove(storagePath);
+    String? oldData = _localStorage[storagePath];
+    _localStorage.remove(storagePath);
 
     if (oldData != null) {
       _localStorage[newLocation] = oldData;
