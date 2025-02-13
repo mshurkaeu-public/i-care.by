@@ -19,7 +19,8 @@ class Diary extends DiaryBase {
 
   @override
   Future<bool> get exists async {
-    return _localStorage.containsKey(storagePath);
+    final bool res = (_localStorage[storagePath] != null);
+    return res;
   }
 
   @override
