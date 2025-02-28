@@ -8,17 +8,17 @@ class Diary extends DiaryBase {
 
   @override
   Future<void> moveExistingStorage(String newLocation) async {
-    String? oldData = _localStorage[storagePath];
+    String? oldData = _localStorage.getItem(storagePath);
     _localStorage.removeItem(storagePath);
 
     if (oldData != null) {
-      _localStorage[newLocation] = oldData;
+      _localStorage.setItem(newLocation, oldData);
     }
   }
 
   @override
   Future<bool> get exists async {
-    final bool res = (_localStorage[storagePath] != null);
+    final bool res = (_localStorage.getItem(storagePath) != null);
     return res;
   }
 
@@ -29,7 +29,7 @@ class Diary extends DiaryBase {
 
   @override
   Future<String> readFromStorage() async {
-    String res = _localStorage[storagePath]!;
+    String res = _localStorage.getItem(storagePath)!;
 
     return res;
   }
@@ -38,6 +38,6 @@ class Diary extends DiaryBase {
   Future<void> saveToStorage() async {
     String json = buildJson();
 
-    _localStorage[storagePath] = json;
+    _localStorage.setItem(storagePath, json);
   }
 }
