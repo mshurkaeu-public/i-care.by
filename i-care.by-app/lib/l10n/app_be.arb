@@ -1449,6 +1449,10 @@
   "@aboutMyGratitude_2025_04_05_01": {
     "description": "Text for 2025-04-05 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_04_12_01": "\n2025-04-12 каманда Microsoft VS Code — 🛠️ стварыла версію 1.99.2 VS Code, якім я карыстаюсь, каб пісаць код праграмы i-care.by на Flutter.\n",
+  "@aboutMyGratitude_2025_04_12_01": {
+    "description": "Text for 2025-04-12 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_04_title": "\n\n2025-04\n",
   "@aboutMyGratitude_2025_04_title": {
     "description": "Title for 2025-04 list/text on the \"my gratitude\" tab on the \"About\" page."
