@@ -1469,6 +1469,14 @@
   "@aboutMyGratitude_2025_04_19_01": {
     "description": "Text for 2025-04-19 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_04_22_01": "\n2025-04-22 каманды кампаній JGraph Ltd і draw.io AG — 🛠️ стварылі версію 26.2.14 вэб-сайта https://app.diagrams.net, якім я карыстаюсь, каб маляваць дрэва цяперашняй рэальнасці для высвятлення каранёвай прычыны дыктатуры ў Беларусі.\n",
+  "@aboutMyGratitude_2025_04_22_01": {
+    "description": "Text for 2025-04-22 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2025_04_22_02": "\n2025-04-22 02 🦸 — 🗯️ прадэманстраваў мне, што чытач мог зразумець мой каментар з прыкладам \"недастатковасці\" да сцверджання 11 \"зусім не так\", як я таго чакаў. Таму я перарабіў каментар, каб павысіць шанцы на правільнае разуменне майго каментара.\n",
+  "@aboutMyGratitude_2025_04_22_02": {
+    "description": "Text for 2025-04-22 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_04_title": "\n\n2025-04\n",
   "@aboutMyGratitude_2025_04_title": {
     "description": "Title for 2025-04 list/text on the \"my gratitude\" tab on the \"About\" page."
