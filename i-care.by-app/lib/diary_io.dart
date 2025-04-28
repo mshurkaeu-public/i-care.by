@@ -1,8 +1,8 @@
 import 'dart:io' show Directory, File;
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:path/path.dart' as path;
 
+import 'l10n/generated/app_localizations.dart';
 import 'diary_platform_interface.dart' show DiaryBase;
 
 class Diary extends DiaryBase {

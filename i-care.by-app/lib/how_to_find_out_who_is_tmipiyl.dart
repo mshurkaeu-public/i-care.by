@@ -2,9 +2,9 @@ import 'package:carousel_slider/carousel_slider.dart' as carousel_slider;
 import 'package:expandable_text/expandable_text.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+import 'l10n/generated/app_localizations.dart';
 import 'asset_image_with_caption.dart';
 import 'scaffold_helpers.dart';
 import 'text_utils.dart';

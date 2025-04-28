@@ -1,8 +1,8 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:icare_by_app/asset_image_with_caption.dart';
 
+import 'l10n/generated/app_localizations.dart';
 import 'diary_platform_interface.dart'
     if (dart.library.io) 'diary_io.dart'
     if (dart.library.html) 'diary_web.dart';

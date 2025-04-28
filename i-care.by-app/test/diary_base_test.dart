@@ -1,5 +1,5 @@
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations_be.dart';
+import 'package:icare_by_app/l10n/generated/app_localizations.dart';
+import 'package:icare_by_app/l10n/generated/app_localizations_be.dart';
 import 'package:icare_by_app/diary_platform_interface.dart';
 import 'package:test/test.dart';
 

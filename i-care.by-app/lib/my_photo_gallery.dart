@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:photo_view/photo_view_gallery.dart';
 
+import 'l10n/generated/app_localizations.dart';
 import 'text_utils.dart';
 
 class MyPhotoGallery extends StatefulWidget {

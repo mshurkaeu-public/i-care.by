@@ -1,11 +1,11 @@
 import 'dart:convert';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:icare_by_app/the_most_important_person_in_my_life.dart';
 import 'package:icare_by_app/tmipiml_is_child.dart';
 import 'package:icare_by_app/tmipiml_is_grandparent.dart';
 import 'package:icare_by_app/tmipiml_is_parent.dart';
 import 'package:icare_by_app/tmipiml_is_spouce_or_partner.dart';
 
+import 'l10n/generated/app_localizations.dart';
 import 'diary_record.dart';
 import 'known_diary_states.dart';
 

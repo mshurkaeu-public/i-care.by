@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
+import 'l10n/generated/app_localizations.dart';
 import 'diary_record.dart';
 import 'messages.dart';
 import 'the_most_important_person_in_my_life.dart';
