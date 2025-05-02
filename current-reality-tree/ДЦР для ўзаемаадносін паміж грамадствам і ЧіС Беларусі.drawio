@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14" pages="6">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-04-30" id="0">
+        <object label="" modifiedDate="2025-05-02" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="2. Стан адносін паміж двумя людзьмі">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-04-30" id="0">
+        <object label="" modifiedDate="2025-05-02" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
             <mxGeometry width="160" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="NsrwobpKo97Gmxeah9Ms-2" value="&lt;div&gt;&lt;u&gt;Паведамленне 10&lt;/u&gt;:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Чытач, у папярэдняй главе мы на практыке высветлілі, ці можаш ты разумець мае сцверджанні і ці выглядаюць яны для цябе праўдападобнымі. А таксама мы абмеркавалі, што будзем разумець пад словам &quot;згода&quot; і апісалі некаторыя ўласцівасці з&#39;явы &quot;згода чалавека са сверджаннем&quot;. У гэтай главе я збіраюся абмеркаваць некаторыя ўласцівасці з&#39;явы &quot;адносіны паміж двумя людзьмі&quot;, у наступнай главе — паміж двумя групамі людзей, а потым — паміж грамадствам і чыноўнікамі і сілавікамі Беларусі.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 12&lt;/span&gt;: У слоўніку &lt;b&gt;ТСБМ&lt;/b&gt; для слова &quot;адносіны&quot; апісана 4 значэнні наступным чынам (цытата):&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; АДНОСІНЫ, -сін; &lt;i&gt;адз. няма.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Характар паводзін, абыходжання каго-небудзь з кім-небудзь, чым-небудзь. &lt;i&gt;Выхаваць сацыялістычныя адносіны да сродкаў вытворчасці.&lt;/i&gt; ▭ &lt;i&gt;Дзіўнымі былі адносіны Максіма да Машы.&lt;/i&gt; Шамякін. &lt;i&gt;Дзеці нейкім сваім дзіцячым пачуццем разбіраюцца ў шчырасці дарослых, у адносінах іх да сябе.&lt;/i&gt; Васілевіч. // Погляд на што-небудзь, разуменне чаго-небудзь. &lt;i&gt;Камуністычныя адносіны да працы.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Сувязі паміж людзьмі, пэўнымі групамі ці краінамі, якія ўзнікаюць у працэсе іх дзейнасці, суіснавання. &lt;i&gt;Дыпламатычныя, гандлёвыя, эканамічныя адносіны.&lt;/i&gt; &lt;i&gt;Адносіны паміж настаўнікамі і вучнямі.&lt;/i&gt; &lt;i&gt;Таварыскія адносіны.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; З. Узаемная сувязь, залежнасць з&#39;яў або іх кампанентаў. &lt;i&gt;Адносіны прычыны да выніку.&lt;/i&gt; &lt;i&gt;Пытанне аб адносінах свядомасці да матэрыі.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4. Дачыненне да каго-небудзь, чаго-небудзь, сувязь з кім-небудзь, чым-небудзь. &lt;i&gt;І прозвішча яго — Дарожка&amp;nbsp;— ніякіх адносін, здаецца, да дзятлаў не мае.&lt;/i&gt; Якімовіч.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; ⬦ &lt;b&gt;Ва ўсіх адносінах&lt;/b&gt; — з любога пункту гледжання. &lt;b&gt;У адносінах да&lt;/b&gt; &lt;i&gt;каго&lt;/i&gt;, &lt;i&gt;чаго&lt;/i&gt; — ужываецца ў якасці прыназоўніка са значэннем напрамку дзеяння.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодзен з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="NsrwobpKo97Gmxeah9Ms-2" value="&lt;div&gt;&lt;u&gt;Паведамленне 10&lt;/u&gt;:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Чытач, у папярэдняй главе ты на практыке высветліў, ці можаш ты разумець мае сцверджанні і ці выглядаюць яны для цябе адпавядаючымі рэальнасці. У той главе мы абмеркавалі, што будзем разумець пад словам &quot;згода&quot; і апісалі некаторыя ўласцівасці з&#39;явы &quot;згода чалавека са сверджаннем&quot;. У гэтай главе я збіраюся абмеркаваць некаторыя ўласцівасці з&#39;явы &quot;адносіны паміж двумя людзьмі&quot;, у наступнай главе — паміж двумя групамі людзей, а потым — паміж грамадствам і чыноўнікамі і сілавікамі Беларусі.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 12&lt;/span&gt;: У слоўніку &lt;b&gt;ТСБМ&lt;/b&gt; для слова &quot;адносіны&quot; апісана 4 значэнні наступным чынам (цытата):&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; АДНОСІНЫ, -сін; &lt;i&gt;адз. няма.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Характар паводзін, абыходжання каго-небудзь з кім-небудзь, чым-небудзь. &lt;i&gt;Выхаваць сацыялістычныя адносіны да сродкаў вытворчасці.&lt;/i&gt; ▭ &lt;i&gt;Дзіўнымі былі адносіны Максіма да Машы.&lt;/i&gt; Шамякін. &lt;i&gt;Дзеці нейкім сваім дзіцячым пачуццем разбіраюцца ў шчырасці дарослых, у адносінах іх да сябе.&lt;/i&gt; Васілевіч. // Погляд на што-небудзь, разуменне чаго-небудзь. &lt;i&gt;Камуністычныя адносіны да працы.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Сувязі паміж людзьмі, пэўнымі групамі ці краінамі, якія ўзнікаюць у працэсе іх дзейнасці, суіснавання. &lt;i&gt;Дыпламатычныя, гандлёвыя, эканамічныя адносіны.&lt;/i&gt; &lt;i&gt;Адносіны паміж настаўнікамі і вучнямі.&lt;/i&gt; &lt;i&gt;Таварыскія адносіны.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; З. Узаемная сувязь, залежнасць з&#39;яў або іх кампанентаў. &lt;i&gt;Адносіны прычыны да выніку.&lt;/i&gt; &lt;i&gt;Пытанне аб адносінах свядомасці да матэрыі.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4. Дачыненне да каго-небудзь, чаго-небудзь, сувязь з кім-небудзь, чым-небудзь. &lt;i&gt;І прозвішча яго — Дарожка&amp;nbsp;— ніякіх адносін, здаецца, да дзятлаў не мае.&lt;/i&gt; Якімовіч.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; ⬦ &lt;b&gt;Ва ўсіх адносінах&lt;/b&gt; — з любога пункту гледжання. &lt;b&gt;У адносінах да&lt;/b&gt; &lt;i&gt;каго&lt;/i&gt;, &lt;i&gt;чаго&lt;/i&gt; — ужываецца ў якасці прыназоўніка са значэннем напрамку дзеяння.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодзен з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="80" width="827" height="560" as="geometry" />
         </mxCell>
         <mxCell id="sr1r7nozXmwEF744vzNH-1" value="&lt;div&gt;&lt;u&gt;Паведамленне 11&lt;/u&gt;:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Калі ёсць два чалавека &lt;b&gt;A&lt;/b&gt; і &lt;b&gt;B&lt;/b&gt;, то &quot;&lt;b&gt;трэцімі сіламі&lt;/b&gt;&quot; я буду называць абсалютна любыя сілы па-за межамі людзей &lt;b&gt;A&lt;/b&gt; і &lt;b&gt;B&lt;/b&gt;. &lt;b&gt;A&lt;/b&gt; і &lt;b&gt;B&lt;/b&gt; — гэта два бакі. Таму ўсе астатнія сілы за іх межамі — &quot;трэція&quot;. Напрыклад: прыродныя з&#39;явы, групы грамадзян іншых краін, іншапланецяне… Што заўгодна па-за межамі людзей &lt;b&gt;A&lt;/b&gt; і &lt;b&gt;B&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 13&lt;/span&gt;: Калі ёсць два чалавека &lt;b&gt;A&lt;/b&gt; і &lt;b&gt;B&lt;/b&gt; і паміж імі існуюць нейкія адносіны, то ў некаторых абставінах на стан гэтых адносін нейкім чынам могуць паўплываць &quot;трэція сілы&quot;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодзен з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментары да сцверджання 13:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Драматычны прыклад, які паказвае прынцыповую мажлівасць такога ўплыва: Здараецца землятрус або цунамі, у выніку якога адзін з двух або адразу абодва чалавекі загінаюць. Адносіны паміж &lt;b&gt;A&lt;/b&gt; і &lt;b&gt;B&lt;/b&gt; перастаюць існаваць. Ёсць уплыў &quot;трэцяй сілы&quot; на стан адносін паміж &lt;b&gt;A&lt;/b&gt; і &lt;b&gt;B&lt;/b&gt;.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Прыклад з майго дзяцінства з казкі пра цара Салтана (падмена паведамленняў, атака тыпу &quot;чалавек пасярэдзіне&quot;): калі цар паехаў на вайну, а яго жонка ў той час нарадзіла сына. Цар і жонка абменьваліся папяровымі лістамі. Такія былі часы. Людзі пісалі лісты на паперы :). А ткачыха, кухарка і свацця баба Бабарыха падмянялі паведамленні паміж тым царом і яго жонкай, спрабуючы ўплываць на стан адносін паміж царом і яго жонкай.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
@@ -223,7 +223,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="3. Базавыя гіпотэзы">
     <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-04-30" id="0">
+        <object label="" modifiedDate="2025-05-02" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -263,7 +263,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="4. ДЦР-грамадства">
     <mxGraphModel dx="3843" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-04-30" id="0">
+        <object label="" modifiedDate="2025-05-02" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -854,7 +854,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="5. Гіпотэзы беларусаў">
     <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-04-30" id="0">
+        <object label="" modifiedDate="2025-05-02" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1017,7 +1017,7 @@
   <diagram name="6. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8805" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-04-30" id="0">
+        <object label="" modifiedDate="2025-05-02" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
