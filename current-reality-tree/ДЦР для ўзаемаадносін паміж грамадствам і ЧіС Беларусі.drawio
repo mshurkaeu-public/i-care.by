@@ -130,13 +130,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x-wTn0b4A8iaDGU15ReG-21" value="Знешнія гульцы" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="627" y="7200" width="200" height="99" as="geometry" />
+          <mxGeometry x="627" y="7200" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x-wTn0b4A8iaDGU15ReG-22" value="Расія.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Невядомые мне сілы.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="x-wTn0b4A8iaDGU15ReG-21" vertex="1">
           <mxGeometry x="30" y="1" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x-wTn0b4A8iaDGU15ReG-23" value="Знешнія гульцы" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry y="7200" width="200" height="99" as="geometry" />
+          <mxGeometry y="7200" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="x-wTn0b4A8iaDGU15ReG-24" value="Польшча, Літва.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Невядомые мне сілы.&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="x-wTn0b4A8iaDGU15ReG-23" vertex="1">
           <mxGeometry x="30" y="1" width="160" height="50" as="geometry" />
