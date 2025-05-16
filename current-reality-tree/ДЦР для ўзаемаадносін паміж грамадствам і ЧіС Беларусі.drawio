@@ -102,8 +102,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x-wTn0b4A8iaDGU15ReG-14" value="ЧіС&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(няхай іх 200 тысяч)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="470" y="7905" width="160" height="40" as="geometry" />
+        <mxCell id="x-wTn0b4A8iaDGU15ReG-14" value="ЧіС&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(няхай іх&lt;br&gt;0.3&lt;br&gt;мільёны)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="470" y="7880" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x-wTn0b4A8iaDGU15ReG-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fillColor=#FF0000;gradientColor=#009900;gradientDirection=east;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -120,8 +120,8 @@
         <mxCell id="x-wTn0b4A8iaDGU15ReG-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.47786219334910734;endAngle=0.9933723776933644;" parent="1" vertex="1">
           <mxGeometry x="121" y="7840" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="x-wTn0b4A8iaDGU15ReG-19" value="аГрамадства&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(няхай іх больш 5 мільёнаў)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="128" y="7905" width="160" height="40" as="geometry" />
+        <mxCell id="x-wTn0b4A8iaDGU15ReG-19" value="аГрамадства&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(няхай іх&lt;br&gt;больш 4.7&lt;br&gt;мільёнаў)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="128" y="7880" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x-wTn0b4A8iaDGU15ReG-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=3.349;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#FF0000;gradientColor=#009900;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
