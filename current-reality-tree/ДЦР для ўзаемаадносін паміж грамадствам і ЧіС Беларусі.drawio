@@ -1,8 +1,8 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.6" pages="6">
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-05-16" id="0">
+        <object label="" modifiedDate="2025-05-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
         <mxCell id="0CxFkG_K_slL2pC_az3o-1" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 12&lt;/span&gt;: На афіцыйным сайце Белстата напісана, што колькасць насельніцтва Беларусі на 1 студзеня 2025 года складала 9 109 280 чалавек.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодзен з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментары да сцверджання 12:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Я думаю, што найпрасцейшы спосаб праверыць гэтае сцверджанне — зайсці на старонку Белстата https://www.belstat.gov.by/ofitsialnaya-statistika/ssrd-mvf_2/natsionalnaya-stranitsa-svodnyh-dannyh/naselenie_6/dinamika-chislennosti-naseleniya/ і паглядзець, а што там напісана на самой справе. А калі старонка знікне ці зменіцца, то ў веб-архіве https://web.archive.org ёсць захаваная копія ад даты 2025-05-04.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Асабіста ў мяне мала даверу да афіцыйнай статыстыкі Беларусі. Але я думаю, што сапраўдная колькасць насельніцтва Беларусі на 1 студзеня 2025 года была недзе паміж 5 і 10 мільёнамі чалавек. І афіцыйны лік пападае ў гэты мой інтэрвал. Дакладны лік мне не патрэбны. Мне дастаткова адноснай упэўненасці, што гэта болей 5 мільёнаў чалавек.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="6560" width="827" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="2BQdqu39hQUprYna5b65-1" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 13&lt;/span&gt;: У складанай сістэме з мноствам узаемазалежнасцей паміж элементамі можа існаваць такое месца/параметр/аспект, пры невялікай змене якога ўзнікаюць вялікія каскадныя эфекты ў іншых месцах/параметрах/аспектах сістэмы.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодзен з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментары да сцверджання 13:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Шмат прыкладаў такіх эфектаў у рэальных сістэмах (вытворчасць, лагістыка, маркетынг) апісана ў кнігах Эліяху Голдрата. Ад яго першай &quot;Мэты&quot; (The Goal), потым &quot;Справы не ў шанцаванні&quot; (It&#39;s Not Luck) і да апошняй &quot;Выбар&quot; (The Choice).&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Для таго каб уявіць адзін з прыкладаў сістэмы, у якой можна заўважыць каскадны эфект, ўспомні што адбываецца, калі на канцэрце мікрафон паднесці да дынаміка. Гук з дынаміка трапляе ў мікрафон, узмацняецца, ідзе на дынамік, трапляе ў мікрафон… Калі ў сістэме існуе зваротная сувязь, то часам нейкі феномен з&#39;яўляецца і сам сябе падтрымвае ў існуючых абставінах. Ну а калі маленькая батарэйка ў бесправадным мікрафоне згубіць зарад (не абавязкова да &quot;абсалютнага нуля&quot;), то абставіны зменяцца — цыкл дадатнай зваротнай сувязі парушыцца — і феномен знікне.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="2BQdqu39hQUprYna5b65-1" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 13&lt;/span&gt;: У складанай сістэме з мноствам узаемазалежнасцей паміж элементамі можа існаваць такое месца/параметр/аспект, пры невялікай змене якога ўзнікаюць вялікія каскадныя эфекты ў іншых месцах/параметрах/аспектах сістэмы.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодзен з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментары да сцверджання 13:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Шмат прыкладаў такіх эфектаў у рэальных сістэмах (вытворчасць, лагістыка, маркетынг) апісана ў кнігах Эліяху Голдрата. Ад яго першай &quot;Мэты&quot; (The Goal), потым &quot;Справы не ў шанцаванні&quot; (It&#39;s Not Luck) і да апошняй &quot;Выбар&quot; (The Choice).&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Для таго каб уявіць адзін з прыкладаў сістэмы, у якой можна заўважыць каскадны эфект, ўспомні што адбываецца, калі на канцэрце мікрафон паднесці да дынаміка. Гук з дынаміка трапляе ў мікрафон, узмацняецца, ідзе на дынамік, трапляе ў мікрафон… Калі ў сістэме існуе зваротная сувязь, то часам нейкі феномен з&#39;яўляецца і сам сябе падтрымвае ў існуючых абставінах. Ну а калі маленькая батарэйка ў бесправадным мікрафоне згубіць зарад (не абавязкова да &quot;абсалютнага нуля&quot;), то абставіны зменяцца — цыкл дадатнай зваротнай сувязі парушыцца — і феномен знікне.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="6960" width="827" height="440" as="geometry" />
         </mxCell>
         <mxCell id="ozFmGzLavYH6swTR7ImV-1" value="&lt;div&gt;&lt;u&gt;Паведамленне 10&lt;/u&gt;: Я думаю, што ніхто з людзей не ведае, як на самой справе ўладкаваны свет/прырода/рэальнасць. Але калі рэальнасць ўнутранне не супярэчлівая, то ёсць некаторы ўнутраны лад, які вызначае прычынна-выніковыя сувязі паміж з&#39;явамі. У тым ліку, у некаторых прычын могуць быць не дэтэрмінаваныя, а імавернасныя вынікі.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Мы можам спрабаваць здагадацца аб гэтых прычынна-выніковых сувязях, але, магчыма, ніколі не здолеем цалкам дакладна высветліць, ці абсалютна правільная наша здагадка/гіпотэза. Аднак, мы можам знайсці абвяржэнне для нашай гіпотэзы і такім чынам дакладна высветліць, што гэтая гіпотэза няправільная або недастаткова правільная.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Таму ўвага да крытыкі вельмі важная. І важна заўважаць, калі назіранні за жыццём не зусім супадаюць з мадэллю. Заўважаныя адхіленні ад чаканняў кажуць аб тым, что недзе памылка — або ў мадэлі або ў назіраннях.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 11&lt;/u&gt;: Далей для сцісласці я буду называць чыноўнікаў і сілавікоў &lt;b&gt;ЧіС&lt;/b&gt;. А пры неабходнасці згадаць астатняе грамадства буду выкарыстоўваць азначэнне &lt;b&gt;аГрамадства&lt;/b&gt;. То бок, аГрамадства — гэта ўсё грамадства без ЧіС. А ўсё грамадства — гэта аГрамадства разам з ЧіС.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontSize=15;" parent="1" vertex="1">
@@ -165,7 +165,7 @@
         <mxCell id="x-wTn0b4A8iaDGU15ReG-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.47786219334910734;endAngle=0.9933723776933644;" parent="1" vertex="1">
           <mxGeometry x="678" y="7840" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="WTFlEEXevP6GbVgcMiDj-1" value="&lt;div&gt;&lt;u&gt;Асобнае пытанне&lt;/u&gt;: &lt;b&gt;Чытач&lt;/b&gt;, прапаную табе залезці разам за мной на &quot;інтэлектуальныя драбіны&quot; і знайсці &quot;смерць здыхліка несмяротнага&quot;. Лезем далей❓&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="WTFlEEXevP6GbVgcMiDj-1" value="&lt;div&gt;&lt;u&gt;Асобнае пытанне&lt;/u&gt;: &lt;b&gt;Чытач&lt;/b&gt;, я прапаную табе залезці разам за мной на &quot;інтэлектуальныя драбіны&quot; і знайсці &quot;смерць здыхліка несмяротнага&quot;. Лезем далей❓&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="8680" width="827" height="120" as="geometry" />
         </mxCell>
         <UserObject label="Спасылка на главу &lt;span&gt;&quot;2. Стан адносін паміж двумя людзьмі&lt;/span&gt;&quot;" link="data:page/id,Zpq-fwhYM1nnls2JjvfI" id="5Dem1vvIQLIGWhxnLmdw-1">
@@ -179,7 +179,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="2. Стан адносін паміж двумя людзьмі">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-05-16" id="0">
+        <object label="" modifiedDate="2025-05-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -238,7 +238,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="3. Базавыя гіпотэзы">
     <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-05-16" id="0">
+        <object label="" modifiedDate="2025-05-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -278,7 +278,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="4. ДЦР-грамадства">
     <mxGraphModel dx="3843" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-05-16" id="0">
+        <object label="" modifiedDate="2025-05-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -869,7 +869,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="5. Гіпотэзы беларусаў">
     <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-05-16" id="0">
+        <object label="" modifiedDate="2025-05-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1032,7 +1032,7 @@
   <diagram name="6. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8805" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-05-16" id="0">
+        <object label="" modifiedDate="2025-05-17" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
