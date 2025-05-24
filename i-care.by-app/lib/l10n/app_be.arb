@@ -1509,6 +1509,14 @@
   "@aboutMyGratitude_2025_05_21_01": {
     "description": "Text for 2025-05-21 Flutter team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_05_24_01": "\n2025-05-24 🦸 — 🗯️ даў зваротную сувязь, якая паказала слабыя месцы папярэдняй версіі сцверджання 13. А таксама прывёў свой прыклад з атамнай бомбай.\n",
+  "@aboutMyGratitude_2025_05_24_01": {
+    "description": "Text for 2025-05-24 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
+  "aboutMyGratitude_2025_05_24_02": "\n2025-05-24 каманды кампаній JGraph Ltd і draw.io AG — 🛠️ стварылі версію 27.0.9 вэб-сайта https://app.diagrams.net, якім я карыстаюсь, каб маляваць дрэва цяперашняй рэальнасці для высвятлення каранёвай прычыны дыктатуры ў Беларусі.\n",
+  "@aboutMyGratitude_2025_05_24_02": {
+    "description": "Text for 2025-05-24 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_05_title": "\n\n2025-05\n",
   "@aboutMyGratitude_2025_05_title": {
     "description": "Title for 2025-05 list/text on the \"my gratitude\" tab on the \"About\" page."
