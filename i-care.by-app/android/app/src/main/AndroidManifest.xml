@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.icare_by_app">
+    package="by.icare.AndroidApp">
    <application
-        android:label="icare_by_app"
+        android:label="i-care.by"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

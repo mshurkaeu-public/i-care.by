@@ -1,4 +1,4 @@
-package com.example.icare_by_app
+package by.icare.AndroidApp
 
 import io.flutter.embedding.android.FlutterActivity
 

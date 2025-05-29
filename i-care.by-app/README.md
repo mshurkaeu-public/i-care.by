@@ -1,6 +1,6 @@
-# icare_by_app
+# i-care.by app
 
-A new Flutter project.
+i-care.by | Клопат аб найважнейшым чалавеку ў тваім жыцці.
 
 ## Getting Started
 

@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "icare_by_app" "\0"
+            VALUE "CompanyName", "Mikalai Shurkaeu" "\0"
+            VALUE "FileDescription", "i-care.by | Клопат аб найважнейшым чалавеку ў тваім жыцці." "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "icare_by_app" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "icare_by_app.exe" "\0"
-            VALUE "ProductName", "icare_by_app" "\0"
+            VALUE "InternalName", "i-care.by Windows app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 Mikalai Shurkaeu. All rights reserved." "\0"
+            VALUE "OriginalFilename", "i-care.by-WindowsApp.exe" "\0"
+            VALUE "ProductName", "i-care.by Windows app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
