@@ -10,6 +10,8 @@ import 'display_diary_record.dart';
 import 'edit_diary_record.dart';
 import 'known_diary_states.dart';
 import 'request_user_info.dart';
+import 'scaffold_helpers.dart';
+import 'second_introductory_screen.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -51,11 +53,6 @@ class _HomePageState extends State<HomePage> {
         );
         break;
 
-      case KnownDiaryStates.fileIsUselessButUserNameWasProvidedInUI:
-        pageContent =
-            _ResponseToUserIntroduction(_diary, _onUserDecidedToTryTheApp);
-        break;
-
       case KnownDiaryStates.valid:
         if (_needToRecordVisit) {
           _asyncOperationFuture = _updateRecentVisitTimeOnceOnStart();
@@ -84,43 +81,25 @@ class _HomePageState extends State<HomePage> {
                   trailing: const Icon(Icons.edit),
                   onTap: _onUserInfoEdit,
                 ),
-                // TODO: implement backups review
-                ListTile(
-                  title: Text('Рэзервовыя копіі'),
-                  onTap: () {
-                    Navigator.pop(context);
-                    showAboutDialog(
-                      context: context,
-                      children: [
-                        Text(
-                            'Функцыя прагляду рэзервовых копій пакуль што не зроблена.'),
-                      ],
-                    );
-                  },
-                ),
+                ScaffoldHelpers.buildViewBackupsListTile(context),
                 // TODO: implement review of saved data
                 ListTile(
-                  title: Text('Захаваныя дадзеныя'),
+                  title: const Text('Захаваныя дадзеныя'),
                   onTap: () {
                     Navigator.pop(context);
                     showAboutDialog(
                       context: context,
                       children: [
-                        Text(
+                        const Text(
                             'Функцыя прагляду захаваных дадзеных пакуль што не зроблена.'),
                       ],
                     );
                   },
                 ),
-                //TODO: implement proper "about the program"
-                ListTile(
-                  title: Text('Аб праграме'),
-                  onTap: () {
-                    Navigator.pop(context);
-                    showAboutDialog(
-                      context: context,
-                    );
-                  },
+                ScaffoldHelpers.buildAboutTheApplicationListTile(
+                  context: context,
+                  userName: _diary.getNotEmptyUserName(l10n),
+                  userPreferredPronoun: _diary.userPreferredPronoun ?? '',
                 ),
               ],
             ),
@@ -136,8 +115,8 @@ class _HomePageState extends State<HomePage> {
         break;
     }
 
-    return _wrapIntoScaffold(
-      l10n: l10n,
+    return ScaffoldHelpers.wrapIntoScaffold(
+      context: context,
       pageContent: pageContent,
       drawer: drawer,
       floatingActionButton: floatingActionButton,
@@ -177,15 +156,20 @@ class _HomePageState extends State<HomePage> {
   }
 
   void _onSubmitUserInfoTheVeryFirstTime(
-      String userName, String preferredPronoun) {
+    String userName,
+    String preferredPronoun,
+  ) {
     _diary.userName = userName;
     _diary.userPreferredPronoun = preferredPronoun;
-    Navigator.of(context).push(MaterialPageRoute(
-      builder: (BuildContext context) => _buildFullContent(
-          context,
-          KnownDiaryStates
-              .fileIsUselessButUserNameWasProvidedInUI), //passing this value without setting to _diary allows to hot reload during development and preserve state of previous page
-    ));
+
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (BuildContext context) => SecondIntroductoryScreen(
+          _diary,
+          _onUserDecidedToTryTheApp,
+        ),
+      ),
+    );
   }
 
   void _onUserDecidedToTryTheApp() {
@@ -202,8 +186,8 @@ class _HomePageState extends State<HomePage> {
     AppLocalizations l10n = AppLocalizations.of(context);
     navigator.push(MaterialPageRoute(
       builder: (BuildContext context) {
-        return _wrapIntoScaffold(
-          l10n: l10n,
+        return ScaffoldHelpers.wrapIntoScaffold(
+          context: context,
           pageContent: RequestUserInfo(
             initialUserNameValue: _diary.userName ?? '',
             initialPreferredPronounValue: _diary.userPreferredPronoun,
@@ -245,24 +229,6 @@ class _HomePageState extends State<HomePage> {
     });
   }
 
-  Widget _wrapIntoScaffold(
-      {required AppLocalizations l10n,
-      required Widget pageContent,
-      Widget? drawer,
-      Widget? floatingActionButton}) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(l10n.appTitle),
-      ),
-      body: SingleChildScrollView(
-        padding: EdgeInsets.all(20),
-        child: pageContent,
-      ),
-      drawer: drawer,
-      floatingActionButton: floatingActionButton,
-    );
-  }
-
   @override
   Widget build(BuildContext context) {
     return _buildFullContent(context, _knownDiaryState);
@@ -277,7 +243,7 @@ class _HomePageState extends State<HomePage> {
 }
 
 class _AsyncOperationIndicator extends StatelessWidget {
-  _AsyncOperationIndicator(
+  const _AsyncOperationIndicator(
       Future<void> asyncOperationFuture,
       String Function(BuildContext) buildInProgressMessage,
       String Function(BuildContext, Object) buildErrorMessage)
@@ -331,7 +297,7 @@ class _AsyncOperationIndicator extends StatelessWidget {
 }
 
 class _MainScreen extends StatelessWidget {
-  _MainScreen(Diary diary) : _diary = diary;
+  const _MainScreen(Diary diary) : _diary = diary;
 
   final Diary _diary;
 
@@ -417,35 +383,6 @@ class _MainScreen extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: content,
-    );
-  }
-}
-
-class _ResponseToUserIntroduction extends StatelessWidget {
-  _ResponseToUserIntroduction(Diary diary, Function() onNext)
-      : _diary = diary,
-        _onNext = onNext;
-
-  final Diary _diary;
-  final Function() _onNext;
-
-  @override
-  Widget build(BuildContext context) {
-    AppLocalizations l10n = AppLocalizations.of(context);
-
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        Text(l10n.responseToUserIntroduction(
-            _diary.getNotEmptyUserName(l10n),
-            _diary.userPreferredPronoun ?? '',
-            _diary.getBriefExplanationWhereToFindDiary(l10n))),
-        const SizedBox(height: 20),
-        ElevatedButton(
-          onPressed: _onNext,
-          child: Text(l10n.yesLetsTryIt),
-        ),
-      ],
     );
   }
 }

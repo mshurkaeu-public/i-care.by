@@ -9,7 +9,7 @@ enum TmipimlIsParent {
 
   static TmipimlIsParent fromJson(String json) {
     if (!json.startsWith(prefix)) {
-      throw FormatException('json must start with "$prefix"');
+      throw const FormatException('json must start with "$prefix"');
     }
 
     String name = json.substring(prefix.length);

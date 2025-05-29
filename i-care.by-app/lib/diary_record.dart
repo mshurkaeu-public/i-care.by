@@ -11,7 +11,7 @@ class DiaryRecord {
   static const String _whoDetailsKey = 'whoDetails';
   static const String _whoKey = 'who';
 
-  Map<Object, Object?> _data;
+  final Map<Object, Object?> _data;
 
   set date(DateTime value) {
     String year = '${value.year}';
@@ -45,6 +45,26 @@ class DiaryRecord {
     }
   }
 
+  List<String>? get doneForSeveral {
+    if (who != TheMostImportantPersonInMyLife.several) {
+      throw UnsupportedError(
+          'Multiple done lists are meaningful only if "who" is "several".');
+    }
+    return _data[_doneKey] as List<String>?;
+  }
+
+  set doneForSeveral(List<String>? value) {
+    if (who != TheMostImportantPersonInMyLife.several) {
+      throw UnsupportedError(
+          'Multiple done lists are meaningful only if "who" is "several".');
+    }
+    if (value == null) {
+      _data.remove(_doneKey);
+    } else {
+      _data[_doneKey] = value;
+    }
+  }
+
   String? get emotionsAndFeelingsOnDone {
     if (who == TheMostImportantPersonInMyLife.several) {
       throw UnsupportedError(
@@ -57,6 +77,26 @@ class DiaryRecord {
     if (who == TheMostImportantPersonInMyLife.several) {
       throw UnsupportedError(
           'Single emotions and feelings list is meaningful only if "who" is not "several".');
+    }
+    if (value == null) {
+      _data.remove(_emotionsAndFeelingsOnDoneKey);
+    } else {
+      _data[_emotionsAndFeelingsOnDoneKey] = value;
+    }
+  }
+
+  List<String>? get emotionsAndFeelingsOnDoneForSeveral {
+    if (who != TheMostImportantPersonInMyLife.several) {
+      throw UnsupportedError(
+          'Multiple emotions and feelings lists are meaningful only if "who" is "several".');
+    }
+    return _data[_emotionsAndFeelingsOnDoneKey] as List<String>?;
+  }
+
+  set emotionsAndFeelingsOnDoneForSeveral(List<String>? value) {
+    if (who != TheMostImportantPersonInMyLife.several) {
+      throw UnsupportedError(
+          'Multiple emotions and feelings lists are meaningful only if "who" is "several".');
     }
     if (value == null) {
       _data.remove(_emotionsAndFeelingsOnDoneKey);
@@ -93,7 +133,7 @@ class DiaryRecord {
     return _data[_emotionsAndFeelingsOnWantToDoKey] as List<String>?;
   }
 
-  set emotionsAndFeelingsOnWantToDoSeveral(List<String>? value) {
+  set emotionsAndFeelingsOnWantToDoForSeveral(List<String>? value) {
     if (who != TheMostImportantPersonInMyLife.several) {
       throw UnsupportedError(
           'Multiple emotions and feelings lists are meaningful only if "who" is "several".');

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 import 'home_page.dart';
 
@@ -12,13 +13,27 @@ class ICareByApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    String roboto = GoogleFonts.roboto().fontFamily!;
+    String notoColorEmoji = GoogleFonts.notoColorEmoji().fontFamily!;
+
+    ThemeData darkTheme = ThemeData(
+      brightness: Brightness.dark,
+      fontFamily: roboto,
+      fontFamilyFallback: [notoColorEmoji],
+    );
+    ThemeData lightTheme = ThemeData(
+      brightness: Brightness.light,
+      fontFamily: roboto,
+      fontFamilyFallback: [notoColorEmoji],
+    );
+
     return MaterialApp(
-      darkTheme: ThemeData.dark(),
-      home: HomePage(),
+      darkTheme: darkTheme,
+      home: const HomePage(),
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       onGenerateTitle: _onGenerateTitle,
       supportedLocales: AppLocalizations.supportedLocales,
-      theme: ThemeData.light(),
+      theme: lightTheme,
       themeMode: ThemeMode.system,
     );
   }

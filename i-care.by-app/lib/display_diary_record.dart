@@ -10,7 +10,7 @@ import 'tmipiml_is_parent.dart';
 import 'tmipiml_is_spouce_or_partner.dart';
 
 class DisplayDiaryRecord extends StatelessWidget {
-  DisplayDiaryRecord(dynamic data, String userPreferredPronoun)
+  DisplayDiaryRecord(dynamic data, String userPreferredPronoun, {super.key})
       : _diaryRecord = DiaryRecord(data),
         _userPreferredPronoun = userPreferredPronoun;
 
@@ -28,7 +28,7 @@ class DisplayDiaryRecord extends StatelessWidget {
     required String youDidLabelText,
     required String youWantedToDoLabelText,
   }) {
-    dayContent.add(SizedBox(height: 10));
+    dayContent.add(const SizedBox(height: 10));
     dayContent.add(Row(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -234,25 +234,43 @@ class DisplayDiaryRecord extends StatelessWidget {
         }
 
         List<String> persons = _diaryRecord.whoNames!;
+        List<String> doneForSeveral = _diaryRecord.doneForSeveral ?? [];
         List<String> wantToDoForSeveral = _diaryRecord.wantToDoForSeveral ?? [];
+        List<String> eafOnDoneForSeveral =
+            _diaryRecord.emotionsAndFeelingsOnDoneForSeveral ?? [];
+        List<String> eafOnWantToDoForSeveral =
+            _diaryRecord.emotionsAndFeelingsOnWantToDoForSeveral ?? [];
         for (int i = 0; i < persons.length; i++) {
           String personName = persons[i];
 
-          String? wantToDoDescription;
+          String? wantedToDo;
           if (i < wantToDoForSeveral.length) {
-            wantToDoDescription = wantToDoForSeveral[i];
-          } else {
-            wantToDoDescription = null;
+            wantedToDo = wantToDoForSeveral[i];
+          }
+
+          String? eafOnWantedToDo;
+          if (i < eafOnWantToDoForSeveral.length) {
+            eafOnWantedToDo = eafOnWantToDoForSeveral[i];
+          }
+
+          String? done;
+          if (i < doneForSeveral.length) {
+            done = doneForSeveral[i];
+          }
+
+          String? eafOnDone;
+          if (i < eafOnDoneForSeveral.length) {
+            eafOnDone = eafOnDoneForSeveral[i];
           }
 
           _appendContentForOnePerson(
             dayContent: dayContent,
-            done: null,
-            emotionsAndFeelingsOnDone: null,
-            emotionsAndFeelingsOnWantedToDo: null,
+            done: done,
+            emotionsAndFeelingsOnDone: eafOnDone,
+            emotionsAndFeelingsOnWantedToDo: eafOnWantedToDo,
             l10n: l10n,
             themeData: themeData,
-            wantedToDo: wantToDoDescription,
+            wantedToDo: wantedToDo,
             youDidLabelText: Messages.youDid(
               _diaryRecord,
               l10n,
@@ -302,8 +320,8 @@ class DisplayDiaryRecord extends StatelessWidget {
           ),
         ),
       ),
-      margin: EdgeInsets.only(top: 20),
-      padding: EdgeInsets.only(top: 10),
+      margin: const EdgeInsets.only(top: 20),
+      padding: const EdgeInsets.only(top: 10),
       child: Row(
         children: [
           Expanded(

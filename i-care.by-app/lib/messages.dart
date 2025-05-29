@@ -185,7 +185,6 @@ class Messages {
       case null:
       case TheMostImportantPersonInMyLife.absent:
       case TheMostImportantPersonInMyLife.dontKnow:
-      case TheMostImportantPersonInMyLife.several:
         throw UnimplementedError();
 
       case TheMostImportantPersonInMyLife.another:
@@ -264,6 +263,21 @@ class Messages {
         }
         break;
 
+      case TheMostImportantPersonInMyLife.several:
+        if (personName == l10n.theMipiylOption_you) {
+          res = l10n.whatDoYouWantToDoFor_yourself(
+            userName,
+            userPreferredPronoun,
+          );
+        } else {
+          res = l10n.whatDoYouWantToDoFor_another(
+            userName,
+            userPreferredPronoun,
+            personName,
+          );
+        }
+        break;
+
       case TheMostImportantPersonInMyLife.spouseOrPartner:
         switch (diaryRecord.whoSubclass as TmipimlIsSpouceOrPartner?) {
           case null:
@@ -299,6 +313,35 @@ class Messages {
         }
         break;
     }
+    return res;
+  }
+
+  static String youAnsweredThatTmipiylWas(
+    DiaryRecord diaryRecord,
+    AppLocalizations l10n,
+    String userName,
+    String userPreferredPronoun,
+  ) {
+    String res;
+    switch (diaryRecord.who) {
+      case TheMostImportantPersonInMyLife.absent:
+        res = l10n.youAnsweredThatTmipiylWas_absent(
+          userName,
+          userPreferredPronoun,
+        );
+        break;
+
+      case TheMostImportantPersonInMyLife.dontKnow:
+        res = l10n.youAnsweredThatTmipiylWas_dontKnow(
+          userName,
+          userPreferredPronoun,
+        );
+        break;
+
+      default:
+        throw UnimplementedError();
+    }
+
     return res;
   }
 

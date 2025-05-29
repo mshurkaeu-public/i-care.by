@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class RequestNotEmptyListOfPersonsNames extends StatefulWidget {
-  RequestNotEmptyListOfPersonsNames({
+  const RequestNotEmptyListOfPersonsNames({
+    super.key,
     required String hintForInputField,
     //TODO: review a possibility to convert this parameter to List<String>
     String initialValue = '',
@@ -64,7 +65,7 @@ class _RequestNotEmptyListOfPersonsNamesState
           TextFormField(
             controller: _namesController,
             decoration: InputDecoration(
-              border: OutlineInputBorder(),
+              border: const OutlineInputBorder(),
               labelText: widget._hintForInputField,
             ),
             focusNode: _namesFocusNode,
