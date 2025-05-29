@@ -22,10 +22,148 @@ class MyGratitude extends StatelessWidget {
           TextSpan(
             text: l10n.aboutMyGratitudeIntroductory,
             children: [
+              // 2024-11
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_12_title,
+                style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_12_13_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_12_13_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_12_06_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_12_06_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_12_05_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_12_05_01,
+              ),
+
+              // 2024-11
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_title,
+                style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_29_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_29_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_26_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_26_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_23_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_22_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_17_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_16_05,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_16_04,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_16_03,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_16_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_16_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_08_05,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_08_04,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_08_03,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_08_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_11_08_01,
+              ),
+
+              // 2024-10
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_title,
+                style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_30_04,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_30_03,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_30_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_30_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_26_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_26_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_18_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_18_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_12_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_10_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_10_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_09_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_05_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_10_02_01,
+              ),
+
               // 2024-09
               TextSpan(
                 text: l10n.aboutMyGratitude_2024_09_title,
                 style: titleStyle,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_09_28_01,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_09_25_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2024_09_25_01,
               ),
               TextSpan(
                 text: l10n.aboutMyGratitude_2024_09_22_02,
