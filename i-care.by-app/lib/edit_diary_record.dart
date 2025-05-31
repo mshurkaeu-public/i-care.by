@@ -1197,7 +1197,7 @@ class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
       data: MultiSplitViewThemeData(
         dividerPainter: DividerPainters.dashed(
           color: themeData.dividerColor,
-          highlightedColor: themeData.indicatorColor,
+          highlightedColor: themeData.primaryColorDark,
           thickness: 3,
         ),
       ),
@@ -1975,7 +1975,7 @@ abstract class _WhatIsDoneRequestContainerState
           data: MultiSplitViewThemeData(
             dividerPainter: DividerPainters.dashed(
               color: themeData.dividerColor,
-              highlightedColor: themeData.indicatorColor,
+              highlightedColor: themeData.primaryColorDark,
             ),
           ),
           child: _TwoAreasSplitView(
