@@ -1952,7 +1952,6 @@ abstract class _WhatIsDoneRequestContainerState
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
-    ThemeData themeData = Theme.of(context);
 
     String question = Messages.whatDidYouDoToday(
       widget._diaryRecord,
@@ -1971,43 +1970,35 @@ abstract class _WhatIsDoneRequestContainerState
       ),
       body: Padding(
         padding: ScaffoldHelpers.defaultBodyPadding,
-        child: MultiSplitViewTheme(
-          data: MultiSplitViewThemeData(
-            dividerPainter: DividerPainters.dashed(
-              color: themeData.dividerColor,
-              highlightedColor: themeData.primaryColorDark,
-            ),
-          ),
-          child: _TwoAreasSplitView(
-            axis: Axis.vertical,
-            initialFirstAreaWeight: widget._firstRowInitialWeight,
-            firstArea: getFirstRowChild(l10n),
-            secondArea: _TwoAreasSplitView(
-              axis: Axis.horizontal,
-              initialFirstAreaWeight: 0.6,
-              firstArea: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(question),
-                  const SizedBox(height: 10),
-                  Expanded(
-                    child: TextField(
-                      controller: _doneController,
-                      decoration: const InputDecoration(
-                        border: OutlineInputBorder(),
-                      ),
-                      maxLines: null,
-                      expands: true,
-                      textAlignVertical: TextAlignVertical.top,
+        child: _TwoAreasSplitView(
+          axis: Axis.vertical,
+          initialFirstAreaWeight: widget._firstRowInitialWeight,
+          firstArea: getFirstRowChild(l10n),
+          secondArea: _TwoAreasSplitView(
+            axis: Axis.horizontal,
+            initialFirstAreaWeight: 0.6,
+            firstArea: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(question),
+                const SizedBox(height: 10),
+                Expanded(
+                  child: TextField(
+                    controller: _doneController,
+                    decoration: const InputDecoration(
+                      border: OutlineInputBorder(),
                     ),
+                    maxLines: null,
+                    expands: true,
+                    textAlignVertical: TextAlignVertical.top,
                   ),
-                ],
-              ),
-              secondArea: _EmotionsAndFeelingsRequest(
-                controller: _emotionsAndFeelingsController,
-                userName: widget._userName,
-                userPreferredPronoun: widget._userPreferredPronoun,
-              ),
+                ),
+              ],
+            ),
+            secondArea: _EmotionsAndFeelingsRequest(
+              controller: _emotionsAndFeelingsController,
+              userName: widget._userName,
+              userPreferredPronoun: widget._userPreferredPronoun,
             ),
           ),
         ),
