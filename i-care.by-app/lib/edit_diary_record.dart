@@ -1032,7 +1032,7 @@ abstract class _OneEmotionsAndFeelingsRequestContainerState
   final TextEditingController _emotionsAndFeelingsController =
       TextEditingController();
 
-  _saveEmotionsAndFeelingsIntoDiaryRecord() {
+  void _saveEmotionsAndFeelingsIntoDiaryRecord() {
     String? emotionsAndFeelings = _emotionsAndFeelingsController.text;
     if (emotionsAndFeelings.isEmpty) {
       emotionsAndFeelings = null;
@@ -1397,7 +1397,7 @@ class _WhatDoYouWantToDoForThePersonsState
     widget.onNextButtonPressed();
   }
 
-  _saveWantToDoAndEmotionsAndFeelingsIntoDiaryRecord() {
+  void _saveWantToDoAndEmotionsAndFeelingsIntoDiaryRecord() {
     List<String> wantToDoForSeveral = [];
     List<String> emotionsAndFeelingsOnWantToDoForSeveral = [];
     for (int i = 0; i < _persons.length; i++) {
@@ -1681,7 +1681,7 @@ class _WhatIsDoneForThePersonsState extends State<_WhatIsDoneForThePersons> {
     widget.onDoneButtonPressed();
   }
 
-  _saveDoneAndEmotionsAndFeelingsIntoDiaryRecord() {
+  void _saveDoneAndEmotionsAndFeelingsIntoDiaryRecord() {
     List<String> doneForSeveral = [];
     List<String> emotionsAndFeelingsOnDoneForSeveral = [];
     for (int i = 0; i < _persons.length; i++) {
