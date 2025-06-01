@@ -1215,7 +1215,10 @@ class _TwoAreasSplitViewState extends State<_TwoAreasSplitView> {
   void initState() {
     super.initState();
 
-    _restoreDefaultColumnsWeights();
+    _multiSplitViewController.areas = [
+      Area(flex: widget.initialFirstAreaWeight),
+      Area(flex: (1 - widget.initialFirstAreaWeight)),
+    ];
   }
 }
 
