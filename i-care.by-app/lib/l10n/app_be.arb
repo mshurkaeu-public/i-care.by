@@ -1565,6 +1565,10 @@
   "@aboutMyGratitude_2025_06_20_01": {
     "description": "Text for 2025-06-20 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_06_20_02": "\n2025-06-20 каманды кампаній JGraph Ltd і draw.io AG — 🛠️ стварылі версію 27.1.6 вэб-сайта https://app.diagrams.net, якім я карыстаюсь, каб маляваць дрэва цяперашняй рэальнасці для высвятлення каранёвай прычыны дыктатуры ў Беларусі.\n",
+  "@aboutMyGratitude_2025_06_20_02": {
+    "description": "Text for 2025-06-20 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_06_title": "\n\n2025-06\n",
   "@aboutMyGratitude_2025_06_title": {
     "description": "Title for 2025-06 list/text on the \"my gratitude\" tab on the \"About\" page."
