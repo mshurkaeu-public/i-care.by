@@ -1589,6 +1589,10 @@
   "@aboutMyGratitude_2025_07_11_01": {
     "description": "Text for 2025-07-11 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_07_11_02": "\n2025-07-11 каманда flutter.dev — 🛠️ стварыла новую версію пакета url_launcher 6.3.2 (2025-07-10) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2025_07_11_02": {
+    "description": "Text for 2025-07-11 flutter.dev team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_07_title": "\n\n2025-07\n",
   "@aboutMyGratitude_2025_07_title": {
     "description": "Title for 2025-07 list/text on the \"my gratitude\" tab on the \"About\" page."
