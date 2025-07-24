@@ -548,12 +548,12 @@
         <mxCell id="WmGjQ5hxU4foc0PAErqM-2" value="карцінка 4" style="swimlane;whiteSpace=wrap;html=1;fontStyle=0;collapsible=0;strokeColor=default;fillColor=none;swimlaneLine=0;horizontal=1;flipV=1;swimlaneBody=0;" parent="1" vertex="1">
           <mxGeometry y="12640" width="827" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="WmGjQ5hxU4foc0PAErqM-2" target="WmGjQ5hxU4foc0PAErqM-5" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="WmGjQ5hxU4foc0PAErqM-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="80" as="sourcePoint" />
-            <mxPoint x="481" y="155" as="targetPoint" />
+            <mxPoint x="60" y="165" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="120" />
+              <mxPoint x="50" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -562,29 +562,29 @@
             <mxPoint x="80" y="80" as="sourcePoint" />
             <mxPoint x="70" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="110" />
+              <mxPoint x="70" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-93-128.png;direction=east;flipH=1;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-5" target="WmGjQ5hxU4foc0PAErqM-7" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.4;exitDx=0;exitDy=0;entryX=0.5;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;strokeColor=#0000FF;" parent="WmGjQ5hxU4foc0PAErqM-2" source="6zGVjqI7GaSrKIzWoXby-18" target="WmGjQ5hxU4foc0PAErqM-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="-50" as="sourcePoint" />
             <mxPoint x="230" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="150" />
+              <mxPoint x="280" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=stencil(zVlLb+IwEP41HLE8fsTOccW2xz3srrTnLHXbaGmCkrSFf78DgRTbAcIkqiohgW0y883MNw/MTC7q52ztZoJn9dotm5n8PhPiMd+4B3zH7ed2R6l2WWQvrt15y/9WWZOXRXtQN1X5z73nD83hibx4dlXetKfv7Z5Mdkt5N+PfcHP3kotlWRSoGAXV3snJOcrO8gJF8U0rhzPdyt0e1wd4a1T54hpXHfZD0N8W7c5M3N+gzATKxDBlv3+StAWmDdP1Y7wmGKbpF0FT4D89TNOf2zUBTdPdaJsGRolgEicFabzvBlpEcB2QLDqjSGKO3Z+rIXLxWFbuqSpfi4deeOtsV66ig+PxS/nmPnALxZRKPfDCMmH1JRccRa3y4lQUMEj8siI545oiCusR2AhVqgiiBBM6EGUYkEQBMyrxRUlmLRBESYQQoBLTIOIMIJ3ET5Awy5NJogeaGW4m4RRIlioKqpjpO1RAEYVR19IXlTJtKAYiBKHHEyFGtLNXXGT5vsycqRZYZfLV6sKjN1UZCUyGSUix0jLJAys1k0ISRKVM+ImDtUqTEgf5mAaiMBokigqWCt9NUjAgVVDDeFjXkaKaUqsShGBCbhlOqaCWJQrG8yBGhPknUkr+xX4CTByKx+PgARB5EFMKOJEHEc+xfio7TfIBhtPYr1Fi0CyjxCR9ftcWbCCKOH0gl6z0nUadiZBMXfqOnNQAi0o4NlztFmdEYa83anRG9yCidtQeP1H7fE/0qNNHD6eoM1EP06mTGhoodBA94vyIEbRcjCdCD6KrM/bnVRnL0jAHiV0Vo8iN7y9qr0fXc+77jDqBJCxIZupUZFgSdDDqpKYmGRliPNeb10AXURtqT9ioXb6HTNTZI2Y4cR5KUX/0G4k0o5lJfjzEeK5PsZ84vgQGDkqUrFrih1VWPbk5fp4/rrIn7wKq8m+nKv96qn53bh0/FCDazLNNXs+rsmlvxk+vso5oB9W/L4N2kG+Xq7J2V791MYjD6ubytWplQNfL5THfNuI4KhzW0l9vwde0FV0Tl904JW/JmQhNiOQUnQzMhq5hJ10PPyLSAZpBFSVCk6LkAFFHBOmvOzQ6QCI/ZIzzTadZnKBTV3zDP/y3FUH05BDekGrS/qHo3ni/2/5Xtt/4Dw==);" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0000FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=stencil(zVlLb+IwEP41HLE8fsTOccW2xz3srrTnLHXbaGmCkrSFf78DgRTbAcIkqiohgW0y883MNw/MTC7q52ztZoJn9dotm5n8PhPiMd+4B3zH7ed2R6l2WWQvrt15y/9WWZOXRXtQN1X5z73nD83hibx4dlXetKfv7Z5Mdkt5N+PfcHP3kotlWRSoGAXV3snJOcrO8gJF8U0rhzPdyt0e1wd4a1T54hpXHfZD0N8W7c5M3N+gzATKxDBlv3+StAWmDdP1Y7wmGKbpF0FT4D89TNOf2zUBTdPdaJsGRolgEicFabzvBlpEcB2QLDqjSGKO3Z+rIXLxWFbuqSpfi4deeOtsV66ig+PxS/nmPnALxZRKPfDCMmH1JRccRa3y4lQUMEj8siI545oiCusR2AhVqgiiBBM6EGUYkEQBMyrxRUlmLRBESYQQoBLTIOIMIJ3ET5Awy5NJogeaGW4m4RRIlioKqpjpO1RAEYVR19IXlTJtKAYiBKHHEyFGtLNXXGT5vsycqRZYZfLV6sKjN1UZCUyGSUix0jLJAys1k0ISRKVM+ImDtUqTEgf5mAaiMBokigqWCt9NUjAgVVDDeFjXkaKaUqsShGBCbhlOqaCWJQrG8yBGhPknUkr+xX4CTByKx+PgARB5EFMKOJEHEc+xfio7TfIBhtPYr1Fi0CyjxCR9ftcWbCCKOH0gl6z0nUadiZBMXfqOnNQAi0o4NlztFmdEYa83anRG9yCidtQeP1H7fE/0qNNHD6eoM1EP06mTGhoodBA94vyIEbRcjCdCD6KrM/bnVRnL0jAHiV0Vo8iN7y9qr0fXc+77jDqBJCxIZupUZFgSdDDqpKYmGRliPNeb10AXURtqT9ioXb6HTNTZI2Y4cR5KUX/0G4k0o5lJfjzEeK5PsZ84vgQGDkqUrFrih1VWPbk5fp4/rrIn7wKq8m+nKv96qn53bh0/FCDazLNNXs+rsmlvxk+vso5oB9W/L4N2kG+Xq7J2V791MYjD6ubytWplQNfL5THfNuI4KhzW0l9vwde0FV0Tl904JW/JmQhNiOQUnQzMhq5hJ10PPyLSAZpBFSVCk6LkAFFHBOmvOzQ6QCI/ZIzzTadZnKBTV3zDP/y3FUH05BDekGrS/qHo3ni/2/5Xtt/4Dw==);" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="240" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-8" value="учынак/паводзіны" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="170" y="290" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-7" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="300" as="sourcePoint" />
             <mxPoint x="380" y="160" as="targetPoint" />
@@ -593,7 +593,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-7" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="140" as="sourcePoint" />
             <mxPoint x="360" y="80" as="targetPoint" />
@@ -602,7 +602,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.658;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-7" target="WmGjQ5hxU4foc0PAErqM-5" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.658;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-7" target="WmGjQ5hxU4foc0PAErqM-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="209" as="sourcePoint" />
             <mxPoint x="830" y="219" as="targetPoint" />
@@ -611,12 +611,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="WmGjQ5hxU4foc0PAErqM-2" target="WmGjQ5hxU4foc0PAErqM-14" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="WmGjQ5hxU4foc0PAErqM-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="80" as="sourcePoint" />
-            <mxPoint x="319" y="155" as="targetPoint" />
+            <mxPoint x="740" y="165" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="120" />
+              <mxPoint x="750" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -625,29 +625,29 @@
             <mxPoint x="720" y="80" as="sourcePoint" />
             <mxPoint x="730" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="110" />
+              <mxPoint x="730" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/ballicons-reloaded-free/512/icon-93-128.png;direction=east;flipH=0;shadow=0;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="640" y="160" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-14" target="WmGjQ5hxU4foc0PAErqM-16" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.4;exitDx=0;exitDy=0;entryX=0.5;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;exitPerimeter=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="6zGVjqI7GaSrKIzWoXby-19" target="WmGjQ5hxU4foc0PAErqM-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="-50" as="sourcePoint" />
             <mxPoint x="570" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="150" />
+              <mxPoint x="520" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF6666;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=stencil(zVlLb+IwEP41HLE8fsTOccW2xz3srrTnLHXbaGmCkrSFf78DgRTbAcIkqiohgW0y883MNw/MTC7q52ztZoJn9dotm5n8PhPiMd+4B3zH7ed2R6l2WWQvrt15y/9WWZOXRXtQN1X5z73nD83hibx4dlXetKfv7Z5Mdkt5N+PfcHP3kotlWRSoGAXV3snJOcrO8gJF8U0rhzPdyt0e1wd4a1T54hpXHfZD0N8W7c5M3N+gzATKxDBlv3+StAWmDdP1Y7wmGKbpF0FT4D89TNOf2zUBTdPdaJsGRolgEicFabzvBlpEcB2QLDqjSGKO3Z+rIXLxWFbuqSpfi4deeOtsV66ig+PxS/nmPnALxZRKPfDCMmH1JRccRa3y4lQUMEj8siI545oiCusR2AhVqgiiBBM6EGUYkEQBMyrxRUlmLRBESYQQoBLTIOIMIJ3ET5Awy5NJogeaGW4m4RRIlioKqpjpO1RAEYVR19IXlTJtKAYiBKHHEyFGtLNXXGT5vsycqRZYZfLV6sKjN1UZCUyGSUix0jLJAys1k0ISRKVM+ImDtUqTEgf5mAaiMBokigqWCt9NUjAgVVDDeFjXkaKaUqsShGBCbhlOqaCWJQrG8yBGhPknUkr+xX4CTByKx+PgARB5EFMKOJEHEc+xfio7TfIBhtPYr1Fi0CyjxCR9ftcWbCCKOH0gl6z0nUadiZBMXfqOnNQAi0o4NlztFmdEYa83anRG9yCidtQeP1H7fE/0qNNHD6eoM1EP06mTGhoodBA94vyIEbRcjCdCD6KrM/bnVRnL0jAHiV0Vo8iN7y9qr0fXc+77jDqBJCxIZupUZFgSdDDqpKYmGRliPNeb10AXURtqT9ioXb6HTNTZI2Y4cR5KUX/0G4k0o5lJfjzEeK5PsZ84vgQGDkqUrFrih1VWPbk5fp4/rrIn7wKq8m+nKv96qn53bh0/FCDazLNNXs+rsmlvxk+vso5oB9W/L4N2kG+Xq7J2V791MYjD6ubytWplQNfL5THfNuI4KhzW0l9vwde0FV0Tl904JW/JmQhNiOQUnQzMhq5hJ10PPyLSAZpBFSVCk6LkAFFHBOmvOzQ6QCI/ZIzzTadZnKBTV3zDP/y3FUH05BDekGrS/qHo3ni/2/5Xtt/4Dw==);flipH=1;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=stencil(zVlLb+IwEP41HLE8fsTOccW2xz3srrTnLHXbaGmCkrSFf78DgRTbAcIkqiohgW0y883MNw/MTC7q52ztZoJn9dotm5n8PhPiMd+4B3zH7ed2R6l2WWQvrt15y/9WWZOXRXtQN1X5z73nD83hibx4dlXetKfv7Z5Mdkt5N+PfcHP3kotlWRSoGAXV3snJOcrO8gJF8U0rhzPdyt0e1wd4a1T54hpXHfZD0N8W7c5M3N+gzATKxDBlv3+StAWmDdP1Y7wmGKbpF0FT4D89TNOf2zUBTdPdaJsGRolgEicFabzvBlpEcB2QLDqjSGKO3Z+rIXLxWFbuqSpfi4deeOtsV66ig+PxS/nmPnALxZRKPfDCMmH1JRccRa3y4lQUMEj8siI545oiCusR2AhVqgiiBBM6EGUYkEQBMyrxRUlmLRBESYQQoBLTIOIMIJ3ET5Awy5NJogeaGW4m4RRIlioKqpjpO1RAEYVR19IXlTJtKAYiBKHHEyFGtLNXXGT5vsycqRZYZfLV6sKjN1UZCUyGSUix0jLJAys1k0ISRKVM+ImDtUqTEgf5mAaiMBokigqWCt9NUjAgVVDDeFjXkaKaUqsShGBCbhlOqaCWJQrG8yBGhPknUkr+xX4CTByKx+PgARB5EFMKOJEHEc+xfio7TfIBhtPYr1Fi0CyjxCR9ftcWbCCKOH0gl6z0nUadiZBMXfqOnNQAi0o4NlztFmdEYa83anRG9yCidtQeP1H7fE/0qNNHD6eoM1EP06mTGhoodBA94vyIEbRcjCdCD6KrM/bnVRnL0jAHiV0Vo8iN7y9qr0fXc+77jDqBJCxIZupUZFgSdDDqpKYmGRliPNeb10AXURtqT9ioXb6HTNTZI2Y4cR5KUX/0G4k0o5lJfjzEeK5PsZ84vgQGDkqUrFrih1VWPbk5fp4/rrIn7wKq8m+nKv96qn53bh0/FCDazLNNXs+rsmlvxk+vso5oB9W/L4N2kG+Xq7J2V791MYjD6ubytWplQNfL5THfNuI4KhzW0l9vwde0FV0Tl904JW/JmQhNiOQUnQzMhq5hJ10PPyLSAZpBFSVCk6LkAFFHBOmvOzQ6QCI/ZIzzTadZnKBTV3zDP/y3FUH05BDekGrS/qHo3ni/2/5Xtt/4Dw==);flipH=1;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="480" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-17" value="учынак/паводзіны" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="520" y="290" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-16" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="300" as="sourcePoint" />
             <mxPoint x="420" y="160" as="targetPoint" />
@@ -656,7 +656,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-16" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="140" as="sourcePoint" />
             <mxPoint x="440" y="80" as="targetPoint" />
@@ -665,7 +665,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.658;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-16" target="WmGjQ5hxU4foc0PAErqM-14" edge="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.658;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.7;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-16" target="WmGjQ5hxU4foc0PAErqM-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="209" as="sourcePoint" />
             <mxPoint x="-30" y="219" as="targetPoint" />
@@ -680,8 +680,11 @@
         <mxCell id="WmGjQ5hxU4foc0PAErqM-22" value="чалавек &lt;b&gt;B&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="720" y="280" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6zGVjqI7GaSrKIzWoXby-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0000FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=stencil(zVlLb+IwEP41HLE8fsTOccW2xz3srrTnLHXbaGmCkrSFf78DgRTbAcIkqiohgW0y883MNw/MTC7q52ztZoJn9dotm5n8PhPiMd+4B3zH7ed2R6l2WWQvrt15y/9WWZOXRXtQN1X5z73nD83hibx4dlXetKfv7Z5Mdkt5N+PfcHP3kotlWRSoGAXV3snJOcrO8gJF8U0rhzPdyt0e1wd4a1T54hpXHfZD0N8W7c5M3N+gzATKxDBlv3+StAWmDdP1Y7wmGKbpF0FT4D89TNOf2zUBTdPdaJsGRolgEicFabzvBlpEcB2QLDqjSGKO3Z+rIXLxWFbuqSpfi4deeOtsV66ig+PxS/nmPnALxZRKPfDCMmH1JRccRa3y4lQUMEj8siI545oiCusR2AhVqgiiBBM6EGUYkEQBMyrxRUlmLRBESYQQoBLTIOIMIJ3ET5Awy5NJogeaGW4m4RRIlioKqpjpO1RAEYVR19IXlTJtKAYiBKHHEyFGtLNXXGT5vsycqRZYZfLV6sKjN1UZCUyGSUix0jLJAys1k0ISRKVM+ImDtUqTEgf5mAaiMBokigqWCt9NUjAgVVDDeFjXkaKaUqsShGBCbhlOqaCWJQrG8yBGhPknUkr+xX4CTByKx+PgARB5EFMKOJEHEc+xfio7TfIBhtPYr1Fi0CyjxCR9ftcWbCCKOH0gl6z0nUadiZBMXfqOnNQAi0o4NlztFmdEYa83anRG9yCidtQeP1H7fE/0qNNHD6eoM1EP06mTGhoodBA94vyIEbRcjCdCD6KrM/bnVRnL0jAHiV0Vo8iN7y9qr0fXc+77jDqBJCxIZupUZFgSdDDqpKYmGRliPNeb10AXURtqT9ioXb6HTNTZI2Y4cR5KUX/0G4k0o5lJfjzEeK5PsZ84vgQGDkqUrFrih1VWPbk5fp4/rrIn7wKq8m+nKv96qn53bh0/FCDazLNNXs+rsmlvxk+vso5oB9W/L4N2kG+Xq7J2V791MYjD6ubytWplQNfL5THfNuI4KhzW0l9vwde0FV0Tl904JW/JmQhNiOQUnQzMhq5hJ10PPyLSAZpBFSVCk6LkAFFHBOmvOzQ6QCI/ZIzzTadZnKBTV3zDP/y3FUH05BDekGrS/qHo3ni/2/5Xtt/4Dw==);" vertex="1" parent="WmGjQ5hxU4foc0PAErqM-2">
+          <mxGeometry x="70" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-23" value="" style="shape=ellipse;fillColor=#990099;strokeColor=none;html=1;sketch=0;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
-          <mxGeometry x="75" y="170" width="10" height="10" as="geometry" />
+          <mxGeometry x="105" y="175" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-25" value="адносіны — погляд на што-небудзь, разуменне чаго-небудзь." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#990099;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="160" y="120" width="240" height="40" as="geometry" />
@@ -695,7 +698,7 @@
         <mxCell id="WmGjQ5hxU4foc0PAErqM-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990099;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="508" y="170" as="sourcePoint" />
-            <mxPoint x="550" y="210" as="targetPoint" />
+            <mxPoint x="540" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-27" value="адносіны — адметная асаблівасць, уласцівасць, якасць (то бок, характар) паводзін, абыходжання з кім-небудзь, чым-небудзь." style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#990099;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
@@ -704,17 +707,56 @@
         <mxCell id="WmGjQ5hxU4foc0PAErqM-28" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990099;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="528" y="270" as="sourcePoint" />
-            <mxPoint x="730" y="120" as="targetPoint" />
+            <mxPoint x="760" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990099;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="268" y="270" as="sourcePoint" />
-            <mxPoint x="70" y="120" as="targetPoint" />
+            <mxPoint x="40" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-30" value="&lt;div align=&quot;center&quot;&gt;адносіны — сувязі паміж людзьмі, якія ўзнікаюць у працэсе іх дзейнасці, суіснавання.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#990099;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="240" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6zGVjqI7GaSrKIzWoXby-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="WmGjQ5hxU4foc0PAErqM-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="80" as="sourcePoint" />
+            <mxPoint x="71" y="161" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zGVjqI7GaSrKIzWoXby-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=stencil(zVlLb+IwEP41HLE8fsTOccW2xz3srrTnLHXbaGmCkrSFf78DgRTbAcIkqiohgW0y883MNw/MTC7q52ztZoJn9dotm5n8PhPiMd+4B3zH7ed2R6l2WWQvrt15y/9WWZOXRXtQN1X5z73nD83hibx4dlXetKfv7Z5Mdkt5N+PfcHP3kotlWRSoGAXV3snJOcrO8gJF8U0rhzPdyt0e1wd4a1T54hpXHfZD0N8W7c5M3N+gzATKxDBlv3+StAWmDdP1Y7wmGKbpF0FT4D89TNOf2zUBTdPdaJsGRolgEicFabzvBlpEcB2QLDqjSGKO3Z+rIXLxWFbuqSpfi4deeOtsV66ig+PxS/nmPnALxZRKPfDCMmH1JRccRa3y4lQUMEj8siI545oiCusR2AhVqgiiBBM6EGUYkEQBMyrxRUlmLRBESYQQoBLTIOIMIJ3ET5Awy5NJogeaGW4m4RRIlioKqpjpO1RAEYVR19IXlTJtKAYiBKHHEyFGtLNXXGT5vsycqRZYZfLV6sKjN1UZCUyGSUix0jLJAys1k0ISRKVM+ImDtUqTEgf5mAaiMBokigqWCt9NUjAgVVDDeFjXkaKaUqsShGBCbhlOqaCWJQrG8yBGhPknUkr+xX4CTByKx+PgARB5EFMKOJEHEc+xfio7TfIBhtPYr1Fi0CyjxCR9ftcWbCCKOH0gl6z0nUadiZBMXfqOnNQAi0o4NlztFmdEYa83anRG9yCidtQeP1H7fE/0qNNHD6eoM1EP06mTGhoodBA94vyIEbRcjCdCD6KrM/bnVRnL0jAHiV0Vo8iN7y9qr0fXc+77jDqBJCxIZupUZFgSdDDqpKYmGRliPNeb10AXURtqT9ioXb6HTNTZI2Y4cR5KUX/0G4k0o5lJfjzEeK5PsZ84vgQGDkqUrFrih1VWPbk5fp4/rrIn7wKq8m+nKv96qn53bh0/FCDazLNNXs+rsmlvxk+vso5oB9W/L4N2kG+Xq7J2V791MYjD6ubytWplQNfL5THfNuI4KhzW0l9vwde0FV0Tl904JW/JmQhNiOQUnQzMhq5hJ10PPyLSAZpBFSVCk6LkAFFHBOmvOzQ6QCI/ZIzzTadZnKBTV3zDP/y3FUH05BDekGrS/qHo3ni/2/5Xtt/4Dw==);" vertex="1" parent="WmGjQ5hxU4foc0PAErqM-2">
+          <mxGeometry x="690" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6zGVjqI7GaSrKIzWoXby-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="WmGjQ5hxU4foc0PAErqM-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="80" as="sourcePoint" />
+            <mxPoint x="65" y="163" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zGVjqI7GaSrKIzWoXby-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="WmGjQ5hxU4foc0PAErqM-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="80" as="sourcePoint" />
+            <mxPoint x="729" y="161" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zGVjqI7GaSrKIzWoXby-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="WmGjQ5hxU4foc0PAErqM-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="80" as="sourcePoint" />
+            <mxPoint x="735" y="163" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="56HH7QVjk3mPiF5L9ENV-1" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 40&lt;/span&gt;: У слоўніку &lt;b&gt;ТСБЛМ&lt;/b&gt; для слова &quot;адносіны&quot; апісана тры значэнні наступным чынам (цытата адразу з некалькіх артыкулаў):&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;АДНЕСЦІСЯ&lt;/b&gt;, -нясуся, -нясешся, -нясецца; -нясёмся, -несяцеся, -нясуцца; -нёсся, -неслася; нясіся; &lt;i&gt;зак.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Выявіць свае адносіны, паставіцца пэўным чынам да каго-небудзь, чаго-небудзь. &lt;i&gt;Уважліва аднесціся да запатрабаванняў народа.&lt;/i&gt; || &lt;i&gt;незак.&lt;/i&gt; &lt;b&gt;адносіцца&lt;/b&gt;, -ношуся, -носішся, -носіцца. || &lt;i&gt;наз.&lt;/i&gt; &lt;b&gt;адносіны&lt;/b&gt;, -сін.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;АДНОСІНЫ&lt;/b&gt;, -сін&lt;i&gt;.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. &lt;i&gt;глядзі&lt;/i&gt; аднесціся, адносіцца.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Сувязі паміж людзьмі, пэўнымі групамі або краінамі, якія ўзнікаюць у працэсе іх дзейнасці; погляд на што-небудзь, характар паводзін, абыходжання каго-небудзь з кім-небудзь, чым-небудзь. &lt;i&gt;Адносіны паміж бацькамі і дзецьмі.&lt;/i&gt; &lt;i&gt;Дыпламатычныя адносіны.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; З. Дачыненне да каго-небудзь, чаго-небудзь; узаемная сувязь, залежнасць з&#39;яў або іх кампанентаў. &lt;i&gt;Мець адносіны да гандлю.&lt;/i&gt; &lt;i&gt;Адносіны прычыны да выніку.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; ⬦ &lt;b&gt;Ва ўсіх адносінах&lt;/b&gt; — з любога пункту гледжання. &lt;b&gt;У адносінах&lt;/b&gt; &lt;i&gt;да каго-чаго&lt;/i&gt; — ужываецца ў якасці прыназоўніка са значэннем напрамку дзеяння.&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;АДНОСІЦЦА&lt;/b&gt;, -ношуся, -носішся, -носіцца; &lt;i&gt;незак.&lt;/i&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. &lt;i&gt;глядзі&lt;/i&gt; аднесціся.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Мець дачыненне да каго-небудзь, чаго-небудзь. &lt;i&gt;Заўвагі адносяцца да поглядаў аўтара.&lt;/i&gt; || &lt;i&gt;наз.&lt;/i&gt; &lt;b&gt;адносіны&lt;/b&gt;, -сін.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодзен з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Апісанне некаторых азначэнняў у тэксце тлумачэння слова ў &lt;b&gt;ТСБЛМ&lt;/b&gt;:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • &quot;Асобныя значэнні ў шматзначных словах раздзяляюцца араб­скімі лічбамі, а адценні ў значэнні, калі яны ёсць, кропкай з кос­кай (;).&quot;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Знайсці ў &lt;b&gt;ТСБЛМ&lt;/b&gt; тлумачэнне для знака &quot;||&quot; у мяне не атрымалася. Думаю, аўтары слоўніка проста забылі растлумачыць сваю задумку. 🤷 У &lt;b&gt;ТСБМ&lt;/b&gt; падобны знак &quot;//&quot; выкарыстоўваецца для раздзялення адценняў слова. Але ў &lt;b&gt;ТСБЛМ&lt;/b&gt; аўтары напісалі, што збіраліся раздзяляць адценні слоў з дапамогай кропкі з коскай &quot;;&quot;. 🤷&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • &quot;Фразеалагічныя спалучэнні (інакш — фразеалагізмы) падаюцца пасля тлумачэння значэн­няў і ілюстрацыйных прыкладаў за знакам ⬦ (ромб). Яны суправаджа­юцца тлумачэннем, а калі патрэбна, і стылістычнымі паметамі.&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментары да сцверджання 40:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Мне здаецца, што найпрасцейшы спосаб праверыць гэтае сцверджанне — адкрыць названы тлумачальны слоўнік і праверыць, а што там напісана на самой справе. Слоўнік можна знайсці і ў інтэрнэце. Напрыклад, тут — https://knihi.com/none/Tlumacalny_slounik_bielaruskaj_litaraturnaj_movy.html.&lt;br&gt;&amp;nbsp; &amp;nbsp; • Ну… тут такі ж самы &quot;марклар&quot;, як і ў &lt;b&gt;ТСБМ&lt;/b&gt;. Глядзі папярэдняе сцверджанне і каментары да яго.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="13200" width="827" height="840" as="geometry" />
