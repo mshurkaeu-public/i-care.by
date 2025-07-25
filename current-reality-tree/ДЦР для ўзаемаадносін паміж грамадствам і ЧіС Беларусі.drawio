@@ -752,7 +752,7 @@
             <mxPoint x="540" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-27" value="адносіны — адметная асаблівасць, уласцівасць, якасць (то бок, характар) паводзін, абыходжання з кім-небудзь, чым-небудзь." style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#990099;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-27" value="адносіны — адметная асаблівасць, уласцівасць, якасць (то бок, характар) паводзін, абыходжання з кім-небудзь, чым-небудзь." style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#990099;fillColor=default;opacity=60;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="280" y="160" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WmGjQ5hxU4foc0PAErqM-28" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#990099;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WmGjQ5hxU4foc0PAErqM-2" source="WmGjQ5hxU4foc0PAErqM-30" edge="1">
@@ -830,7 +830,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmGjQ5hxU4foc0PAErqM-25" value="адносіны — погляд на што-небудзь, разуменне чаго-небудзь." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#990099;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
+        <mxCell id="WmGjQ5hxU4foc0PAErqM-25" value="адносіны — погляд на што-небудзь, разуменне чаго-небудзь." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#990099;opacity=60;fillColor=default;" parent="WmGjQ5hxU4foc0PAErqM-2" vertex="1">
           <mxGeometry x="160" y="120" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1gqZnxD32R8iCpgrY54I-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=stencil(zVlLb+IwEP41HLE8fsTOccW2xz3srrTnLHXbaGmCkrSFf78DgRTbAcIkqiohgW0y883MNw/MTC7q52ztZoJn9dotm5n8PhPiMd+4B3zH7ed2R6l2WWQvrt15y/9WWZOXRXtQN1X5z73nD83hibx4dlXetKfv7Z5Mdkt5N+PfcHP3kotlWRSoGAXV3snJOcrO8gJF8U0rhzPdyt0e1wd4a1T54hpXHfZD0N8W7c5M3N+gzATKxDBlv3+StAWmDdP1Y7wmGKbpF0FT4D89TNOf2zUBTdPdaJsGRolgEicFabzvBlpEcB2QLDqjSGKO3Z+rIXLxWFbuqSpfi4deeOtsV66ig+PxS/nmPnALxZRKPfDCMmH1JRccRa3y4lQUMEj8siI545oiCusR2AhVqgiiBBM6EGUYkEQBMyrxRUlmLRBESYQQoBLTIOIMIJ3ET5Awy5NJogeaGW4m4RRIlioKqpjpO1RAEYVR19IXlTJtKAYiBKHHEyFGtLNXXGT5vsycqRZYZfLV6sKjN1UZCUyGSUix0jLJAys1k0ISRKVM+ImDtUqTEgf5mAaiMBokigqWCt9NUjAgVVDDeFjXkaKaUqsShGBCbhlOqaCWJQrG8yBGhPknUkr+xX4CTByKx+PgARB5EFMKOJEHEc+xfio7TfIBhtPYr1Fi0CyjxCR9ftcWbCCKOH0gl6z0nUadiZBMXfqOnNQAi0o4NlztFmdEYa83anRG9yCidtQeP1H7fE/0qNNHD6eoM1EP06mTGhoodBA94vyIEbRcjCdCD6KrM/bnVRnL0jAHiV0Vo8iN7y9qr0fXc+77jDqBJCxIZupUZFgSdDDqpKYmGRliPNeb10AXURtqT9ioXb6HTNTZI2Y4cR5KUX/0G4k0o5lJfjzEeK5PsZ84vgQGDkqUrFrih1VWPbk5fp4/rrIn7wKq8m+nKv96qn53bh0/FCDazLNNXs+rsmlvxk+vso5oB9W/L4N2kG+Xq7J2V791MYjD6ubytWplQNfL5THfNuI4KhzW0l9vwde0FV0Tl904JW/JmQhNiOQUnQzMhq5hJ10PPyLSAZpBFSVCk6LkAFFHBOmvOzQ6QCI/ZIzzTadZnKBTV3zDP/y3FUH05BDekGrS/qHo3ni/2/5Xtt/4Dw==);" vertex="1" parent="WmGjQ5hxU4foc0PAErqM-2">
