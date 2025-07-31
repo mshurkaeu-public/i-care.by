@@ -2,7 +2,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-07-29" id="0">
+        <object label="" modifiedDate="2025-07-31" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
             <mxGeometry width="160" height="40" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="DxHuLPiopfpoI_i7pSDg-1" value="&lt;div&gt;2023-08-06:&lt;br&gt;&lt;b&gt;&lt;u&gt;Ніхто&lt;/u&gt; з людзей не ведае, як на самой справе ўладкавана рэальнасць.&lt;/b&gt;&lt;br&gt;&lt;br&gt;2024-05-17:&lt;br&gt;&lt;b&gt;Ты не можаш &lt;u&gt;толькі&lt;/u&gt; тое, што супярэчыць законам прыроды.&lt;/b&gt;&lt;br&gt;&lt;br&gt;2024-06-17:&lt;br&gt;&lt;b&gt;Ты не можаш знайсці памылкі ў далейшых разважаннях толькі калі гэта супярэчыць законам прыроды.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;align=right;labelPosition=center;verticalLabelPosition=middle;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="DxHuLPiopfpoI_i7pSDg-1" value="&lt;div&gt;2023-08-06:&lt;br&gt;&lt;b&gt;&lt;u&gt;Ніхто&lt;/u&gt; з людзей не ведае, як на самой справе ўладкавана рэальнасць.&lt;/b&gt;&lt;br&gt;&lt;br&gt;2024-05-17:&lt;br&gt;&lt;b&gt;Ты не можаш &lt;u&gt;толькі&lt;/u&gt; тое, што супярэчыць законам прыроды.&lt;/b&gt;&lt;br&gt;&lt;br&gt;2024-06-17:&lt;br&gt;&lt;b&gt;Ты не можаш знайсці памылкі ў далейшых разважаннях, толькі калі гэта супярэчыць законам прыроды.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;align=right;labelPosition=center;verticalLabelPosition=middle;fontSize=13;" parent="1" vertex="1">
           <mxGeometry y="40" width="827" height="160" as="geometry" />
         </mxCell>
         <mxCell id="whfIbgRUf7yxkzyEeNDG-1" value="&lt;div&gt;&lt;u&gt;Паведамленне 1&lt;/u&gt;: Каб візуальна аддзяліць свае сцверджанні ад астатняга тэкста, я буду выкарыстоўваць лінію перад пачаткам сцверджання і двайную лінію пасля канца сцверджання. А таксама адразу пасля сцверджання я буду пытацца, ці згодзен чытач з гэтым сцверджаннем. Адразу і прадэманструю на прыкладзе сцверджання 1:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 1&lt;/span&gt;: У чытача (&lt;span style=&quot;color: rgb(128, 128, 128);&quot;&gt;або ў суразмоўцы/слухача/гледача&lt;/span&gt;) будзе больш шанцаў зразумець мае разважанні, калі ён будзе ведаць, на якой мове я пішу і якія значэнні слоў я выкарыстоўваю.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодзен з гэтым сцверджаннем❓&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 2&lt;/u&gt;: Я буду запісваць свае разважанні па-беларуску.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 3&lt;/u&gt;: У сваіх разважаннях я буду абапірацца (па магчымасці) на значэнні слоў беларускай мовы, якія апісаны ў тлумачальных слоўніках:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1. &quot;Тлумачальны слоўнік беларускай мовы&quot; (&lt;b&gt;ТСБМ&lt;/b&gt;). Выдадзены ў 5 тамах у 1977—1984 гадах &quot;галоўнай рэдакцыяй Беларускай Савецкай Энцыклапедыі&quot;. Больш за 105 тысяч слоў.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2. &quot;Тлумачальны слоўнік беларускай літаратурнай мовы&quot; (&lt;b&gt;ТСБЛМ&lt;/b&gt;). Выдадзены ў 2016 годзе &quot;Беларускай Энцыклапедыяй імя Петруся Броўкі&quot;. Больш за 65 тысяч слоў. (Там быў, фактычна, той самы выдаўца, што і для першага слоўніка. Але ўжо перайменаваны.)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
@@ -182,7 +182,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="2. Стан адносін паміж двумя людзьмі">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-07-29" id="0">
+        <object label="" modifiedDate="2025-07-31" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -904,7 +904,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="3. Базавыя гіпотэзы">
     <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-07-29" id="0">
+        <object label="" modifiedDate="2025-07-31" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -944,7 +944,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="4. ДЦР-грамадства">
     <mxGraphModel dx="3843" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-07-29" id="0">
+        <object label="" modifiedDate="2025-07-31" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1535,7 +1535,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="5. Гіпотэзы беларусаў">
     <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-07-29" id="0">
+        <object label="" modifiedDate="2025-07-31" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1698,7 +1698,7 @@
   <diagram name="6. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-07-29" id="0">
+        <object label="" modifiedDate="2025-07-31" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
