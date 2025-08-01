@@ -1641,6 +1641,10 @@
   "@aboutMyGratitude_2025_07_31_02": {
     "description": "Text for 2025-07-31 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_07_31_03": "\n2025-07-31 каманда праекта \"Нацыянальны корпус беларускай мовы\" сектара камп'ютарнай лінгвістыкі аддзела лексікалогіі і лексікаграфіі Інстытута мовазнаўства імя Якуба Коласа  — 🛠️ стварыла сэрвіс https://bnkorpus.info/index.html, які я выкарыстаў для праверкі арфаграфіі тэкстаў сваіх сцверджанняў аб рэальнасці.\n",
+  "@aboutMyGratitude_2025_07_31_03": {
+    "description": "Text for 2025-07-31 National Corpus of the Belarusian Language team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_07_title": "\n\n2025-07\n",
   "@aboutMyGratitude_2025_07_title": {
     "description": "Title for 2025-07 list/text on the \"my gratitude\" tab on the \"About\" page."
