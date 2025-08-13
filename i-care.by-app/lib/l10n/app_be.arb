@@ -1665,6 +1665,10 @@
   "@aboutMyGratitude_2025_08_09_01": {
     "description": "Text for 2025-08-09 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_08_12_01": "\n2025-08-12 🦸 — ✏️ паведаміў пра заўважаныя памылкі правапісу ў паведамленнях са сцверджаннямі 4 і 2.\n",
+  "@aboutMyGratitude_2025_08_12_01": {
+    "description": "Text for 2025-08-12 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_08_13_01": "\n2025-08-13 супольнасць Flutter — 🛠️ стварыла новую версію пакета package_info_plus 8.3.1 (2025-08-11) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
   "@aboutMyGratitude_2025_08_13_01": {
     "description": "Text for 2025-08-13 Flutter community on the \"my gratitude\" tab on the \"About\" page."
