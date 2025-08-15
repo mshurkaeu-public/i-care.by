@@ -491,8 +491,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               )
             : Text(l10n.theMipiylOption_spouseOrPartner),
         value: TheMostImportantPersonInMyLife.spouseOrPartner,
-        groupValue: _theMostImportantPerson,
-        onChanged: _onTmipimlChanged,
       ), // spouseOrPartner
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.parent
@@ -517,8 +515,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               )
             : Text(l10n.theMipiylOption_parent),
         value: TheMostImportantPersonInMyLife.parent,
-        groupValue: _theMostImportantPerson,
-        onChanged: _onTmipimlChanged,
       ), // parent
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.child
@@ -543,8 +539,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               )
             : Text(l10n.theMipiylOption_child),
         value: TheMostImportantPersonInMyLife.child,
-        groupValue: _theMostImportantPerson,
-        onChanged: _onTmipimlChanged,
       ), // child
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson ==
@@ -570,8 +564,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               )
             : Text(l10n.theMipiylOption_grandparent),
         value: TheMostImportantPersonInMyLife.grandparent,
-        groupValue: _theMostImportantPerson,
-        onChanged: _onTmipimlChanged,
       ), //grandparent
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.another
@@ -586,8 +578,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               )
             : Text(l10n.theMipiylOption_another),
         value: TheMostImportantPersonInMyLife.another,
-        groupValue: _theMostImportantPerson,
-        onChanged: _onTmipimlChanged,
       ), // another
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.several
@@ -611,8 +601,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               )
             : Text(l10n.theMipiylOption_several),
         value: TheMostImportantPersonInMyLife.several,
-        groupValue: _theMostImportantPerson,
-        onChanged: _onTmipimlChanged,
       ), //several
       RadioListTile<TheMostImportantPersonInMyLife>(
         title:
@@ -692,9 +680,13 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
                 ScaffoldHelpers.defaultPaddingSide,
                 0,
               ),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: shuffledOptions,
+              child: RadioGroup<TheMostImportantPersonInMyLife>(
+                groupValue: _theMostImportantPerson,
+                onChanged: _onTmipimlChanged,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: shuffledOptions,
+                ),
               ),
             ),
           ),
