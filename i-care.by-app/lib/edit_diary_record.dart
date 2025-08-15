@@ -496,24 +496,24 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       ), // spouseOrPartner
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.parent
-            ? Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: <Widget>[
-                  Text(l10n.theMipiylOption_parent),
-                  RadioListTile<TmipimlIsParent>(
-                    title: Text(l10n.parentOption_mother),
-                    value: TmipimlIsParent.mother,
-                    groupValue: _parent,
-                    onChanged: _onParentChanged,
-                  ),
-                  RadioListTile<TmipimlIsParent>(
-                    title: Text(l10n.parentOption_father),
-                    value: TmipimlIsParent.father,
-                    groupValue: _parent,
-                    onChanged: _onParentChanged,
-                  ),
-                  _nextButtonIfTrue(_parent != null, l10n),
-                ],
+            ? RadioGroup<TmipimlIsParent>(
+                groupValue: _parent,
+                onChanged: _onParentChanged,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: <Widget>[
+                    Text(l10n.theMipiylOption_parent),
+                    RadioListTile<TmipimlIsParent>(
+                      title: Text(l10n.parentOption_mother),
+                      value: TmipimlIsParent.mother,
+                    ),
+                    RadioListTile<TmipimlIsParent>(
+                      title: Text(l10n.parentOption_father),
+                      value: TmipimlIsParent.father,
+                    ),
+                    _nextButtonIfTrue(_parent != null, l10n),
+                  ],
+                ),
               )
             : Text(l10n.theMipiylOption_parent),
         value: TheMostImportantPersonInMyLife.parent,
