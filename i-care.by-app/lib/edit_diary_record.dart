@@ -462,36 +462,32 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson ==
                 TheMostImportantPersonInMyLife.spouseOrPartner
-            ? Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: <Widget>[
-                  Text(l10n.theMipiylOption_spouseOrPartner),
-                  RadioListTile<TmipimlIsSpouceOrPartner>(
-                    title: Text(l10n.spouseOrPartnerOption_husband),
-                    value: TmipimlIsSpouceOrPartner.husband,
-                    groupValue: _spouceOrPartner,
-                    onChanged: _onSpouceOrPartnerChanged,
-                  ),
-                  RadioListTile<TmipimlIsSpouceOrPartner>(
-                    title: Text(l10n.spouseOrPartnerOption_wife),
-                    value: TmipimlIsSpouceOrPartner.wife,
-                    groupValue: _spouceOrPartner,
-                    onChanged: _onSpouceOrPartnerChanged,
-                  ),
-                  RadioListTile<TmipimlIsSpouceOrPartner>(
-                    title: Text(l10n.spouseOrPartnerOption_boyfriend),
-                    value: TmipimlIsSpouceOrPartner.boyfriend,
-                    groupValue: _spouceOrPartner,
-                    onChanged: _onSpouceOrPartnerChanged,
-                  ),
-                  RadioListTile<TmipimlIsSpouceOrPartner>(
-                    title: Text(l10n.spouseOrPartnerOption_girlfriend),
-                    value: TmipimlIsSpouceOrPartner.girlfriend,
-                    groupValue: _spouceOrPartner,
-                    onChanged: _onSpouceOrPartnerChanged,
-                  ),
-                  _nextButtonIfTrue(_spouceOrPartner != null, l10n),
-                ],
+            ? RadioGroup<TmipimlIsSpouceOrPartner>(
+                groupValue: _spouceOrPartner,
+                onChanged: _onSpouceOrPartnerChanged,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: <Widget>[
+                    Text(l10n.theMipiylOption_spouseOrPartner),
+                    RadioListTile<TmipimlIsSpouceOrPartner>(
+                      title: Text(l10n.spouseOrPartnerOption_husband),
+                      value: TmipimlIsSpouceOrPartner.husband,
+                    ),
+                    RadioListTile<TmipimlIsSpouceOrPartner>(
+                      title: Text(l10n.spouseOrPartnerOption_wife),
+                      value: TmipimlIsSpouceOrPartner.wife,
+                    ),
+                    RadioListTile<TmipimlIsSpouceOrPartner>(
+                      title: Text(l10n.spouseOrPartnerOption_boyfriend),
+                      value: TmipimlIsSpouceOrPartner.boyfriend,
+                    ),
+                    RadioListTile<TmipimlIsSpouceOrPartner>(
+                      title: Text(l10n.spouseOrPartnerOption_girlfriend),
+                      value: TmipimlIsSpouceOrPartner.girlfriend,
+                    ),
+                    _nextButtonIfTrue(_spouceOrPartner != null, l10n),
+                  ],
+                ),
               )
             : Text(l10n.theMipiylOption_spouseOrPartner),
         value: TheMostImportantPersonInMyLife.spouseOrPartner,
