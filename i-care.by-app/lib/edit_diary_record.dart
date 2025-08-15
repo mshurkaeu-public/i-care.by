@@ -440,16 +440,28 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       _severalPersonsNames = null;
       _spouceOrPartner = null;
     });
+
+    if (value != null) {
+      if (value == TheMostImportantPersonInMyLife.dontKnow ||
+          value == TheMostImportantPersonInMyLife.me ||
+          value == TheMostImportantPersonInMyLife.absent) {
+        _copyFieldsFromStagingArea(
+          _stagingDiaryRecord,
+          fromRecord: _stagingDiaryRecord,
+        );
+
+        _onSubmitFirstScreen();
+      }
+    }
   }
 
   void _onTmipiylOptionWithNoSuboptionsSelected(
       TheMostImportantPersonInMyLife? value) {
-    _onTmipimlChanged(value);
-
-    _copyFieldsFromStagingArea(_stagingDiaryRecord,
-        fromRecord: _stagingDiaryRecord);
-
-    _onSubmitFirstScreen();
+    // Do not call _onTmipimlChanged because it is called by RadioGroup<TheMostImportantPersonInMyLife>.onChanged handler always.
+    // Thus if I leave the call then _onTmipimlChanged will be called twice:
+    // 1. via RadioGroup<TheMostImportantPersonInMyLife>.onChanged.
+    // 2. via RadioListTile.onChanged handlers where _onTmipiylOptionWithNoSuboptionsSelected is called directly.
+    //_onTmipimlChanged(value);
   }
 
   @override
