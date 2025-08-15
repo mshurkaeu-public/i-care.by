@@ -463,6 +463,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
 
     List<Widget> options = <Widget>[
       RadioListTile<TheMostImportantPersonInMyLife>(
+        titleAlignment: ListTileTitleAlignment.top,
         title: _theMostImportantPerson ==
                 TheMostImportantPersonInMyLife.spouseOrPartner
             ? RadioGroup<TmipimlIsSpouceOrPartner>(
@@ -496,6 +497,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         value: TheMostImportantPersonInMyLife.spouseOrPartner,
       ), // spouseOrPartner
       RadioListTile<TheMostImportantPersonInMyLife>(
+        titleAlignment: ListTileTitleAlignment.top,
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.parent
             ? RadioGroup<TmipimlIsParent>(
                 groupValue: _parent,
@@ -520,6 +522,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         value: TheMostImportantPersonInMyLife.parent,
       ), // parent
       RadioListTile<TheMostImportantPersonInMyLife>(
+        titleAlignment: ListTileTitleAlignment.top,
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.child
             ? RadioGroup<TmipimlIsChild>(
                 groupValue: _child,
@@ -544,6 +547,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         value: TheMostImportantPersonInMyLife.child,
       ), // child
       RadioListTile<TheMostImportantPersonInMyLife>(
+        titleAlignment: ListTileTitleAlignment.top,
         title: _theMostImportantPerson ==
                 TheMostImportantPersonInMyLife.grandparent
             ? RadioGroup<TmipimlIsGrandparent>(
@@ -569,6 +573,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         value: TheMostImportantPersonInMyLife.grandparent,
       ), //grandparent
       RadioListTile<TheMostImportantPersonInMyLife>(
+        titleAlignment: ListTileTitleAlignment.top,
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.another
             ? RequestNotEmptyListOfPersonsNames(
                 initialValue: _anotherPersonName ?? '',
@@ -583,6 +588,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         value: TheMostImportantPersonInMyLife.another,
       ), // another
       RadioListTile<TheMostImportantPersonInMyLife>(
+        titleAlignment: ListTileTitleAlignment.top,
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.several
             ? RequestNotEmptyListOfPersonsNames(
                 initialValue: (_severalPersonsNames == null)
@@ -606,6 +612,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         value: TheMostImportantPersonInMyLife.several,
       ), //several
       RadioListTile<TheMostImportantPersonInMyLife>(
+        titleAlignment: ListTileTitleAlignment.top,
         title:
             _theMostImportantPerson == TheMostImportantPersonInMyLife.dontKnow
                 ? Column(
@@ -619,6 +626,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         value: TheMostImportantPersonInMyLife.dontKnow,
       ), //dontKnow
       RadioListTile<TheMostImportantPersonInMyLife>(
+        titleAlignment: ListTileTitleAlignment.top,
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.me
             ? Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -631,6 +639,7 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
         value: TheMostImportantPersonInMyLife.me,
       ), // me
       RadioListTile<TheMostImportantPersonInMyLife>(
+        titleAlignment: ListTileTitleAlignment.top,
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.absent
             ? Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
