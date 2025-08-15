@@ -455,15 +455,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
     }
   }
 
-  void _onTmipiylOptionWithNoSuboptionsSelected(
-      TheMostImportantPersonInMyLife? value) {
-    // Do not call _onTmipimlChanged because it is called by RadioGroup<TheMostImportantPersonInMyLife>.onChanged handler always.
-    // Thus if I leave the call then _onTmipimlChanged will be called twice:
-    // 1. via RadioGroup<TheMostImportantPersonInMyLife>.onChanged.
-    // 2. via RadioListTile.onChanged handlers where _onTmipiylOptionWithNoSuboptionsSelected is called directly.
-    //_onTmipimlChanged(value);
-  }
-
   @override
   Widget build(BuildContext context) {
     AppLocalizations l10n = AppLocalizations.of(context);
@@ -626,8 +617,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
                   )
                 : Text(l10n.theMipiylOption_dontKnow),
         value: TheMostImportantPersonInMyLife.dontKnow,
-        groupValue: _theMostImportantPerson,
-        onChanged: _onTmipiylOptionWithNoSuboptionsSelected,
       ), //dontKnow
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.me
@@ -640,8 +629,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               )
             : Text(l10n.theMipiylOption_you),
         value: TheMostImportantPersonInMyLife.me,
-        groupValue: _theMostImportantPerson,
-        onChanged: _onTmipiylOptionWithNoSuboptionsSelected,
       ), // me
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson == TheMostImportantPersonInMyLife.absent
@@ -654,8 +641,6 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
               )
             : Text(l10n.theMipiylOption_absent),
         value: TheMostImportantPersonInMyLife.absent,
-        groupValue: _theMostImportantPerson,
-        onChanged: _onTmipiylOptionWithNoSuboptionsSelected,
       ), // absent
     ];
 
