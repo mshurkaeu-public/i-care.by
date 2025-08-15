@@ -78,9 +78,7 @@ class _RequestUserInfoState extends State<RequestUserInfo> {
       options.add(RadioListTile<String>(
         title: Text(optionLabels[i]),
         value: optionValues[i],
-        groupValue: _preferredPronoun,
         // activeColor: activeColor,
-        onChanged: _onPreferredPrnounChanged,
       ));
     }
 
@@ -122,8 +120,10 @@ class _RequestUserInfoState extends State<RequestUserInfo> {
                   labelText: l10n
                       .hintForPreferredPronounRequest(_preferredPronoun ?? ''),
                 ),
-                child: Column(
-                  children: options,
+                child: RadioGroup<String>(
+                  groupValue: _preferredPronoun,
+                  onChanged: _onPreferredPrnounChanged,
+                  child: Column(children: options),
                 ),
               );
             },
