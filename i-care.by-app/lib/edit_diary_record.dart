@@ -549,24 +549,24 @@ class _EditDiaryRecordState extends State<EditDiaryRecord> {
       RadioListTile<TheMostImportantPersonInMyLife>(
         title: _theMostImportantPerson ==
                 TheMostImportantPersonInMyLife.grandparent
-            ? Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: <Widget>[
-                  Text(l10n.theMipiylOption_grandparent),
-                  RadioListTile<TmipimlIsGrandparent>(
-                    title: Text(l10n.grandparentOption_grandfather),
-                    value: TmipimlIsGrandparent.grandfather,
-                    groupValue: _grandparent,
-                    onChanged: _onGrandparentChanged,
-                  ),
-                  RadioListTile<TmipimlIsGrandparent>(
-                    title: Text(l10n.grandparentOption_grandmother),
-                    value: TmipimlIsGrandparent.grandmother,
-                    groupValue: _grandparent,
-                    onChanged: _onGrandparentChanged,
-                  ),
-                  _nextButtonIfTrue(_grandparent != null, l10n),
-                ],
+            ? RadioGroup<TmipimlIsGrandparent>(
+                groupValue: _grandparent,
+                onChanged: _onGrandparentChanged,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: <Widget>[
+                    Text(l10n.theMipiylOption_grandparent),
+                    RadioListTile<TmipimlIsGrandparent>(
+                      title: Text(l10n.grandparentOption_grandfather),
+                      value: TmipimlIsGrandparent.grandfather,
+                    ),
+                    RadioListTile<TmipimlIsGrandparent>(
+                      title: Text(l10n.grandparentOption_grandmother),
+                      value: TmipimlIsGrandparent.grandmother,
+                    ),
+                    _nextButtonIfTrue(_grandparent != null, l10n),
+                  ],
+                ),
               )
             : Text(l10n.theMipiylOption_grandparent),
         value: TheMostImportantPersonInMyLife.grandparent,
