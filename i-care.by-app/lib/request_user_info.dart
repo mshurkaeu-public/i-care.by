@@ -32,7 +32,7 @@ class _RequestUserInfoState extends State<RequestUserInfo> {
   late final FocusNode _userNameFocusNode;
   String? _preferredPronoun;
 
-  void _onPreferredPrnounChanged(String? value) {
+  void _onPreferredPronounChanged(String? value) {
     setState(() {
       _preferredPronoun = value;
     });
@@ -122,7 +122,7 @@ class _RequestUserInfoState extends State<RequestUserInfo> {
                 ),
                 child: RadioGroup<String>(
                   groupValue: _preferredPronoun,
-                  onChanged: _onPreferredPrnounChanged,
+                  onChanged: _onPreferredPronounChanged,
                   child: Column(children: options),
                 ),
               );
