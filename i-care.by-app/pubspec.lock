@@ -313,10 +313,10 @@ packages:
     dependency: "direct main"
     description:
       name: multi_split_view
-      sha256: "99c02f128e7423818d13b8f2e01e3027e953b35508019dcee214791bd0525db5"
+      sha256: "06f5126a65d3010ce0a9d5c003e793041fe99377b23e3534bb05059f79a580e9"
       url: "https://pub.dev"
     source: hosted
-    version: "3.6.0"
+    version: "3.6.1"
   node_preamble:
     dependency: transitive
     description:
