@@ -1693,6 +1693,10 @@
   "@aboutMyGratitude_2025_08_16_01": {
     "description": "Text for 2025-08-16 Carlos Eduardo Leite de Andrade on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_08_20_01": "\n2025-08-20 🦸 — ✏️ паведаміў пра заўважаныя памылкі правапісу ў паведамленнях са сцверджаннямі 5 і 6.\n",
+  "@aboutMyGratitude_2025_08_20_01": {
+    "description": "Text for 2025-08-20 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_08_title": "\n\n2025-08\n",
   "@aboutMyGratitude_2025_08_title": {
     "description": "Title for 2025-08 list/text on the \"my gratitude\" tab on the \"About\" page."
