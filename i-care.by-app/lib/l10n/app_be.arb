@@ -1757,6 +1757,10 @@
   "@aboutMyGratitude_2025_09_04_02": {
     "description": "Text for 2025-09-04 02 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_09_05_01": "\n2025-09-05 каманда Flutter — 🛠️ стварыла Flutter версіі 3.35.3 (2025-09-04), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2025_09_05_01": {
+    "description": "Text for 2025-09-05 Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_09_title": "\n\n2025-09\n",
   "@aboutMyGratitude_2025_09_title": {
     "description": "Title for 2025-09 list/text on the \"my gratitude\" tab on the \"About\" page."
