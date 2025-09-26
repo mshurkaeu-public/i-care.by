@@ -1797,6 +1797,10 @@
   "@aboutMyGratitude_2025_09_26_01": {
     "description": "Text for 2025-09-26 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_09_26_02": "\n2025-09-26 каманда Flutter — 🛠️ стварыла новую версію пакета google_fonts 6.3.2 (2025-09-24) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2025_09_26_02": {
+    "description": "Text for 2025-09-26 core Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_09_title": "\n\n2025-09\n",
   "@aboutMyGratitude_2025_09_title": {
     "description": "Title for 2025-09 list/text on the \"my gratitude\" tab on the \"About\" page."
