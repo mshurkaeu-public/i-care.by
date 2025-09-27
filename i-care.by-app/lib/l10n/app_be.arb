@@ -1805,6 +1805,10 @@
   "@aboutMyGratitude_2025_09_26_03": {
     "description": "Text for 2025-09-26 03 🦸 on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_09_27_01": "\n2025-09-27 🦸 — ✏️ паведаміў пра заўважаныя памылкі правапісу ў паведамленні са сцверджаннем 15.\n",
+  "@aboutMyGratitude_2025_09_27_01": {
+    "description": "Text for 2025-09-27 🦸 on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_09_title": "\n\n2025-09\n",
   "@aboutMyGratitude_2025_09_title": {
     "description": "Title for 2025-09 list/text on the \"my gratitude\" tab on the \"About\" page."
