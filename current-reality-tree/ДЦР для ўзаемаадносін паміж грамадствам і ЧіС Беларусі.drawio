@@ -13,7 +13,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-05" id="0">
+        <object label="" modifiedDate="2025-10-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -214,7 +214,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="2. Стан адносін паміж двума людзьмі">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-05" id="0">
+        <object label="" modifiedDate="2025-10-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -241,7 +241,7 @@
         <mxCell id="BHTY7-x7haXfEZASEd6U-1" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 24&lt;/span&gt;: У слоўніках &lt;b&gt;ТСБМ&lt;/b&gt; і &lt;b&gt;ТСБЛМ&lt;/b&gt; асобна вылучылі апісанне значэння для словазлучэнняў віду &quot;характар &amp;lt;чаго-небудзь&amp;gt;&quot; — гэта адметная асаблівасць, уласцівасць, якасць &amp;lt;чаго-небудзь&amp;gt;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="1960" width="827" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BHTY7-x7haXfEZASEd6U-2" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 25&lt;/span&gt;: Згодна слоўнікам&amp;nbsp;&lt;b&gt;ТСБМ&lt;/b&gt; і &lt;b&gt;ТСБЛМ&lt;/b&gt;, словазлучэнне &quot;характар паводзін&quot; азначае адметную асаблівасць паводзін і/або ўласцівасць паводзін і/або якасць паводзін.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="BHTY7-x7haXfEZASEd6U-2" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 25&lt;/span&gt;: Згодна слоўнікам&amp;nbsp;&lt;b&gt;ТСБМ&lt;/b&gt; і &lt;b&gt;ТСБЛМ&lt;/b&gt;, словазлучэнне &quot;характар паводзін&quot; азначае адметную асаблівасць паводзін і/або ўласцівасць паводзін, і/або якасць паводзін.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="2160" width="827" height="200" as="geometry" />
         </mxCell>
         <mxCell id="BHTY7-x7haXfEZASEd6U-3" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 26&lt;/span&gt;: Існуюць такія людзі, у якіх іх пачуцці і/або эмоцыі часам могуць аказаць ненулявы ўплыў на характар іх паводзін.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 26:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Думаю, што адзін з прыкладаў, знаёмы многім, — гэта закаханы юнак. Характар паводзін чалавека можа змяніцца ў параўнанні з тым, што было да закаханасці.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
@@ -1036,7 +1036,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="3. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-05" id="0">
+        <object label="" modifiedDate="2025-10-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1076,7 +1076,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="4. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-05" id="0">
+        <object label="" modifiedDate="2025-10-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1667,7 +1667,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="5. Гіпотэзы беларусаў">
     <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-05" id="0">
+        <object label="" modifiedDate="2025-10-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1830,7 +1830,7 @@
   <diagram name="6. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-05" id="0">
+        <object label="" modifiedDate="2025-10-07" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
