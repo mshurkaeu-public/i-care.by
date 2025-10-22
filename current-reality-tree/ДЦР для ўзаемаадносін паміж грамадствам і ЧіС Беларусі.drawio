@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.7" pages="8">
   <diagram id="p5BKoFIkbk6Qz73gNJhs" name="0. Прысвячэнне">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-17" id="0">
+        <object label="" modifiedDate="2025-10-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -203,7 +203,7 @@
         <mxCell id="WTFlEEXevP6GbVgcMiDj-1" value="&lt;div&gt;&lt;u&gt;Паведамленне 20&lt;/u&gt;: &lt;b&gt;Чытач&lt;/b&gt;, я прапаную табе залезці разам са мной на &quot;інтэлектуальныя драбіны&quot; і знайсці &quot;смерць Здыхліка Неўміручага&quot;.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Асобнае пытанне&lt;/u&gt;: Лезем❓&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="13720" width="827" height="160" as="geometry" />
         </mxCell>
-        <UserObject label="Спасылка на главу &lt;span&gt;&quot;2. Стан адносін паміж двума людзьмі&lt;/span&gt;&quot;" link="data:page/id,Zpq-fwhYM1nnls2JjvfI" id="5Dem1vvIQLIGWhxnLmdw-1">
+        <UserObject label="Спасылка на главу &lt;span&gt;&quot;2. Прастора прычынна-выніковых сувязей рэальнасці&lt;/span&gt;&quot;" link="data:page/id,F8JSFsGgpzqTfMv5mW-z" id="5Dem1vvIQLIGWhxnLmdw-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" parent="1" vertex="1">
             <mxGeometry y="13880" width="827" height="40" as="geometry" />
           </mxCell>
@@ -211,10 +211,33 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Zpq-fwhYM1nnls2JjvfI" name="2. Стан адносін паміж двума людзьмі">
+  <diagram id="F8JSFsGgpzqTfMv5mW-z" name="2. Прастора прычынна-выніковых сувязей рэальнасці">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-17" id="0">
+        <object label="" modifiedDate="2025-10-22" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="s1CEFIudBMYJr0m506eb-1" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Прастора прычынна-выніковых сувязей рэальнасці&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacingBottom=0;align=center;" vertex="1" parent="1">
+          <mxGeometry width="827" height="40" as="geometry" />
+        </mxCell>
+        <object label="%modifiedDate%&lt;br&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Мікалай Шуркаеў&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" placeholders="1" id="s1CEFIudBMYJr0m506eb-2">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=0;fontSize=14;fontStyle=1;spacingLeft=5;" vertex="1" parent="1">
+            <mxGeometry width="160" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <UserObject label="Спасылка на главу &quot;3. Стан адносін паміж двума людзьмі&quot;" link="data:page/id,Zpq-fwhYM1nnls2JjvfI" id="BMxEVY84v7_U89TcPVq7-3">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" parent="1" vertex="1">
+            <mxGeometry y="1080" width="827" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zpq-fwhYM1nnls2JjvfI" name="3. Стан адносін паміж двума людзьмі">
+    <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <object label="" modifiedDate="2025-10-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1046,7 +1069,7 @@
         <mxCell id="KOqkpEOyM0KVABkNPcXc-1" value="&lt;div&gt;&lt;u&gt;Паведамленне 34&lt;/u&gt;: Я жадаю высветліць, што з&#39;яўляецца сапраўднай каранёвай прычынай цяперашняга стану адносін паміж грамадствам, чыноўнікамі і сілавікамі Беларусі. Для гэтага мне патрэбна як мага лепей зразумець, як на самой справе ўладкаваны адпаведныя аспекты аб&#39;ектыўнай рэальнасці. Таму для апісання выніку нейкіх з&#39;яў аб&#39;ектыўнай рэальнасці і каб павысіць шанцы на тое, што чытач разумее гэта, я буду выкарыстоўваць менавіта вось такі выраз — &quot;заканамерны/лагічны вынік&quot;. Адразу і прадэманструю такое выкарыстанне.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 61&lt;/span&gt;: Стан адносін паміж людзьмі &lt;b&gt;A&lt;/b&gt; і &lt;b&gt;B&lt;/b&gt; з&#39;яўляецца заканамерным/лагічным вынікам паводзін абодвух бакоў і ўздзеяння на гэтыя бакі &quot;трэціх сіл&quot;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" parent="1" vertex="1">
           <mxGeometry y="25760" width="827" height="320" as="geometry" />
         </mxCell>
-        <UserObject label="Спасылка на главу &lt;span&gt;&quot;3. Базавыя &lt;/span&gt;гіпотэзы&quot;" link="data:page/id,McnreRaJFROVYg1kB9sD" id="vFQuDUc9VA4-f3nojQgt-1">
+        <UserObject label="Спасылка на главу &lt;span&gt;&quot;4. Базавыя &lt;/span&gt;гіпотэзы&quot;" link="data:page/id,McnreRaJFROVYg1kB9sD" id="vFQuDUc9VA4-f3nojQgt-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" parent="1" vertex="1">
             <mxGeometry y="26080" width="827" height="40" as="geometry" />
           </mxCell>
@@ -1063,10 +1086,10 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="McnreRaJFROVYg1kB9sD" name="3. Базавыя гіпотэзы">
+  <diagram id="McnreRaJFROVYg1kB9sD" name="4. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-17" id="0">
+        <object label="" modifiedDate="2025-10-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1095,7 +1118,7 @@
             <mxGeometry y="1720" width="827" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Спасылка на главу &quot;4. Д&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;рэва цяперашняй рэальнасці для ўзаемаадносін паміж грамадствам і ЧіС Беларусі&quot;&lt;/span&gt;&lt;/font&gt;" link="data:page/id,DG71BkWCYnC6XOSHjkSx" id="28J1oYRrJhvnbeynHexy-1">
+        <UserObject label="Спасылка на главу &quot;5. Д&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;рэва цяперашняй рэальнасці для ўзаемаадносін паміж грамадствам і ЧіС Беларусі&quot;&lt;/span&gt;&lt;/font&gt;" link="data:page/id,DG71BkWCYnC6XOSHjkSx" id="28J1oYRrJhvnbeynHexy-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" parent="1" vertex="1">
             <mxGeometry y="1800" width="827" height="40" as="geometry" />
           </mxCell>
@@ -1103,10 +1126,10 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="DG71BkWCYnC6XOSHjkSx" name="4. ДЦР-грамадства">
+  <diagram id="DG71BkWCYnC6XOSHjkSx" name="5. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-17" id="0">
+        <object label="" modifiedDate="2025-10-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1365,7 +1388,7 @@
             <mxGeometry x="-560" width="1120" height="280" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span&gt;Спасылка на главу &quot;5. &lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Гіпотэзы беларусаў пра каранёвую прычыну дыктатуры ЧіС у Беларусі&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&quot;&lt;/font&gt;" link="data:page/id,EXUwVnaSM-5I0TpRsDVf" id="u9H1TCJDUWDsqNKKyd_K-1">
+        <UserObject label="&lt;span&gt;Спасылка на главу &quot;6. &lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Гіпотэзы беларусаў пра каранёвую прычыну дыктатуры ЧіС у Беларусі&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&quot;&lt;/font&gt;" link="data:page/id,EXUwVnaSM-5I0TpRsDVf" id="u9H1TCJDUWDsqNKKyd_K-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" parent="1" vertex="1">
             <mxGeometry x="-550" y="2240" width="1100" height="40" as="geometry" />
           </mxCell>
@@ -1694,10 +1717,10 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EXUwVnaSM-5I0TpRsDVf" name="5. Гіпотэзы беларусаў">
-    <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="EXUwVnaSM-5I0TpRsDVf" name="6. Гіпотэзы беларусаў">
+    <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-17" id="0">
+        <object label="" modifiedDate="2025-10-22" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1849,7 +1872,7 @@
             <mxGeometry y="2240" width="827" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;span&gt;Спасылка на главу &quot;6. &lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Дрэва цяперашняй рэальнасці ўплыва асобнага грамадзяніна на стан адносін паміж грамадствам і&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt; ЧіС Беларусі&quot;&lt;/font&gt;" link="data:page/id,jb7ZAXrOw7EJT6aN6Qqk" id="rjFa4vYoZh8to81UFIMk-1">
+        <UserObject label="&lt;span&gt;Спасылка на главу &quot;7. &lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Дрэва цяперашняй рэальнасці ўплыва асобнага грамадзяніна на стан адносін паміж грамадствам і&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt; ЧіС Беларусі&quot;&lt;/font&gt;" link="data:page/id,jb7ZAXrOw7EJT6aN6Qqk" id="rjFa4vYoZh8to81UFIMk-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" parent="1" vertex="1">
             <mxGeometry y="2400" width="827" height="40" as="geometry" />
           </mxCell>
@@ -1857,10 +1880,10 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="6. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
+  <diagram name="7. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-10-17" id="0">
+        <object label="" modifiedDate="2025-10-22" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
