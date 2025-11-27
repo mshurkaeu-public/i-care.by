@@ -1941,6 +1941,10 @@
   "@aboutMyGratitude_2025_11_17_01": {
     "description": "Text for 2025-10-17 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_11_27_01": "\n2025-10-27 каманда Microsoft VS Code — 🛠️ стварыла версію 1.106.3 VS Code, якім я карыстаюсь, каб пісаць код праграмы i-care.by на Flutter.\n",
+  "@aboutMyGratitude_2025_11_27_01": {
+    "description": "Text for 2025-10-27 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_11_title": "\n\n2025-11\n",
   "@aboutMyGratitude_2025_11_title": {
     "description": "Title for 2025-11 list/text on the \"my gratitude\" tab on the \"About\" page."
