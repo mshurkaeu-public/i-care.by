@@ -1981,6 +1981,10 @@
   "@aboutMyGratitude_2025_12_11_02": {
     "description": "Text for 2025-12-11 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2025_12_13_01": "\n2025-12-13 каманда Flutter — 🛠️ стварыла Flutter версіі 3.38.5 (2025-12-12), які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2025_12_13_01": {
+    "description": "Text for 2025-12-13 Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2025_12_title": "\n\n2025-12\n",
   "@aboutMyGratitude_2025_12_title": {
     "description": "Title for 2025-12 list/text on the \"my gratitude\" tab on the \"About\" page."
