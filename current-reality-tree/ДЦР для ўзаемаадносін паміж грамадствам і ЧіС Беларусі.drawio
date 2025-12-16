@@ -13,7 +13,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-15" id="0">
+        <object label="" modifiedDate="2025-12-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="DxHuLPiopfpoI_i7pSDg-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;align=right;labelPosition=center;verticalLabelPosition=middle;fontSize=13;" value="&lt;div&gt;2023-08-06:&lt;br&gt;&lt;b&gt;&lt;u&gt;Ніхто&lt;/u&gt; з людзей не ведае, як на самой справе ўладкаваная рэальнасць.&lt;/b&gt;&lt;br&gt;&lt;br&gt;2024-05-17:&lt;br&gt;&lt;b&gt;Ты не можаш &lt;u&gt;толькі&lt;/u&gt; тое, што супярэчыць законам прыроды.&lt;/b&gt;&lt;br&gt;&lt;br&gt;2024-06-17:&lt;br&gt;&lt;b&gt;Ты не можаш знайсці памылкі ў далейшых разважаннях, толькі калі гэта супярэчыць законам прыроды.&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="827" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="-3CV5m-mck_vKMbQoPjf-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Уступ&lt;/h1&gt;" vertex="1">
+        <mxCell id="-3CV5m-mck_vKMbQoPjf-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;1. Уступ&lt;/h1&gt;" vertex="1">
           <mxGeometry height="80" width="827" y="200" as="geometry" />
         </mxCell>
         <mxCell id="whfIbgRUf7yxkzyEeNDG-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Паведамленне 1&lt;/u&gt;: Чытач, пад уплывам велізарнай колькасці здарэнняў на працягу майго жыцця мая нейронная сетка сфарміравалася такім чынам, што мне здаецца, што я бачу каранёвую прычыну існуючага стану адносін паміж грамадствам, чыноўнікамі і сілавікамі Беларусі. І гэтая прычына для мяне відавочная. Але калі я спрабаваў хутка і проста растлумачыць яе іншым людзям, то амаль усе мае суразмоўцы рабілі вялікія вочы, адмахваліся ад мяне, казалі, што ніякай каранёвай прычыны не існуе і існаваць не можа. Казалі, што нават калі нейкая прычына і існуе, то дакладна не тая, што я называю, а знайсці сапраўдную я не здолею. А нават калі і знайду, то мы ніяк не здолеем на яе паўплываць. А некаторыя адкрыта здзекаваліся і называлі мяне звар&#39;яцелым. 🤷 Дзіўнае адчуванне. Думаю, нешта падобнае мог адчуваць хлопчык з казкі пра голага караля.&lt;br&gt;&amp;nbsp; &amp;nbsp; У гэтай працы я паспрабую падабраць такі спосаб апісання рэальнасці, які зробіць мае разважанні зразумелымі хаця б для некаторых іншых людзей. Больш за тое, паспрабую з тваёй, чытач, дапамогай праверыць свае разважанні і знайсці свае памылкі. І такім чынам наблізіцца да разумення сапраўднай каранёвай прычыны ў выпадку, калі я значна памыліўся.&lt;br&gt;&amp;nbsp; &amp;nbsp; Спадзяюся, што нават калі я чамусьці не здолею апісаць цалкам увесь шлях да сапраўднай каранёвай прычыны, то ты ўсё ж атрымаеш дастаткова інструментаў і падказак, каб працягнуць самастойна і дабрацца да адказу. А калі пабачыш той шлях, то, тэарэтычна, зможаш расказаць пра яго іншым людзям лепей за мяне.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 2&lt;/u&gt;: Каб візуальна аддзяліць свае сцверджанні ад астатняга тэксту, я буду выкарыстоўваць лінію перад пачаткам сцверджання і падвойную лінію пасля канца сцверджання. А таксама адразу пасля сцверджання я буду пытацца, ці згодны ты з гэтым сцверджаннем. Адразу і прадэманструю на прыкладзе сцверджання 1:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 1&lt;/span&gt;: У цябе будзе больш шанцаў зразумець мае разважанні, калі ты будзеш ведаць, на якой мове я іх запісваю і якія значэнні слоў я выкарыстоўваю.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 3&lt;/u&gt;: Я буду запісваць свае разважанні па-беларуску.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 4&lt;/u&gt;: У сваіх разважаннях я буду абапірацца (па магчымасці) на значэнні слоў беларускай мовы, апісаныя ў тлумачальных слоўніках:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;1. &quot;Тлумачальны слоўнік беларускай мовы&quot; (&lt;b&gt;ТСБМ&lt;/b&gt;). Выдадзены ў 5 тамах у 1977—1984 гадах &quot;галоўнай рэдакцыяй Беларускай Савецкай Энцыклапедыі&quot;. Больш за 105 тысяч слоў.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2. &quot;Тлумачальны слоўнік беларускай літаратурнай мовы&quot; (&lt;b&gt;ТСБЛМ&lt;/b&gt;). Выдадзены ў 2016 годзе &quot;Беларускай Энцыклапедыяй імя Петруся Броўкі&quot;. (Фактычна тая ж самая арганізацыя-выдавец, што і ў першага слоўніка, але ўжо перайменаваная.) Больш за 65 тысяч слоў.&lt;/div&gt;" vertex="1">
@@ -217,11 +217,11 @@
   <diagram id="uVn3FKtL508QZibAvMC4" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-15" id="0">
+        <object label="" modifiedDate="2025-12-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="3QnJ8C78RfRuJ-H7Sga5-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Пра з&#39;явы, іх існаванне і пра рэальнасць&lt;/h1&gt;" vertex="1">
+        <mxCell id="3QnJ8C78RfRuJ-H7Sga5-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;2. Пра з&#39;явы, іх існаванне і пра рэальнасць&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="827" as="geometry" />
         </mxCell>
         <object label="%modifiedDate%&lt;br&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Мікалай Шуркаеў&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" placeholders="1" id="3QnJ8C78RfRuJ-H7Sga5-2">
@@ -286,11 +286,11 @@
   <diagram id="F8JSFsGgpzqTfMv5mW-z" name="3. Прастора прычынна-выніковых сувязей з&#39;яў рэальнасці">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-15" id="0">
+        <object label="" modifiedDate="2025-12-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="s1CEFIudBMYJr0m506eb-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Прастора прычынна-выніковых сувязей з&#39;яў рэальнасці&lt;/h1&gt;" vertex="1">
+        <mxCell id="s1CEFIudBMYJr0m506eb-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;3. Прастора прычынна-выніковых сувязей з&#39;яў рэальнасці&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="827" as="geometry" />
         </mxCell>
         <object label="%modifiedDate%&lt;br&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Мікалай Шуркаеў&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" placeholders="1" id="s1CEFIudBMYJr0m506eb-2">
@@ -892,11 +892,11 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="4. Стан адносін паміж двума людзьмі">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-15" id="0">
+        <object label="" modifiedDate="2025-12-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="DFP-Ht14SHplkWBKTmgH-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Стан адносін паміж двума людзьмі&lt;/h1&gt;" vertex="1">
+        <mxCell id="DFP-Ht14SHplkWBKTmgH-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;4. Стан адносін паміж двума людзьмі&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="827" as="geometry" />
         </mxCell>
         <object label="%modifiedDate%&lt;br&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Мікалай Шуркаеў&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" placeholders="1" id="WMn7byqwwTXQE0q-_GVV-1">
@@ -1726,7 +1726,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="5. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-15" id="0">
+        <object label="" modifiedDate="2025-12-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1766,7 +1766,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="6. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-15" id="0">
+        <object label="" modifiedDate="2025-12-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2357,7 +2357,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="7. Гіпотэзы беларусаў">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-15" id="0">
+        <object label="" modifiedDate="2025-12-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2520,7 +2520,7 @@
   <diagram name="8. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-15" id="0">
+        <object label="" modifiedDate="2025-12-16" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
