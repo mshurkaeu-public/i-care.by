@@ -13,11 +13,11 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-16" id="0">
+        <object label="" modifiedDate="2025-12-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="S1GvjW6ToF3bFZKLpUHj-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Гэта важна &lt;font color=&quot;#ff0000&quot;&gt;памятаць&lt;/font&gt; у час стварэння і аналізу мадэлі&lt;/h1&gt;" vertex="1">
+        <mxCell id="S1GvjW6ToF3bFZKLpUHj-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;spacingBottom=0;align=center;" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;Гэта важна &lt;font color=&quot;#ff0000&quot;&gt;памятаць&lt;/font&gt; у час стварэння і аналізу мадэлі рэальнасці&lt;/h1&gt;" vertex="1">
           <mxGeometry height="40" width="827" as="geometry" />
         </mxCell>
         <object label="%modifiedDate%&lt;br&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Мікалай Шуркаеў&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" placeholders="1" id="ag_OCnyFdfTCtAwq5Wvq-1">
@@ -217,7 +217,7 @@
   <diagram id="uVn3FKtL508QZibAvMC4" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-16" id="0">
+        <object label="" modifiedDate="2025-12-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
   <diagram id="F8JSFsGgpzqTfMv5mW-z" name="3. Прастора прычынна-выніковых сувязей з&#39;яў рэальнасці">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-16" id="0">
+        <object label="" modifiedDate="2025-12-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -895,7 +895,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="4. Стан адносін паміж двума людзьмі">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-16" id="0">
+        <object label="" modifiedDate="2025-12-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1729,7 +1729,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="5. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-16" id="0">
+        <object label="" modifiedDate="2025-12-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1769,7 +1769,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="6. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-16" id="0">
+        <object label="" modifiedDate="2025-12-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2360,7 +2360,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="7. Гіпотэзы беларусаў">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-16" id="0">
+        <object label="" modifiedDate="2025-12-17" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2523,7 +2523,7 @@
   <diagram name="8. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2025-12-16" id="0">
+        <object label="" modifiedDate="2025-12-17" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
