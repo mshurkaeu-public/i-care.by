@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.9" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.10" pages="9">
   <diagram id="p5BKoFIkbk6Qz73gNJhs" name="0. Прысвячэнне">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-01-06" id="0">
+        <object label="" modifiedDate="2026-01-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
   <diagram id="uVn3FKtL508QZibAvMC4" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-01-06" id="0">
+        <object label="" modifiedDate="2026-01-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -283,7 +283,7 @@
         <mxCell id="41KTCYtBLacyvGD7iAfV-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 37&lt;/span&gt;: Для абсалютна любога &lt;b&gt;A&lt;/b&gt;, чым бы яно ні было, можна апісаць мноства, якое не ўтрымлівае тое &lt;b&gt;A&lt;/b&gt;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 37:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Напрыклад, можна апісаць мноства, у якім няма ніводнага элемента. Значыць, яно не ўтрымлівае &lt;b&gt;A&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Напрыклад, калі &lt;b&gt;A&lt;/b&gt; гэта не гэты каментарый, то можна апісаць мноства, якое ўтрымлівае толькі гэты каментарый. Значыць, яно не ўтрымлівае &lt;b&gt;A&lt;/b&gt;.&lt;/div&gt;" vertex="1">
           <mxGeometry height="320" width="827" y="10800" as="geometry" />
         </mxCell>
-        <mxCell id="41KTCYtBLacyvGD7iAfV-3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 38&lt;/span&gt;: Са сцверджанняў 36 і 37 вынікае, што, калі з кантэксту размовы невядома пра якое мноства ідзе гаворка, то праўдзівасць сцверджання віду &quot;&lt;b&gt;A&lt;/b&gt; сапраўды знаходзіцца ў мностве&quot; немагчыма вызначыць.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 38:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Бо ніякай інфармацыі пра мноства няма, а можна апісаць і такія мноства, дзе &lt;b&gt;A&lt;/b&gt; прысутнічае, і такія мноства, дзе &lt;b&gt;А&lt;/b&gt; адсутнічае.&lt;/div&gt;" vertex="1">
+        <mxCell id="41KTCYtBLacyvGD7iAfV-3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 38&lt;/span&gt;: Са сцверджанняў 36 і 37 вынікае, што, калі з кантэксту размовы невядома пра якое мноства ідзе гаворка, то праўдзівасць сцверджання віду &quot;&lt;b&gt;A&lt;/b&gt; сапраўды знаходзіцца ў мностве&quot; немагчыма вызначыць.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 38:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Бо ніякай інфармацыі пра мноства няма, а можна апісаць і такія мноствы, дзе &lt;b&gt;A&lt;/b&gt; прысутнічае, і такія мноствы, дзе &lt;b&gt;А&lt;/b&gt; адсутнічае.&lt;/div&gt;" vertex="1">
           <mxGeometry height="280" width="827" y="11120" as="geometry" />
         </mxCell>
         <mxCell id="41KTCYtBLacyvGD7iAfV-5" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 39&lt;/span&gt;: Са сцверджання 38 вынікае, што, калі з кантэксту размовы невядома пра якое мноства ідзе гаворка, то сцверджанне віду &quot;&amp;lt;нешта&amp;gt; сапраўды знаходзіцца ў мностве&quot; не дазваляе ўбачыць праз сябе розніцу паміж любым&amp;nbsp;&lt;b&gt;A&lt;/b&gt; і любым іншым &lt;b&gt;B&lt;/b&gt;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 39:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Бо ў такіх умовах праўдзівасць сцверджання &quot;&lt;b&gt;A&lt;/b&gt; сапраўды знаходзіцца ў мностве&quot; немагчыма вызначыць для любога &lt;b&gt;A&lt;/b&gt;. І для любога &lt;b&gt;B&lt;/b&gt; праўдзівасць сцверджання &quot;&lt;b&gt;B&lt;/b&gt; сапраўды знаходзіцца ў мностве&quot; таксама немагчыма вызначыць. І там няпэўнасць, і там няпэўнасць. Значыць, немагчыма ўбачыць розніцу паміж &lt;b&gt;A&lt;/b&gt; і &lt;b&gt;B&lt;/b&gt;.&lt;/div&gt;" vertex="1">
@@ -424,7 +424,7 @@
   <diagram id="F8JSFsGgpzqTfMv5mW-z" name="3. Прастора прычынна-выніковых сувязей з&#39;яў рэальнасці">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-01-06" id="0">
+        <object label="" modifiedDate="2026-01-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1030,7 +1030,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="4. Стан адносін паміж двума людзьмі">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-01-06" id="0">
+        <object label="" modifiedDate="2026-01-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1864,7 +1864,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="5. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-01-06" id="0">
+        <object label="" modifiedDate="2026-01-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1904,7 +1904,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="6. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-01-06" id="0">
+        <object label="" modifiedDate="2026-01-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2495,7 +2495,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="7. Гіпотэзы беларусаў">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-01-06" id="0">
+        <object label="" modifiedDate="2026-01-07" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2658,7 +2658,7 @@
   <diagram name="8. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-01-06" id="0">
+        <object label="" modifiedDate="2026-01-07" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
