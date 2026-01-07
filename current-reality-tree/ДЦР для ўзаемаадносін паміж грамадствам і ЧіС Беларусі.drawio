@@ -328,7 +328,7 @@
             <mxPoint x="350" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MUR5B3-RYmnEM5jKFpUt-7" parent="MUR5B3-RYmnEM5jKFpUt-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="Кавалак радыекатыўнага элемента. (з&#39;ява &lt;b&gt;A1&lt;/b&gt;)" vertex="1">
+        <mxCell id="MUR5B3-RYmnEM5jKFpUt-7" parent="MUR5B3-RYmnEM5jKFpUt-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="&quot;Новы&quot; кавалак радыекатыўнага элемента. (з&#39;ява &lt;b&gt;A1&lt;/b&gt;)" vertex="1">
           <mxGeometry height="80" width="160" x="200" as="geometry" />
         </mxCell>
         <mxCell id="MUR5B3-RYmnEM5jKFpUt-9" parent="MUR5B3-RYmnEM5jKFpUt-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="Асоба Генры Форда. (з&#39;ява &lt;b&gt;A&lt;/b&gt;)" vertex="1">
@@ -349,7 +349,7 @@
             <mxPoint x="750" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MUR5B3-RYmnEM5jKFpUt-13" parent="MUR5B3-RYmnEM5jKFpUt-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="Асоба Генры Форда. (з&#39;ява &lt;b&gt;A1&lt;/b&gt;)" vertex="1">
+        <mxCell id="MUR5B3-RYmnEM5jKFpUt-13" parent="MUR5B3-RYmnEM5jKFpUt-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="&quot;Новая&quot; асоба Генры Форда. (з&#39;ява &lt;b&gt;A1&lt;/b&gt;)" vertex="1">
           <mxGeometry height="80" width="160" x="640" y="80" as="geometry" />
         </mxCell>
         <mxCell id="orxOiHcN5hs-MkDdZShA-1" parent="MUR5B3-RYmnEM5jKFpUt-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1;verticalAlign=middle;spacing=0;spacingTop=0;" value="і" vertex="1">
@@ -364,7 +364,7 @@
             <mxPoint x="360" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orxOiHcN5hs-MkDdZShA-14" parent="MUR5B3-RYmnEM5jKFpUt-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="Суразмоўца паведамляе пра памылку. (з&#39;ява &lt;b&gt;B&lt;/b&gt;)" vertex="1">
+        <mxCell id="orxOiHcN5hs-MkDdZShA-14" parent="MUR5B3-RYmnEM5jKFpUt-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="Суразмоўца паведамляе мне пра памылку. (з&#39;ява &lt;b&gt;B&lt;/b&gt;)" vertex="1">
           <mxGeometry height="80" width="160" x="120" y="520" as="geometry" />
         </mxCell>
         <mxCell id="orxOiHcN5hs-MkDdZShA-15" edge="1" parent="MUR5B3-RYmnEM5jKFpUt-1" source="orxOiHcN5hs-MkDdZShA-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="orxOiHcN5hs-MkDdZShA-16" value="">
