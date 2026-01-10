@@ -11,4 +11,4 @@ PRODUCT_NAME = icare_by_app
 PRODUCT_BUNDLE_IDENTIFIER = by.icare.macOSApp
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2024 Mikalai Shurkaeu. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2024—2026 Mikalai Shurkaeu. All rights reserved.
