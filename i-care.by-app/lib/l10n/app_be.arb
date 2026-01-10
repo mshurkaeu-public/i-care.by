@@ -2013,6 +2013,10 @@
   "@aboutMyGratitude_2026_01_09_01": {
     "description": "Text for 2026-01-09 Flutter team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2026_01_10_01": "\n2026-01-10 каманда Flutter — 🛠️ стварыла новую версію пакета google_fonts 7.0.0 (2026-01-06) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2026_01_10_01": {
+    "description": "Text for 2026-01-10 core Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2026_01_title": "\n\n2026-01\n",
   "@aboutMyGratitude_2026_01_title": {
     "description": "Title for 2026-01 list/text on the \"my gratitude\" tab on the \"About\" page."
