@@ -2041,6 +2041,10 @@
   "@aboutMyGratitude_2026_01_24_01": {
     "description": "Text for 2026-01-24 core Flutter team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2026_01_28_01": "\n2026-01-28 каманды кампаній JGraph Ltd і draw.io AG — 🛠️ стварылі версію 29.3.6 вэб-сайта https://app.diagrams.net, якім я карыстаюсь, каб маляваць дрэва цяперашняй рэальнасці для высвятлення каранёвай прычыны дыктатуры ў Беларусі.\n",
+  "@aboutMyGratitude_2026_01_28_01": {
+    "description": "Text for 2026-01-28 JGraph Ltd and draw.io AG teams on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2026_01_title": "\n\n2026-01\n",
   "@aboutMyGratitude_2026_01_title": {
     "description": "Title for 2026-01 list/text on the \"my gratitude\" tab on the \"About\" page."
