@@ -2069,6 +2069,10 @@
   "@aboutMyGratitude_2026_02_05_02": {
     "description": "Text for 2026-02-05 serenader.me on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2026_02_07_01": "\n2026-02-07 каманда Flutter — 🛠️ стварыла новую версію пакета google_fonts 8.0.1 (2026-02-04) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2026_02_07_01": {
+    "description": "Text for 2026-02-07 core Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2026_02_title": "\n\n2026-02\n",
   "@aboutMyGratitude_2026_02_title": {
     "description": "Title for 2026-02 list/text on the \"my gratitude\" tab on the \"About\" page."
