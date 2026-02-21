@@ -13,7 +13,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-02-20" id="0">
+        <object label="" modifiedDate="2026-02-21" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
   <diagram id="uVn3FKtL508QZibAvMC4" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 1">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-02-20" id="0">
+        <object label="" modifiedDate="2026-02-21" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -286,7 +286,7 @@
         <mxCell id="41KTCYtBLacyvGD7iAfV-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 38&lt;/span&gt;: Правілы беларускай мовы не забараняюць для абсалютна любога &lt;b&gt;A&lt;/b&gt;, чым бы яно ні было, апісаць мноства, якое ўтрымлівае тое &lt;b&gt;A&lt;/b&gt;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 38:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Напрыклад, можна апісаць мноства, якое ўтрымлівае толькі тое &lt;b&gt;A&lt;/b&gt; і нічога болей.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Напрыклад, можна апісаць мноства, якое ўтрымлівае тое &lt;b&gt;A&lt;/b&gt;, літары беларускай мовы, гэты каментарый і нічога болей.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Патлумачу, навошта мне спасылка на правілы беларускай мовы ў гэтым сцверджанні. Няхай &lt;b&gt;A&lt;/b&gt; апісанае так: &lt;b&gt;A&lt;/b&gt; — гэта нешта, што не належыць ніводнаму мноству. Але нават у такім разе правілы беларускай мовы не забараняюць мне апісаць мноства, якое ўтрымлівае тое &lt;b&gt;A&lt;/b&gt;, якое я толькі што апісваў. Напрыклад, апісаць мноства, якое ўтрымлівае ўсё, што не належыць ніводнаму мноству. Лагічная супярэчнасць? Так! Глядзі сцверджанне 37.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • У тым ліку можна апісаць універсум — мноства абсалютна ўсяго (у тым ліку ўключае і самое сябе). Для інфармацыі: у некаторых аксіяматыках матэматычнай тэорыі мностваў не дазваляецца, каб мноства ўключала самое сябе. Магчыма, табе будзе цікава пачытаць пра парадокс Расэла на гэтую тэму.&lt;/div&gt;" vertex="1">
           <mxGeometry height="480" width="827" y="11320" as="geometry" />
         </mxCell>
-        <mxCell id="41KTCYtBLacyvGD7iAfV-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 39&lt;/span&gt;: Правілы беларускай мовы не забараняюць для абсалютна любога &lt;b&gt;A&lt;/b&gt;, чым бы яно ні было, апісаць мноства, якое не ўтрымлівае тое &lt;b&gt;A&lt;/b&gt;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 39:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Напрыклад, можна апісаць мноства, у якім няма ніводнага элемента. Значыць, яно не ўтрымлівае &lt;b&gt;A&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Напрыклад, калі &lt;b&gt;A&lt;/b&gt; гэта не гэты каментарый, то можна апісаць мноства, якое ўтрымлівае толькі гэты каментарый. Значыць, яно не ўтрымлівае &lt;b&gt;A&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • І нават калі &lt;b&gt;A&lt;/b&gt; апісанае як нешта, што знаходзіцца ў любым мностве. То можна апісаць мноства, як мноства ў якім не проста няма ніводнага элемента, а там няма нават &lt;b&gt;A&lt;/b&gt;. Лагічная супярэчнасць? Так! Глядзі сцверджанне 37.&lt;/div&gt;" vertex="1">
+        <mxCell id="41KTCYtBLacyvGD7iAfV-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 39&lt;/span&gt;: Правілы беларускай мовы не забараняюць для абсалютна любога &lt;b&gt;A&lt;/b&gt;, чым бы яно ні было, апісаць мноства, якое не ўтрымлівае тое &lt;b&gt;A&lt;/b&gt;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 39:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; • Напрыклад, можна апісаць мноства, у якім няма ніводнага элемента. Значыць, яно не ўтрымлівае &lt;b&gt;A&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Напрыклад, калі &lt;b&gt;A&lt;/b&gt; гэта не гэты каментарый, то можна апісаць мноства, якое ўтрымлівае толькі гэты каментарый. Значыць, яно не ўтрымлівае &lt;b&gt;A&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • І нават калі &lt;b&gt;A&lt;/b&gt; апісанае як нешта, што знаходзіцца ў любым мностве, то можна апісаць такое мноства, у якім не проста няма ніводнага элемента, а там няма нават &lt;b&gt;A&lt;/b&gt;. Лагічная супярэчнасць? Так! Глядзі сцверджанне 37.&lt;/div&gt;" vertex="1">
           <mxGeometry height="400" width="827" y="11800" as="geometry" />
         </mxCell>
         <mxCell id="41KTCYtBLacyvGD7iAfV-3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 40&lt;/span&gt;: Са сцверджанняў 37 — 39 вынікае, што, калі з кантэксту размовы невядома пра якое мноства ідзе гаворка, то праўдзівасць сцверджання віду &quot;&lt;b&gt;A&lt;/b&gt; сапраўды знаходзіцца ў мностве&quot; немагчыма адназначна вызначыць.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 40:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Напрыклад, праўдзівасць сцверджання &quot;зялёны кракадзіл сапраўды знаходзіцца ў мностве&quot; немагчыма вызначыць. Бо ніякай інфармацыі пра мноства няма, а можна апісаць і такія мноствы, дзе зялёны кракадзіл прысутнічае, і такія мноствы, дзе зялёны кракадзіл адсутнічае.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Нават калі само па сабе апісанне &lt;b&gt;A&lt;/b&gt; утрымлівае спасылку на нейкае мноства. Напрыклад, калі маем &quot;&lt;b&gt;A&lt;/b&gt; — гэта лік, які належыць мноству натуральных лікаў&quot;, то сцверджанне &quot;лік, які належыць мноству натуральных лікаў, сапраўды знаходзіцца ў мностве&quot; неабавязкова праўдзівае. Бо беларуская мова сама па сабе не патрабуе, каб другое слова &quot;мноства&quot; абавязкова было спасылкай на першае мноства. А калі б беларуская мова патрабавала такое, то тады з кантэксту размовы было б дакладна вядома, пра якое мноства ідзе гаворка. А тады гэта была б не сітуацыя, апісаная ў сцверджанні.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Аналагічныя разважанні падыходзяць і для сітуацыі, калі &quot;&lt;b&gt;A&lt;/b&gt; — гэта мноства, якое ўтрымлівае само сябе&quot;.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • А калі апісанне &lt;b&gt;A&lt;/b&gt; неяк &quot;хітра&quot; між іншым апісвае значэнне для наступнага слова &quot;мноства&quot;, то тады з кантэксту размовы вядома, пра якое мноства ідзе гаворка. І тады гэтае сцверджанне проста не пра такую сітуацыю. Напрыклад, &quot;&lt;b&gt;A&lt;/b&gt; — гэта лік, з мноства натуральных лікаў, на якое я буду далей спасылацца словам «мноства»&quot;.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Калі апісанне &lt;b&gt;A&lt;/b&gt; сцвярджае, што &lt;b&gt;A&lt;/b&gt; належыць абсалютна любому мноству, то сцверджанне &quot;&lt;b&gt;A&lt;/b&gt;, якое належыць абсалютна любому мноству, сапраўды знаходзіцца ў мностве&quot; неабавязкова праўдзівае і неабавязкова ілжывае. Бо, напрыклад, пустое мноства не ўтрымлівае ніводнага элемента. А нейкаму мноству тое &lt;b&gt;A&lt;/b&gt; усё ж можа належаць. Проста ўзнікае сітуацыя, якая падмацоўвае сцверджанне 37.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Аналагічна, калі апісанне &lt;b&gt;A&lt;/b&gt; сцвярджае, што &lt;b&gt;A&lt;/b&gt; не належыць ніводнаму мноству, то праўдзівасць сцверджання &quot;&lt;b&gt;A&lt;/b&gt;, якое не належыць ніводнаму мноству, сапраўды знаходзіцца ў мностве&quot; таксама немагчыма адназначна вызначыць. Бо можна апісаць, напрыклад, мноства таго, што ўтрымлівае літару &#39;н&#39; у сваім апісанні на беларускай мове, а па такім апісанні &lt;b&gt;A&lt;/b&gt; павінна належаць таму мноству. Ізноў сітуацыя, якая падмацоўвае сцверджанне 37.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Пасля запісу гэтых каментарыяў я разумею, што нават калі з кантэксту размовы вядома пра якое мноства ідзе размова, то могуць узнікаць сітуацыі, у якіх праўдзівасць сцверджання віду &quot;&lt;b&gt;A&lt;/b&gt; сапраўды знаходзіцца ў мностве&quot; немагчыма адназначна вызначыць. Але для далейшых разважанняў мне пакуль дастаткова разгледжанай у сцверджанні сітуацыі. А гэты каментарый, я думаю, дапамагае лепей зразумець &quot;наваколле&quot; сцверджання.&lt;/div&gt;" vertex="1">
@@ -427,7 +427,7 @@
   <diagram id="-I3nYhLcSyCXaIGuJwdV" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 2">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-02-20" id="0">
+        <object label="" modifiedDate="2026-02-21" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -517,7 +517,7 @@
   <diagram id="F8JSFsGgpzqTfMv5mW-z" name="3. Прастора прычынна-выніковых сувязей з&#39;яў рэальнасці">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-02-20" id="0">
+        <object label="" modifiedDate="2026-02-21" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1123,7 +1123,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="4. Стан адносін паміж двума людзьмі">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-02-20" id="0">
+        <object label="" modifiedDate="2026-02-21" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1957,7 +1957,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="5. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-02-20" id="0">
+        <object label="" modifiedDate="2026-02-21" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1997,7 +1997,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="6. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-02-20" id="0">
+        <object label="" modifiedDate="2026-02-21" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2588,7 +2588,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="7. Гіпотэзы беларусаў">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-02-20" id="0">
+        <object label="" modifiedDate="2026-02-21" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2751,7 +2751,7 @@
   <diagram name="8. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-02-20" id="0">
+        <object label="" modifiedDate="2026-02-21" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
