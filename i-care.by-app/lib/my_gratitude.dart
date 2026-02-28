@@ -20,6 +20,19 @@ class MyGratitude extends StatelessWidget {
         ),
         Text.rich(
           TextSpan(
+            text: "",
+            children: [
+              TextSpan(
+                text: l10n.aboutMyGratitude_2026_01_22_02,
+              ),
+              TextSpan(
+                text: l10n.aboutMyGratitude_2025_03_26_01,
+              ),
+            ]
+          ),
+        ),
+        Text.rich(
+          TextSpan(
             text: l10n.aboutMyGratitudeIntroductory,
             children: [
               // 2026-02
