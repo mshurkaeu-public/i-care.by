@@ -38,6 +38,12 @@ class MyGratitude extends StatelessWidget {
           TextSpan(
             text: l10n.aboutMyGratitudeIntroductory,
             children: [
+              // 2026-03
+              TextSpan(
+                text: l10n.aboutMyGratitude_2026_03_title,
+                style: titleStyle,
+              ),
+
               // 2026-02
               TextSpan(
                 text: l10n.aboutMyGratitude_2026_02_title,
