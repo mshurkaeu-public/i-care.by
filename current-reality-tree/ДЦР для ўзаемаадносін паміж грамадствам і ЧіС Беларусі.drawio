@@ -430,7 +430,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-I3nYhLcSyCXaIGuJwdV" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 2">
-    <mxGraphModel dx="2187" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" modifiedDate="2026-03-14" id="0">
           <mxCell />
@@ -527,7 +527,7 @@
         </mxCell>
         <UserObject label="Спасылка на главу &lt;span&gt;&quot;3. Прастора прычынна-выніковых сувязей з&#39;яў рэальнасці&lt;/span&gt;&quot;" link="data:page/id,F8JSFsGgpzqTfMv5mW-z" id="oqybOKMOAOYURQ15USBa-1">
           <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" vertex="1">
-            <mxGeometry height="40" width="827" x="-10" y="9280" as="geometry" />
+            <mxGeometry height="40" width="827" y="9280" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
