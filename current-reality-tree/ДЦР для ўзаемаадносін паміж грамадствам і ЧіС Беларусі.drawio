@@ -474,8 +474,8 @@
         <mxCell id="hz57ZFm8JM5Sj1GB2TXA-1" parent="orpWzriD0-cnV71t46CH-1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFFFF00;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="385" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="hz57ZFm8JM5Sj1GB2TXA-2" parent="orpWzriD0-cnV71t46CH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Нейкая &quot;дзірка&quot;. Напрыклад, чалавек не лічыць часткай рэальнасці з&#39;явы, якія залежаць ад яго свядомасці." vertex="1">
-          <mxGeometry height="80" width="280" x="480" y="40" as="geometry" />
+        <mxCell id="hz57ZFm8JM5Sj1GB2TXA-2" parent="orpWzriD0-cnV71t46CH-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Нейкая «дзірка». Напрыклад, чалавек не лічыць часткай рэальнасці з&#39;явы, якія залежаць ад яго свядомасці." vertex="1">
+          <mxGeometry height="80" width="320" x="480" y="40" as="geometry" />
         </mxCell>
         <mxCell id="hz57ZFm8JM5Sj1GB2TXA-3" edge="1" parent="orpWzriD0-cnV71t46CH-1" source="hz57ZFm8JM5Sj1GB2TXA-2" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="hz57ZFm8JM5Sj1GB2TXA-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
