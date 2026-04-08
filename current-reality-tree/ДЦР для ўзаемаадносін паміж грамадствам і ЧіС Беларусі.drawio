@@ -13,7 +13,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-07" id="0">
+        <object label="" modifiedDate="2026-04-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
   <diagram id="uVn3FKtL508QZibAvMC4" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 1">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-07" id="0">
+        <object label="" modifiedDate="2026-04-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -435,7 +435,7 @@
   <diagram id="-I3nYhLcSyCXaIGuJwdV" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 2">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-07" id="0">
+        <object label="" modifiedDate="2026-04-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -495,8 +495,8 @@
         <mxCell id="hz57ZFm8JM5Sj1GB2TXA-5" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Паведамленне 57&lt;/u&gt;: Я жадаю прыйсці да згоды з табой наконт некаторых уласцівасцей з&#39;яў і таму прапаную абмеркаваць некаторыя аспекты прысутнасці і адсутнасці з&#39;явы ў хвалі-хаосе-рэальнасці.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 54&lt;/span&gt;: Паняцце &quot;прысутнасць&quot; з&#39;яўляецца супрацьлеглым паняццю &quot;адсутнасць&quot;. А паняцце &quot;адсутнасць&quot; з&#39;яўляецца супрацьлеглым паняццю &quot;прысутнасць&quot;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 54:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Адно паняцце з&#39;яўляецца лагічным адмаўленнем іншага. У гэтым сэнсе яны падобныя на праўду і няпраўду (True і False) у матэматычнай логіцы. True = не False, False = не True. Прысутнасць = не адсутнасць, адсутнасць = не прысутнасць. Тут маем пэўныя формулы.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Для паглыблення і развіцця асацыяцый у нашых нервовых сістэмах нагадаю, што з&#39;явай я пакуль што называю нешта, што можа пераходзіць ад адсутнасці да прысутнасці ў хвалі-хаосе-рэальнасці.&lt;/div&gt;" vertex="1">
           <mxGeometry height="440" width="827" y="2720" as="geometry" />
         </mxCell>
-        <mxCell id="EmmBU7jt9LGBWqNH8i8y-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Паведамленне 58&lt;/u&gt;: Я пачынаю ланцужок сцверджанняў, якія прадэманструюць, што адной толькі здольнасці нечага пераходзіць ад адсутнасці да прысутнасці ў хвалі-хаосе-рэальнасці для таго, каб я называў тое нешта з&#39;явай, недастаткова для некаторых маіх практычных патрабаванняў да мадэлі рэальнасці.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 55&lt;/span&gt;: Калі лічыць, што з&#39;ява — гэта любое нешта, што можа з&#39;яўляцца ў хвалі-хаосе-рэальнасці (то-бок можа пераходзіць ад адсутнасці да прысутнасці ў тым мностве), і ўявіць сітуацыю, калі нейкі настаўнік выходзіць са школьнага кабінета, то ў той сітуацыі &quot;адсутнасць таго настаўніка ў кабінеце&quot; будзе пераходзіць ад адсутнасці да прысутнасці ў хвалі-хаосе-рэальнасці, а тады &quot;адсутнасць таго настаўніка ў кабінеце&quot; можна будзе называць з&#39;явай.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 55:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Гэтае сцверджанне патрэбнае мне ў якасці фармальнага абгрунтавання, чаму гэта далей я пачну абмяркоўваць не толькі з&#39;явы &lt;b&gt;A&lt;/b&gt;, але і з&#39;явы &quot;адсутнасць &lt;b&gt;А&lt;/b&gt;&quot;. Я падазраю, што магу нарабіць лагічных памылак. Таму буду максімальна падрабязна тлумачыць ход маёй думкі, каб павысіць нашыя шанцы заўважыць мае памылкі.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="440" width="827" y="3160" as="geometry" />
+        <mxCell id="EmmBU7jt9LGBWqNH8i8y-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Паведамленне 58&lt;/u&gt;: Давай паразважаем, ці ўсё, што тэарэтычна здольнае пераходзіць ад адсутнасці да прысутнасці ў хвалі-хаосе-рэальнасці, аднолькава карыснае з пункту гледжання нашых практычных патрабаванняў да мадэлі акіяна-рэальнасці.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 55&lt;/span&gt;: Калі лічыць, што з&#39;ява — гэта любое нешта, што можа з&#39;яўляцца ў хвалі-хаосе-рэальнасці (то-бок можа пераходзіць ад адсутнасці да прысутнасці ў тым мностве), і ўявіць сітуацыю, калі нейкі настаўнік выходзіць са школьнага кабінета, то ў той сітуацыі «адсутнасць таго настаўніка ў кабінеце» будзе пераходзіць ад адсутнасці да прысутнасці ў хвалі-хаосе-рэальнасці, а тады «адсутнасць таго настаўніка ў кабінеце» можна будзе называць з&#39;явай.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 55:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Гэта «прыступка інтэлектуальных драбін», каб стварыць «фармальнае абгрунтаванне» для маіх далейшых разважанняў пра з&#39;явы «адсутнасць &lt;b&gt;A&lt;/b&gt;» уперамешку са з&#39;явамі &lt;b&gt;A&lt;/b&gt;. Я падазраю, што магу нарабіць тут лагічных памылак. Таму буду спрабаваць максімальна падрабязна тлумачыць ход маёй думкі, каб павысіць нашыя шанцы заўважыць мае памылкі. Да разважанняў пра з&#39;явы «адсутнасць &lt;b&gt;A&lt;/b&gt;» я дайшоў спачатку неяк інтуітыўна. І толькі зараз спрабую пабудаваць нейкі ланцужок, які я магу апісаць словамі і які для мяне самога выглядае дастаткова адэкватным. Здаецца, інтуіцыя падсвядома робіць нейкія «вар&#39;яцкія» экстрапаляцыі з жыццёвага досведу, а потым свядомасць спрабуе пабудаваць доказ або абвяржэнне гіпотэзы.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="520" width="827" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="hz57ZFm8JM5Sj1GB2TXA-6" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 56&lt;/span&gt;: З дастатковага крытэрыю існавання з&#39;явы вынікае, што калі з&#39;ява класу &quot;адсутнасць настаўніка ў кабінеце&quot; стварае не &quot;пустыя&quot; эфекты, то гэта гарантуе, што тая з&#39;ява класу &quot;адсутнасць настаўніка ў кабінеце&quot; існуе (то-бок належыць мноству з назвай рэальнасць).&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 56:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Я выбраў прыклад пра настаўніка ў кабінеце, бо спадзяюся, ён будзе зразумелым любому чалавеку, які заўважаў, што паводзіны вучняў часам змяняюцца характэрным чынам, калі настаўнік выходзіць з кабінета.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Для гэтага сцверджання няважна, што называць &quot;рэальнасцю&quot;: акіян-рэальнасць ці хвалю-хаос-рэальнасць.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Тут варта ўспомніць гісторыю пра старажытнага кітайскага цмока, які &quot;праглынаў сонца&quot;. Калі мы думаем, што з&#39;ява стварае эфекты, то гэта не гарантуе, што гэта адпавядае таму, што адбываецца ў рэальнасці. То-бок, не гарантуе, што прычынна-выніковыя сувязі, якія мы ўяўляем, адпавядаюць прычынна-выніковым сувязям з&#39;яў рэальнасці. А значыць патрэбна падумаць пра тое, як праверыць нашу гіпотэзу пра прычыну. Напрыклад, калі настаўнік незаўважна вернецца ў кабінет і будзе ціха назіраць, то гэта адразу верне паводзіны вучняў да папярэдняга стылю?&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Калі памятаеш, то ў мяне была гіпотэза, што з&#39;ява абавязана змяніцца ці знікнуць у момант стварэння не &quot;пустога&quot; эфекту. Бо інакш, здаецца, было б магчыма стварыць вечны рухавік. І вось мне пакуль што не зразумела, што адбываецца са з&#39;явай класу &quot;адсутнасць настаўніка ў кабінеце&quot;, калі ўявіць, што гэта яна стварае не &quot;пустыя&quot; эфекты. Яна змяняецца? 🤷 У мяне ўзнікае падазрэнне, што &quot;нешта не так&quot;. З гіпотэзай нешта не тое? Са з&#39;явамі &quot;адсутнасць &lt;b&gt;A&lt;/b&gt;&quot;? 🤷&lt;/div&gt;" vertex="1">
           <mxGeometry height="600" width="827" y="3760" as="geometry" />
@@ -539,7 +539,7 @@
   <diagram id="F8JSFsGgpzqTfMv5mW-z" name="3. Прастора прычынна-выніковых сувязей з&#39;яў рэальнасці">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-07" id="0">
+        <object label="" modifiedDate="2026-04-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1145,7 +1145,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="4. Стан адносін паміж двума людзьмі">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-07" id="0">
+        <object label="" modifiedDate="2026-04-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1979,7 +1979,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="5. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-07" id="0">
+        <object label="" modifiedDate="2026-04-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2019,7 +2019,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="6. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-07" id="0">
+        <object label="" modifiedDate="2026-04-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2610,7 +2610,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="7. Гіпотэзы беларусаў">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-07" id="0">
+        <object label="" modifiedDate="2026-04-08" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2773,7 +2773,7 @@
   <diagram name="8. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-07" id="0">
+        <object label="" modifiedDate="2026-04-08" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
