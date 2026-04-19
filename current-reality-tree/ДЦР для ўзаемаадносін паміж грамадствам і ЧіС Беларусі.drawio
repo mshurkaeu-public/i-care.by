@@ -13,7 +13,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-18" id="0">
+        <object label="" modifiedDate="2026-04-19" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
   <diagram id="uVn3FKtL508QZibAvMC4" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 1">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-18" id="0">
+        <object label="" modifiedDate="2026-04-19" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -441,7 +441,7 @@
   <diagram id="-I3nYhLcSyCXaIGuJwdV" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 2">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-18" id="0">
+        <object label="" modifiedDate="2026-04-19" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -671,8 +671,8 @@
         <mxCell id="t6k2qm3EiVvVKaNr1De6-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Асобнае пытанне&lt;/u&gt;: &lt;b&gt;Чытач&lt;/b&gt;, як ты думаеш, ці засталіся ў акіяне-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ з&#39;явы, якія абсалютна не ствараюць не «пустых» эфектаў (іншых не «пустых» з&#39;яў)❓&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="827" y="16400" as="geometry" />
         </mxCell>
-        <mxCell id="t6k2qm3EiVvVKaNr1De6-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 67&lt;/span&gt;: Калі ў акіяне-рэальнасці₍₋ₙ₀₋ₙ₁₎ існуе з&#39;ява &lt;b&gt;A&lt;/b&gt;, якая абсалютна не стварае не «пустых» эфектаў, то значыць, з&#39;ява «адсутнасць &lt;b&gt;A&lt;/b&gt;» з акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₎ гарантавана стварае не «пустыя» эфекты ў нейкіх абставінах.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 67:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Інакш з&#39;явы &lt;b&gt;A&lt;/b&gt; і «адсутнасць &lt;b&gt;A&lt;/b&gt;» належаць да мноства&amp;nbsp;&lt;b&gt;𝒩₁&lt;/b&gt;, а значыць, па азначэнню не належаць да акіяну-рэальнасці₍₋ₙ₀₋ₙ₁₎.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 67&lt;/u&gt;: Прыкладна за тыдзень да 2026-04-18 я правяраў свой «доказ», што ў акіяне-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ не існуе з&#39;яў, якія не ствараюць не «пустых» эфектаў. Гэта як раз пра тое, пра што было папярэдняе асобнае пытанне да цябе. Канцэпцыя вабіла сваёй прастатой, але нешта ў тым маім «доказе» было «не так». Ён быў нейкі недастаткова «гладкі». У той момант у мяне яшчэ не было азначэнняў для мностваў &lt;b&gt;𝒩₀&lt;/b&gt;, &lt;b&gt;𝒩₁&lt;/b&gt; і &lt;b&gt;𝒩₂&lt;/b&gt;. Я вырашыў вярнуцца ў сваіх разважаннях на некалькі лагічных крокаў назад і перастаць «махаць сякерай», а замест акуратна дадаць азначэнні мностваў… І вось дзе я зараз:&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 1. Са сцверджання 67 вынікае, што калі з&#39;ява &lt;b&gt;А&lt;/b&gt; з акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ абсалютна не стварае не «пустых» эфектаў, то гэта значыць, што ў нейкіх умовах &lt;b&gt;S₁&lt;/b&gt; з&#39;ява «адсутнасць &lt;b&gt;A&lt;/b&gt;» стварае не «пусты» эфект &lt;b&gt;B₁&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 2. З азначэння акіяне-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ вынікае, што ў ім існуюць&amp;nbsp;&lt;u&gt;параўнальныя&lt;/u&gt;&amp;nbsp;ўмовы&amp;nbsp;&lt;b&gt;S₂&lt;/b&gt; для ўмоў&amp;nbsp;&lt;b&gt;S₁&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 3. З умовы задачы вынікае, што з&#39;ява &lt;b&gt;A&lt;/b&gt;&amp;nbsp;з любымі ўмовамі&amp;nbsp;&lt;b&gt;Sₙ&lt;/b&gt;&amp;nbsp;стварае нейкі «пусты» эфект &lt;b&gt;Bₙ&lt;/b&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 4. Я збіраўся паказваць лагічную супярэчнасць, што быццам бы эфект&amp;nbsp;&lt;b&gt;Bₙ&lt;/b&gt;&amp;nbsp;проста не зможа быць&amp;nbsp;«пустым»&amp;nbsp;і не супярэчыць азначэнням і ўмове задачы. Але зразумеў, што я спрабую зрабіць нейкія дадатковыя дапушчэнні пра стуктуру&amp;nbsp;акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎, якія не&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 2. Калі б я прысутнічаў і там, і там, то я, напэўна, заўважыў бы розніцу і само гэта стварыла б эфект, а тады ўзнікла б лагічная супярэчнасць. І такую ўяўляемую лагічную супярэчнасць я і Але… гэта няяўна накладае патрабаванні на структуру акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 1. Зараз я не бачу спосабу, як даказаць, што ў акіяне-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ не існуе з&#39;яў, якія абсалютна не ствараюць не «пустых» эфектаў.&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="760" width="827" y="16520" as="geometry" />
+        <mxCell id="t6k2qm3EiVvVKaNr1De6-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 67&lt;/span&gt;: Калі ў акіяне-рэальнасці₍₋ₙ₀₋ₙ₁₎ існуе з&#39;ява &lt;b&gt;A&lt;/b&gt;, якая абсалютна не стварае не «пустых» эфектаў, то значыць, з&#39;ява «адсутнасць &lt;b&gt;A&lt;/b&gt;» з акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₎ гарантавана стварае не «пустыя» эфекты ў нейкіх абставінах &lt;b&gt;S₁&lt;/b&gt;.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 67:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Інакш з&#39;явы &lt;b&gt;A&lt;/b&gt; і «адсутнасць &lt;b&gt;A&lt;/b&gt;» належаць да мноства &lt;b&gt;𝒩₁&lt;/b&gt;, а значыць, паводле азначэння не належаць да акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₎.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Калі ласка, звярні ўвагу, што я знарок выкарыстоўваю ў сцверджанні менш абмежаваны акіян-рэальнасць₍₋ₙ₀₋ₙ₁₎, а не акіян-рэальнасць₍₋ₙ₀₋ₙ₁₋ₙ₂₎. Акіян-рэальнасць₍₋ₙ₀₋ₙ₁₋ₙ₂₎ аўтаматычна валодае такой самай уласцівасцю.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • У другой палове лістапада 2025 года я сфармуляваў «доказ» таго, што ў акіяне-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ не існуе з&#39;яў, якія не ствараюць не «пустых» эфектаў. Тэма «доказу» непасрэдна звязаная з тым, пра што я пытаўся ў цябе ў папярэднім асобным пытанні. Канцэпцыя выглядала вельмі прывабнай. Але прыкладна 2026-04-10 я пачаў адчуваць, што нешта ў тым маім «доказе» было «не так». Ён быў нейкі недастаткова «гладкі». У той момант у мяне яшчэ не было азначэнняў для мностваў &lt;b&gt;𝒩₀&lt;/b&gt;, &lt;b&gt;𝒩₁&lt;/b&gt; і &lt;b&gt;𝒩₂&lt;/b&gt;. Тады я вырашыў вярнуцца ў сваіх разважаннях на крок, дзе зараз знаходзіцца сцверджанне 54, акуратна апісаць свае лагічныя крокі і перастаць «махаць сякерай»… І вось дзе я зараз:&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 1. Са сцверджання 67 вынікае, што калі з&#39;ява &lt;b&gt;А&lt;/b&gt; з акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ абсалютна не стварае не «пустых» эфектаў, то гэта значыць, што ў нейкіх абставінах &lt;b&gt;S₁&lt;/b&gt; з&#39;ява «адсутнасць &lt;b&gt;A&lt;/b&gt;» стварае нейкі не «пусты» эфект. Каб нам было прасцей разважаць, давай зменім азначэнні. Назавём з&#39;яву «адсутнасць &lt;b&gt;A&lt;/b&gt;» з&#39;явай &lt;b&gt;B&lt;/b&gt;, а з&#39;яву &lt;b&gt;A&lt;/b&gt; назавём «адсутнасць &lt;b&gt;B&lt;/b&gt;».&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 2. У новых азначэннях атрымліваем:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.1) У абставінах &lt;b&gt;S₁&lt;/b&gt;з&#39;ява &lt;b&gt;B&lt;/b&gt; стварае нейкі не «пусты» эфект &lt;b&gt;C₁&lt;/b&gt;.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2.2) У любых параўнальных абставінах &lt;b&gt;S₂&lt;/b&gt;, якія дазваляе акіян-рэальнасць₍₋ₙ₀₋ₙ₁₋ₙ₂₎, нейкая з&#39;ява, параўнальная са з&#39;явай «адсутнасць &lt;b&gt;B&lt;/b&gt;», стварае эфекты, якія можна адрозніць ад &lt;b&gt;C₁&lt;/b&gt;. &lt;b&gt;УВАГА&lt;/b&gt;: я не раблю выгляд, што неабмежавана кірую структурай акіяна-рэальнасці. Таму я выкарыстоўваю словы «якія дазваляе акіян-рэальнасць₍₋ₙ₀₋ₙ₁₋ₙ₂₎».&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 3. Ну і што далей? Адрозніць з&#39;яву &lt;b&gt;B&lt;/b&gt; ад з&#39;явы «адсутнасць &lt;b&gt;B&lt;/b&gt;» я здолею, як і абяцае азначэнне акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎. Але як я магу даказаць гэтым, што з&#39;ява «адсутнасць &lt;b&gt;B&lt;/b&gt;» (то-бок з&#39;ява &lt;b&gt;A&lt;/b&gt; у пачатковых азначэннях) можа ствараць не «пустыя» эфекты? Я думаю, што нават калі камбінацыя нейкіх параўнальных з&#39;яў стварыла не «пустыя» эфекты ў маёй свядомасці, то гэта зусім не даказвае, што і «адсутнасць &lt;b&gt;B&lt;/b&gt;» (то-бок з&#39;ява &lt;b&gt;A&lt;/b&gt; у пачатковых азначэннях) таксама абавязана ўмець ствараць не «пустыя» эфекты ў маёй свядомасці.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; У выніку я не бачу зараз спосабу, як даказаць, што ў акіяне-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ не існуе з&#39;яў, якія абсалютна не ствараюць не «пустых» эфектаў. Мне нават здаецца, што гэта немагчыма даказаць з маімі цяперашнімі азначэннямі з&#39;яў і мностваў з&#39;яў.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 67&lt;/u&gt;: Мы маем важны практычны вынік. У нас зараз ёсць азначэнне мноства акіян-рэальнасць₍₋ₙ₀₋ₙ₁₋ₙ₂₎, у якім гарантавана існуюць &lt;b&gt;&lt;u&gt;усе&lt;/u&gt;&lt;/b&gt; з&#39;явы, якія ствараюць не «пустыя» эфекты, для якіх нам гарантаваная тэарэтычная магчымасць адрозніць прысутнасць тых з&#39;яў ад іх адсутнасці ў хвалі-хаосе-рэальнасці.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; У наступнай главе мы будзем вучыцца маляваць карту акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1040" width="827" y="16520" as="geometry" />
         </mxCell>
         <mxCell id="FN9KUrCbfO56ustJesjD-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Паведамленне 68&lt;/u&gt;: Узнікае цікавае пытанне: ці з&#39;яўляецца рэальнасць з&#39;явай?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 68&lt;/span&gt;: Калі называць рэальнасцю нейкае мноства з&#39;яў (напрыклад, акіян-рэальнасць або хвалю-хаос-рэальнасць з карцінкі 3, або нейкае іншае мноства), а з&#39;явай называць тое, што можа пераходзіць ад адсутнасці да прысутнасці ў хвалі-хаосе-рэальнасці (мноства тых з&#39;яў, якія ствараюць эфекты ў дадзены момант), то, для таго каб назваць рэальнасць з&#39;явай, патрэбна паказаць, што рэальнасць можа пераходзіць ад адсутнасці да прысутнасці ў хвалі-хаосе-рэальнасці і паказаць, што рэальнасць стварае эфекты ў дадзены момант.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 68:&lt;br&gt;&amp;nbsp; &amp;nbsp; • На дадзены момант я не бачу падстаў для таго, каб лічыць акіян-рэальнасць ці хвалю-хаос-рэальнасць з&#39;явамі. Для мяне выглядае дзіўным/нелагічным спрабаваць разглядаць тыя мноствы як нешта, што можа з&#39;яўляцца ў мностве хвалі-хаосу-рэальнасці. Таксама, на дадзены момант у мяне няма інфармацыі пра тое, што акіян-рэальнасць ці хваля-хаос-рэальнасць самі па сабе ствараюць эфекты. Паколькі я не бачу падстаў, то я не буду называць з&#39;явамі тыя два мноствы.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Для мяне ўвогуле здаецца дзіўным думаць пра рэальнасць як пра нешта, што можа пераходзіць ад адсутнасці да прысутнасці. Бо нават, калі я спрабую ўявіць адсутнасць абсалютна ўсіх з&#39;яў (груба кажучы, ні матэрыі ні прасторы), то тады ў маёй мадэлі рэальнасць будзе проста пустым мноствам. У маёй мадэлі рэальнасць не можа знікаць ці з&#39;яўляцца. Гэта проста абстракцыя, якая лагічна аб&#39;ядноўвае набор з&#39;яў. На дадзены момант я не магу ўявіць, як і навошта патрэбна апісаць рэальнасць у альтэрнатыўнай мадэлі, каб яна была з&#39;явай у той мадэлі. 🤷&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Калі ты называеш рэальнасцю нейкае іншае мноства з&#39;яў ці называеш з&#39;явай нешта іншае, то табе спатрэбіцца самому шукаць адказ на пытанне, ці з&#39;яўляецца рэальнасць у тваім азначэнні з&#39;явай у тваім азначэнні.&lt;/div&gt;" vertex="1">
           <mxGeometry height="600" width="827" y="17560" as="geometry" />
@@ -694,7 +694,7 @@
   <diagram id="F8JSFsGgpzqTfMv5mW-z" name="3. Прастора прычынна-выніковых сувязей з&#39;яў рэальнасці">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-18" id="0">
+        <object label="" modifiedDate="2026-04-19" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1300,7 +1300,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="4. Стан адносін паміж двума людзьмі">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-18" id="0">
+        <object label="" modifiedDate="2026-04-19" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2134,7 +2134,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="5. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-18" id="0">
+        <object label="" modifiedDate="2026-04-19" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2174,7 +2174,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="6. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-18" id="0">
+        <object label="" modifiedDate="2026-04-19" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2765,7 +2765,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="7. Гіпотэзы беларусаў">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-18" id="0">
+        <object label="" modifiedDate="2026-04-19" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2928,7 +2928,7 @@
   <diagram name="8. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-04-18" id="0">
+        <object label="" modifiedDate="2026-04-19" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
