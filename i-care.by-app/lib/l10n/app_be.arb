@@ -2273,6 +2273,10 @@
   "@aboutMyGratitude_2026_04_title": {
     "description": "Title for 2026-04 list/text on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2026_05_title": "\n\n2026-05\n",
+  "@aboutMyGratitude_2026_05_title": {
+    "description": "Title for 2026-05 list/text on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutShort": "\u200B$app_title\n$app_version\n\nНабор інструментаў, якія, я спадзяюся, дапамогуць людзям клапаціцца аб тым, што важна для іх, больш свядома, больш прыемна і больш эфектыўна.\n\nАўтар праграмы — я, Мікалай Шуркаеў. Але мне дапамагалі іншыя людзі 👫. Я вельмі ўдзячны ім за дапамогу 🙏 і жадаю, каб яны ведалі аб гэтым. Калі ласка, {preferredPronoun, select, Vy{зазірніце} other{зазірні}} ў закладку \"$my_gratitude_link\".\n\nІнфармацыя аб тым, як можна падтрымаць праект, знаходзіцца на закладцы \"$support_the_project_link\" 🤝.\n\nКалі {preferredPronoun, select, Vy{Вам} other{табе}} цікава, $the_why_link 🤨 я стварыў гэтую праграму і $how_it_works_link 🤔, то {preferredPronoun, select, Vy{глядзіце} other{глядзі}} адпаведныя закладкі. Яшчэ больш дэталяў {preferredPronoun, select, Vy{Вы можаце} other{ты можаш}} даведацца на закладцы \"$history_of_creation_link\" 📜.\n\nЛіцэнзіі кампанентаў, выкарыстаных ў праграме, тут — \"$components_licenses_link\" 🧾.\n\nЗыходны код праграмы ў рэпазітары на GitHub — $GitHub_repository_link.\n\n\n$feedback_request",
   "@aboutShort": {
     "description": "Text to show on the \"short\" tab on the \"About\" page.",
