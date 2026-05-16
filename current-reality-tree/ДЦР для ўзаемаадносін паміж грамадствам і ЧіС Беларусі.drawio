@@ -13,7 +13,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-05-15" id="0">
+        <object label="" modifiedDate="2026-05-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
   <diagram id="uVn3FKtL508QZibAvMC4" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 1">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-05-15" id="0">
+        <object label="" modifiedDate="2026-05-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -441,7 +441,7 @@
   <diagram id="-I3nYhLcSyCXaIGuJwdV" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 2">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-05-15" id="0">
+        <object label="" modifiedDate="2026-05-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -703,7 +703,7 @@
   <diagram id="F8JSFsGgpzqTfMv5mW-z" name="3. Як маляваць карту акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-05-15" id="0">
+        <object label="" modifiedDate="2026-05-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1307,7 +1307,7 @@
         <mxCell id="TbfgP_ij_Osap1Ig3J3V-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Паведамленне 86&lt;/u&gt;: На базе сцверджанняў 92 і 93 можна зрабіць універсальнае сцверджанне:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 97&lt;/span&gt;: У свеце, які мы непасрэдна ўспрымаем праз свае органы пачуццяў, эфекты любой з&#39;явы распаўсюджваюцца праз прычынна-выніковыя сувязі ва ўсіх даступных напрамках.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 97:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Што такое &quot;даступны напрамак&quot; я тлумачыў у папярэдніх сцверджаннях.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Думаю, альтэрнатыўна можна яскрава апісаць тое ж самае так: у свеце, які мы непасрэдна ўспрымаем праз свае органы пачуццяў, кожная з&#39;ява стварае максімальна магчымы шырокі фронт хвалі эфектаў у прасторы прычынна-выніковых сувязей з&#39;яў рэальнасці.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Тэарэтычна, я мог бы выкінуць сцверджанні 95 і 96 і пакінуць замест іх толькі вось гэтае ўніверсальнае сцверджанне, але цяперашняя структура дае мне наступнае:&lt;br&gt;&amp;nbsp; &amp;nbsp; 1) магчымасць дадаваць каментарыі асобна ў галінку &quot;прастора прычынна-выніковых сувязей з&#39;яў рэальнасці дыскрэтная&quot; і асобна ў галінку &quot;яна бесперапынная&quot;;&lt;br&gt;&amp;nbsp; &amp;nbsp; 2) патэнцыйную магчымасць паменшыць колькасць каментарыяў да ўніверсальнага сцверджання;&lt;br&gt;&amp;nbsp; &amp;nbsp; 3) я лічу вельмі смешным мець нумар 42 для ўніверсальнага сцверджання, бо адказам на самае галоўнае пытанне жыцця, Сусвету і ўсяго (The Answer to the Ultimate Question of Life, the Universe, and Everything) у творы Дугласа Адамса быў лік 42. (Але пытання там засталося невядомым, быў вядомы толькі адказ на яго).&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; (І жаданне пажартаваць на гэтую тэму было маім самым моцным матывам.)&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Гэтае сцверджанне ізноў вядзе мяне да гіпотэзы пра існаванне паралельных Сусветаў. Бо калі адкінуць частку &quot;ў свеце, які мы непасрэдна ўспрымаем праз свае органы пачуццяў&quot;, то атрымаецца фармулёўка прынцыпу, які можа быць сапраўдным нават для той часткі рэальнасці, якую мы не ўспрымаем. То-бок, у больш шырокай частцы рэальнасці на кубіку выпадаюць усе магчымыя лікі. І (мая спекуляцыя) з &quot;абсалютнай адсутнасці ўсяго&quot; ўзнікаюць усе патэнцыйна магчымыя &quot;Нешта X&quot;. Але мы можам назіраць толькі адну галінку рэальнасці. Гэта проста мае абстрактныя разважанні, адарваныя ад досведу і практыкі. Я не ведаю, ці магчыма іх даказаць ці абвергнуць.&lt;/div&gt;" vertex="1">
           <mxGeometry height="720" width="827" y="18640" as="geometry" />
         </mxCell>
-        <UserObject label="Спасылка на главу &quot;3. Стан адносін паміж двума людзьмі&quot;" link="data:page/id,Zpq-fwhYM1nnls2JjvfI" id="BMxEVY84v7_U89TcPVq7-3">
+        <UserObject label="Спасылка на главу &quot;4. Стан адносін паміж двума людзьмі&quot;" link="data:page/id,Zpq-fwhYM1nnls2JjvfI" id="BMxEVY84v7_U89TcPVq7-3">
           <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;fontStyle=4;fontSize=17;" vertex="1">
             <mxGeometry height="40" width="827" y="19360" as="geometry" />
           </mxCell>
@@ -1318,7 +1318,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="4. Стан адносін паміж двума людзьмі">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-05-15" id="0">
+        <object label="" modifiedDate="2026-05-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2152,7 +2152,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="5. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-05-15" id="0">
+        <object label="" modifiedDate="2026-05-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2192,7 +2192,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="6. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-05-15" id="0">
+        <object label="" modifiedDate="2026-05-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2783,7 +2783,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="7. Гіпотэзы беларусаў">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-05-15" id="0">
+        <object label="" modifiedDate="2026-05-16" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2946,7 +2946,7 @@
   <diagram name="8. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-05-15" id="0">
+        <object label="" modifiedDate="2026-05-16" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
