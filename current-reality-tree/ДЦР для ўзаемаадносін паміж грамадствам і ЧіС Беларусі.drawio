@@ -974,97 +974,136 @@
         <mxCell id="9Pc83pr13lrGWIs14qDa-1" parent="pBpeqOAFegXsOUu0fZlh-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" value="або" vertex="1">
           <mxGeometry height="30" width="60" x="275" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="9hs0w8m23VwCq3ZFvIr2-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Паведамленне 88&lt;/u&gt;: У сцверджанні 78 я пачаў разважанні пра з&#39;явы, якія гарантавана належаць загадзя вядомаму класу выніку ад спалучэння папярэдніх з&#39;яў акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎. Буду называць такія з&#39;явы дэтэрмінаванымі. То-бок, калі нейкае спалучэнне з&#39;яў пэўных класаў стварае з&#39;яву гарантаванага класа, то з&#39;яву-вынік я буду называць &lt;b&gt;дэтэрмінаваным вынікам&lt;/b&gt; або&amp;nbsp;&lt;b&gt;дэтэрмінаванай з&#39;явай&lt;/b&gt;. А спалучэнне з&#39;яў-прычын, якое вядзе да дэтэрмінаванага выніку, я буду называць &lt;b&gt;дастатковым наборам умоў&lt;/b&gt;. Калі ласка, звярні ўвагу на парадак слоў у словазлучэнні. Я свядома выкарыстоўваю парадак слоў «дастатковы набор умоў», а не «набор дастатковых умоў», бо «набор дастатковых умоў» можна трактаваць як «набор з тых умоў, кожная з якіх дастатковая». А мне патрэбны менавіта сэнс «той набор умоў, які дастатковы для ўзнікнення дэтэрмінаванай з&#39;явы». Бачыш розніцу паміж сэнсамі тых двух варыянтаў?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 85&lt;/span&gt;: Структура акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ мае такую ўласцівасць, што да ўзнікнення дэтэрмінаваных з&#39;яў некаторых класаў можа весці больш за адзін дастатковы набор умоў.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 85:&lt;br&gt;&amp;nbsp; &amp;nbsp; • У гэтым сцверджанні я не сцвярджаю, што гэта выконваецца для абсалютна ўсіх класаў дэтэрмінаваных з&#39;яў. Я сцвярджаю толькі тое, што для некаторых класаў гэта выконваецца.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Для прыкладу апішу два дастатковыя наборы ўмоў для ўзнікнення з&#39;яў класа «ў кошыку ляжаць тры яблыкі» (глядзі карцінку 12):&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Першы дастатковы набор умоў для ўзнікнення з&#39;явы:&lt;br&gt;&amp;nbsp; &amp;nbsp; - спачатку кошык пусты;&lt;br&gt;&amp;nbsp; &amp;nbsp; - Васіль кладзе ў кошык адзін яблык;&lt;br&gt;&amp;nbsp; &amp;nbsp; - Пятрусь кладзе ў кошык два яблыкі;&lt;br&gt;&amp;nbsp; &amp;nbsp; - не адбываецца іншых працэсаў, якія змяняюць колькасць яблыкаў у кошыку.&lt;br&gt;&amp;nbsp; &amp;nbsp; Дэтэрмінаваны вынік: у кошыку ляжаць тры яблыкі.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Другі дастатковы набор умоў для ўзнікнення з&#39;явы:&lt;br&gt;&amp;nbsp; &amp;nbsp; - спачатку ў кошыку ляжаць пяць яблыкаў;&lt;br&gt;&amp;nbsp; &amp;nbsp; - Ян бярэ з кошыка два яблыкі;&lt;br&gt;&amp;nbsp; &amp;nbsp; - не адбываецца іншых працэсаў, якія змяняюць колькасць яблыкаў у кошыку.&lt;br&gt;&amp;nbsp; &amp;nbsp; Дэтэрмінаваны вынік: у кошыку ляжаць тры яблыкі.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 89&lt;/u&gt;: Часам я буду выкарыстоўваць на карце акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ і на схемах прычынна-выніковых сувязей шэрыя кружкі са стрэлачкай унутры для таго, каб паказаць далейшы напрамак прычынна-выніковай сувязі.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Напрыклад, на карцінцы 12 без выкарыстання такіх кружкоў мне спатрэбілася б два асобныя прамавугольнікі з надпісамі «ў кошыку ляжаць тры яблыкі». Але, напрыклад, калі я жадаю трымаць фокус увагі на тым, што з&#39;ява-вынік належыць таму ж класу, то выкарыстанне такіх шэрых кружкоў можа дапамагчы мне ў такіх сітуацыях.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Іншая магчымая сітуацыя: калі стрэлачка на схеме/карце такая доўгая, што на экране прылады не бачна пачатку і канца, то такі шэры кружок можа быць напамінам пра напрамак стрэлачкі (прычынна-выніковай сувязі).&lt;/div&gt;" vertex="1">
+        <mxCell id="9hs0w8m23VwCq3ZFvIr2-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Паведамленне 88&lt;/u&gt;: У сцверджанні 78 я пачаў разважанні пра з&#39;явы, якія гарантавана належаць загадзя вядомаму класу выніку ад спалучэння папярэдніх з&#39;яў акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎. Буду называць такія з&#39;явы дэтэрмінаванымі. То-бок, калі нейкае спалучэнне з&#39;яў пэўных класаў стварае з&#39;яву гарантаванага класа, то з&#39;яву-вынік я буду называць &lt;b&gt;дэтэрмінаваным вынікам&lt;/b&gt; або&amp;nbsp;&lt;b&gt;дэтэрмінаванай з&#39;явай&lt;/b&gt;. А набор з&#39;яў-прычын, які вядзе да дэтэрмінаванага выніку, я буду называць &lt;b&gt;дастатковым наборам прычынных фактараў&lt;/b&gt;. Калі ласка, звярні ўвагу на парадак слоў у словазлучэнні. Я свядома выкарыстоўваю парадак слоў «дастатковы набор прычынных фактараў», а не «набор дастатковых прычынных фактараў», бо «набор дастатковых прычынных фактараў» можна трактаваць як «набор з тых прычынных фактараў, кожны з якіх дастатковы». А мне патрэбны менавіта сэнс «той набор прычыннных фактараў, які дастатковы для ўзнікнення дэтэрмінаванай з&#39;явы». Бачыш розніцу паміж сэнсамі тых двух варыянтаў?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 85&lt;/span&gt;: Структура акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ мае такую ўласцівасць, што да ўзнікнення дэтэрмінаваных з&#39;яў некаторых класаў можа весці больш за адзін дастатковы набор прычынных фактараў.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 85:&lt;br&gt;&amp;nbsp; &amp;nbsp; • У гэтым сцверджанні я не сцвярджаю, што гэта выконваецца для абсалютна ўсіх класаў дэтэрмінаваных з&#39;яў. Я сцвярджаю толькі тое, што для некаторых класаў гэта выконваецца.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Для прыкладу апішу два дастатковыя наборы прычынных фактараў для ўзнікнення з&#39;яў класа «ў кошыку ляжаць тры яблыкі» (глядзі карцінку 12):&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Першы дастатковы набор прычынных фактараў для ўзнікнення з&#39;явы:&lt;br&gt;&amp;nbsp; &amp;nbsp; - спачатку кошык пусты;&lt;br&gt;&amp;nbsp; &amp;nbsp; - Васіль кладзе ў кошык адзін яблык;&lt;br&gt;&amp;nbsp; &amp;nbsp; - Пятрусь кладзе ў кошык два яблыкі;&lt;br&gt;&amp;nbsp; &amp;nbsp; - не адбываецца іншых працэсаў, якія змяняюць колькасць яблыкаў у кошыку.&lt;br&gt;&amp;nbsp; &amp;nbsp; Дэтэрмінаваны вынік: у кошыку ляжаць тры яблыкі.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Другі дастатковы набор прычынных фактараў для ўзнікнення з&#39;явы:&lt;br&gt;&amp;nbsp; &amp;nbsp; - спачатку ў кошыку ляжаць пяць яблыкаў;&lt;br&gt;&amp;nbsp; &amp;nbsp; - Ян бярэ з кошыка два яблыкі;&lt;br&gt;&amp;nbsp; &amp;nbsp; - не адбываецца іншых працэсаў, якія змяняюць колькасць яблыкаў у кошыку.&lt;br&gt;&amp;nbsp; &amp;nbsp; Дэтэрмінаваны вынік: у кошыку ляжаць тры яблыкі.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 89&lt;/u&gt;: Часам я буду выкарыстоўваць на карце акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ і на схемах прычынна-выніковых сувязей шэрыя кружкі са стрэлачкай унутры для таго, каб паказаць далейшы напрамак прычынна-выніковай сувязі.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Напрыклад, на карцінцы 12 без выкарыстання такіх кружкоў мне спатрэбілася б два асобныя прамавугольнікі з надпісамі «ў кошыку ляжаць тры яблыкі». Але, напрыклад, калі я жадаю трымаць фокус увагі на тым, што з&#39;ява-вынік належыць таму ж класу, то выкарыстанне такіх шэрых кружкоў можа дапамагчы мне ў такіх сітуацыях.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Іншая магчымая сітуацыя: калі стрэлачка на схеме/карце такая доўгая, што на экране прылады не бачна пачатку і канца, то такі шэры кружок можа быць напамінам пра напрамак стрэлачкі (прычынна-выніковай сувязі).&lt;/div&gt;" vertex="1">
           <mxGeometry height="1000" width="827" y="10680" as="geometry" />
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontStyle=0;collapsible=0;strokeColor=default;fillColor=none;swimlaneLine=0;horizontal=1;flipV=1;swimlaneBody=0;" value="карцінка 12" vertex="1">
-          <mxGeometry height="800" width="600" x="120" y="11720" as="geometry" />
+          <mxGeometry height="800" width="760" x="40" y="11720" as="geometry" />
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-2" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="Спачатку кошык пусты." vertex="1">
-          <mxGeometry height="80" width="160" x="40" as="geometry" />
+          <mxGeometry height="80" width="160" x="240" as="geometry" />
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-3" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="1CmWHIuABjh-Kw33MgVE-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iQqbrGgrBKeu8TSqws8P-1" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="270" as="sourcePoint" />
-            <mxPoint x="120" y="260" as="targetPoint" />
+            <mxPoint x="530" y="270" as="sourcePoint" />
+            <mxPoint x="320" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-4" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="У кошыку ляжаць тры яблыкі." vertex="1">
-          <mxGeometry height="80" width="160" x="400" y="360" as="geometry" />
+          <mxGeometry height="80" width="160" x="600" y="360" as="geometry" />
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-5" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="Не адбываецца іншых працэсаў, якія змяняюць колькасць яблыкаў у кошыку." vertex="1">
-          <mxGeometry height="120" width="160" x="40" y="360" as="geometry" />
+          <mxGeometry height="120" width="160" x="240" y="360" as="geometry" />
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-6" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="1CmWHIuABjh-Kw33MgVE-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iQqbrGgrBKeu8TSqws8P-1" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="80" as="sourcePoint" />
-            <mxPoint x="285" y="220" as="targetPoint" />
+            <mxPoint x="280" y="80" as="sourcePoint" />
+            <mxPoint x="485" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-8" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="iQqbrGgrBKeu8TSqws8P-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1CmWHIuABjh-Kw33MgVE-4" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="550" as="sourcePoint" />
-            <mxPoint x="440" y="540" as="targetPoint" />
+            <mxPoint x="850" y="550" as="sourcePoint" />
+            <mxPoint x="640" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-9" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="Васіль кладзе ў кошык адзін яблык." vertex="1">
-          <mxGeometry height="80" width="160" x="40" y="120" as="geometry" />
+          <mxGeometry height="80" width="160" x="240" y="120" as="geometry" />
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-14" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="1CmWHIuABjh-Kw33MgVE-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iQqbrGgrBKeu8TSqws8P-1" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="50" as="sourcePoint" />
-            <mxPoint x="315" y="130" as="targetPoint" />
+            <mxPoint x="430" y="50" as="sourcePoint" />
+            <mxPoint x="515" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-16" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="Спачатку ў кошыку ляжаць пяць яблыкаў." vertex="1">
-          <mxGeometry height="80" width="160" x="40" y="560" as="geometry" />
+          <mxGeometry height="80" width="160" x="240" y="560" as="geometry" />
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-17" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="Ян бярэ з кошыка два яблыкі." vertex="1">
-          <mxGeometry height="80" width="160" x="40" y="680" as="geometry" />
+          <mxGeometry height="80" width="160" x="240" y="680" as="geometry" />
         </mxCell>
         <mxCell id="iQqbrGgrBKeu8TSqws8P-1" parent="1CmWHIuABjh-Kw33MgVE-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;spacing=0;spacingBottom=4;" value="→" vertex="1">
-          <mxGeometry height="30" width="30" x="285" y="205" as="geometry" />
+          <mxGeometry height="30" width="30" x="485" y="205" as="geometry" />
         </mxCell>
         <mxCell id="iQqbrGgrBKeu8TSqws8P-2" parent="1CmWHIuABjh-Kw33MgVE-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;spacing=0;spacingBottom=4;" value="→" vertex="1">
-          <mxGeometry height="30" width="30" x="285" y="565" as="geometry" />
+          <mxGeometry height="30" width="30" x="485" y="565" as="geometry" />
         </mxCell>
         <mxCell id="iQqbrGgrBKeu8TSqws8P-3" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="iQqbrGgrBKeu8TSqws8P-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1CmWHIuABjh-Kw33MgVE-4" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="490" as="sourcePoint" />
-            <mxPoint x="405" y="690" as="targetPoint" />
+            <mxPoint x="520" y="490" as="sourcePoint" />
+            <mxPoint x="605" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iQqbrGgrBKeu8TSqws8P-4" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="1CmWHIuABjh-Kw33MgVE-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iQqbrGgrBKeu8TSqws8P-2" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="590" as="sourcePoint" />
-            <mxPoint x="295" y="390" as="targetPoint" />
+            <mxPoint x="410" y="590" as="sourcePoint" />
+            <mxPoint x="495" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iQqbrGgrBKeu8TSqws8P-5" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="1CmWHIuABjh-Kw33MgVE-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iQqbrGgrBKeu8TSqws8P-2" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="510" as="sourcePoint" />
-            <mxPoint x="335" y="670" as="targetPoint" />
+            <mxPoint x="450" y="510" as="sourcePoint" />
+            <mxPoint x="535" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-7" parent="1CmWHIuABjh-Kw33MgVE-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1;verticalAlign=top;spacing=0;spacingTop=15;" value="і" vertex="1">
-          <mxGeometry height="80" width="40" x="245" y="180" as="geometry" />
+          <mxGeometry height="80" width="40" x="445" y="180" as="geometry" />
         </mxCell>
         <mxCell id="iQqbrGgrBKeu8TSqws8P-7" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="1CmWHIuABjh-Kw33MgVE-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iQqbrGgrBKeu8TSqws8P-2" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="610" as="sourcePoint" />
-            <mxPoint x="315" y="590" as="targetPoint" />
+            <mxPoint x="430" y="610" as="sourcePoint" />
+            <mxPoint x="515" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iQqbrGgrBKeu8TSqws8P-6" parent="1CmWHIuABjh-Kw33MgVE-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1;verticalAlign=top;spacing=0;spacingTop=15;" value="і" vertex="1">
-          <mxGeometry height="80" width="40" x="245" y="540" as="geometry" />
+          <mxGeometry height="80" width="40" x="445" y="540" as="geometry" />
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-13" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="Пятрусь кладзе ў кошык два яблыкі." vertex="1">
-          <mxGeometry height="80" width="160" x="40" y="240" as="geometry" />
+          <mxGeometry height="80" width="160" x="240" y="240" as="geometry" />
         </mxCell>
         <mxCell id="1CmWHIuABjh-Kw33MgVE-15" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="1CmWHIuABjh-Kw33MgVE-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iQqbrGgrBKeu8TSqws8P-1" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="250" as="sourcePoint" />
-            <mxPoint x="315" y="210" as="targetPoint" />
+            <mxPoint x="430" y="250" as="sourcePoint" />
+            <mxPoint x="515" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_-rkwxAsbfLo9m_Xsm0-1" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Прычынныя фактары." vertex="1">
+          <mxGeometry height="40" width="120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="S_-rkwxAsbfLo9m_Xsm0-2" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="S_-rkwxAsbfLo9m_Xsm0-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="1CmWHIuABjh-Kw33MgVE-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="580" as="sourcePoint" />
+            <mxPoint x="210" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_-rkwxAsbfLo9m_Xsm0-3" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="S_-rkwxAsbfLo9m_Xsm0-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="1CmWHIuABjh-Kw33MgVE-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="805" as="sourcePoint" />
+            <mxPoint x="210" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_-rkwxAsbfLo9m_Xsm0-4" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="S_-rkwxAsbfLo9m_Xsm0-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="1CmWHIuABjh-Kw33MgVE-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="820" as="sourcePoint" />
+            <mxPoint x="210" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_-rkwxAsbfLo9m_Xsm0-5" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="S_-rkwxAsbfLo9m_Xsm0-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="1CmWHIuABjh-Kw33MgVE-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="850" as="sourcePoint" />
+            <mxPoint x="330" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_-rkwxAsbfLo9m_Xsm0-6" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="S_-rkwxAsbfLo9m_Xsm0-1" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1CmWHIuABjh-Kw33MgVE-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="415" as="sourcePoint" />
+            <mxPoint x="200" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_-rkwxAsbfLo9m_Xsm0-7" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="S_-rkwxAsbfLo9m_Xsm0-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="1CmWHIuABjh-Kw33MgVE-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="510" as="sourcePoint" />
+            <mxPoint x="230" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 86&lt;/span&gt;: Структура акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ мае такую ўласцівасць, што да ўзнікнення з&#39;яў некаторых класаў могуць весці і дастатковыя наборы прычынных фактараў (калі вынік дэтэрмінаваны), і іншыя («недастатковыя») наборы прычынных фактараў (калі мы лічым вынік імавернасным).&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 86:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Напрыклад, з&#39;ява «на кубіку выпала 6» у прыкладзе на карцінцы 13.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 90&lt;/u&gt;: Часам на карце акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ ці на схемах прычынна-выніковых сувязей я буду выкарыстоўваць тры кропкі паміж прамавугольнікамі, якія азначаюць класы з&#39;яў. Гэтыя тры кропкі могуць быць вертыкальнымі або гарызантальнымі. Яны азначаюць, што частка класаў з дыяпазону класаў прапушчана на схеме.&lt;/div&gt;&lt;div&gt;Глядзі прыклад на карцінцы 13.&lt;/div&gt;" vertex="1">
