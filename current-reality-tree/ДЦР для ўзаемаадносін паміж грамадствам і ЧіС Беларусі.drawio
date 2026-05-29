@@ -1067,113 +1067,140 @@
             <mxPoint x="315" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ubq82xN2Rb7sQic8AXnV-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 86&lt;/span&gt;: Структура акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ мае такую ўласцівасць, што да ўзнікнення з&#39;яў некаторых класаў могуць весці і дастатковыя наборы ўмоў (калі вынік дэтэрмінаваны), і наборы неабходных умоў (калі мы лічым вынік імавернасным).&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 86:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Напрыклад, з&#39;ява «на кубіку выпала 6» у прыкладзе на карцінцы 13.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 90&lt;/u&gt;: Часам на карце акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ ці на схемах прычынна-выніковых сувязей я буду выкарыстоўваць тры кропкі паміж прамавугольнікамі, якія азначаюць класы з&#39;яў. Гэтыя тры кропкі могуць быць вертыкальнымі або гарызантальнымі. Яны азначаюць, што частка класаў з дыяпазону класаў прапушчана на схеме.&lt;/div&gt;&lt;div&gt;Глядзі прыклад на карцінцы 13.&lt;/div&gt;" vertex="1">
+        <mxCell id="Ubq82xN2Rb7sQic8AXnV-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 86&lt;/span&gt;: Структура акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ мае такую ўласцівасць, што да ўзнікнення з&#39;яў некаторых класаў могуць весці і дастатковыя наборы прычынных фактараў (калі вынік дэтэрмінаваны), і іншыя («недастатковыя») наборы прычынных фактараў (калі мы лічым вынік імавернасным).&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарый да сцверджання 86:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Напрыклад, з&#39;ява «на кубіку выпала 6» у прыкладзе на карцінцы 13.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;Паведамленне 90&lt;/u&gt;: Часам на карце акіяна-рэальнасці₍₋ₙ₀₋ₙ₁₋ₙ₂₎ ці на схемах прычынна-выніковых сувязей я буду выкарыстоўваць тры кропкі паміж прамавугольнікамі, якія азначаюць класы з&#39;яў. Гэтыя тры кропкі могуць быць вертыкальнымі або гарызантальнымі. Яны азначаюць, што частка класаў з дыяпазону класаў прапушчана на схеме.&lt;/div&gt;&lt;div&gt;Глядзі прыклад на карцінцы 13.&lt;/div&gt;" vertex="1">
           <mxGeometry height="1400" width="827" y="12600" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontStyle=0;collapsible=0;strokeColor=default;fillColor=none;swimlaneLine=0;horizontal=1;flipV=1;swimlaneBody=0;startSize=23;" value="карцінка 13" vertex="1">
-          <mxGeometry height="920" width="600" x="120" y="12880" as="geometry" />
+          <mxGeometry height="920" width="760" x="40" y="12880" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-4" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="Арганізаваныя махляром умовы." vertex="1">
-          <mxGeometry height="80" width="160" x="40" y="160" as="geometry" />
+          <mxGeometry height="80" width="160" x="200" y="160" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-5" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="Ubq82xN2Rb7sQic8AXnV-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Ubq82xN2Rb7sQic8AXnV-14" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="335" as="sourcePoint" />
-            <mxPoint x="120" y="325" as="targetPoint" />
+            <mxPoint x="490" y="335" as="sourcePoint" />
+            <mxPoint x="280" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-6" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="На кубіку выпала 6." vertex="1">
-          <mxGeometry height="80" width="160" x="400" y="480" as="geometry" />
+          <mxGeometry height="80" width="160" x="560" y="480" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-7" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="Не адбываецца працэсаў, якія «ламаюць» умовы, якія стварыў махляр." vertex="1">
-          <mxGeometry height="120" width="160" x="40" y="400" as="geometry" />
+          <mxGeometry height="120" width="160" x="200" y="400" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-8" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="Ubq82xN2Rb7sQic8AXnV-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Ubq82xN2Rb7sQic8AXnV-14" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="80" as="sourcePoint" />
-            <mxPoint x="285" y="220" as="targetPoint" />
+            <mxPoint x="240" y="80" as="sourcePoint" />
+            <mxPoint x="445" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-9" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="Ubq82xN2Rb7sQic8AXnV-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Ubq82xN2Rb7sQic8AXnV-6" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="550" as="sourcePoint" />
-            <mxPoint x="440" y="540" as="targetPoint" />
+            <mxPoint x="810" y="550" as="sourcePoint" />
+            <mxPoint x="600" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-10" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="Махляр кідае кубік." vertex="1">
-          <mxGeometry height="80" width="160" x="40" y="280" as="geometry" />
+          <mxGeometry height="80" width="160" x="200" y="280" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-11" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="Ubq82xN2Rb7sQic8AXnV-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Ubq82xN2Rb7sQic8AXnV-14" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="115" as="sourcePoint" />
-            <mxPoint x="315" y="195" as="targetPoint" />
+            <mxPoint x="390" y="115" as="sourcePoint" />
+            <mxPoint x="475" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-12" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;" value="«Не махляр» кідае кубік на «звычайны» стол." vertex="1">
-          <mxGeometry height="80" width="160" x="160" y="680" as="geometry" />
+          <mxGeometry height="80" width="160" x="320" y="680" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-14" parent="Ubq82xN2Rb7sQic8AXnV-3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fontStyle=1;fontSize=20;verticalAlign=middle;fillColor=#E6E6E6;spacing=0;spacingBottom=4;" value="→" vertex="1">
-          <mxGeometry height="30" width="30" x="285" y="305" as="geometry" />
+          <mxGeometry height="30" width="30" x="445" y="305" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-16" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="Ubq82xN2Rb7sQic8AXnV-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Ubq82xN2Rb7sQic8AXnV-6" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="580" as="sourcePoint" />
-            <mxPoint x="405" y="690" as="targetPoint" />
+            <mxPoint x="475" y="580" as="sourcePoint" />
+            <mxPoint x="565" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-19" parent="Ubq82xN2Rb7sQic8AXnV-3" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#BFBFBF;fontSize=16;fontStyle=1;verticalAlign=top;spacing=0;spacingTop=15;" value="і" vertex="1">
-          <mxGeometry height="80" width="40" x="245" y="280" as="geometry" />
+          <mxGeometry height="80" width="40" x="405" y="280" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-25" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="Ubq82xN2Rb7sQic8AXnV-24" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ubq82xN2Rb7sQic8AXnV-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1014" y="-5" as="sourcePoint" />
-            <mxPoint x="119" y="120" as="targetPoint" />
+            <mxPoint x="1174" y="-5" as="sourcePoint" />
+            <mxPoint x="279" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-24" parent="Ubq82xN2Rb7sQic8AXnV-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" value="Напрыклад, спецыяльны стол, якім можа кіраваць махляр, і намагнічаны з аднаго боку кубік." vertex="1">
-          <mxGeometry height="120" width="160" x="40" as="geometry" />
+          <mxGeometry height="120" width="160" x="200" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-27" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="Ubq82xN2Rb7sQic8AXnV-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="Ubq82xN2Rb7sQic8AXnV-28" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="750" as="sourcePoint" />
-            <mxPoint x="405" y="710" as="targetPoint" />
+            <mxPoint x="475" y="750" as="sourcePoint" />
+            <mxPoint x="565" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-28" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="На кубіку выпала 2." vertex="1">
-          <mxGeometry height="80" width="160" x="400" y="680" as="geometry" />
+          <mxGeometry height="80" width="160" x="560" y="680" as="geometry" />
         </mxCell>
         <mxCell id="M5lSQ9y89xCI3yr05kLW-1" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;" value="⋮" vertex="1">
-          <mxGeometry height="80" width="40" x="460" y="580" as="geometry" />
+          <mxGeometry height="80" width="40" x="620" y="580" as="geometry" />
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-29" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeColor=default;rotation=0;fillColor=default;fontColor=default;" value="На кубіку выпала 1." vertex="1">
-          <mxGeometry height="80" width="160" x="400" y="800" as="geometry" />
+          <mxGeometry height="80" width="160" x="560" y="800" as="geometry" />
         </mxCell>
         <mxCell id="M5lSQ9y89xCI3yr05kLW-2" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="Ubq82xN2Rb7sQic8AXnV-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="Ubq82xN2Rb7sQic8AXnV-29" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="700" as="sourcePoint" />
-            <mxPoint x="430" y="660" as="targetPoint" />
+            <mxPoint x="510" y="700" as="sourcePoint" />
+            <mxPoint x="590" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ubq82xN2Rb7sQic8AXnV-26" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" value="або" vertex="1">
-          <mxGeometry height="30" width="60" x="320" y="690" as="geometry" />
+          <mxGeometry height="30" width="60" x="480" y="690" as="geometry" />
         </mxCell>
         <mxCell id="M5lSQ9y89xCI3yr05kLW-3" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="M5lSQ9y89xCI3yr05kLW-4" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1324" y="115" as="sourcePoint" />
-            <mxPoint x="360" y="400" as="targetPoint" />
+            <mxPoint x="1484" y="115" as="sourcePoint" />
+            <mxPoint x="520" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M5lSQ9y89xCI3yr05kLW-4" parent="Ubq82xN2Rb7sQic8AXnV-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" value="Вядзе да дэтэрмінаванага выніку." vertex="1">
-          <mxGeometry height="80" width="160" x="400" y="280" as="geometry" />
+          <mxGeometry height="80" width="160" x="560" y="280" as="geometry" />
         </mxCell>
         <mxCell id="M5lSQ9y89xCI3yr05kLW-5" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="M5lSQ9y89xCI3yr05kLW-6" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1049" y="375" as="sourcePoint" />
-            <mxPoint x="360" y="600" as="targetPoint" />
+            <mxPoint x="1209" y="375" as="sourcePoint" />
+            <mxPoint x="520" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M5lSQ9y89xCI3yr05kLW-6" parent="Ubq82xN2Rb7sQic8AXnV-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" value="Вядзе да выніку, які мы лічым імавернасным." vertex="1">
-          <mxGeometry height="80" width="160" x="160" y="560" as="geometry" />
+          <mxGeometry height="80" width="160" x="320" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="slaXjaYrMNFaVpP6pT-Z-1" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Прычынныя фактары." vertex="1">
+          <mxGeometry height="40" width="120" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="slaXjaYrMNFaVpP6pT-Z-5" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="slaXjaYrMNFaVpP6pT-Z-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="Ubq82xN2Rb7sQic8AXnV-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="700" as="sourcePoint" />
+            <mxPoint x="230" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slaXjaYrMNFaVpP6pT-Z-6" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="slaXjaYrMNFaVpP6pT-Z-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="Ubq82xN2Rb7sQic8AXnV-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="925" as="sourcePoint" />
+            <mxPoint x="220" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slaXjaYrMNFaVpP6pT-Z-7" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="slaXjaYrMNFaVpP6pT-Z-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="Ubq82xN2Rb7sQic8AXnV-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="940" as="sourcePoint" />
+            <mxPoint x="230" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="slaXjaYrMNFaVpP6pT-Z-8" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="slaXjaYrMNFaVpP6pT-Z-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="Ubq82xN2Rb7sQic8AXnV-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="970" as="sourcePoint" />
+            <mxPoint x="250" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="y15Hi0xkh0TqjU-EYOlB-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 87&lt;/span&gt;: Любая з&#39;ява акіяна-рэальнасці належыць &lt;u&gt;хаця б&lt;/u&gt; да адной з двух катэгорый:&lt;br&gt;- з&#39;ява патрабуе нейкіх неабходных умоў для ўзнікнення (то-бок з&#39;ява ўзнікае &lt;u&gt;пасля&lt;/u&gt; выканання тых умоў);&lt;br&gt;- з&#39;ява не патрабуе ніякіх неабходных умоў для ўзнікнення (то-бок з&#39;ява ўзнікае &lt;u&gt;без&lt;/u&gt; папярэдніх умоў).&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 87:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Здаецца, за сваё жыццё я ніколі не сустракаў з&#39;яў, якія не мелі б хаця б нейкіх неабходных умоў для ўзнікнення. Нават квантавыя флуктуацыі ў вакууме, пра якія я чытаў, наколькі я разумею, патрабуюць прасторы ў якасці неабходнай умовы (вакуум — прастора, у якой няма/вельмі мала матэрыі).&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • З&#39;ява класа «на кубіку выпала 6» патрабуе, каб кубік перад тым кінулі, то-бок мае неабходную ўмову ўзнікнення. (У сцверджанні я разважаю пра неабходныя ўмовы, а не пра дастатковы набор умоў.)&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Я падазраю, што абсалютна ўсе з&#39;явы акіяна-рэальнасці маюць неабходныя прычыны для ўзнікнення. Але не ведаю, ці можна гэта даказаць або абвергнуць. Таму ў маім сцверджанні прысутнічаюць дзве катэгорыі ў спісе.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Заўваж, што я ўжыў у сцверджанні фармулёўку «належыць &lt;u&gt;хаця б&lt;/u&gt; да адной з…», а не проста «належыць да адной з…». Зараз патлумачу.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Па-першае, нядаўнія разважанні пра суперпазіцыю (паняцце з квантавай механікі) накладваюць адбітак на маё мысленне. Я крыху чытаў пра квантавыя эфекты, бо спрабую стварыць якасныя сцверджанні пра рэальнасць. Калі нейкае маё сцверджанне не выконваецца хаця б у нейкай частцы акіяна-рэальнасці, да якой я магу «дацягнуцца» сваімі думкамі, то такая якасць сцверджання мяне не задавальняе.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Другі аспект такі: тэарэтычна, «на кубіку выпала 6» можа атрымацца і як імавернасны вынік, і як дэтэрмінаваны вынік махлярства. Глядзі карцінку 13. Атрымліваецца, што, тэарэтычна, «і адно», «і другое» можа прывесці да аднолькавага выніку. Спрабую зрабіць «паралельны перанос» прынцыпу «і адно, і другое можа прывесці да аднолькавага выніку» з прыкладу пра кубік на з&#39;яву са свайго сцверджання. Я не сцвярджаю, што прыклад з кубікам лагічна абгрунтоўвае неабходнасць «хаця б» у сцверджанні. Я проста тлумачу шлях, якім я дайшоў да ідэі такой «слабой» і ўсеахопнай фармулёўкі.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Мяркую, што выбранай фармулёўкай я не раблю прыхаваных неабгрунтаваных дапушчэнняў пра акіян-рэальнасць. Але нават такая «слабая» фармулёўка дапамагае мне:&lt;br&gt;&amp;nbsp; &amp;nbsp; 1) упэўніцца, што я не згубіў нейкія дзіўныя невядомыя мне аспекты акіяна-рэальнасці;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 2) будаваць далейшыя разважанні.&lt;/div&gt;" vertex="1">
           <mxGeometry height="800" width="827" y="14040" as="geometry" />
