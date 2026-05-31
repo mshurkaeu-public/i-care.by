@@ -1067,7 +1067,7 @@
             <mxPoint x="515" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_-rkwxAsbfLo9m_Xsm0-1" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;dashed=1;" value="Прычынныя фактары." vertex="1">
+        <mxCell id="S_-rkwxAsbfLo9m_Xsm0-1" parent="1CmWHIuABjh-Kw33MgVE-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=16;dashed=1;" value="Прычынныя фактары." vertex="1">
           <mxGeometry height="40" width="120" y="400" as="geometry" />
         </mxCell>
         <mxCell id="S_-rkwxAsbfLo9m_Xsm0-2" edge="1" parent="1CmWHIuABjh-Kw33MgVE-1" source="S_-rkwxAsbfLo9m_Xsm0-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 3;strokeWidth=2;" target="1CmWHIuABjh-Kw33MgVE-2" value="">
@@ -1214,7 +1214,7 @@
         <mxCell id="M5lSQ9y89xCI3yr05kLW-6" parent="Ubq82xN2Rb7sQic8AXnV-3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;strokeColor=default;align=left;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;fillColor=none;gradientColor=none;" value="Вядзе да выніку, які мы лічым імавернасным." vertex="1">
           <mxGeometry height="80" width="160" x="320" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="slaXjaYrMNFaVpP6pT-Z-1" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;dashed=1;" value="Прычынныя фактары." vertex="1">
+        <mxCell id="slaXjaYrMNFaVpP6pT-Z-1" parent="Ubq82xN2Rb7sQic8AXnV-3" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=16;dashed=1;" value="Прычынныя фактары." vertex="1">
           <mxGeometry height="40" width="120" y="800" as="geometry" />
         </mxCell>
         <mxCell id="slaXjaYrMNFaVpP6pT-Z-5" edge="1" parent="Ubq82xN2Rb7sQic8AXnV-3" source="slaXjaYrMNFaVpP6pT-Z-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 3;strokeWidth=2;" target="Ubq82xN2Rb7sQic8AXnV-4" value="">
@@ -1256,7 +1256,7 @@
         <mxCell id="SlG1Uupnt4CJAR0mqTE6-6" parent="SlG1Uupnt4CJAR0mqTE6-1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFFFF00;" value="" vertex="1">
           <mxGeometry height="200" width="440" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="SlG1Uupnt4CJAR0mqTE6-9" parent="SlG1Uupnt4CJAR0mqTE6-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;dashed=1;" value="ізаляванае&amp;nbsp;мноства нумар 1" vertex="1">
+        <mxCell id="SlG1Uupnt4CJAR0mqTE6-9" parent="SlG1Uupnt4CJAR0mqTE6-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=16;dashed=1;" value="ізаляванае&amp;nbsp;мноства нумар 1" vertex="1">
           <mxGeometry height="40" width="240" x="80" y="280" as="geometry" />
         </mxCell>
         <mxCell id="SlG1Uupnt4CJAR0mqTE6-10" edge="1" parent="SlG1Uupnt4CJAR0mqTE6-1" source="SlG1Uupnt4CJAR0mqTE6-12" style="endArrow=classic;html=1;rounded=0;exitX=0.096;exitY=0.975;exitDx=0;exitDy=0;entryX=0.042;entryY=-0.05;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;exitPerimeter=0;" target="SlG1Uupnt4CJAR0mqTE6-11" value="">
@@ -1268,7 +1268,7 @@
         <mxCell id="SlG1Uupnt4CJAR0mqTE6-11" parent="SlG1Uupnt4CJAR0mqTE6-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=32;" value="&lt;div&gt;🅇→🅈→…→🄰→🄾→…&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="360" x="40" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="SlG1Uupnt4CJAR0mqTE6-12" parent="SlG1Uupnt4CJAR0mqTE6-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;dashed=1;" value="з&#39;ява без прычынных фактараў" vertex="1">
+        <mxCell id="SlG1Uupnt4CJAR0mqTE6-12" parent="SlG1Uupnt4CJAR0mqTE6-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=16;dashed=1;" value="з&#39;ява без прычынных фактараў" vertex="1">
           <mxGeometry height="40" width="240" x="40" as="geometry" />
         </mxCell>
         <mxCell id="SlG1Uupnt4CJAR0mqTE6-15" connectable="0" parent="SlG1Uupnt4CJAR0mqTE6-1" style="group;rotation=-45;" value="" vertex="1">
@@ -1280,7 +1280,7 @@
         <mxCell id="SlG1Uupnt4CJAR0mqTE6-14" parent="SlG1Uupnt4CJAR0mqTE6-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=32;rotation=-45;" value="&lt;div&gt;…←🅾←🅰←…←🆈←🆇&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="360" x="40" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="SlG1Uupnt4CJAR0mqTE6-16" parent="SlG1Uupnt4CJAR0mqTE6-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;dashed=1;" value="з&#39;ява без прычынных фактараў" vertex="1">
+        <mxCell id="SlG1Uupnt4CJAR0mqTE6-16" parent="SlG1Uupnt4CJAR0mqTE6-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=16;dashed=1;" value="з&#39;ява без прычынных фактараў" vertex="1">
           <mxGeometry height="40" width="240" x="400" as="geometry" />
         </mxCell>
         <mxCell id="SlG1Uupnt4CJAR0mqTE6-17" edge="1" parent="SlG1Uupnt4CJAR0mqTE6-1" source="SlG1Uupnt4CJAR0mqTE6-16" style="endArrow=classic;html=1;rounded=0;entryX=0.95;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="SlG1Uupnt4CJAR0mqTE6-14" value="">
@@ -1289,7 +1289,7 @@
             <mxPoint x="450" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SlG1Uupnt4CJAR0mqTE6-19" parent="SlG1Uupnt4CJAR0mqTE6-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;dashed=1;" value="ізаляванае&amp;nbsp;мноства нумар 2" vertex="1">
+        <mxCell id="SlG1Uupnt4CJAR0mqTE6-19" parent="SlG1Uupnt4CJAR0mqTE6-1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=16;dashed=1;" value="ізаляванае&amp;nbsp;мноства нумар 2" vertex="1">
           <mxGeometry height="40" width="240" x="560" y="320" as="geometry" />
         </mxCell>
         <mxCell id="SlG1Uupnt4CJAR0mqTE6-20" edge="1" parent="SlG1Uupnt4CJAR0mqTE6-1" source="SlG1Uupnt4CJAR0mqTE6-9" style="endArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="SlG1Uupnt4CJAR0mqTE6-6" value="">
