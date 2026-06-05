@@ -13,7 +13,7 @@
   <diagram id="qoV_xFIms2ia1VFQjh2e" name="1. Уступ">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-06-04" id="0">
+        <object label="" modifiedDate="2026-06-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
   <diagram id="uVn3FKtL508QZibAvMC4" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 1">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-06-04" id="0">
+        <object label="" modifiedDate="2026-06-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -441,7 +441,7 @@
   <diagram id="-I3nYhLcSyCXaIGuJwdV" name="2. Пра з&#39;явы, іх існаванне і пра рэальнасць. Частка 2">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-06-04" id="0">
+        <object label="" modifiedDate="2026-06-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -703,7 +703,7 @@
   <diagram id="F8JSFsGgpzqTfMv5mW-z" name="3. Пра структуру акіяна-рэальнасці і пра тое, як маляваць яго карту">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-06-04" id="0">
+        <object label="" modifiedDate="2026-06-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -1253,6 +1253,9 @@
         <mxCell id="y15Hi0xkh0TqjU-EYOlB-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 90&lt;/span&gt;: Любая з&#39;ява акіяна-рэальнасці належыць &lt;u&gt;хаця б&lt;/u&gt; да адной з двух катэгорый:&lt;br&gt;- з&#39;ява мае нейкія прычынныя фактары;&lt;br&gt;- з&#39;ява не мае ніякіх прычынных фактараў.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 90:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Здаецца, за сваё жыццё я ніколі не сустракаў з&#39;яў, якія не мелі б хаця б нейкіх прычынных фактараў. Нават квантавыя флуктуацыі ў вакууме, пра якія я чытаў, наколькі я разумею, патрабуюць прасторы ў якасці неабходнай умовы ўзнікнення (вакуум — прастора, у якой няма або вельмі мала матэрыі, а прастора, калі сцверджанне 69 правільнае, — з&#39;ява).&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Імавернасны вынік класа «на кубіку выпала 6» патрабуе, каб кубік перад тым кінулі, то-бок мае прычынны фактар.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Я падазраю, што абсалютна ўсе з&#39;явы акіяна-рэальнасці маюць прычынныя фактары. Але я не ведаю, ці можна гэта даказаць або абвергнуць, таму ў маім сцверджанні прысутнічаюць дзве катэгорыі ў спісе.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Заўваж, што я ўжыў у сцверджанні фармулёўку «належыць &lt;u&gt;хаця б&lt;/u&gt; да адной з…», а не проста «належыць да адной з…». Зараз патлумачу.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Па-першае, нядаўнія разважанні пра суперпазіцыю (паняцце з квантавай механікі) накладваюць адбітак на маё мысленне. Я крыху чытаў пра квантавыя эфекты, бо спрабую стварыць якасныя сцверджанні пра рэальнасць. Калі нейкае маё сцверджанне не выконваецца хаця б у нейкай частцы акіяна-рэальнасці, да якой я магу «дацягнуцца» сваімі думкамі, то такая якасць сцверджання мяне не задавальняе.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Другі аспект такі: тэарэтычна, «на кубіку выпала 6» можа атрымацца і як імавернасны вынік, і як дэтэрмінаваны вынік махлярства. Глядзі карцінку 13. Атрымліваецца, што, тэарэтычна, «і адно», «і другое» можа прывесці да аднолькавага выніку. Спрабую зрабіць «паралельны перанос» прынцыпу «і адно, і другое можа прывесці да аднолькавага выніку» з прыкладу пра кубік на з&#39;яву са свайго сцверджання. Я не сцвярджаю, што прыклад з кубікам лагічна абгрунтоўвае неабходнасць «хаця б» у сцверджанні. Я проста тлумачу шлях, якім я дайшоў да ідэі такой «слабой і ўсеахопнай» фармулёўкі.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; Мяркую, што выбранай фармулёўкай я не раблю прыхаваных неабгрунтаваных дапушчэнняў пра акіян-рэальнасць. І нават такая «слабая» фармулёўка дазваляе мне будаваць далейшыя разважанні.&lt;/div&gt;" vertex="1">
           <mxGeometry height="760" width="827" y="15200" as="geometry" />
         </mxCell>
+        <mxCell id="UNZxJNfEPkAaLwazBcja-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Асобнае пытанне&lt;/u&gt;: &lt;b&gt;Чытач&lt;/b&gt;, як ты думаеш, словы «хаця б» у сцверджанні 90 залішнія❓&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="827" y="15960" as="geometry" />
+        </mxCell>
         <mxCell id="iBr_PiOvbe5zkSzITWC6-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=2;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;spacingBottom=0;fontColor=default;fontSize=15;" value="&lt;div&gt;&lt;u&gt;Паведамленне 93&lt;/u&gt;: Давай дапусцім, што ў акіяне-рэальнасці існуюць з&#39;явы, якія не маюць ніякіх прычынных фактараў. Што мы можам сказаць пра такія з&#39;явы, пра структуру акіяна-рэальнасці ў іх «наваколлі» і, адпаведна, пра карту таго «наваколля»?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;#сцверджанне 91&lt;/span&gt;: Калі ў акіяне-рэальнасці існуюць з&#39;явы, якія і не маюць ніякіх прычынных фактараў, і самі не з&#39;яўляюцца прычыннымі фактарамі ніякіх з&#39;яў, то, пры выкарыстанні ўжо апісаных азначэнняў на карце для з&#39;яў і прычынна-выніковых сувязей паміж імі, такія з&#39;явы трэба маляваць як прамавугольнікі без стрэлачак, якія ўваходзяць у іх, і без стрэлачак, якія выходзяць з іх.&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣&lt;/span&gt;&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты згодны з гэтым сцверджаннем❓&lt;br&gt;&lt;b&gt;Чытач&lt;/b&gt;, ты бачыш недахопы ці памылкі ў гэтым сцверджанні❓&lt;br&gt;&lt;br&gt;&lt;br&gt;Каментарыі да сцверджання 91:&lt;br&gt;&amp;nbsp; &amp;nbsp; • Можа ўзнікнуць пытанне: «А навошта нам думаць пра такія з&#39;явы і пра тое, як намаляваць карту для іх „наваколля”?»&lt;br&gt;&amp;nbsp; &amp;nbsp; Мой адказ:&lt;br&gt;&amp;nbsp; &amp;nbsp; 1. Каб яўна разглядзець абсалютна ўсе тэарэтычныя магчымасці, якія мы з табой здольныя ўявіць сабе на цяперашні момант.&lt;br&gt;&amp;nbsp; &amp;nbsp; 2. Каб быць упэўненымі, што прапанаваны метад малявання карты «не ламаецца» ў нейкіх «экзатычных» выпадках.&lt;br&gt;&amp;nbsp; &amp;nbsp; 3. Каб абапірацца на тое, што мы ўжо разгледзелі, у нашых наступных разважаннях. (Рабіць «паралельныя пераносы» і рабіць «адмаўленне» або «дапаўненне да цэлага».)&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Я не памятаю такога, каб я сам чытаў працы Канта, але дакладна чуў, што ў Канта была канцэпцыя «рэчы ў сабе». Магчыма, у гэтым сцверджанні апісваецца асобны выпадак такой вось «рэчы ў сабе». 🤷 Глядзі карцінку 14.&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; • Дадам на ўсялякі выпадак, што ў сцверджанні я апісваю з&#39;явы, якія не з&#39;яўляюцца сваёй уласнай прычынай. Калі я пішу «не з&#39;яўляюцца прычыннымі фактарамі ніякіх з&#39;яў», то маю на ўвазе «абсалютна ніякіх», а не нешта іншае.&lt;/div&gt;" vertex="1">
           <mxGeometry height="640" width="827" y="16360" as="geometry" />
         </mxCell>
@@ -1526,7 +1529,7 @@
   <diagram id="Zpq-fwhYM1nnls2JjvfI" name="4. Стан адносін паміж двума людзьмі">
     <mxGraphModel dx="1348" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-06-04" id="0">
+        <object label="" modifiedDate="2026-06-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2360,7 +2363,7 @@
   <diagram id="McnreRaJFROVYg1kB9sD" name="5. Базавыя гіпотэзы">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-06-04" id="0">
+        <object label="" modifiedDate="2026-06-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2400,7 +2403,7 @@
   <diagram id="DG71BkWCYnC6XOSHjkSx" name="6. ДЦР-грамадства">
     <mxGraphModel dx="3841" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-06-04" id="0">
+        <object label="" modifiedDate="2026-06-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -2991,7 +2994,7 @@
   <diagram id="EXUwVnaSM-5I0TpRsDVf" name="7. Гіпотэзы беларусаў">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-06-04" id="0">
+        <object label="" modifiedDate="2026-06-05" id="0">
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
@@ -3154,7 +3157,7 @@
   <diagram name="8. ДЦР-грамадзянін" id="jb7ZAXrOw7EJT6aN6Qqk">
     <mxGraphModel dx="8803" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
-        <object label="" modifiedDate="2026-06-04" id="0">
+        <object label="" modifiedDate="2026-06-05" id="0">
           <mxCell />
         </object>
         <object label="Гіпотэза №02" id="YF0XWQoRzKOnpNSZt35C-1">
