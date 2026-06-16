@@ -2333,6 +2333,10 @@
   "@aboutMyGratitude_2026_06_12_02": {
     "description": "Text for 2026-06-12 Flutter team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2026_06_16_01": "\n2026-06-16 каманда Flutter — 🛠️ стварыла новую версію пакета path_provider 2.1.6 (2026-06-15) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2026_06_16_01": {
+    "description": "Text for 2026-06-16 core Flutter team on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2026_06_title": "\n\n2026-06\n",
   "@aboutMyGratitude_2026_06_title": {
     "description": "Title for 2026-06 list/text on the \"my gratitude\" tab on the \"About\" page."
