@@ -2489,6 +2489,10 @@
   "@aboutMyGratitude_2026_10_07_01": {
     "description": "Text for 2026-10-07 Microsoft VS Code team on the \"my gratitude\" tab on the \"About\" page."
   },
+  "aboutMyGratitude_2026_10_10_01": "\n2026-10-10 супольнасць Flutter — 🛠️ стварыла новую версію пакета package_info_plus 10.2.2 (2026-10-01) для Flutter, які я выкарыстаў для распрацоўкі гэтай праграмы.\n",
+  "@aboutMyGratitude_2026_10_10_01": {
+    "description": "Text for 2026-10-10 Flutter community on the \"my gratitude\" tab on the \"About\" page."
+  },
   "aboutMyGratitude_2026_10_title": "\n\n2026-10\n",
   "@aboutMyGratitude_2026_10_title": {
     "description": "Title for 2026-10 list/text on the \"my gratitude\" tab on the \"About\" page."
